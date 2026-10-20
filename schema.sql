@@ -7,29 +7,6 @@ CREATE TABLE players (
 	PRIMARY KEY (id)
 );
 
-CREATE TABLE cities (
-	id INTEGER NOT NULL, 
-	name VARCHAR NOT NULL, 
-	country VARCHAR NOT NULL, 
-	latitude FLOAT NOT NULL, 
-	longitude FLOAT NOT NULL, 
-	PRIMARY KEY (id), 
-	CONSTRAINT uq_ville_nom_pays UNIQUE (name, country)
-);
-
-CREATE TABLE championship_series (
-	id INTEGER NOT NULL, 
-	slug VARCHAR NOT NULL, 
-	name VARCHAR NOT NULL, 
-	rules VARCHAR NOT NULL, 
-	country VARCHAR NOT NULL, 
-	description VARCHAR, 
-	PRIMARY KEY (id), 
-	UNIQUE (slug)
-);
-
-CREATE INDEX ix_serie_championnat_pays ON championship_series (country);
-
 CREATE TABLE country_memberships (
 	id INTEGER NOT NULL, 
 	country VARCHAR NOT NULL, 
@@ -78,20 +55,6 @@ CREATE TABLE nationality_changes (
 	PRIMARY KEY (id), 
 	UNIQUE (player_id, change_date), 
 	FOREIGN KEY(player_id) REFERENCES players (id)
-);
-
-CREATE TABLE championships (
-	id INTEGER NOT NULL, 
-	series_id INTEGER NOT NULL, 
-	year INTEGER NOT NULL, 
-	name VARCHAR, 
-	formula VARCHAR NOT NULL, 
-	params VARCHAR NOT NULL, 
-	champion_id VARCHAR, 
-	champion_name VARCHAR, 
-	PRIMARY KEY (id), 
-	FOREIGN KEY(series_id) REFERENCES championship_series (id), 
-	FOREIGN KEY(champion_id) REFERENCES players (id)
 );
 
 CREATE TABLE ranking_history (
@@ -156,18 +119,6 @@ CREATE TABLE anonymous_results (
 	CONSTRAINT uq_anon_tournoi_position UNIQUE (tournament_id, position), 
 	FOREIGN KEY(tournament_id) REFERENCES tournaments (id)
 );
-
-CREATE TABLE championship_tournaments (
-	id INTEGER NOT NULL, 
-	championship_id INTEGER NOT NULL, 
-	tournament_id INTEGER NOT NULL, 
-	PRIMARY KEY (id), 
-	CONSTRAINT uq_champ_tournoi UNIQUE (championship_id, tournament_id), 
-	FOREIGN KEY(championship_id) REFERENCES championships (id), 
-	FOREIGN KEY(tournament_id) REFERENCES tournaments (id)
-);
-
-CREATE INDEX ix_championnat_tournoi_tournoi ON championship_tournaments (tournament_id);
 
 CREATE TABLE tournament_referees (
 	id INTEGER NOT NULL, 
