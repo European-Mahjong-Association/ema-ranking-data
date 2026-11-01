@@ -1,0 +1,258 @@
+{
+  "Name": "TENPAI CHAMPIONSHIP OPEN 2019",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-12-14",
+  "ToDate": "2019-12-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Juraj",
+      "LastName": "Jergus"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 8,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990033",
+      "Result": 210500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990047",
+      "Result": 132900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990024",
+      "Result": 104500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990040",
+      "Result": 101800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990054",
+      "Result": 101800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990053",
+      "Result": 97500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100153",
+      "Result": 93500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "GLENN IVAR",
+        "LastName": "HUSOM",
+        "RepresentingNationality": "no"
+      },
+      "Result": 84100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990079",
+      "Result": 79300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990004",
+      "Result": 76000
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "VALTTERI",
+        "LastName": "ASIKAINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 75100
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "HANNALIINA",
+        "LastName": "PAAVOSEPPÄ",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 54600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990049",
+      "Result": 47500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "GUT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 16700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990041",
+      "Result": 5500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990076",
+      "Result": 4300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "KAIDO KALLIKORM",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -5100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990083",
+      "Result": -27500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990050",
+      "Result": -29100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990104",
+      "Result": -40000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990020",
+      "Result": -41700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990029",
+      "Result": -43600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990099",
+      "Result": -44000
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "JOHN",
+        "LastName": "RØSBERG",
+        "RepresentingNationality": "no"
+      },
+      "Result": -51800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990060",
+      "Result": -54000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990105",
+      "Result": -55200
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MAISA",
+        "LastName": "VIRTANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -56100
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "HENRI",
+        "LastName": "VATAJA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -67300
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "JAAKKO",
+        "LastName": "TAKALA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -68200
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": -70500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990096",
+      "Result": -83600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990048",
+      "Result": -88700
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -100900
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "VILLE",
+        "LastName": "SURMA-AHO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -128200
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "JUSSI",
+        "LastName": "SURMA-AHO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -153600
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "SAMI",
+        "LastName": "KALLIOMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -156500
+    }
+  ]
+}

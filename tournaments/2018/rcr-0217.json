@@ -1,0 +1,142 @@
+{
+  "Name": "2ND TANUKI TOURNAMENT",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-12-16",
+  "ToDate": "2018-12-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Alan",
+      "LastName": "COLI"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000170",
+      "Result": 78800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000160",
+      "Result": 60000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000080",
+      "Result": 58500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000155",
+      "Result": 43500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 39900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000104",
+      "Result": 27200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000018",
+      "Result": 22600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000164",
+      "Result": 20400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000107",
+      "Result": 16900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000021",
+      "Result": 1200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "PARIDE",
+        "LastName": "BENINI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -10700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -14900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000009",
+      "Result": -19700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04040057",
+      "Result": -25600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000023",
+      "Result": -32200
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "RAMANPREET",
+        "LastName": "SINGH",
+        "RepresentingNationality": "it"
+      },
+      "Result": -45100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000109",
+      "Result": -54100
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -55300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000093",
+      "Result": -57100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000131",
+      "Result": -114300
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Name": "1st Hakuryuu no Keisho",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-15",
+  "ToDate": "2024-06-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lukasz",
+      "LastName": "Grzybowski"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 9,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000148",
+      "Result": 167
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04990093",
+      "Result": 102
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "12990014",
+      "Result": 88
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000074",
+      "Result": 79
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "22000027",
+      "Result": 60
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000003",
+      "Result": 57
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000073",
+      "Result": 46
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000005",
+      "Result": 29
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990168",
+      "Result": 25
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000016",
+      "Result": 8
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "17990009",
+      "Result": -2
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000068",
+      "Result": -4
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "22000004",
+      "Result": -15
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000141",
+      "Result": -17
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "22000003",
+      "Result": -20
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05000018",
+      "Result": -21
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000071",
+      "Result": -25
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000131",
+      "Result": -25
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "KUNYAN",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "at"
+      },
+      "Result": -50
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000102",
+      "Result": -64
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "17990003",
+      "Result": -86
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000144",
+      "Result": -93
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100146",
+      "Result": -115
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "Clemens",
+        "LastName": "KATZLINGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -185
+    }
+  ]
+}

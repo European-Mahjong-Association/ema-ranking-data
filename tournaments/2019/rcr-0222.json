@@ -1,0 +1,313 @@
+{
+  "Name": "Vienna Riichi Open 2019",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-03-09",
+  "ToDate": "2019-03-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lukasz",
+      "LastName": "GRZYBOWSKI"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 14,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 161500
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "LIN",
+        "RepresentingNationality": "at"
+      },
+      "Result": 157200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "HUBER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 130500
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 100600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000156",
+      "Result": 98700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "21000014",
+      "Result": 95100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100166",
+      "Result": 93400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000125",
+      "Result": 83800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000129",
+      "Result": 82300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 81800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000192",
+      "Result": 74300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000073",
+      "Result": 63400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000022",
+      "Result": 60700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "17990007",
+      "Result": 60600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": null,
+        "LastName": null
+      },
+      "Result": 0
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04040048",
+      "Result": 46300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 33100
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 25300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990057",
+      "Result": 24100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "25000002",
+      "Result": 19000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "22000004",
+      "Result": 18900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990060",
+      "Result": 18200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000176",
+      "Result": 8200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04160080",
+      "Result": 6600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000053",
+      "Result": 1400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "05100153",
+      "Result": -400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "06990014",
+      "Result": -3300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04300022",
+      "Result": -8300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990047",
+      "Result": -11600
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -20700
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -28800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "25000001",
+      "Result": -33400
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "RUSSELL",
+        "LastName": "CHAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -42600
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "01000127",
+      "Result": -42700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "01000131",
+      "Result": -44300
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -66200
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "22000016",
+      "Result": -70300
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "01000136",
+      "Result": -74100
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "19000080",
+      "Result": -80100
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "01000013",
+      "Result": -80900
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "11990006",
+      "Result": -85400
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "17990004",
+      "Result": -98500
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "01000066",
+      "Result": -103700
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "03000208",
+      "Result": -114800
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "BRESNICK",
+        "RepresentingNationality": "us"
+      },
+      "Result": -154400
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "03000003",
+      "Result": -156500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "01000107",
+      "Result": -168600
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04990093",
+      "Result": -233100
+    }
+  ]
+}

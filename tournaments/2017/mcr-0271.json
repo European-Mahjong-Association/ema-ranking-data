@@ -1,0 +1,634 @@
+{
+  "Name": "San Gimignano 2017 - In Vino Veritas II",
+  "Country": "it",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-09-02",
+  "ToDate": "2017-09-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Raúl",
+      "LastName": "Ríos Navarro"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 72,
+  "NrCountries": 6,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000096",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 858
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000065",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 890
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000104",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 513
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040047",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 800
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000078",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 652
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000070",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 605
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04090026",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 1035
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04990024",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 736
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000021",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 658
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04090025",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 524
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000002",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 509
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000093",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 450
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 162
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "LIONEL",
+        "LastName": "LEGAIE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 122
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000006",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 361
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000089",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 352
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000017",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 313
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "PAOLO",
+        "LastName": "MOZNICH",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 260
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000007",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 260
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010667",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 140
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000052",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 487
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04040083",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 115
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 48
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04090093",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 36
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "07000115",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04090008",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -157
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "07000107",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 294
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04090016",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 237
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "07000109",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 235
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04990062",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 172
+      }
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "VALENTINA",
+        "LastName": "MORIGI",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -10
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -53
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -108
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05100077",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 175
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "07000011",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 165
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04090024",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 33
+      }
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05100018",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 30
+      }
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "07000005",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 24
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "07000013",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -66
+      }
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -123
+      }
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 125
+      }
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04030045",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 7
+      }
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "07000160",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -8
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "07000088",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -68
+      }
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010017",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -83
+      }
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "07000150",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -84
+      }
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "04090060",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -116
+      }
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -93
+      }
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "07000048",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -176
+      }
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -185
+      }
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "04090080",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -336
+      }
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "PARIDE",
+        "LastName": "BENINI",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -439
+      }
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "07000075",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -541
+      }
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "07000034",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -20
+      }
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "07000055",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -153
+      }
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "07000155",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "07000001",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -239
+      }
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "07000080",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -279
+      }
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "04040036",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -332
+      }
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "07000009",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -257
+      }
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "07000095",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -524
+      }
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "04010061",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -374
+      }
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "07000111",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -414
+      }
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "07000131",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -723
+      }
+    },
+    {
+      "Placement": 65,
+      "Player": {
+        "FirstName": "FRANÇOIS",
+        "LastName": "GAO",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -813
+      }
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -292
+      }
+    },
+    {
+      "Placement": 67,
+      "Player": {
+        "FirstName": "ERIKA",
+        "LastName": "SDRAULIG",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -541
+      }
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -948
+      }
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "05100078",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -604
+      }
+    },
+    {
+      "Placement": 70,
+      "Player": {
+        "FirstName": "SILVIA",
+        "LastName": "MASONI",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -840
+      }
+    },
+    {
+      "Placement": 71,
+      "Player": {
+        "FirstName": "BRUNA",
+        "LastName": "GATTA",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -981
+      }
+    },
+    {
+      "Placement": 72,
+      "Player": {
+        "FirstName": "ALBERTO",
+        "LastName": "VENTURI",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -1180
+      }
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "Name": "Riichi Copenhagen Open 2026",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-01-31",
+  "ToDate": "2026-01-31",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Nina",
+      "LastName": "Poplawska-Lima"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 56,
+  "NrCountries": 12,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000252",
+      "Result": 134100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990124",
+      "Result": 123500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05000041",
+      "Result": 117700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000008",
+      "Result": 96200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990176",
+      "Result": 93400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990045",
+      "Result": 77100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000126",
+      "Result": 73600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990110",
+      "Result": 72200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000241",
+      "Result": 66600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990088",
+      "Result": 63200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990237",
+      "Result": 62900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000022",
+      "Result": 56800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990190",
+      "Result": 45200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000071",
+      "Result": 45000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990112",
+      "Result": 22300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990134",
+      "Result": 20800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000156",
+      "Result": 19700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05100171",
+      "Result": 15000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000208",
+      "Result": 14900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000140",
+      "Result": 13500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990220",
+      "Result": 9200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990192",
+      "Result": 8300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000080",
+      "Result": 6800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990166",
+      "Result": 6400
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 2700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "09990162",
+      "Result": -5300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000192",
+      "Result": -6600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "03000149",
+      "Result": -6900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "21000057",
+      "Result": -7400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990155",
+      "Result": -8300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "11990044",
+      "Result": -11500
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "09990044",
+      "Result": -13000
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "27000004",
+      "Result": -13200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990156",
+      "Result": -13600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "09990228",
+      "Result": -15100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "27000002",
+      "Result": -20400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04210032",
+      "Result": -22500
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "03000003",
+      "Result": -25600
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "11000089",
+      "Result": -26300
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "24000005",
+      "Result": -28600
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "CLAIRE",
+        "LastName": "BEAUGRAND",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -29000
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "05000003",
+      "Result": -30800
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "09990173",
+      "Result": -32100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "03000051",
+      "Result": -32300
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010743",
+      "Result": -36600
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "05000002",
+      "Result": -38900
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "12990014",
+      "Result": -41400
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "09990165",
+      "Result": -46100
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "03000277",
+      "Result": -50300
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "09990199",
+      "Result": -81500
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "03000279",
+      "Result": -93700
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "09990172",
+      "Result": -99500
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "09990238",
+      "Result": -108300
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "09990169",
+      "Result": -116900
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -150000
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "09990170",
+      "Result": -177500
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "Name": "Ryanpin Riichi Open 2025",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-10-25",
+  "ToDate": "2025-10-26",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000162",
+      "Result": 203900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000131",
+      "Result": 156500
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JERNEJ",
+        "LastName": "PANGERC",
+        "RepresentingNationality": "si"
+      },
+      "Result": 77900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000018",
+      "Result": 70800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000129",
+      "Result": 52800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000053",
+      "Result": 47800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990003",
+      "Result": 41500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000192",
+      "Result": 32600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100168",
+      "Result": 30100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990009",
+      "Result": 20800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000154",
+      "Result": 18400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000013",
+      "Result": 12000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ZIGA",
+        "LastName": "ZIBELNIK",
+        "RepresentingNationality": "si"
+      },
+      "Result": 4100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000163",
+      "Result": 700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05000056",
+      "Result": -9400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000151",
+      "Result": -15800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "17990007",
+      "Result": -28200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000066",
+      "Result": -48200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000148",
+      "Result": -65600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05000071",
+      "Result": -72200
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "LENARCIC",
+        "RepresentingNationality": "si"
+      },
+      "Result": -103500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000113",
+      "Result": -149600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "17990004",
+      "Result": -154600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "01000146",
+      "Result": -158900
+    }
+  ]
+}

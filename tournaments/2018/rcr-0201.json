@@ -1,0 +1,292 @@
+{
+  "Name": "1ST SPANISH RIICHI OPEN 2018",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-09-15",
+  "ToDate": "2018-09-16",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 16,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990010",
+      "Result": 147300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990011",
+      "Result": 132600
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 113900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000107",
+      "Result": 104100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100153",
+      "Result": 85200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 74600
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "BOGACHEV",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 65600
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "ZAHRADNIK",
+        "RepresentingNationality": "de"
+      },
+      "Result": 65400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010166",
+      "Result": 45200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "ILINA",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 44400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000156",
+      "Result": 41100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990027",
+      "Result": 40700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05900002",
+      "Result": 39000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160035",
+      "Result": 36500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": 35000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990018",
+      "Result": 34700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000104",
+      "Result": 33900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04160088",
+      "Result": 25800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000208",
+      "Result": 22600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990026",
+      "Result": 22400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000176",
+      "Result": 20800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990016",
+      "Result": 12300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990043",
+      "Result": 4900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990110",
+      "Result": -3000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000136",
+      "Result": -7000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990025",
+      "Result": -9800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "17990004",
+      "Result": -9900
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -20600
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010039",
+      "Result": -22600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04090080",
+      "Result": -24000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "10990051",
+      "Result": -27700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "11990004",
+      "Result": -28300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "19000080",
+      "Result": -29400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "17990008",
+      "Result": -29500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "12990014",
+      "Result": -34300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990005",
+      "Result": -36700
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "10990039",
+      "Result": -51700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04040057",
+      "Result": -56100
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04990093",
+      "Result": -58600
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04160015",
+      "Result": -60500
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04090024",
+      "Result": -70500
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04040105",
+      "Result": -70600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "02010038",
+      "Result": -73600
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "ABEL",
+        "LastName": "ROMERO PALOMARES",
+        "RepresentingNationality": "es"
+      },
+      "Result": -73700
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04090025",
+      "Result": -102100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "04990024",
+      "Result": -112100
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "07000170",
+      "Result": -141200
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -179300
+    }
+  ]
+}

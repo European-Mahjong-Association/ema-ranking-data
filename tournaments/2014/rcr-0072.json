@@ -1,0 +1,218 @@
+{
+  "Name": "HANNOVER RIICHI 2014",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-02-15",
+  "ToDate": "2014-02-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Ans",
+      "LastName": "Hoogland"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "SCHULER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 144800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 123000
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "CHRISTIAN",
+        "LastName": "WEGERICH",
+        "RepresentingNationality": "de"
+      },
+      "Result": 121500
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": 99900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010166",
+      "Result": 82100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "BERTOLT",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "de"
+      },
+      "Result": 80200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05900008",
+      "Result": 46700
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 42500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100033",
+      "Result": 36100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 35500
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 30400
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "NILS",
+        "LastName": "JENNICHES",
+        "RepresentingNationality": "de"
+      },
+      "Result": 13800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "SVEN OLE",
+        "LastName": "BUCHHOLZ",
+        "RepresentingNationality": "de"
+      },
+      "Result": 8700
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JENS",
+        "LastName": "SMIKALLA",
+        "RepresentingNationality": "de"
+      },
+      "Result": -5600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "HANSSEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -7400
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ADAM",
+        "LastName": "WAN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -14400
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -33300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "SAKARI",
+        "LastName": "IKONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -55600
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VITALI",
+        "LastName": "EBERING",
+        "RepresentingNationality": "de"
+      },
+      "Result": -57700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100124",
+      "Result": -73100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "JAN",
+        "LastName": "GOELLNITZ",
+        "RepresentingNationality": "de"
+      },
+      "Result": -100800
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "PATRIC",
+        "LastName": "STEINKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -113400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100138",
+      "Result": -168300
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -235600
+    }
+  ]
+}

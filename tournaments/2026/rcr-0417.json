@@ -1,0 +1,142 @@
+{
+  "Name": "RMP Riichi Open 2026",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-30",
+  "ToDate": "2026-05-31",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jacek",
+      "LastName": "Spychala"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000149",
+      "Result": 193600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000125",
+      "Result": 103100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000166",
+      "Result": 94900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000053",
+      "Result": 82100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000151",
+      "Result": 74700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000093",
+      "Result": 48600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000056",
+      "Result": 46300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000167",
+      "Result": 39700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000129",
+      "Result": 25500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000068",
+      "Result": 13800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000140",
+      "Result": 12900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990007",
+      "Result": -1700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990234",
+      "Result": -8200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990110",
+      "Result": -38700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000265",
+      "Result": -45700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000168",
+      "Result": -47000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000066",
+      "Result": -49900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000168",
+      "Result": -51600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000013",
+      "Result": -52400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000169",
+      "Result": -61300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "01000127",
+      "Result": -64000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000258",
+      "Result": -106800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "01000160",
+      "Result": -116000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000141",
+      "Result": -151900
+    }
+  ]
+}

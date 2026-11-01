@@ -1,0 +1,192 @@
+{
+  "Name": "RUSSIAN OPEN RIICHI CHAMPIONSHIP 2012",
+  "Country": "ru",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-08-11",
+  "ToDate": "2012-08-12",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "ZAYTSEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 144700
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "OLEG",
+        "LastName": "ERENTSOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 142000
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "GRISHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 123600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 98300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "DEDIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 97300
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "GORYACHEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 28500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 26000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "EVGENY",
+        "LastName": "BUTENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 16500
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "IRINA",
+        "LastName": "GLUSCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -11300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "RUSLAN",
+        "LastName": "ZAYTSEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -42400
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MIKHAIL",
+        "LastName": "KURYSHEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -43300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "NATALIA",
+        "LastName": "GURKINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -50100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990142",
+      "Result": -63800
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "VEGNER",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -81000
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "KONSTANTIN",
+        "LastName": "ERMAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -105800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "GNEDENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -139000
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "TATYANA",
+        "LastName": "GOPTAREVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -168300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "VOIDED",
+        "LastName": "VOIDED",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -180000
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VOIDED2",
+        "LastName": "VOIDED2",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -180000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "VOIDED3",
+        "LastName": "VOIDED3",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -180000
+    }
+  ]
+}

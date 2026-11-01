@@ -1,0 +1,322 @@
+{
+  "Name": "PRAGUE OPEN 2015",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-06-20",
+  "ToDate": "2015-06-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lena",
+      "LastName": "Weinguny"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 44,
+  "NrCountries": 12,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 270200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 192400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 168500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11990005",
+      "Result": 143500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MATEJ",
+        "LastName": "KVITKOVIC",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 130000
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 122300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990004",
+      "Result": 99200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 74000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "17990007",
+      "Result": 70200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000006",
+      "Result": 69200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ALEKSEI",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 68000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010411",
+      "Result": 66700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000003",
+      "Result": 63600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04040048",
+      "Result": 31300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "OSIPOV",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 25400
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 24600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 22500
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 18300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010412",
+      "Result": 15200
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "RATH",
+        "RepresentingNationality": "de"
+      },
+      "Result": 12400
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "AUVO",
+        "LastName": "KUUSELA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 9700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000053",
+      "Result": 3900
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "POWAŁOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 2600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "03000156",
+      "Result": 2100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "ILINA",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "03000192",
+      "Result": -3400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000208",
+      "Result": -10300
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -15600
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "11990011",
+      "Result": -21800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "01000013",
+      "Result": -22800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "22000003",
+      "Result": -23800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "17990009",
+      "Result": -42800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990024",
+      "Result": -60500
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "ELSHANKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -67300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05100146",
+      "Result": -70300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990010",
+      "Result": -88100
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "17990003",
+      "Result": -112900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "11990016",
+      "Result": -119800
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "22000001",
+      "Result": -134000
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "05100157",
+      "Result": -140400
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "22000016",
+      "Result": -161800
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -182500
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "CARRIE",
+        "LastName": "DIVIŠ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -204900
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "BEDNÁŘ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -221900
+    }
+  ]
+}

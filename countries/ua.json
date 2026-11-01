@@ -1,0 +1,433 @@
+{
+  "CountryCode": "ua",
+  "Country": "Ukraine",
+  "Players": [
+    {
+      "EmaNumber": "19xx20260302xx6",
+      "FirstName": "YEHOR",
+      "LastName": "RADCHENKO"
+    },
+    {
+      "EmaNumber": "21000005",
+      "FirstName": "VITALII",
+      "LastName": "BALANIUK",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000014",
+      "FirstName": "ANNA",
+      "LastName": "ZUBENKO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000015",
+      "FirstName": "MAKSYM",
+      "LastName": "IVANOV",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000016",
+      "FirstName": "ANTON",
+      "LastName": "YARCHUK"
+    },
+    {
+      "EmaNumber": "21000023",
+      "FirstName": "KONSTANTIN",
+      "LastName": "NOSIK"
+    },
+    {
+      "EmaNumber": "21000024",
+      "FirstName": "ALEKSEY",
+      "LastName": "ONUFRIENKO"
+    },
+    {
+      "EmaNumber": "21000037",
+      "FirstName": "DANIL",
+      "LastName": "SHATOKHIN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000038",
+      "FirstName": "NATALIYA",
+      "LastName": "ALIMOVA"
+    },
+    {
+      "EmaNumber": "21000041",
+      "FirstName": "SERGIY",
+      "LastName": "SAMARSKYI"
+    },
+    {
+      "EmaNumber": "21000043",
+      "FirstName": "MYKHAILO",
+      "LastName": "NEDOKUSHEV"
+    },
+    {
+      "EmaNumber": "21000053",
+      "FirstName": "VALERII",
+      "LastName": "BOHDANOV"
+    },
+    {
+      "EmaNumber": "21000054",
+      "FirstName": "EDUARD",
+      "LastName": "ILIN"
+    },
+    {
+      "EmaNumber": "21000055",
+      "FirstName": "SVETA",
+      "LastName": "YAREMENKO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000056",
+      "FirstName": "YEVHEN",
+      "LastName": "MAKARENKO"
+    },
+    {
+      "EmaNumber": "21000057",
+      "FirstName": "ANDRII",
+      "LastName": "FEDIUK"
+    },
+    {
+      "EmaNumber": "21000058",
+      "FirstName": "VLADYSLAVA",
+      "LastName": "OVSIIENKO"
+    },
+    {
+      "EmaNumber": "21000059",
+      "FirstName": "ROMAN",
+      "LastName": "PEKELNYK"
+    },
+    {
+      "EmaNumber": "21000065",
+      "FirstName": "BOGDAN",
+      "LastName": "MATVEYEV"
+    },
+    {
+      "EmaNumber": "21000067",
+      "FirstName": "ANASTASIIA",
+      "LastName": "VEREMENKO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "21000068",
+      "FirstName": "OLEKSII",
+      "LastName": "BEZUHLYI"
+    },
+    {
+      "EmaNumber": "21000072",
+      "FirstName": "EKATERINA",
+      "LastName": "KONDRATENKO"
+    },
+    {
+      "EmaNumber": "21000074",
+      "FirstName": "VIKTORIA",
+      "LastName": "BOIKO"
+    },
+    {
+      "EmaNumber": "21000080",
+      "FirstName": "MARIIA",
+      "LastName": "ZABARA"
+    },
+    {
+      "EmaNumber": "21000081",
+      "FirstName": "ANTON",
+      "LastName": "OVCHARENKO"
+    },
+    {
+      "EmaNumber": "21000082",
+      "FirstName": "DANYLO",
+      "LastName": "TKACH"
+    },
+    {
+      "EmaNumber": "21000083",
+      "FirstName": "IHOR",
+      "LastName": "MUKHA"
+    },
+    {
+      "EmaNumber": "21000084",
+      "FirstName": "ANTON",
+      "LastName": "MARTYNENKO"
+    },
+    {
+      "EmaNumber": "21000085",
+      "FirstName": "HERMAN",
+      "LastName": "FUIOR"
+    },
+    {
+      "EmaNumber": "21000086",
+      "FirstName": "YEVHEN",
+      "LastName": "KOLODKO"
+    },
+    {
+      "EmaNumber": "21000087",
+      "FirstName": "KARYNA",
+      "LastName": "ZORINA"
+    },
+    {
+      "EmaNumber": "21000088",
+      "FirstName": "ARTUR",
+      "LastName": "BERESTENKO"
+    },
+    {
+      "EmaNumber": "21000089",
+      "FirstName": "MYKHAILO",
+      "LastName": "MUKHA"
+    },
+    {
+      "EmaNumber": "21000090",
+      "FirstName": "RINA",
+      "LastName": "HONCHAROVA"
+    },
+    {
+      "EmaNumber": "21000091",
+      "FirstName": "ROMAN",
+      "LastName": "DOROSHENKO"
+    },
+    {
+      "EmaNumber": "21000092",
+      "FirstName": "RUSLAN",
+      "LastName": "KHACHYKIAN"
+    },
+    {
+      "EmaNumber": "21000093",
+      "FirstName": "OLEKSII",
+      "LastName": "POPOV"
+    },
+    {
+      "EmaNumber": "21000094",
+      "FirstName": "IHOR",
+      "LastName": "STRUMETSKYI"
+    },
+    {
+      "EmaNumber": "21000095",
+      "FirstName": "KYRYLO",
+      "LastName": "RYMANOV"
+    },
+    {
+      "EmaNumber": "21000096",
+      "FirstName": "KYRYLO",
+      "LastName": "VEDENSKYI"
+    },
+    {
+      "EmaNumber": "21000097",
+      "FirstName": "HEMA",
+      "LastName": "VLASOVA"
+    },
+    {
+      "EmaNumber": "21000098",
+      "FirstName": "ARTEM",
+      "LastName": "HAPON"
+    },
+    {
+      "EmaNumber": "21000099",
+      "FirstName": "PAVLO",
+      "LastName": "SYROTENKO"
+    },
+    {
+      "EmaNumber": "21000100",
+      "FirstName": "VIRA",
+      "LastName": "KOZLOVSKA"
+    },
+    {
+      "EmaNumber": "21000101",
+      "FirstName": "HALYNA",
+      "LastName": "DEMENTIEVA"
+    },
+    {
+      "EmaNumber": "21000102",
+      "FirstName": "OLEH",
+      "LastName": "SOBKO"
+    },
+    {
+      "EmaNumber": "21000103",
+      "FirstName": "KYRYLO",
+      "LastName": "DUDCHENKO"
+    },
+    {
+      "EmaNumber": "21000104",
+      "FirstName": "KSENIIA",
+      "LastName": "IVANOVA"
+    },
+    {
+      "EmaNumber": "21000105",
+      "FirstName": "YAN",
+      "LastName": "SEIT-ADZHYIEV"
+    },
+    {
+      "EmaNumber": "21000106",
+      "FirstName": "OLEKSANDRA",
+      "LastName": "VOROBIOVA"
+    },
+    {
+      "EmaNumber": "21000107",
+      "FirstName": "FEDIR",
+      "LastName": "DOBROVOLSKYI"
+    },
+    {
+      "EmaNumber": "21000108",
+      "FirstName": "YEVHEN",
+      "LastName": "SERVETNYK"
+    },
+    {
+      "EmaNumber": "21000109",
+      "FirstName": "DANIEL",
+      "LastName": "TSYPORIN"
+    },
+    {
+      "EmaNumber": "21000110",
+      "FirstName": "MARIA",
+      "LastName": "CHERTOK"
+    },
+    {
+      "EmaNumber": "21000111",
+      "FirstName": "Vadym",
+      "LastName": "BOHDANOVYCH"
+    },
+    {
+      "EmaNumber": "21000112",
+      "FirstName": "Mariia",
+      "LastName": "BONDARENKO"
+    },
+    {
+      "EmaNumber": "21000113",
+      "FirstName": "Oleksandr",
+      "LastName": "BURDEINYI"
+    },
+    {
+      "EmaNumber": "21000114",
+      "FirstName": "Dmytro",
+      "LastName": "DOLYNSKYI"
+    },
+    {
+      "EmaNumber": "21000115",
+      "FirstName": "Ivan",
+      "LastName": "GOLOMAKH"
+    },
+    {
+      "EmaNumber": "21000116",
+      "FirstName": "Varvara",
+      "LastName": "KHOKHLOVA"
+    },
+    {
+      "EmaNumber": "21000117",
+      "FirstName": "Viktor",
+      "LastName": "KRYSHTAL"
+    },
+    {
+      "EmaNumber": "21000118",
+      "FirstName": "Maxim",
+      "LastName": "LANDO"
+    },
+    {
+      "EmaNumber": "21000119",
+      "FirstName": "Viktoriia",
+      "LastName": "SHUMAKOVA"
+    },
+    {
+      "EmaNumber": "21000120",
+      "FirstName": "Eugene",
+      "LastName": "TVERDOKHLIB"
+    },
+    {
+      "EmaNumber": "21000121",
+      "FirstName": "MAKSYM",
+      "LastName": "DEMCHENKO"
+    },
+    {
+      "EmaNumber": "21000122",
+      "FirstName": "BOHDAN",
+      "LastName": "LABA"
+    },
+    {
+      "EmaNumber": "21000123",
+      "FirstName": "ANASTASIIA",
+      "LastName": "LIEBIEDIEVA"
+    },
+    {
+      "EmaNumber": "21000124",
+      "FirstName": "DMYTRO",
+      "LastName": "PISKAROV"
+    },
+    {
+      "EmaNumber": "21000125",
+      "FirstName": "VLADYSLAV",
+      "LastName": "SKLIFASOVSKYI"
+    },
+    {
+      "EmaNumber": "21000126",
+      "FirstName": "MAKSYM",
+      "LastName": "VYNOHRADOV"
+    },
+    {
+      "EmaNumber": "21000127",
+      "FirstName": "PAVLO",
+      "LastName": "MININ"
+    },
+    {
+      "EmaNumber": "21000128",
+      "FirstName": "NATALIA",
+      "LastName": "MYRONOVA"
+    },
+    {
+      "EmaNumber": "21000129",
+      "FirstName": "ANDRII",
+      "LastName": "PYVOVAROV"
+    },
+    {
+      "EmaNumber": "21000130",
+      "FirstName": "KYRYLO",
+      "LastName": "RIEZNIKOV"
+    },
+    {
+      "EmaNumber": "21000131",
+      "FirstName": "DIANA",
+      "LastName": "KYRANT"
+    },
+    {
+      "EmaNumber": "21000133",
+      "FirstName": "YEVHENII",
+      "LastName": "TVERDOKHLIB"
+    }
+  ]
+}

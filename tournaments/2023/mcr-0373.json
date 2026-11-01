@@ -1,0 +1,318 @@
+{
+  "Name": "Swedish MCR Championship 2023",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-06-17",
+  "ToDate": "2023-06-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lies",
+      "LastName": "NAERT"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090055",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 514
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 438
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010001",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 628
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 599
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 223
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 266
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 462
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 459
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990114",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 372
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04290030",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 299
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "OSCAR",
+        "LastName": "LJUNGBERG",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 229
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 128
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990011",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 427
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990062",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 119
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04440006",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 196
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "16000001",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 13
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 166
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990128",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 223
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990006",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 11
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -4
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02010036",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -61
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990120",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "12000001",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -140
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -147
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "16000007",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -163
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010052",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -245
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -63
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -139
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -317
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990141",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -318
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990104",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -752
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "02010024",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -357
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010042",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -509
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990099",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -677
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "09990151",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -813
+      }
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "ERNA",
+        "LastName": "TEEUWEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -982
+      }
+    }
+  ]
+}

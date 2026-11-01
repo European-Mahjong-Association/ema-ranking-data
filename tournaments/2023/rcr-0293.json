@@ -1,0 +1,130 @@
+{
+  "Name": "MAHJONG VALENCIA RIICHI 2023",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-04-29",
+  "ToDate": "2023-04-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Christopher",
+      "LastName": "Endicott"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990060",
+      "Result": 157500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "02010085",
+      "Result": 138400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "FABIO",
+        "LastName": "QUEIROS",
+        "RepresentingNationality": "pt"
+      },
+      "Result": 77400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "12000002",
+      "Result": 50300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990057",
+      "Result": 41000
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04160035",
+      "Result": 39000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990082",
+      "Result": 30900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990043",
+      "Result": 14600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990053",
+      "Result": 4400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "12000003",
+      "Result": 1700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990084",
+      "Result": -3600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990027",
+      "Result": -5900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04160110",
+      "Result": -20200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "BELOVS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -36400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990076",
+      "Result": -45600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990085",
+      "Result": -54600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990025",
+      "Result": -79500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010084",
+      "Result": -84200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010168",
+      "Result": -115100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990026",
+      "Result": -170100
+    }
+  ]
+}

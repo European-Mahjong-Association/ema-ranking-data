@@ -1,0 +1,196 @@
+{
+  "Name": "FINNISH RIICHI MAHJONG CHAMPIONSHIP 2019",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-08-03",
+  "ToDate": "2019-08-04",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "HENRI",
+        "LastName": "VATAJA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 164100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990047",
+      "Result": 122400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990057",
+      "Result": 90600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990040",
+      "Result": 90400
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "BYKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 85500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990079",
+      "Result": 81600
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "HANNALIINA",
+        "LastName": "PAAVOSEPPÄ",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 62500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990041",
+      "Result": 34700
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "OSSI",
+        "LastName": "HIRVOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 23500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990076",
+      "Result": 22900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990020",
+      "Result": 6800
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "TUOMO",
+        "LastName": "NYGÅRD",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 2500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100153",
+      "Result": -1200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "SIIRI",
+        "LastName": "IKÄHEIMONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -1900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990050",
+      "Result": -7900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990033",
+      "Result": -15000
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "LUDMILA",
+        "LastName": "KUROPTEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -26800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990060",
+      "Result": -28100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MIKKO",
+        "LastName": "AARNI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -40900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990029",
+      "Result": -45100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MAISA",
+        "LastName": "VIRTANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -47000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990096",
+      "Result": -50200
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "VALTTERI",
+        "LastName": "ASIKAINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -50400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990024",
+      "Result": -79700
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990103",
+      "Result": -89000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990054",
+      "Result": -95100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990043",
+      "Result": -126700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990099",
+      "Result": -142500
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "Name": "RZESZOW RIICHI OPEN 2023",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-07-29",
+  "ToDate": "2023-07-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Artur",
+      "LastName": "LIBICH"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000071",
+      "Result": 110600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "21000072",
+      "Result": 110400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "12990014",
+      "Result": 100700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000039",
+      "Result": 98000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000171",
+      "Result": 65700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000085",
+      "Result": 64700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000042",
+      "Result": 63200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000005",
+      "Result": 41700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000035",
+      "Result": 40100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000041",
+      "Result": 32200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000031",
+      "Result": 24600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000003",
+      "Result": 3700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000101",
+      "Result": -2800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "21000015",
+      "Result": -5400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000006",
+      "Result": -9900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000175",
+      "Result": -16600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000124",
+      "Result": -25700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000093",
+      "Result": -35700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000167",
+      "Result": -36500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000032",
+      "Result": -41700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000073",
+      "Result": -43800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "21000016",
+      "Result": -51700
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "PAWEŁ",
+        "LastName": "KUŹNIAR",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -54600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000001",
+      "Result": -64000
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "KUŹMA",
+        "LastName": "PAPAKUŁ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -80200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000120",
+      "Result": -100100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000102",
+      "Result": -101000
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "MICHAŁ",
+        "LastName": "SZAŁAŃSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -125900
+    }
+  ]
+}

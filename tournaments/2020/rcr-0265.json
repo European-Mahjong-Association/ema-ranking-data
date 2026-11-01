@@ -1,0 +1,310 @@
+{
+  "Name": "YUKI NO TAIKAI 2020",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-01-18",
+  "ToDate": "2020-01-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sabine",
+      "LastName": "Manten"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 52,
+  "NrCountries": 3,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010725",
+      "Result": 81400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010173",
+      "Result": 80800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010162",
+      "Result": 78800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010271",
+      "Result": 78200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010003",
+      "Result": 72300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010585",
+      "Result": 50700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010021",
+      "Result": 48500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010022",
+      "Result": 47900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010052",
+      "Result": 43000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010168",
+      "Result": 42200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010415",
+      "Result": 42200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010025",
+      "Result": 36700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010412",
+      "Result": 34900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "YUHAO",
+        "LastName": "ZHOU",
+        "RepresentingNationality": "be"
+      },
+      "Result": 34200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010557",
+      "Result": 31300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010020",
+      "Result": 28300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02010061",
+      "Result": 27600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010057",
+      "Result": 20900
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "NICO",
+        "LastName": "COEVOETS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 18700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010054",
+      "Result": 14900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010026",
+      "Result": 12900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010166",
+      "Result": 11700
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ANGELIQUE",
+        "LastName": "DELFSMA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 8900
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "NAM",
+        "LastName": "TO THANH",
+        "RepresentingNationality": "be"
+      },
+      "Result": 7300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02010056",
+      "Result": 6400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010187",
+      "Result": 5100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010487",
+      "Result": 3600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010039",
+      "Result": 400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010518",
+      "Result": -4700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010730",
+      "Result": -5500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010058",
+      "Result": -5600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010430",
+      "Result": -8600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010028",
+      "Result": -13000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010505",
+      "Result": -13700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010584",
+      "Result": -15100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02010043",
+      "Result": -16900
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010580",
+      "Result": -24700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010663",
+      "Result": -29000
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "02010033",
+      "Result": -29900
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010083",
+      "Result": -34100
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "08010025",
+      "Result": -37400
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -40200
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "ALFREDO",
+        "LastName": "PANIURA FLORES",
+        "RepresentingNationality": "be"
+      },
+      "Result": -42300
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010376",
+      "Result": -44500
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010727",
+      "Result": -46100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010038",
+      "Result": -47900
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "08010526",
+      "Result": -48400
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "MAXIME",
+        "LastName": "CHICOIS",
+        "RepresentingNationality": "be"
+      },
+      "Result": -68500
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "08010731",
+      "Result": -69400
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "05100100",
+      "Result": -100900
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "08010411",
+      "Result": -102500
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "08010656",
+      "Result": -140900
+    }
+  ]
+}

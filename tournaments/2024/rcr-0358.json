@@ -1,0 +1,126 @@
+{
+  "Name": "Graz Riichi Open 2024",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-11-16",
+  "ToDate": "2024-11-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Robert",
+      "LastName": "MUNDEL"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000148",
+      "Result": 137100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000127",
+      "Result": 134300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000149",
+      "Result": 117000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000151",
+      "Result": 109800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000125",
+      "Result": 96200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05000018",
+      "Result": 52400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100168",
+      "Result": 34700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000066",
+      "Result": 27400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000144",
+      "Result": -6600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000131",
+      "Result": -7100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000154",
+      "Result": -11700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000053",
+      "Result": -22700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04990093",
+      "Result": -24300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000153",
+      "Result": -27600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000160",
+      "Result": -40000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000147",
+      "Result": -57200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100182",
+      "Result": -76000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000013",
+      "Result": -123900
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ZIGA",
+        "LastName": "ZIBELNIK",
+        "RepresentingNationality": "si"
+      },
+      "Result": -162700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05000056",
+      "Result": -169100
+    }
+  ]
+}

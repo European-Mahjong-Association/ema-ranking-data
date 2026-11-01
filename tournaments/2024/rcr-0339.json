@@ -1,0 +1,202 @@
+{
+  "Name": "Great Wave 2024",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-29",
+  "ToDate": "2024-06-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Mateusz",
+      "LastName": "Wozniak"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990136",
+      "Result": 193600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990142",
+      "Result": 191900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990024",
+      "Result": 139600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990043",
+      "Result": 126500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990143",
+      "Result": 125300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990148",
+      "Result": 88000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990135",
+      "Result": 73100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990153",
+      "Result": 49300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990120",
+      "Result": 46000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990050",
+      "Result": 42100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990155",
+      "Result": 27200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990115",
+      "Result": 14800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990047",
+      "Result": 14300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990053",
+      "Result": 10700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990044",
+      "Result": 7900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990133",
+      "Result": 5700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990183",
+      "Result": 2600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990111",
+      "Result": -2600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990094",
+      "Result": -5800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000003",
+      "Result": -9000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990113",
+      "Result": -16000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990151",
+      "Result": -18200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990104",
+      "Result": -31000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990141",
+      "Result": -35900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990140",
+      "Result": -50500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990112",
+      "Result": -64900
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990152",
+      "Result": -66300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990020",
+      "Result": -66900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990163",
+      "Result": -67600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990079",
+      "Result": -75400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990131",
+      "Result": -79700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000102",
+      "Result": -96600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990154",
+      "Result": -99000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "14990150",
+      "Result": -102700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "14990149",
+      "Result": -115500
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "09990164",
+      "Result": -155000
+    }
+  ]
+}

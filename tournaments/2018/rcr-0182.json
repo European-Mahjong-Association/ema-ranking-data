@@ -1,0 +1,146 @@
+{
+  "Name": "Riichi Copenhagen Open 2018",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-03-10",
+  "ToDate": "2018-03-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jasper",
+      "LastName": "GERMEYS"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990047",
+      "Result": 110400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MIKKEL",
+        "LastName": "ASKJæR-FRIIS",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 95500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000051",
+      "Result": 56400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990049",
+      "Result": 56000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000014",
+      "Result": 49800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000148",
+      "Result": 20200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 18200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000126",
+      "Result": 9700
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 3700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000149",
+      "Result": -19300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -19600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000176",
+      "Result": -31500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000118",
+      "Result": -31700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000192",
+      "Result": -32100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000049",
+      "Result": -33500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -41200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -42900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000140",
+      "Result": -50700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000003",
+      "Result": -51900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000228",
+      "Result": -65500
+    }
+  ]
+}

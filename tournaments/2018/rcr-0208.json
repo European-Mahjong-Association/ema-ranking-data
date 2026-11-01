@@ -1,0 +1,182 @@
+{
+  "Name": "DOPPELTURNIER 2018 - RIICHI OPEN",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-10-27",
+  "ToDate": "2018-10-27",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jos",
+      "LastName": "Dermout"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 6,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010026",
+      "Result": 107100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010580",
+      "Result": 105800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100153",
+      "Result": 80000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05900008",
+      "Result": 60600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010436",
+      "Result": 59200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "16000007",
+      "Result": 58900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100124",
+      "Result": 53700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010526",
+      "Result": 33900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010003",
+      "Result": 33400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100078",
+      "Result": 33200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010039",
+      "Result": 33000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010411",
+      "Result": 17400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100058",
+      "Result": 11500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "BERRY",
+        "LastName": "HEIJN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 6600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010412",
+      "Result": -2200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100016",
+      "Result": -19500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010727",
+      "Result": -21900
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -35800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02010038",
+      "Result": -37500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100077",
+      "Result": -38200
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "SVEN-HENDRIK",
+        "LastName": "GUTSCHE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -44100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -55700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100024",
+      "Result": -57600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100033",
+      "Result": -61400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010731",
+      "Result": -63500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "05100017",
+      "Result": -75100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010025",
+      "Result": -101800
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": -140000
+    }
+  ]
+}

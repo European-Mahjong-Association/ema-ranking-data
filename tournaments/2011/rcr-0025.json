@@ -1,0 +1,127 @@
+{
+  "Name": "GRAZ OPEN RIICHI 2011",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-05-21",
+  "ToDate": "2011-05-21",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000066",
+      "Result": 97800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 65700
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "RAFAEL",
+        "LastName": "HOBBIGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 33600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990007",
+      "Result": 33300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 24800
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": null,
+        "LastName": null
+      },
+      "Result": 0
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARKOLIN",
+        "RepresentingNationality": "at"
+      },
+      "Result": 4200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "JASMIN",
+        "LastName": "RESCH",
+        "RepresentingNationality": "at"
+      },
+      "Result": -7900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "17990008",
+      "Result": -9600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990009",
+      "Result": -9800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000103",
+      "Result": -15900
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ERNEST",
+        "LastName": "GLASER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -16400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "17990003",
+      "Result": -30900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -42600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -45300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010083",
+      "Result": -89900
+    }
+  ]
+}

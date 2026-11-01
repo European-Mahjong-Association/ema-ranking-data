@@ -1,0 +1,112 @@
+{
+  "Name": "DOUBLE RACE RIICHI 2022",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-07-17",
+  "ToDate": "2022-07-17",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 67300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000177",
+      "Result": 15500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000131",
+      "Result": 12700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000176",
+      "Result": 12200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000164",
+      "Result": 8200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 3100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000018",
+      "Result": 6200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000180",
+      "Result": 2000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000109",
+      "Result": -7500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000093",
+      "Result": -6700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000009",
+      "Result": 2200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "STEFANO",
+        "LastName": "PREDIERI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -19800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000155",
+      "Result": -6300
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "GIANLUCA",
+        "LastName": "DEBIDDA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -32300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000107",
+      "Result": -25600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000080",
+      "Result": -31200
+    }
+  ]
+}

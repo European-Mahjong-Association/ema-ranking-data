@@ -1,0 +1,122 @@
+{
+  "Name": "MJS Riichi Challenge 2024",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-30",
+  "ToDate": "2024-06-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Mariannick",
+      "LastName": "BARRATAULT"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04030091",
+      "Result": 126500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04060061",
+      "Result": 75800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04010076",
+      "Result": 72900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030051",
+      "Result": 71500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030087",
+      "Result": 48400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030083",
+      "Result": 44300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04080018",
+      "Result": 38300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04030003",
+      "Result": 37000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04060014",
+      "Result": 36200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04060071",
+      "Result": -5400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030023",
+      "Result": -5800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04030109",
+      "Result": -11300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04030045",
+      "Result": -15200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04030124",
+      "Result": -48400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030100",
+      "Result": -53200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04180005",
+      "Result": -69500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04080019",
+      "Result": -78700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04030141",
+      "Result": -87000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04030028",
+      "Result": -98100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04030128",
+      "Result": -98300
+    }
+  ]
+}

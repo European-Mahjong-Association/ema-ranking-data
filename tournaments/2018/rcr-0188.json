@@ -1,0 +1,174 @@
+{
+  "Name": "GRAZ OPEN RIICHI TOURNAMENT 2018",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-04-27",
+  "ToDate": "2018-04-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Henrik",
+      "LastName": "Leth"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 8,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000053",
+      "Result": 147700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000125",
+      "Result": 116100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000022",
+      "Result": 90100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000127",
+      "Result": 86300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "11990060",
+      "Result": 86100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000136",
+      "Result": 59900
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "DEBRUN",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 43200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 36400
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 20000
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "HADOLT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 3900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000066",
+      "Result": -800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100153",
+      "Result": -3100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000131",
+      "Result": -10500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000091",
+      "Result": -13300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -38800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000013",
+      "Result": -57200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04040057",
+      "Result": -60400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990006",
+      "Result": -69600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000113",
+      "Result": -81000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -106300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "17990003",
+      "Result": -109500
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "STEININGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -120200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000087",
+      "Result": -128700
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

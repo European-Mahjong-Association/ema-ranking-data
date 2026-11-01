@@ -1,0 +1,594 @@
+{
+  "Name": "TRI NITRO TOURNAMENT 2024 - 10 years WRC",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-10-10",
+  "ToDate": "2024-10-13",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lukasz",
+      "LastName": "Grzybowski"
+    }
+  ],
+  "NrDays": 4,
+  "NrPlayers": 104,
+  "NrCountries": 18,
+  "MersWeight": 5.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "Hiroshi",
+        "LastName": "YAMAI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 52900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04300046",
+      "Result": 38300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990024",
+      "Result": -26300
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "Michael",
+        "LastName": "HERNANDEZ",
+        "RepresentingNationality": "ca"
+      },
+      "Result": -64900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04040121",
+      "Result": 13900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000073",
+      "Result": -3700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04320014",
+      "Result": -28200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010427",
+      "Result": -55400
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "Keijun",
+        "LastName": "NARA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 237400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "11000034",
+      "Result": 224900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010088",
+      "Result": 128900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000071",
+      "Result": 123000
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04520003",
+      "Result": 87200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "12000009",
+      "Result": 75400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990104",
+      "Result": 75400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010766",
+      "Result": 100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000077",
+      "Result": 185900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010085",
+      "Result": 144900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04230050",
+      "Result": 109300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04690009",
+      "Result": 100000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "21000065",
+      "Result": 87900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04160080",
+      "Result": 83000
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "Neil",
+        "LastName": "CHEN",
+        "RepresentingNationality": "us"
+      },
+      "Result": 81200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100196",
+      "Result": 76700
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "24888001",
+      "Result": 74700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010058",
+      "Result": 72600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000012",
+      "Result": 64300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05000018",
+      "Result": 59900
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "AngZheng",
+        "LastName": "YAO",
+        "RepresentingNationality": "sg"
+      },
+      "Result": 58600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160082",
+      "Result": 58200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "12000004",
+      "Result": 55200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "01000148",
+      "Result": 42200
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "Edwin",
+        "LastName": "DIZON",
+        "RepresentingNationality": "us"
+      },
+      "Result": 41200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "19000102",
+      "Result": 39600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04160110",
+      "Result": 33400
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04160151",
+      "Result": 32400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04160114",
+      "Result": 30500
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "Dennis",
+        "LastName": "KWOK",
+        "RepresentingNationality": "ca"
+      },
+      "Result": 29200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04990103",
+      "Result": 24500
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "Michael",
+        "LastName": "MCLEOD",
+        "RepresentingNationality": "ca"
+      },
+      "Result": 21000
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04160103",
+      "Result": 20500
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "02000021",
+      "Result": 20500
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "19000168",
+      "Result": 16800
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "19000003",
+      "Result": 12800
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04320013",
+      "Result": 7300
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "19000140",
+      "Result": 5800
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "09990155",
+      "Result": 5400
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "Yuri",
+        "LastName": "MIKOSHIBA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 4800
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04090078",
+      "Result": -2900
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "04310012",
+      "Result": -4400
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "19000144",
+      "Result": -4700
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "05100166",
+      "Result": -14100
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "08010750",
+      "Result": -17100
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "04210032",
+      "Result": -17600
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "04320026",
+      "Result": -17600
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "09990110",
+      "Result": -17800
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "04090098",
+      "Result": -18500
+    },
+    {
+      "Placement": 58,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "BRESNICK",
+        "RepresentingNationality": "us"
+      },
+      "Result": -19800
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "21000016",
+      "Result": -24600
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "08010737",
+      "Result": -27800
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "09990133",
+      "Result": -28000
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "04230040",
+      "Result": -29000
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "16000032",
+      "Result": -29200
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "08010728",
+      "Result": -31600
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "26000015",
+      "Result": -33600
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "04160112",
+      "Result": -40000
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "19000087",
+      "Result": -40300
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "04040105",
+      "Result": -41600
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "04160115",
+      "Result": -47800
+    },
+    {
+      "Placement": 70,
+      "Player": {
+        "FirstName": "Claire",
+        "LastName": "POZNIAK",
+        "RepresentingNationality": "us"
+      },
+      "Result": -49600
+    },
+    {
+      "Placement": 71,
+      "EmaNumber": "04160134",
+      "Result": -49700
+    },
+    {
+      "Placement": 72,
+      "EmaNumber": "16000051",
+      "Result": -51500
+    },
+    {
+      "Placement": 73,
+      "EmaNumber": "21000067",
+      "Result": -54000
+    },
+    {
+      "Placement": 74,
+      "EmaNumber": "04530002",
+      "Result": -54400
+    },
+    {
+      "Placement": 75,
+      "EmaNumber": "04160094",
+      "Result": -57200
+    },
+    {
+      "Placement": 76,
+      "EmaNumber": "04160108",
+      "Result": -57800
+    },
+    {
+      "Placement": 77,
+      "EmaNumber": "16000054",
+      "Result": -64000
+    },
+    {
+      "Placement": 78,
+      "EmaNumber": "12990014",
+      "Result": -66400
+    },
+    {
+      "Placement": 79,
+      "EmaNumber": "04520001",
+      "Result": -76300
+    },
+    {
+      "Placement": 80,
+      "EmaNumber": "02000010",
+      "Result": -79100
+    },
+    {
+      "Placement": 81,
+      "EmaNumber": "04210023",
+      "Result": -80500
+    },
+    {
+      "Placement": 82,
+      "Player": {
+        "FirstName": "YURIKA",
+        "LastName": "AOI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": -80900
+    },
+    {
+      "Placement": 83,
+      "EmaNumber": "04320030",
+      "Result": -82200
+    },
+    {
+      "Placement": 84,
+      "EmaNumber": "24000004",
+      "Result": -83900
+    },
+    {
+      "Placement": 85,
+      "EmaNumber": "04040290",
+      "Result": -92100
+    },
+    {
+      "Placement": 86,
+      "EmaNumber": "11990006",
+      "Result": -92600
+    },
+    {
+      "Placement": 87,
+      "EmaNumber": "11000010",
+      "Result": -95600
+    },
+    {
+      "Placement": 88,
+      "EmaNumber": "04160130",
+      "Result": -96700
+    },
+    {
+      "Placement": 89,
+      "EmaNumber": "04990112",
+      "Result": -100000
+    },
+    {
+      "Placement": 90,
+      "EmaNumber": "21000068",
+      "Result": -103300
+    },
+    {
+      "Placement": 91,
+      "EmaNumber": "16000040",
+      "Result": -112600
+    },
+    {
+      "Placement": 92,
+      "EmaNumber": "11990057",
+      "Result": -116500
+    },
+    {
+      "Placement": 93,
+      "Player": {
+        "FirstName": "Jai",
+        "LastName": "SRIVASTAV",
+        "RepresentingNationality": "us"
+      },
+      "Result": -118500
+    },
+    {
+      "Placement": 94,
+      "EmaNumber": "19000175",
+      "Result": -118700
+    },
+    {
+      "Placement": 95,
+      "EmaNumber": "04520004",
+      "Result": -128700
+    },
+    {
+      "Placement": 96,
+      "EmaNumber": "02000005",
+      "Result": -130400
+    },
+    {
+      "Placement": 97,
+      "EmaNumber": "08010762",
+      "Result": -137400
+    },
+    {
+      "Placement": 98,
+      "EmaNumber": "04300022",
+      "Result": -142100
+    },
+    {
+      "Placement": 99,
+      "EmaNumber": "09990045",
+      "Result": -147700
+    },
+    {
+      "Placement": 100,
+      "EmaNumber": "04160084",
+      "Result": -161700
+    },
+    {
+      "Placement": 101,
+      "EmaNumber": "04690008",
+      "Result": -173700
+    },
+    {
+      "Placement": 102,
+      "EmaNumber": "02010084",
+      "Result": -202100
+    },
+    {
+      "Placement": 103,
+      "EmaNumber": "04580007",
+      "Result": -204800
+    },
+    {
+      "Placement": 104,
+      "EmaNumber": "02000020",
+      "Result": -222700
+    }
+  ]
+}

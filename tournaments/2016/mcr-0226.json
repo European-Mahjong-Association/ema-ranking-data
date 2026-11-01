@@ -1,0 +1,262 @@
+{
+  "Name": "10TH ANNIVERSARY LOS 13 HUERFANOS",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-03-12",
+  "ToDate": "2016-03-13",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Rui",
+      "LastName": "Machado"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 651
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 752
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 912
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 428
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 470
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "12990002",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 375
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 135
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 104
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 96
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 355
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 266
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 66
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 57
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -182
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010158",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -61
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ALEJANDRO",
+        "LastName": "SERRANO VÁZQUEZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -113
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990051",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -165
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JOSÉ MANUEL",
+        "LastName": "MORENO PESQUERA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -271
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MARCO ANTONIO",
+        "LastName": "OLMOS DOMINGO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -84
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -184
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -136
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990023",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -682
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990056",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -293
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990053",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -357
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -487
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990047",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -295
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990012",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -477
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -880
+      }
+    }
+  ]
+}

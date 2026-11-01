@@ -1,0 +1,122 @@
+{
+  "Name": "SWEDISH OPEN RIICHI MAHJONG CHAMPIONSHIP 2018",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-03-03",
+  "ToDate": "2018-03-04",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jesper",
+      "LastName": "NØHR"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 113200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990047",
+      "Result": 99500
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": 82000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990044",
+      "Result": 62700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990049",
+      "Result": 55000
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "OTTO",
+        "LastName": "WEFER",
+        "RepresentingNationality": "se"
+      },
+      "Result": 11600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990110",
+      "Result": -3000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990045",
+      "Result": -6200
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -9400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000176",
+      "Result": -12200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990099",
+      "Result": -46400
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -47600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "21000014",
+      "Result": -47700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990107",
+      "Result": -56900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990112",
+      "Result": -119700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990064",
+      "Result": -154900
+    }
+  ]
+}

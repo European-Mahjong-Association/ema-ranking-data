@@ -1,0 +1,326 @@
+{
+  "Name": "Manganneken Pis 2025",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-11-15",
+  "ToDate": "2025-11-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Anthony",
+      "LastName": "EA"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 60,
+  "NrCountries": 11,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11000089",
+      "Result": 167900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04210032",
+      "Result": 136700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04040105",
+      "Result": 130100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04630001",
+      "Result": 128600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "02010089",
+      "Result": 120500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04690008",
+      "Result": 107800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010054",
+      "Result": 101400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010086",
+      "Result": 96600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11990141",
+      "Result": 86200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "16000040",
+      "Result": 83100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "11990134",
+      "Result": 70200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02000027",
+      "Result": 69700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "02000020",
+      "Result": 63000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000148",
+      "Result": 62600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "02010085",
+      "Result": 60800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04690010",
+      "Result": 56700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010752",
+      "Result": 48400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010073",
+      "Result": 46700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04090098",
+      "Result": 35900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010069",
+      "Result": 34700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "01000154",
+      "Result": 34500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010058",
+      "Result": 25200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02000001",
+      "Result": 23700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05000060",
+      "Result": 20000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02000010",
+      "Result": 17600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08011151",
+      "Result": 14500
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "24000005",
+      "Result": 12800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "16000065",
+      "Result": 11700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010080",
+      "Result": 6400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02000021",
+      "Result": 4300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "10990103",
+      "Result": 1400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "05000050",
+      "Result": -10800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010033",
+      "Result": -20000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990190",
+      "Result": -21300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02000007",
+      "Result": -21600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02000043",
+      "Result": -24400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "02010052",
+      "Result": -24900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "05000071",
+      "Result": -40000
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -42300
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04990103",
+      "Result": -43400
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02000013",
+      "Result": -53000
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "02010082",
+      "Result": -55600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "11000065",
+      "Result": -57500
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02000016",
+      "Result": -60300
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04160081",
+      "Result": -67800
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02000009",
+      "Result": -73900
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "04990118",
+      "Result": -77400
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "02000038",
+      "Result": -79500
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "05000018",
+      "Result": -80600
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "02000033",
+      "Result": -86700
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "05000041",
+      "Result": -91800
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "02010038",
+      "Result": -92400
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "02000044",
+      "Result": -93900
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "02000005",
+      "Result": -104900
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "04040048",
+      "Result": -105500
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "02000031",
+      "Result": -107800
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "10990104",
+      "Result": -112000
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "02000034",
+      "Result": -114900
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "02010036",
+      "Result": -115400
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "02010039",
+      "Result": -128100
+    }
+  ]
+}

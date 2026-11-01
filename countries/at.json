@@ -1,0 +1,350 @@
+{
+  "CountryCode": "at",
+  "Country": "Austria",
+  "Players": [
+    {
+      "EmaNumber": "01000001",
+      "FirstName": "MARTIN",
+      "LastName": "SCHEICHENBAUER"
+    },
+    {
+      "EmaNumber": "01000009",
+      "FirstName": "NORBERT",
+      "LastName": "TSCHINKEL",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2009-01-01",
+          "note": "Baden"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000013",
+      "FirstName": "ALEXANDER",
+      "LastName": "DOPPELHOFER"
+    },
+    {
+      "EmaNumber": "01000016",
+      "FirstName": "OTTO",
+      "LastName": "MYSLIVEC"
+    },
+    {
+      "EmaNumber": "01000025",
+      "FirstName": "GERTI",
+      "LastName": "JARITZ"
+    },
+    {
+      "EmaNumber": "01000027",
+      "FirstName": "GABRIELE",
+      "LastName": "SALLMUTTER"
+    },
+    {
+      "EmaNumber": "01000028",
+      "FirstName": "MARTIN",
+      "LastName": "MAUTHNER"
+    },
+    {
+      "EmaNumber": "01000030",
+      "FirstName": "EBERHARD",
+      "LastName": "RIHA"
+    },
+    {
+      "EmaNumber": "01000038",
+      "FirstName": "ELISABETH",
+      "LastName": "FRISCHENSCHLAGER"
+    },
+    {
+      "EmaNumber": "01000039",
+      "FirstName": "GÜNTER",
+      "LastName": "POPRAT"
+    },
+    {
+      "EmaNumber": "01000045",
+      "FirstName": "GÜNTER",
+      "LastName": "GINTSBERGER"
+    },
+    {
+      "EmaNumber": "01000046",
+      "FirstName": "ELVIRA",
+      "LastName": "GINTSBERGER"
+    },
+    {
+      "EmaNumber": "01000053",
+      "FirstName": "LENA",
+      "LastName": "WEINGUNY",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000066",
+      "FirstName": "BIRGITT",
+      "LastName": "RUPP"
+    },
+    {
+      "EmaNumber": "01000069",
+      "FirstName": "HELMUT",
+      "LastName": "RIEGLER"
+    },
+    {
+      "EmaNumber": "01000070",
+      "FirstName": "FRANZ",
+      "LastName": "MARESCH"
+    },
+    {
+      "EmaNumber": "01000071",
+      "FirstName": "EDELTRAUD",
+      "LastName": "MARESCH"
+    },
+    {
+      "EmaNumber": "01000075",
+      "FirstName": "GÜNTER",
+      "LastName": "WITSCHNIG"
+    },
+    {
+      "EmaNumber": "01000076",
+      "FirstName": "FRIEDERIKE",
+      "LastName": "GERHOLD"
+    },
+    {
+      "EmaNumber": "01000088",
+      "FirstName": "QIAN",
+      "LastName": "VOLLMANN - GAO"
+    },
+    {
+      "EmaNumber": "01000092",
+      "FirstName": "MONIKA",
+      "LastName": "ALEXEJEW"
+    },
+    {
+      "EmaNumber": "01000093",
+      "FirstName": "HERMINE",
+      "LastName": "FELSBERGER"
+    },
+    {
+      "EmaNumber": "01000105",
+      "FirstName": "JOHANNA",
+      "LastName": "BERNKOPF"
+    },
+    {
+      "EmaNumber": "01000107",
+      "FirstName": "ROLAND",
+      "LastName": "MAIER"
+    },
+    {
+      "EmaNumber": "01000109",
+      "FirstName": "ANDREAS",
+      "LastName": "RIHA"
+    },
+    {
+      "EmaNumber": "01000110",
+      "FirstName": "FRANZ",
+      "LastName": "NEUWIRTH"
+    },
+    {
+      "EmaNumber": "01000113",
+      "FirstName": "PHILIP",
+      "LastName": "EDELMAYER",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000125",
+      "FirstName": "MICHAEL",
+      "LastName": "GÜRTL-DUSLEAG",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000127",
+      "FirstName": "DOMINIK",
+      "LastName": "HAMMERL",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000129",
+      "FirstName": "YECHENG",
+      "LastName": "LI"
+    },
+    {
+      "EmaNumber": "01000131",
+      "FirstName": "LUKAS",
+      "LastName": "GERHOLD",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000136",
+      "FirstName": "KRISZTIAN",
+      "LastName": "DEAK"
+    },
+    {
+      "EmaNumber": "01000138",
+      "FirstName": "ULLI",
+      "LastName": "STADLER"
+    },
+    {
+      "EmaNumber": "01000144",
+      "FirstName": "CHARLENE",
+      "LastName": "SURILLA"
+    },
+    {
+      "EmaNumber": "01000146",
+      "FirstName": "PATRICIA",
+      "LastName": "JANTSCHER"
+    },
+    {
+      "EmaNumber": "01000147",
+      "FirstName": "JANET",
+      "LastName": "WISSUWA"
+    },
+    {
+      "EmaNumber": "01000148",
+      "FirstName": "JUNJIE",
+      "LastName": "WEI"
+    },
+    {
+      "EmaNumber": "01000149",
+      "FirstName": "ANTON",
+      "LastName": "LU"
+    },
+    {
+      "EmaNumber": "01000150",
+      "FirstName": "JULIAN",
+      "LastName": "LEE HARATHER"
+    },
+    {
+      "EmaNumber": "01000151",
+      "FirstName": "MARTIN",
+      "LastName": "PFLUG"
+    },
+    {
+      "EmaNumber": "01000153",
+      "FirstName": "MARTIN",
+      "LastName": "MAUDER"
+    },
+    {
+      "EmaNumber": "01000154",
+      "FirstName": "ELMAR",
+      "LastName": "MOHSENZADA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "01000155",
+      "FirstName": "SHEN",
+      "LastName": "ZILI"
+    },
+    {
+      "EmaNumber": "01000156",
+      "FirstName": "DONALD",
+      "LastName": "ACKER"
+    },
+    {
+      "EmaNumber": "01000159",
+      "FirstName": "ALEXANDER",
+      "LastName": "OSWALD"
+    },
+    {
+      "EmaNumber": "01000160",
+      "FirstName": "KELL",
+      "LastName": "CONEREM"
+    },
+    {
+      "EmaNumber": "01000161",
+      "FirstName": "PHILIPP",
+      "LastName": "USHIROMIYA"
+    },
+    {
+      "EmaNumber": "01000162",
+      "FirstName": "MARIN",
+      "LastName": "MIZUNO"
+    },
+    {
+      "EmaNumber": "01000163",
+      "FirstName": "HANNES",
+      "LastName": "VÖGL"
+    },
+    {
+      "EmaNumber": "01000164",
+      "FirstName": "DAGMAR",
+      "LastName": "SCHOFFMANN"
+    },
+    {
+      "EmaNumber": "01000165",
+      "FirstName": "TUAN MINH",
+      "LastName": "LE"
+    },
+    {
+      "EmaNumber": "01000166",
+      "FirstName": "TAKAAKI",
+      "LastName": "MATSUURA"
+    },
+    {
+      "EmaNumber": "01000167",
+      "FirstName": "ASTRID",
+      "LastName": "KATARY"
+    },
+    {
+      "EmaNumber": "01000168",
+      "FirstName": "ELISABETH",
+      "LastName": "PLATTNER"
+    },
+    {
+      "EmaNumber": "01000169",
+      "FirstName": "CHRISTIAN",
+      "LastName": "PLATTNER"
+    },
+    {
+      "EmaNumber": "01000170",
+      "FirstName": "SCHEUCHER",
+      "LastName": "ANDREA"
+    },
+    {
+      "EmaNumber": "01000171",
+      "FirstName": "KAHR",
+      "LastName": "MANUELA"
+    },
+    {
+      "EmaNumber": "01000172",
+      "FirstName": "HEEWON",
+      "LastName": "YU"
+    }
+  ]
+}

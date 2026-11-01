@@ -1,0 +1,190 @@
+{
+  "Name": "Riichi Danish Championship 2022",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-09-17",
+  "ToDate": "2022-09-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Glenn",
+      "LastName": "Ivar Husom"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 8,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000176",
+      "Result": 121400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000208",
+      "Result": 105700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04160103",
+      "Result": 94000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "GLENN IVAR",
+        "LastName": "HUSOM",
+        "RepresentingNationality": "no"
+      },
+      "Result": 83800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000252",
+      "Result": 72700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04160110",
+      "Result": 56800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990130",
+      "Result": 43900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000003",
+      "Result": 38200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000156",
+      "Result": 37800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990132",
+      "Result": 27600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100180",
+      "Result": 26900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000241",
+      "Result": 24500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04160115",
+      "Result": 19800
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "KENT",
+        "LastName": "KROGSENG",
+        "RepresentingNationality": "no"
+      },
+      "Result": 19200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04160109",
+      "Result": -10100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -16300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000022",
+      "Result": -16700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000051",
+      "Result": -36200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "23000005",
+      "Result": -40800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "23000006",
+      "Result": -61800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990110",
+      "Result": -71400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "22000027",
+      "Result": -94000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000049",
+      "Result": -98400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "STIAN",
+        "LastName": "BLæNES",
+        "RepresentingNationality": "no"
+      },
+      "Result": -127200
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "GLENN",
+        "LastName": "MORTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -134100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "09990045",
+      "Result": -147200
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "SIBO",
+        "LastName": "CHEN",
+        "RepresentingNationality": "cn"
+      },
+      "Result": -189200
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "Name": "Manganneken Pis 2024",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-11-02",
+  "ToDate": "2024-11-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Diogo",
+      "LastName": "AMORES"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 60,
+  "NrCountries": 10,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02010054",
+      "Result": 182300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "16000040",
+      "Result": 135200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JOE-CALBERSON",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 132500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000050",
+      "Result": 131500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "12000003",
+      "Result": 130400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "02010080",
+      "Result": 126700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010062",
+      "Result": 114700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04090098",
+      "Result": 112600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02010087",
+      "Result": 96700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04160081",
+      "Result": 82700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010758",
+      "Result": 80900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010039",
+      "Result": 74400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04160103",
+      "Result": 70300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990104",
+      "Result": 69300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "12000009",
+      "Result": 65300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "16000053",
+      "Result": 53800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990024",
+      "Result": 47400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02000001",
+      "Result": 45500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04990103",
+      "Result": 45300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010089",
+      "Result": 44400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990134",
+      "Result": 42300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04210023",
+      "Result": 38500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02010055",
+      "Result": 36700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990079",
+      "Result": 31400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02010036",
+      "Result": 31100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02000010",
+      "Result": 24400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04210032",
+      "Result": 20800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02000009",
+      "Result": 19500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010052",
+      "Result": 11900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02010088",
+      "Result": 8400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04310012",
+      "Result": 1800
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "Guillaume",
+        "LastName": null,
+        "RepresentingNationality": "vide"
+      },
+      "Result": -5400
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02000013",
+      "Result": -6100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02010073",
+      "Result": -14800
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "16000055",
+      "Result": -15900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "05100166",
+      "Result": -20600
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04160080",
+      "Result": -22600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "02010038",
+      "Result": -32900
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "09990127",
+      "Result": -35500
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "16000035",
+      "Result": -35800
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02010074",
+      "Result": -42600
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "02010082",
+      "Result": -45300
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010766",
+      "Result": -47400
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02010086",
+      "Result": -48100
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "02010085",
+      "Result": -48900
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "04040121",
+      "Result": -58000
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "05000012",
+      "Result": -58800
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "09990159",
+      "Result": -66700
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04040105",
+      "Result": -76800
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "04160088",
+      "Result": -80300
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "02000027",
+      "Result": -89800
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "02010069",
+      "Result": -93300
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "04160114",
+      "Result": -122600
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "02000005",
+      "Result": -136200
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "02000021",
+      "Result": -142100
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "12000002",
+      "Result": -147400
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "16000029",
+      "Result": -168200
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "02000011",
+      "Result": -180600
+    },
+    {
+      "Placement": 59,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -270000
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "02000020",
+      "Result": -270800
+    }
+  ]
+}

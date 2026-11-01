@@ -1,0 +1,610 @@
+{
+  "Name": "THE GIANT OF ROTTERDAM 2018",
+  "Country": "nl",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-06-16",
+  "ToDate": "2018-06-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Matthieu",
+      "LastName": "Pfeiffer"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 68,
+  "NrCountries": 4,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02010042",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 519
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010137",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 383
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010727",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 311
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010022",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 267
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 592
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010526",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 306
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010650",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 225
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010025",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 496
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010121",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 376
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04040205",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 347
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010698",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 328
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010445",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 278
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "BERRY",
+        "LastName": "HEIJN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 205
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 185
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010633",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 110
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010557",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 72
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010376",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 58
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 302
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010656",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 199
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "HEYLIGER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 35
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010667",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 30
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 1
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02010021",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -56
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -99
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "RUDI",
+        "LastName": "WONG-CHUNG",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 35
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 31
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 6
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "MATTHEU",
+        "LastName": "OORSOUW, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -20
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010101",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -24
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 53
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010731",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 9
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 8
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02010014",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -12
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010123",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -179
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02010024",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 173
+      }
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010028",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 139
+      }
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010219",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 106
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010430",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 73
+      }
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -29
+      }
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "08010495",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -66
+      }
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "JACK LIEN",
+        "LastName": "PILGRAM",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -98
+      }
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "02010041",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -105
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010109",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -122
+      }
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010415",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -192
+      }
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010166",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -202
+      }
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "08010621",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": 36
+      }
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -4
+      }
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "08010140",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -128
+      }
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "08010613",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -145
+      }
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "08010173",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -164
+      }
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04990062",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -170
+      }
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "08010328",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -178
+      }
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "08010054",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -206
+      }
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "HEIKO",
+        "LastName": "DOMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -291
+      }
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "EUGENIE",
+        "LastName": "TEUNISSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -332
+      }
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "08010689",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -149
+      }
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "08010206",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -311
+      }
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "08010701",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -389
+      }
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -49
+      }
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "08010518",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -308
+      }
+    },
+    {
+      "Placement": 62,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "CRAAIKAMP, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -411
+      }
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "08010003",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -230
+      }
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "08010295",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -281
+      }
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "02010001",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -324
+      }
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "08010158",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -363
+      }
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "08010047",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -383
+      }
+    },
+    {
+      "Placement": 68,
+      "Player": {
+        "FirstName": "ANJA",
+        "LastName": "BOOGAART, VAN DEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -278
+      }
+    }
+  ]
+}

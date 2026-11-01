@@ -1,0 +1,192 @@
+{
+  "Name": "OPEN AUSTRIAN RIICHI MAHJONG TOURNAMENT",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2008-08-15",
+  "ToDate": "2008-08-15",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010025",
+      "Result": 60000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "PAUL",
+        "LastName": "BENEDER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 46900
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 39200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "PAULA",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "pt"
+      },
+      "Result": 38200
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 34100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010026",
+      "Result": 33500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010020",
+      "Result": 32900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05100058",
+      "Result": 31800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "SCHMIRL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 31500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010017",
+      "Result": 29100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "RAPHAEL",
+        "LastName": "HOBBIGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 23200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05900008",
+      "Result": 12900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000001",
+      "Result": 12000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 8500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "NILS",
+        "LastName": "MAYERHOFER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 6700
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 4800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000013",
+      "Result": -22400
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "DICKY",
+        "LastName": "REP",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -28650
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "FABIAN",
+        "LastName": "KLINGELHÖFER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -30200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010039",
+      "Result": -53350
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010168",
+      "Result": -67100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -72800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "CONNY",
+        "LastName": "SCHEFFLER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -80300
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARKOLIN",
+        "RepresentingNationality": "at"
+      },
+      "Result": -90500
+    }
+  ]
+}

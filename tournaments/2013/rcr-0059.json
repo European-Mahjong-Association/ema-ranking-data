@@ -1,0 +1,128 @@
+{
+  "Name": "Riichi Danish Championship 2013",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-08-24",
+  "ToDate": "2013-08-25",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 207100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000003",
+      "Result": 165600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000156",
+      "Result": 118600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 108000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000192",
+      "Result": 93400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000148",
+      "Result": 67400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000051",
+      "Result": 58200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000126",
+      "Result": 27100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000176",
+      "Result": -15200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -38300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "LI YAN",
+        "LastName": "NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -64600
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "THUBORG MADSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -84500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "NICCOLO",
+        "LastName": "POULSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -112700
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -114700
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -138900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000022",
+      "Result": -276500
+    }
+  ]
+}

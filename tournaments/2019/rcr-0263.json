@@ -1,0 +1,206 @@
+{
+  "Name": "HRODNA CHRISTMAS TOURNAMENT 2019",
+  "Country": "by",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-12-21",
+  "ToDate": "2019-12-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lukasz",
+      "LastName": "GRZYBOWSKI"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 84900
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "OLEG",
+        "LastName": "BUBNOVICH",
+        "RepresentingNationality": "by"
+      },
+      "Result": 77200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "SIARHEI",
+        "LastName": "BUTRYS",
+        "RepresentingNationality": "by"
+      },
+      "Result": 72000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "YURY",
+        "LastName": "KABAK",
+        "RepresentingNationality": "by"
+      },
+      "Result": 64100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000031",
+      "Result": 49900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "20000012",
+      "Result": 42200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000073",
+      "Result": 41500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ALIAKSANDR",
+        "LastName": "TANANUSHKA",
+        "RepresentingNationality": "by"
+      },
+      "Result": 40000
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "HRYHARUK",
+        "RepresentingNationality": "by"
+      },
+      "Result": 33400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000001",
+      "Result": 31100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "SIARHEI",
+        "LastName": "TSYVINSKI",
+        "RepresentingNationality": "by"
+      },
+      "Result": 20400
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "VEREBEI",
+        "RepresentingNationality": "by"
+      },
+      "Result": 6200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "20000007",
+      "Result": 5000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "POLINA",
+        "LastName": "KHVALUK",
+        "RepresentingNationality": "by"
+      },
+      "Result": 4400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "TIMOTHY",
+        "LastName": "SHARAKH",
+        "RepresentingNationality": "by"
+      },
+      "Result": -5600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "KANSTANTSIN",
+        "LastName": "HARUCHKA",
+        "RepresentingNationality": "by"
+      },
+      "Result": -6800
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ALIAKSEI",
+        "LastName": "MALCHANAU",
+        "RepresentingNationality": "by"
+      },
+      "Result": -19000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "20000019",
+      "Result": -34300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "ILKEVICH",
+        "RepresentingNationality": "by"
+      },
+      "Result": -65200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "20000006",
+      "Result": -68100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": null,
+        "LastName": null,
+        "RepresentingNationality": "ua"
+      },
+      "Result": -72800
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "DZMITRY",
+        "LastName": "AKSAMIT",
+        "RepresentingNationality": "by"
+      },
+      "Result": -100800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ANTANINA",
+        "LastName": "ANTSIPAVA",
+        "RepresentingNationality": "by"
+      },
+      "Result": -104700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "20000003",
+      "Result": -115000
+    }
+  ]
+}

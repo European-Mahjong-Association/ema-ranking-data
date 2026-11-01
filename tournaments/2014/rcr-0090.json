@@ -1,0 +1,370 @@
+{
+  "Name": "RED FIVES DUTCH OPEN 2014",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-11-01",
+  "ToDate": "2014-11-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Yvonne",
+      "LastName": "van der Heide"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ANDRÉ",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 252000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "SCHULER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 226900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010026",
+      "Result": 221000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010028",
+      "Result": 169900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 161300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010162",
+      "Result": 101400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010025",
+      "Result": 99300
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MASAHIKO TAKAHASHI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": 99000
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MIRJAM",
+        "LastName": "MUIJEN, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 97100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MARTIJN",
+        "LastName": "KLAAR",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 96700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010411",
+      "Result": 96600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010022",
+      "Result": 91300
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ANJA",
+        "LastName": "VAN DEN BERK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 78500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "LOES",
+        "LastName": "HEERZE-SOETEKOUW",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 68800
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "JENS",
+        "LastName": "SMIKALLA",
+        "RepresentingNationality": "de"
+      },
+      "Result": 50100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010052",
+      "Result": 47200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DENNIS",
+        "LastName": "BRUGGINK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 43200
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "SJEF",
+        "LastName": "STRIK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 42700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010505",
+      "Result": 40600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010388",
+      "Result": 28400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010020",
+      "Result": 24700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010083",
+      "Result": 19600
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "JOHN",
+        "LastName": "KUIJPERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 13200
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DIANA",
+        "LastName": "WETERING, VAN DE",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 9800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010415",
+      "Result": -1400
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "JOE-CALBERSON",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -6400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010171",
+      "Result": -9200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010168",
+      "Result": -17900
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "ANGELIQUE",
+        "LastName": "DELFSMA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -18100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "GENEVIÈVE",
+        "LastName": "GODART",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -24100
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010173",
+      "Result": -25000
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MARK",
+        "LastName": "KLEINSTRA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -34700
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "TON",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -43800
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010021",
+      "Result": -46200
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "PATRIC",
+        "LastName": "STEINKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -55100
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "TIM",
+        "LastName": "LEENDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -56000
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010728",
+      "Result": -65400
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "MARIAN",
+        "LastName": "PEERDEMAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -65700
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010412",
+      "Result": -71500
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "LOIS",
+        "LastName": "MORALES",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -90800
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "DICKY",
+        "LastName": "REP",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -99700
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -110800
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "ELS",
+        "LastName": "KUIJPERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -161300
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010725",
+      "Result": -162400
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "HETTY",
+        "LastName": "BUURSINK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -172100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010049",
+      "Result": -192800
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "ANGELO",
+        "LastName": "LAGRENE",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -194100
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "08010538",
+      "Result": -214300
+    }
+  ]
+}

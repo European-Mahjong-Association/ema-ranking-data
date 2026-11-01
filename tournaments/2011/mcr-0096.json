@@ -1,0 +1,524 @@
+{
+  "Name": "TOULOUSE MCR OPEN 2011",
+  "Country": "fr",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-06-25",
+  "ToDate": "2011-06-26",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04080002",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 559
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "NATHALIE",
+        "LastName": "MAHÉ",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 528
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04040058",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 728
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "LUDOVIC",
+        "LastName": "BRUN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 515
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04120026",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 207
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040010",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 861
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04090035",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 471
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 470
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010021",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 415
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 472
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04090016",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 290
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "JÉRÔME",
+        "LastName": "BONIFAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 391
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 279
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 346
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04080004",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 196
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04990015",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 163
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "STEPANOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "LAURENT",
+        "LastName": "MAHÉ",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 51
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "LAURENT",
+        "LastName": "CLAUDEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -50
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000006",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 319
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04040105",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 202
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "EMMA",
+        "LastName": "GUENEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 102
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04040047",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 90
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "BRUNO",
+        "LastName": "ILPONSE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -90
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04090026",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -117
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 247
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04010015",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -1
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "MARC",
+        "LastName": "MINJOU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -86
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04040026",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -134
+      }
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "MICKAËL",
+        "LastName": "FROMENTOUX",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -163
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04030045",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 153
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04090025",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 39
+      }
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ISABELLE",
+        "LastName": "SIEGLER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "ALFONSO",
+        "LastName": "MADRUGA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "HÉLÈNE",
+        "LastName": "RAPIN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -110
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04090008",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -196
+      }
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04090024",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -275
+      }
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "CHRISTOPHE",
+        "LastName": "CORNU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -334
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04090059",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -489
+      }
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "ALESSIA",
+        "LastName": "COSMO",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -34
+      }
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "SÉBASTIEN",
+        "LastName": "PALMADE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -253
+      }
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "CHRISTOPHE",
+        "LastName": "GEFFRIAUD",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -288
+      }
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "04990009",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -426
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "04030023",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -474
+      }
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "EVI",
+        "LastName": "GEFFRIAUD",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -530
+      }
+    },
+    {
+      "Placement": 46,
+      "Player": {
+        "FirstName": "STÉPHANIE",
+        "LastName": "BRUN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -266
+      }
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -505
+      }
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "YVONNE",
+        "LastName": "HEEMSKERK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -554
+      }
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "CATHERINE",
+        "LastName": "BOUTILLIER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -561
+      }
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "JULIEN",
+        "LastName": "DE LESTRANGE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -583
+      }
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "04010028",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -621
+      }
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04120028",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -636
+      }
+    }
+  ]
+}

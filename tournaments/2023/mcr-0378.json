@@ -1,0 +1,180 @@
+{
+  "Name": "MCR Danish Championship 2023",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-09-16",
+  "ToDate": "2023-09-17",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990006",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 500
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ESBEN",
+        "LastName": "ANDERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 502
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000005",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 430
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 338
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 296
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 67
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000215",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 118
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 89
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -7
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04290031",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -28
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -50
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -182
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -158
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "16000007",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -35
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990106",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -143
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990120",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -219
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000192",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -325
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04290030",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -290
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -328
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04410014",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -472
+      }
+    }
+  ]
+}

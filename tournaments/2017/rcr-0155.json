@@ -1,0 +1,116 @@
+{
+  "Name": "1ST TANUKI TOURNAMENT 2017",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-06-25",
+  "ToDate": "2017-06-25",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000002",
+      "Result": 55100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000018",
+      "Result": 46600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000164",
+      "Result": 26100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000073",
+      "Result": 25800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ALESSANDRO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 18100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000052",
+      "Result": 7500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000131",
+      "Result": 3700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000021",
+      "Result": 3300
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "COLI",
+        "RepresentingNationality": "it"
+      },
+      "Result": 1800
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "FILIPPO",
+        "LastName": "MENICUCCI",
+        "RepresentingNationality": "it"
+      },
+      "Result": 1800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000104",
+      "Result": -8500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -14500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000160",
+      "Result": -19000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000114",
+      "Result": -30600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000093",
+      "Result": -55800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -81400
+    }
+  ]
+}

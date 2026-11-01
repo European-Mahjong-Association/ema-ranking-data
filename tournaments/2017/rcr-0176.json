@@ -1,0 +1,242 @@
+{
+  "Name": "GERMAN RIICHI OPEN 2017",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-12-02",
+  "ToDate": "2017-12-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jaap",
+      "LastName": "Croeze"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 192400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "JOHN",
+        "LastName": "KUIJPERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 151300
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 105100
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 104700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010025",
+      "Result": 99400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010166",
+      "Result": 92900
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "HERBST",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 73100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05100166",
+      "Result": 67200
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARTIJN",
+        "LastName": "KLAAR",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 63500
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ELS",
+        "LastName": "KUIJPERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 47000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100161",
+      "Result": 39000
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 29900
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 25500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ARNE",
+        "LastName": "KRIS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 25100
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": 9000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100160",
+      "Result": -5200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100072",
+      "Result": -21300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JANNY",
+        "LastName": "VAN DER MEER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -22100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "05100124",
+      "Result": -28100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05900008",
+      "Result": -28600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000080",
+      "Result": -33200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -40300
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -50500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100157",
+      "Result": -52500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010026",
+      "Result": -74600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010022",
+      "Result": -82700
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100016",
+      "Result": -91000
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010526",
+      "Result": -95300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010271",
+      "Result": -135300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010187",
+      "Result": -159200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05100167",
+      "Result": -192200
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -153000
+    }
+  ]
+}

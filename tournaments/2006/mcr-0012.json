@@ -1,0 +1,276 @@
+{
+  "Name": "UPPER AUSTRIA/HAID 2006",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2006-09-02",
+  "ToDate": "2006-09-02",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000027",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 249
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 202
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "FRANZ-PHILIPP",
+        "LastName": "KRAUSHOFER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 329
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "STEFAN",
+        "LastName": "TSCHINKEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 292
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000028",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 385
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "NUSRETA",
+        "LastName": "MAUTHNER",
+        "RepresentingNationality": "ba"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 217
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000030",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 197
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 192
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 105
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "OCHOA",
+        "LastName": "RAMOS YANIS",
+        "RepresentingNationality": "cu"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 45
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "URSULA",
+        "LastName": "RAPPEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 27
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "CHRISTIAN",
+        "LastName": "ENGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 16
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "HOFFMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -49
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ALEXANDRA",
+        "LastName": "SCHEICHENBAUER",
+        "RepresentingNationality": "mx"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -64
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ERNEST",
+        "LastName": "GLASER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -182
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MARGARETE",
+        "LastName": "STOLLWITZER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -54
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ROSWITHA",
+        "LastName": "FISCHERAUER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "TONI",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -198
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "CHRISTINE",
+        "LastName": "BRANDNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -282
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "RAPPEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -282
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "HEIDI",
+        "LastName": "ZWEIL",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -109
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -283
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "JOCHEN",
+        "LastName": "LEITNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -306
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "01000025",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -390
+      }
+    }
+  ]
+}

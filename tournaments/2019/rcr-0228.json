@@ -1,0 +1,380 @@
+{
+  "Name": "KYIV OPEN 2019",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-04-13",
+  "ToDate": "2019-04-14",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 8,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "DIACHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 238800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "SIARHEI",
+        "LastName": "TSYVINSKI",
+        "RepresentingNationality": "by"
+      },
+      "Result": 164000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000176",
+      "Result": 161100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "20000012",
+      "Result": 112600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "HRYHARUK",
+        "RepresentingNationality": "by"
+      },
+      "Result": 99700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "21000014",
+      "Result": 90800
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "CHERNENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 85300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000015",
+      "Result": 82900
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ALIAKSANDR",
+        "LastName": "TANANUSHKA",
+        "RepresentingNationality": "by"
+      },
+      "Result": 81900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000023",
+      "Result": 80300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ALIAKSEI",
+        "LastName": "MALCHANAU",
+        "RepresentingNationality": "by"
+      },
+      "Result": 80300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000037",
+      "Result": 79700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 70300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04040048",
+      "Result": 67600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000156",
+      "Result": 61700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "20000003",
+      "Result": 49200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "VLAD",
+        "LastName": "CHALENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 43000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000208",
+      "Result": 33100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000053",
+      "Result": 30500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000039",
+      "Result": 21500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "20000007",
+      "Result": 17100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "IRA",
+        "LastName": "SPELNICOVA",
+        "RepresentingNationality": "md"
+      },
+      "Result": 13600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000005",
+      "Result": 9900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "21000041",
+      "Result": 7000
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "RUSLAN",
+        "LastName": "GORIUCHKIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 6800
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "ROMAN",
+        "LastName": "KRIPAK",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 6600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990047",
+      "Result": -1200
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "YURY",
+        "LastName": "KABAK",
+        "RepresentingNationality": "by"
+      },
+      "Result": -4700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "21000043",
+      "Result": -12100
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "20000019",
+      "Result": -27100
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "OLEKSII",
+        "LastName": "LOGVINOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -28200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "20000006",
+      "Result": -39700
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "21000038",
+      "Result": -40900
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "21000065",
+      "Result": -49500
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "BAL",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -54900
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "EFIMENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -60500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "21000024",
+      "Result": -65700
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "RIEPIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -67500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "20000008",
+      "Result": -71400
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "SERHII",
+        "LastName": "IHNATOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -72600
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "ANDRII",
+        "LastName": "VASIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -73500
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "BELOVS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -76000
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "21000055",
+      "Result": -83000
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "21000067",
+      "Result": -88100
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "21000068",
+      "Result": -89300
+    },
+    {
+      "Placement": 46,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "ILKEVICH",
+        "RepresentingNationality": "by"
+      },
+      "Result": -94800
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "VEREBEI",
+        "RepresentingNationality": "by"
+      },
+      "Result": -101900
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "ALEKSANDRA",
+        "LastName": "LIBICH",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -128000
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "OLEKSII",
+        "LastName": "FEDORCHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -130900
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "ANDRII",
+        "LastName": "BOIKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -131300
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "POLINA",
+        "LastName": "KHVALUK",
+        "RepresentingNationality": "by"
+      },
+      "Result": -173300
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "TATIANA",
+        "LastName": "VYSOTSKAYA",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -209200
+    }
+  ]
+}

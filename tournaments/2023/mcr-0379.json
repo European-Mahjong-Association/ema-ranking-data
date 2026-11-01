@@ -1,0 +1,214 @@
+{
+  "Name": "Austrian MCR open 2023 (16th)",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-09-23",
+  "ToDate": "2023-09-24",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Elisa",
+      "LastName": "Foschi"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000021",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 436
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000109",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 414
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 358
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000070",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 251
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 236
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990082",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 45
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000088",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 298
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 277
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000035",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 244
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000011",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 226
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000083",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -21
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -100
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000039",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -122
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000093",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 148
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -49
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000111",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -196
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000034",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -215
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "06990005",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -223
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000001",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -246
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000080",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 17
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000179",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -442
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -245
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "01000093",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -1135
+      }
+    }
+  ]
+}

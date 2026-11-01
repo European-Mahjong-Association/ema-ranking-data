@@ -1,0 +1,214 @@
+{
+  "Name": "Goteborg MCR Open 2024",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-02",
+  "ToDate": "2024-06-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Morten",
+      "LastName": "Andersen"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 796
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 387
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 380
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 373
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990128",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 238
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 232
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 173
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 24
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990120",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 19
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990165",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 62
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990110",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 212
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 14
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990171",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -60
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -300
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990062",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": 86
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -4
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -60
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990167",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -69
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990049",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -203
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -207
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990166",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -271
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990106",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -368
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990173",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -478
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990172",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -1016
+      }
+    }
+  ]
+}

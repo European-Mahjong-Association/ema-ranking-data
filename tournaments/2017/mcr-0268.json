@@ -1,0 +1,158 @@
+{
+  "Name": "5TH AGUILAS TOURNAMENT 2017",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-07-15",
+  "ToDate": "2017-07-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Iván",
+      "LastName": "Maestre Ros"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 927
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 507
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 354
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 1174
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990039",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 559
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -159
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990051",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 16
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990047",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -32
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -157
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -275
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -158
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990012",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -197
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -416
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990062",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -740
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "EZEQUIEL",
+        "LastName": "HERMOSIN",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -659
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990060",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -744
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Name": "II AGUILAS TOURNAMENT",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-08-23",
+  "ToDate": "2014-08-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 592
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 538
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 24
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 167
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 131
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 47
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "FEDERICO",
+        "LastName": "MARTÍNEZ WANDOSELL",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 156
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990042",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -143
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -21
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JUAN JOSÉ",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -108
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -129
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -75
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -204
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -88
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -289
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -598
+      }
+    }
+  ]
+}

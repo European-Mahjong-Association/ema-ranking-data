@@ -1,0 +1,206 @@
+{
+  "Name": "RONmania 2024",
+  "Country": "ro",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-05-25",
+  "ToDate": "2024-05-26",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Mateusz",
+      "LastName": "Wozniak"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 12,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000140",
+      "Result": 105600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010737",
+      "Result": 105400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100166",
+      "Result": 72500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04310012",
+      "Result": 72300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "23000005",
+      "Result": 67400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000003",
+      "Result": 63900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000102",
+      "Result": 43700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990047",
+      "Result": 40800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000005",
+      "Result": 29200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990168",
+      "Result": 28600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990163",
+      "Result": 25300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100181",
+      "Result": 22900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "24000003",
+      "Result": 15900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100170",
+      "Result": 12600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05000003",
+      "Result": 9900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05000042",
+      "Result": 9200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000043",
+      "Result": 8300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000016",
+      "Result": 6200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "05000001",
+      "Result": 3100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05000027",
+      "Result": -200
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "LastName": null,
+        "RepresentingNationality": "ca"
+      },
+      "Result": -2800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000035",
+      "Result": -7000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000080",
+      "Result": -8500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "21000014",
+      "Result": -22400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "05000002",
+      "Result": -25900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "25000008",
+      "Result": -26000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "25000009",
+      "Result": -29900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990159",
+      "Result": -31600
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990127",
+      "Result": -39300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "06990035",
+      "Result": -43600
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990164",
+      "Result": -46400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010436",
+      "Result": -50400
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "25000002",
+      "Result": -82300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05100167",
+      "Result": -82500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "25000003",
+      "Result": -141200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "10990086",
+      "Result": -142800
+    }
+  ]
+}

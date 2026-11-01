@@ -1,0 +1,196 @@
+{
+  "Name": "TYUMEN RIICHI OPEN 2017",
+  "Country": "ru",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-12-23",
+  "ToDate": "2017-12-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "EDUARD",
+        "LastName": "POLOZOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 118900
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "SOROKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 110100
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "VLADISLAV",
+        "LastName": "PLYASUNOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 96200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "KALININ",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 80300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "YANA",
+        "LastName": "KOZLOVSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 59600
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "EVGENIY",
+        "LastName": "KORNIENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 23400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "SHALIMOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 10000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "MIRYASOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 9500
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "LEONID",
+        "LastName": "ROGOZIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -2900
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "LEVIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -5000
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "NATALYA",
+        "LastName": "USKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -8300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "LIUDMILA",
+        "LastName": "GAYNULINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -11700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "VODILOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -26200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "STOLBOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -31600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "OLEG",
+        "LastName": "KIM",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -52900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "NIKOLAY",
+        "LastName": "GAVRILOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -55900
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "YANA",
+        "LastName": "KEYBALOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -84000
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "AZARAPIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -188800
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 0
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "Name": "ARU HI RIICHI OPEN 2023",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-06-03",
+  "ToDate": "2023-06-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Anton",
+      "LastName": "Yarchuk"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990088",
+      "Result": 125600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990148",
+      "Result": 113500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990128",
+      "Result": 84500
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "LI",
+        "RepresentingNationality": "se"
+      },
+      "Result": 79300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990049",
+      "Result": 71900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990138",
+      "Result": 66400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000016",
+      "Result": 55800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990133",
+      "Result": 39500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "24000003",
+      "Result": 34600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "GUSTAF",
+        "LastName": "FRÖHLANDER",
+        "RepresentingNationality": "no"
+      },
+      "Result": 17800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990117",
+      "Result": 9400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990139",
+      "Result": 5800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990134",
+      "Result": -4700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990146",
+      "Result": -12900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990149",
+      "Result": -23700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990129",
+      "Result": -33400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990130",
+      "Result": -45300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990152",
+      "Result": -51900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990150",
+      "Result": -53700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990132",
+      "Result": -109300
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "NIKKI",
+        "LastName": "KRAUSE",
+        "RepresentingNationality": "se"
+      },
+      "Result": -115400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990145",
+      "Result": -125500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990127",
+      "Result": -133800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "SINDRI",
+        "LastName": "STEINGRIMSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": -154500
+    }
+  ]
+}

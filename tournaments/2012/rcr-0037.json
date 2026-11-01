@@ -1,0 +1,230 @@
+{
+  "Name": "GERMAN RIICHI OPEN 2012",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-05-05",
+  "ToDate": "2012-05-06",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Gemma",
+      "LastName": "Collinge"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 201200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 177900
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "HANSSEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 170600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ALFONSO",
+        "LastName": "MADRUGA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 165400
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "BERTOLT",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "de"
+      },
+      "Result": 151200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05900002",
+      "Result": 145800
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "ZAHRADNIK",
+        "RepresentingNationality": "de"
+      },
+      "Result": 74000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010025",
+      "Result": 64200
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 39300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05900008",
+      "Result": 34600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010003",
+      "Result": 32500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100072",
+      "Result": -17600
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "PISTEK",
+        "RepresentingNationality": "de"
+      },
+      "Result": -19000
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -20200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010026",
+      "Result": -28200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -29200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05100124",
+      "Result": -31700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010028",
+      "Result": -41000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARCEL",
+        "LastName": "WEIß",
+        "RepresentingNationality": "de"
+      },
+      "Result": -45900
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -73900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990006",
+      "Result": -98200
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "NICOLAS ALEXANDER",
+        "LastName": "SCHMITT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -110400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "COLIN",
+        "LastName": "FARREL",
+        "RepresentingNationality": "ie"
+      },
+      "Result": -112100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -127300
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "KILIAN",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -148900
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "WEINERT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -174200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05100058",
+      "Result": -179400
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Name": "Austrian MCR open 2020 (15th)",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-09-05",
+  "ToDate": "2020-09-06",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 574
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 284
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000009",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 368
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 253
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000030",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 156
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 225
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "DORIS",
+        "LastName": "SALLMUTTER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 223
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000075",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 64
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 128
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -146
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -198
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -268
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -454
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000109",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -479
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "WILLY",
+        "LastName": "ALEXEJEW",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -595
+      }
+    }
+  ]
+}

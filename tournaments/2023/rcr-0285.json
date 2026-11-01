@@ -1,0 +1,170 @@
+{
+  "Name": "Riichi Copenhagen Open 2023",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-02-04",
+  "ToDate": "2023-02-04",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Annika",
+      "LastName": "Ridell"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 8,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000126",
+      "Result": 105800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000011",
+      "Result": 102000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990044",
+      "Result": 93800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990127",
+      "Result": 86100
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "FABIO",
+        "LastName": "QUEIROS",
+        "RepresentingNationality": "pt"
+      },
+      "Result": 51800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000022",
+      "Result": 50100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000156",
+      "Result": 35400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04090060",
+      "Result": 27900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000241",
+      "Result": 26300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010557",
+      "Result": 15000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990088",
+      "Result": 7300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000228",
+      "Result": 3100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000071",
+      "Result": 2700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990045",
+      "Result": -700
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ALISA GLADCHENKO",
+        "LastName": null,
+        "RepresentingNationality": "vide"
+      },
+      "Result": -8300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100182",
+      "Result": -19700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010731",
+      "Result": -22700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000049",
+      "Result": -22800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04160088",
+      "Result": -25700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000003",
+      "Result": -35800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000149",
+      "Result": -37200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000007",
+      "Result": -39000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000051",
+      "Result": -44900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05000015",
+      "Result": -61400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04090110",
+      "Result": -62900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04040057",
+      "Result": -74700
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990112",
+      "Result": -79500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "12990014",
+      "Result": -92000
+    }
+  ]
+}

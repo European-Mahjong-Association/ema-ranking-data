@@ -1,0 +1,274 @@
+{
+  "Name": "RODE LOTUS CUP 2023 #1RIICHI",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-04-22",
+  "ToDate": "2023-04-23",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jasper",
+      "LastName": "Germeys"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 7,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010731",
+      "Result": 187700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04990103",
+      "Result": 136800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010025",
+      "Result": 127800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010526",
+      "Result": 122900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "02010082",
+      "Result": 98400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040057",
+      "Result": 96800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010074",
+      "Result": 88800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010088",
+      "Result": 85900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02010058",
+      "Result": 67400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010062",
+      "Result": 56400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000018",
+      "Result": 46400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100166",
+      "Result": 41600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100153",
+      "Result": 40500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "02010086",
+      "Result": 36600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "YUHAO",
+        "LastName": "ZHOU",
+        "RepresentingNationality": "be"
+      },
+      "Result": 28200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010054",
+      "Result": 26700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02010084",
+      "Result": 17000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990047",
+      "Result": 15400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02010069",
+      "Result": 13000
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010042",
+      "Result": 12900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02010038",
+      "Result": 12400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010613",
+      "Result": 4900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02000002",
+      "Result": 2500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "21000014",
+      "Result": -2800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010727",
+      "Result": -3700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "21000067",
+      "Result": -3800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04040036",
+      "Result": -7700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010056",
+      "Result": -13900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010089",
+      "Result": -17600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "05000011",
+      "Result": -18700
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010039",
+      "Result": -19600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010003",
+      "Result": -21000
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010073",
+      "Result": -31400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010162",
+      "Result": -36500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010028",
+      "Result": -44900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "08010737",
+      "Result": -46300
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "YORAN",
+        "LastName": "GOYVAERTS",
+        "RepresentingNationality": "be"
+      },
+      "Result": -51200
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04090025",
+      "Result": -51500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04090024",
+      "Result": -52000
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "02010061",
+      "Result": -55600
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02010080",
+      "Result": -57400
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "02010043",
+      "Result": -91000
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "02010036",
+      "Result": -94500
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02010057",
+      "Result": -111800
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "02010085",
+      "Result": -115700
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010079",
+      "Result": -117400
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "COSAERT",
+        "RepresentingNationality": "be"
+      },
+      "Result": -180600
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04210023",
+      "Result": -220400
+    }
+  ]
+}

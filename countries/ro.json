@@ -1,0 +1,65 @@
+{
+  "CountryCode": "ro",
+  "Country": "Romania",
+  "Players": [
+    {
+      "EmaNumber": "25000001",
+      "FirstName": "RENE",
+      "LastName": "KHEZAM",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "25000002",
+      "FirstName": "MICHAEL",
+      "LastName": "VAN DER SLUIJS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "25000003",
+      "FirstName": "MIHNEA",
+      "LastName": "PETRATU"
+    },
+    {
+      "EmaNumber": "25000005",
+      "FirstName": "MIRELA LUCIA",
+      "LastName": "KHEZAM"
+    },
+    {
+      "EmaNumber": "25000006",
+      "FirstName": "ALECIO LIVIO",
+      "LastName": "POPA"
+    },
+    {
+      "EmaNumber": "25000007",
+      "FirstName": "MADALINA",
+      "LastName": "MOCANU"
+    },
+    {
+      "EmaNumber": "25000008",
+      "FirstName": "CHRIS",
+      "LastName": "LUNTRARU"
+    },
+    {
+      "EmaNumber": "25000009",
+      "FirstName": "DAVID",
+      "LastName": "GADALEAN"
+    },
+    {
+      "EmaNumber": "25000010",
+      "FirstName": "IOAN MARIAN",
+      "LastName": "RABA"
+    }
+  ]
+}

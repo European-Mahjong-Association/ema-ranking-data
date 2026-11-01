@@ -1,0 +1,150 @@
+{
+  "Name": "ERMC2013 QUALIFICATION",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-05-12",
+  "ToDate": "2013-05-12",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Szymon",
+      "LastName": "Lasota"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000011",
+      "Result": 152000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "KRZYSZTOF",
+        "LastName": "SASINOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 108900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000001",
+      "Result": 93700
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 83900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "TOSHINORI",
+        "LastName": "KONDO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 83000
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "JANUSZ",
+        "LastName": "KUREK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 65300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "DAISUKE",
+        "LastName": "HONGO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 45500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000006",
+      "Result": 15800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "PAWEŁ",
+        "LastName": "MARCZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -2900
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JACEK",
+        "LastName": "MENDYK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -25100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "GRZEGORZ",
+        "LastName": "KALINOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -29700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "SEBASTIAN",
+        "LastName": "MARKOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -58700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MACIEJ",
+        "LastName": "KRAWCZAK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -91300
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "TOMASZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -114100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000003",
+      "Result": -148100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MICHAŁ",
+        "LastName": "SEILER",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -178200
+    }
+  ]
+}

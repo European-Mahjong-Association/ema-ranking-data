@@ -1,0 +1,266 @@
+{
+  "Name": "DOPPELTURNIER 2022 RIICHI",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-10-29",
+  "ToDate": "2022-10-29",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Olav",
+      "LastName": "Sommers"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 44,
+  "NrCountries": 3,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100124",
+      "Result": 88400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100100",
+      "Result": 86200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100056",
+      "Result": 81400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010731",
+      "Result": 78700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100033",
+      "Result": 70600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05000006",
+      "Result": 67600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000011",
+      "Result": 60300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010613",
+      "Result": 56700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010526",
+      "Result": 52400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05900008",
+      "Result": 47000
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "CHENXI",
+        "LastName": "XIE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 43600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05000008",
+      "Result": 43100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05000003",
+      "Result": 23700
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 21100
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 17600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100153",
+      "Result": 14600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010187",
+      "Result": 14600
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 5200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010725",
+      "Result": 3200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010038",
+      "Result": 1200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010168",
+      "Result": -100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010737",
+      "Result": -3200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05000002",
+      "Result": -6700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100171",
+      "Result": -13400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "05100170",
+      "Result": -16300
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "CHEN",
+        "LastName": "RUOYU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -17600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000004",
+      "Result": -20400
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05100077",
+      "Result": -20900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "05000001",
+      "Result": -26100
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010271",
+      "Result": -27200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010039",
+      "Result": -28100
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010741",
+      "Result": -36300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "05100182",
+      "Result": -37200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05100167",
+      "Result": -42500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05000009",
+      "Result": -45400
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "05100016",
+      "Result": -47100
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05100166",
+      "Result": -53000
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010121",
+      "Result": -58300
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05000007",
+      "Result": -87700
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010727",
+      "Result": -69200
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "05900002",
+      "Result": -81000
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "05100058",
+      "Result": -84300
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "DENIZ",
+        "LastName": "ECKERT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -92100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "05100018",
+      "Result": -103100
+    }
+  ]
+}

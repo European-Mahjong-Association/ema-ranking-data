@@ -1,0 +1,308 @@
+{
+  "Name": "Swedish MCR Championship 2017",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-06-17",
+  "ToDate": "2017-06-18",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 732
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 536
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 464
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 253
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000080",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 253
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 489
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990090",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 53
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990099",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 326
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 541
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "EJE",
+        "LastName": "NORMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 339
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000035",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 466
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ALESSIA",
+        "LastName": "COSMO",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 228
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990106",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ASTRID",
+        "LastName": "DUBEDOUT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 23
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -22
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990107",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 23
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -33
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MATILDA",
+        "LastName": "KARLSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -67
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARIE",
+        "LastName": "NORÉN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -141
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000006",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -230
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "16000007",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -421
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -66
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -37
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ROBIN",
+        "LastName": "BACKMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -560
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "MIKAEL",
+        "LastName": "HJORT",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -394
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -92
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000109",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -199
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -454
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990047",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -518
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990104",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -669
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "NADIA",
+        "LastName": "ASSRAOUI",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -1041
+      }
+    }
+  ]
+}

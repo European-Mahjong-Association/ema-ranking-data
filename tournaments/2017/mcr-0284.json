@@ -1,0 +1,254 @@
+{
+  "Name": "3RD TOURNAMENT - LOS 3 DRAGONES",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-12-16",
+  "ToDate": "2017-12-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Cédric",
+      "LastName": "AGUERRE"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 376
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 323
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090025",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 278
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 251
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04090080",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 436
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 12
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000035",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -130
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 841
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 416
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000093",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 318
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -4
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990051",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 399
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 105
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000114",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 70
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 118
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 113
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990047",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 22
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04990036",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -47
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -295
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -58
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04040036",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -172
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -227
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -56
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04090024",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -484
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04090075",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -640
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "12990002",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -643
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "EZEQUIEL",
+        "LastName": "HERMOSIN",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -728
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -634
+      }
+    }
+  ]
+}

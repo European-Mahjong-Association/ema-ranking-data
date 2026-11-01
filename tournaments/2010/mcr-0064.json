@@ -1,0 +1,298 @@
+{
+  "Name": "AUSTRIAN BAMBOO TOURNAMENT 2010",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2010-03-20",
+  "ToDate": "2010-03-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Anton",
+      "LastName": "Kösters"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 590
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000027",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 533
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 409
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ERNEST",
+        "LastName": "GLASER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 253
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "STEFAN",
+        "LastName": "TSCHINKEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 475
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "06010025",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -4
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000045",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 209
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 193
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 114
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DORIS",
+        "LastName": "SALLMUTTER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 88
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DR. SÁNDOR",
+        "LastName": "PINCZÉS",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000039",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 100
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "GERALD",
+        "LastName": "SANTNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 41
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "PHILLIPP",
+        "LastName": "ROUSCHAL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -26
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -28
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000025",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -79
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "TONI",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -90
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -166
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -37
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000046",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -127
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -154
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -137
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "NATELA",
+        "LastName": "MELKADZE",
+        "RepresentingNationality": "ge"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -137
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "ROMANA",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -379
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "FREDDY",
+        "LastName": "JARITZ",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -482
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "01000070",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -379
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "ROSWITHA",
+        "LastName": "FISCHERAUER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -485
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -339
+      }
+    }
+  ]
+}

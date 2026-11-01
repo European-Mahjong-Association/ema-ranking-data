@@ -1,0 +1,302 @@
+{
+  "Name": "PORTUGAL OPEN 2014 - IBERIAN CUP",
+  "Country": "pt",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-06-07",
+  "ToDate": "2014-06-08",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Emma",
+      "LastName": "Guenel"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 561
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 749
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090008",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 277
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04090080",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 375
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 397
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 338
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 260
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 562
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04090060",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 514
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010168",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 384
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DOMINIQUE",
+        "LastName": "TRONCHE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 313.0,
+        "ContestPoints": 14
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 265
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 203
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04040205",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -96
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "EMMA",
+        "LastName": "GUENEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 256.0,
+        "ContestPoints": 11
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "SAMUEL",
+        "LastName": "FERTEY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 62.0,
+        "ContestPoints": 10
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04040189",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -194
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 78
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -105
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -243
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04990062",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -359
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04090025",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -372
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -227
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ERNEST",
+        "LastName": "GLASER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": -311.0,
+        "ContestPoints": 7
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -316
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -454
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -489
+      }
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "FRANCISCO",
+        "LastName": "MACHADO",
+        "RepresentingNationality": "pt"
+      },
+      "Result": {
+        "TablePoints": -551.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04090024",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -542
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -743
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MANUELA",
+        "LastName": "FONSECA",
+        "RepresentingNationality": "pt"
+      },
+      "Result": {
+        "TablePoints": -766.0,
+        "ContestPoints": 2
+      }
+    }
+  ]
+}

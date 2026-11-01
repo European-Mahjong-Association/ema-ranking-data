@@ -1,0 +1,108 @@
+{
+  "Name": "Riichi Danish Championship 2008",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2008-08-30",
+  "ToDate": "2008-08-30",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 12,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 89600
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 60700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000126",
+      "Result": 48100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000051",
+      "Result": 42900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 37300
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "RONNI",
+        "LastName": "LAURSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 30700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000022",
+      "Result": -3400
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -14600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000049",
+      "Result": -15600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -43600
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -106700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "OLSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -125400
+    }
+  ]
+}

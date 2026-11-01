@@ -1,0 +1,196 @@
+{
+  "Name": "DOPPELTURNIER 2015 - RIICHI OPEN",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-10-24",
+  "ToDate": "2015-10-24",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100151",
+      "Result": 199400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010028",
+      "Result": 193600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100153",
+      "Result": 176200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010166",
+      "Result": 85800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ANNEMIEK",
+        "LastName": "MALLEE",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 70600
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "ZAHRADNIK",
+        "RepresentingNationality": "de"
+      },
+      "Result": 63800
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 49000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010411",
+      "Result": 44400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010020",
+      "Result": 43500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010003",
+      "Result": 42800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010025",
+      "Result": 32600
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 25900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05900008",
+      "Result": 22200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010187",
+      "Result": 15600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010725",
+      "Result": 5600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100033",
+      "Result": -31000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010162",
+      "Result": -36100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "DICKY",
+        "LastName": "REP",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -47100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05900002",
+      "Result": -65900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010412",
+      "Result": -80200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GEBAUER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -81800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100024",
+      "Result": -82500
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -83000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010271",
+      "Result": -113300
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "SIMON",
+        "LastName": "NAARMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -123200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010168",
+      "Result": -140400
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "MARIAN",
+        "LastName": "PEERDEMAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -186700
+    }
+  ]
+}

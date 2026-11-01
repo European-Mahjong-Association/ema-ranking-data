@@ -1,0 +1,310 @@
+{
+  "Name": "REUNION OPEN 2023",
+  "Country": "fr",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-12-10",
+  "ToDate": "2023-12-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Christine",
+      "LastName": "Rostin"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 36,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04080019",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 847
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04010016",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 654
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04010076",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 518
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04130032",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 352
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030100",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 333
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030045",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 272
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04010061",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 132
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04080021",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 238
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04060063",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 139
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030005",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 130
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030003",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 25
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04030023",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 234
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04030091",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 27
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04030067",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 8
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04080018",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 166
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04060050",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 15
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04010066",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -31
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04010080",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -57
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04010086",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -119
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04060014",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 24
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04060037",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -14
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04030051",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04180005",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -21
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04060051",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -37
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04060061",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -68
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04030109",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -96
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04180011",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -177
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04030128",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -295
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04060060",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -421
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04030151",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -309
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04100018",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -229
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04030124",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -283
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04030028",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -342
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04060071",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -461
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04080010",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -403
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04060031",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -637
+      }
+    }
+  ]
+}

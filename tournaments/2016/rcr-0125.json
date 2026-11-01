@@ -1,0 +1,246 @@
+{
+  "Name": "GREAT WAVE TOURNAMENT 2016",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-03-26",
+  "ToDate": "2016-03-26",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Anna",
+      "LastName": "SHPILMAN"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 32,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990033",
+      "Result": 141300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990051",
+      "Result": 136900
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "KAI",
+        "LastName": "HEIKKILÄ",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 111900
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 88700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990054",
+      "Result": 78300
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "VILLE",
+        "LastName": "NIKANDER",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 72200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990057",
+      "Result": 69700
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MIKA",
+        "LastName": "GRÖNROOS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 66600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990049",
+      "Result": 57300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ESA-PEKKA",
+        "LastName": "PYÖKKIMIES",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 33500
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "KASPER",
+        "LastName": "KIVIMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 33300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ALEKSEI",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 24900
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "OSIPOV",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 24800
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ILPO",
+        "LastName": "AITTOKALLIO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 15400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990050",
+      "Result": 6100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990040",
+      "Result": 2500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000013",
+      "Result": 2300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "SAKARI",
+        "LastName": "HELOKUNNAS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -6100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990031",
+      "Result": -8200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990048",
+      "Result": -9600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990047",
+      "Result": -27200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990043",
+      "Result": -53600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990041",
+      "Result": -53600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990053",
+      "Result": -72300
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ANTTI",
+        "LastName": "VANHATALO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -85400
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "MIKKO",
+        "LastName": "KIRJOKANGAS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -89800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990044",
+      "Result": -95500
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "MUSTONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -104300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990029",
+      "Result": -107100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "TOMONORI",
+        "LastName": "MURAOKA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": -137900
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -120000
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -120000
+    }
+  ]
+}

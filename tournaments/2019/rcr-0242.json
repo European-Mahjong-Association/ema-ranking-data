@@ -1,0 +1,210 @@
+{
+  "Name": "6TH PRAGUE RIICHI RYUU IISOU 2019",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-07-20",
+  "ToDate": "2019-07-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Manuel",
+      "LastName": "Schlich"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100166",
+      "Result": 161600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010436",
+      "Result": 119600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990076",
+      "Result": 92200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "SOROKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 68800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04040048",
+      "Result": 64400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04990093",
+      "Result": 54100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100153",
+      "Result": 49000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 44000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100157",
+      "Result": 34100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990009",
+      "Result": 29500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04300022",
+      "Result": 6300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "TOMASZ",
+        "LastName": "ZIELINSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 4400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100146",
+      "Result": -10100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "25000001",
+      "Result": -12300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100161",
+      "Result": -17500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990004",
+      "Result": -21900
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -27700
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "BARTOSZ",
+        "LastName": "ARENDARSKI",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -31300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "25000002",
+      "Result": -32500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "17990003",
+      "Result": -43500
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "JONAS",
+        "LastName": "FRINGS",
+        "RepresentingNationality": "de"
+      },
+      "Result": -53900
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "STEFANIE",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -54000
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "DINARA",
+        "LastName": "GABDULLINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -62100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000080",
+      "Result": -75300
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "TADEAS",
+        "LastName": "BERKMAN",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -83400
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "LUKÁŠ",
+        "LastName": "BILEK",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -95700
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -131800
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "PAWEL",
+        "LastName": "WOJTASIK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -187700
+    }
+  ]
+}

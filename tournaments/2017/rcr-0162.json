@@ -1,0 +1,216 @@
+{
+  "Name": "RIICHI OPEN BRATISLAVA 2017",
+  "Country": "sk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-09-02",
+  "ToDate": "2017-09-03",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "OLGA",
+        "LastName": "PROSKURIAKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 154000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000073",
+      "Result": 103800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "06990014",
+      "Result": 89300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000127",
+      "Result": 87800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "GRISHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 84900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000053",
+      "Result": 75000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990007",
+      "Result": 70000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 66600
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 62400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990004",
+      "Result": 47300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "LIUDMILA",
+        "LastName": "GAYNULINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 21100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "22000004",
+      "Result": 18200
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 17100
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "DAIICHIRO",
+        "LastName": "SEKIKAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 9400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 8400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000080",
+      "Result": 3000
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -31400
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JAROSLAV",
+        "LastName": "BROZINA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -35800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000113",
+      "Result": -38000
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000093",
+      "Result": -48600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -65200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -67700
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -86200
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "JURAJ",
+        "LastName": "MÓZA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -92400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000092",
+      "Result": -108200
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -116100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "22000001",
+      "Result": -119500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "19000085",
+      "Result": -169200
+    }
+  ]
+}

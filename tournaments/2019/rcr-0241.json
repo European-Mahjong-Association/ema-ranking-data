@@ -1,0 +1,196 @@
+{
+  "Name": "RIICHI OPEN BRATISLAVA 2019",
+  "Country": "sk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-08-24",
+  "ToDate": "2019-08-25",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "NOVIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 144300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000127",
+      "Result": 130400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "17990009",
+      "Result": 113800
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "KAMIL",
+        "LastName": "SZCZELINA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 102800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": null,
+        "LastName": "KATSUTO MATSUMOTO",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 86400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000149",
+      "Result": 79700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990004",
+      "Result": 57000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000087",
+      "Result": 39300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "22000004",
+      "Result": 38700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04990093",
+      "Result": 29300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "YANA",
+        "LastName": "KOZLOVSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 24300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000003",
+      "Result": 22700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 17300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000053",
+      "Result": 11200
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "JURAJ",
+        "LastName": "MÓZA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 9500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "22000016",
+      "Result": 4300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000073",
+      "Result": 1300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000085",
+      "Result": 1100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000125",
+      "Result": -8600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "17990007",
+      "Result": -41400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "01000013",
+      "Result": -42500
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "KENTO",
+        "LastName": "MATSUMOTO",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -75500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "JUSTIN",
+        "LastName": "HOLMES",
+        "RepresentingNationality": "at"
+      },
+      "Result": -84800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000102",
+      "Result": -91200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000136",
+      "Result": -112400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000093",
+      "Result": -112700
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -175900
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -208400
+    }
+  ]
+}

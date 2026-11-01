@@ -1,0 +1,164 @@
+{
+  "Name": "DOPPELTURNIER 2019",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-10-26",
+  "ToDate": "2019-10-26",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010026",
+      "Result": 117300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100153",
+      "Result": 100800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090025",
+      "Result": 82100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010526",
+      "Result": 69000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04090024",
+      "Result": 60900
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 56300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100017",
+      "Result": 46400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04160088",
+      "Result": 26100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04990024",
+      "Result": 23200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04040057",
+      "Result": 19800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "16000007",
+      "Result": 19600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100024",
+      "Result": 14700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "02010039",
+      "Result": 11400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010580",
+      "Result": 11300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010486",
+      "Result": -5100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100033",
+      "Result": -11600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100016",
+      "Result": -22700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010187",
+      "Result": -23200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010025",
+      "Result": -24500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010168",
+      "Result": -29800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010271",
+      "Result": -32600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010038",
+      "Result": -38900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100058",
+      "Result": -51100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05900002",
+      "Result": -67100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -74100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010727",
+      "Result": -97500
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100078",
+      "Result": -116500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05100077",
+      "Result": -124200
+    }
+  ]
+}

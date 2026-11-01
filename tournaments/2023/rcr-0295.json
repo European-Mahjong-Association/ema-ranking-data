@@ -1,0 +1,298 @@
+{
+  "Name": "Riichi Danish Championship 2023",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-05-20",
+  "ToDate": "2023-05-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Niklas",
+      "LastName": "Johansson"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 16,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000131",
+      "Result": 155400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000192",
+      "Result": 141900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000149",
+      "Result": 125600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04160035",
+      "Result": 116800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "24000003",
+      "Result": 110400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05900002",
+      "Result": 76200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000011",
+      "Result": 71600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "16000035",
+      "Result": 64900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010752",
+      "Result": 63700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05000006",
+      "Result": 63000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010085",
+      "Result": 62300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990047",
+      "Result": 60200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000049",
+      "Result": 56800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000175",
+      "Result": 54100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000014",
+      "Result": 50500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990141",
+      "Result": 28600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000241",
+      "Result": 24800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05000012",
+      "Result": 22200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000055",
+      "Result": 11900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100166",
+      "Result": 5200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990134",
+      "Result": 4500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990110",
+      "Result": 1500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "STIAN",
+        "LastName": "BLAENES",
+        "RepresentingNationality": "no"
+      },
+      "Result": 600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "03000252",
+      "Result": -2800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "17990007",
+      "Result": -8700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000129",
+      "Result": -8900
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "GLENN",
+        "LastName": "MORTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -11900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "26000002",
+      "Result": -16300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "16000029",
+      "Result": -22300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990104",
+      "Result": -27700
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05000007",
+      "Result": -33800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990112",
+      "Result": -34300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "03000228",
+      "Result": -34400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "21000068",
+      "Result": -35300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "09990142",
+      "Result": -39600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "03000051",
+      "Result": -40700
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "19000171",
+      "Result": -42900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "03000176",
+      "Result": -44300
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "03000156",
+      "Result": -51600
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "11990057",
+      "Result": -54700
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "17990008",
+      "Result": -57000
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "17990004",
+      "Result": -60200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010757",
+      "Result": -60300
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "21000015",
+      "Result": -79100
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "03000126",
+      "Result": -81600
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010084",
+      "Result": -85800
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "ESPEN",
+        "LastName": "NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -86000
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "05000008",
+      "Result": -94600
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "03000208",
+      "Result": -97000
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "23000005",
+      "Result": -106500
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "GUSTAF",
+        "LastName": "FRÖHLANDER",
+        "RepresentingNationality": "no"
+      },
+      "Result": -131500
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "09990146",
+      "Result": -142900
+    }
+  ]
+}

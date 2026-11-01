@@ -1,0 +1,282 @@
+{
+  "Name": "RIICHI DUTCH OPEN 2023",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-11-04",
+  "ToDate": "2023-11-05",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Arnaud",
+      "LastName": "RENARD"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 5,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010750",
+      "Result": 171700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010728",
+      "Result": 142000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010058",
+      "Result": 117200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100161",
+      "Result": 111800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010745",
+      "Result": 96100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010412",
+      "Result": 95900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010166",
+      "Result": 89000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010085",
+      "Result": 84800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010752",
+      "Result": 83800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010062",
+      "Result": 82800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010003",
+      "Result": 75400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010074",
+      "Result": 68500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "25000001",
+      "Result": 68100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010727",
+      "Result": 58100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010730",
+      "Result": 57200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010187",
+      "Result": 56700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010526",
+      "Result": 54300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010162",
+      "Result": 53500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02010038",
+      "Result": 52100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010079",
+      "Result": 34900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010171",
+      "Result": 31400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010613",
+      "Result": 29300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02010073",
+      "Result": 18400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010411",
+      "Result": 13800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010487",
+      "Result": 11600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010022",
+      "Result": 7300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "02000001",
+      "Result": 5500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010039",
+      "Result": 3400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010707",
+      "Result": 2600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010580",
+      "Result": -15500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010731",
+      "Result": -17300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010505",
+      "Result": -18100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "05100100",
+      "Result": -33900
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010021",
+      "Result": -35000
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010712",
+      "Result": -35500
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "05100157",
+      "Result": -43400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010557",
+      "Result": -44600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04990108",
+      "Result": -47600
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "02010057",
+      "Result": -52100
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010168",
+      "Result": -53100
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02010086",
+      "Result": -65400
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "25000002",
+      "Result": -76800
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010052",
+      "Result": -85100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010028",
+      "Result": -85500
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010757",
+      "Result": -94600
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010173",
+      "Result": -105200
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "02010084",
+      "Result": -108400
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "08010518",
+      "Result": -113800
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "08010633",
+      "Result": -123700
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "02000007",
+      "Result": -131400
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "08010737",
+      "Result": -144900
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "08010271",
+      "Result": -286300
+    }
+  ]
+}

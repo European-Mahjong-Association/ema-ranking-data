@@ -1,0 +1,210 @@
+{
+  "Name": "Irish Riichi Championship 2025",
+  "Country": "ie",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-08-23",
+  "ToDate": "2025-08-24",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Benoit",
+      "LastName": "DESSORT"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11000034",
+      "Result": 136100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "26000016",
+      "Result": 114200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "26000013",
+      "Result": 110300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11000060",
+      "Result": 104700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "11000036",
+      "Result": 97700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11000054",
+      "Result": 89400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160103",
+      "Result": 84400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990140",
+      "Result": 78200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11000053",
+      "Result": 67500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04320013",
+      "Result": 66000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000055",
+      "Result": 55200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "26000007",
+      "Result": 45000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "KATHY",
+        "LastName": "HORTON",
+        "RepresentingNationality": "us"
+      },
+      "Result": 43100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "26000011",
+      "Result": 41800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "26000015",
+      "Result": 34100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990085",
+      "Result": 14500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "26000003",
+      "Result": 5600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "17990004",
+      "Result": 4800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "26000017",
+      "Result": 2100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "11000023",
+      "Result": -11700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "26000004",
+      "Result": -27700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "26000018",
+      "Result": -29400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "26000019",
+      "Result": -29500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "16000029",
+      "Result": -31100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "26000020",
+      "Result": -33000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "26000010",
+      "Result": -38100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "11990123",
+      "Result": -54100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "26000021",
+      "Result": -54300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "26000008",
+      "Result": -63500
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "26000022",
+      "Result": -75400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "11000050",
+      "Result": -112200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "26000001",
+      "Result": -119800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "11000028",
+      "Result": -127500
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "26000014",
+      "Result": -170900
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "SETH",
+        "LastName": "CAMARA",
+        "RepresentingNationality": "us"
+      },
+      "Result": -174100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990120",
+      "Result": -213100
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+  "CountryCode": "fi",
+  "Country": "Finland",
+  "Players": [
+    {
+      "EmaNumber": "14990011",
+      "FirstName": "MIKKO",
+      "LastName": "KÄYHKÖ"
+    },
+    {
+      "EmaNumber": "14990012",
+      "FirstName": "JEREMIA",
+      "LastName": "KUNNARI"
+    },
+    {
+      "EmaNumber": "14990020",
+      "FirstName": "KRISTIINA",
+      "LastName": "KUUSELA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990024",
+      "FirstName": "KLAUDIA",
+      "LastName": "LENSU",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990029",
+      "FirstName": "NIKO",
+      "LastName": "NURRO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990031",
+      "FirstName": "ALLAN",
+      "LastName": "PALMU"
+    },
+    {
+      "EmaNumber": "14990033",
+      "FirstName": "YUANQI",
+      "LastName": "SHAN"
+    },
+    {
+      "EmaNumber": "14990040",
+      "FirstName": "JOUNI",
+      "LastName": "KUITUNEN"
+    },
+    {
+      "EmaNumber": "14990041",
+      "FirstName": "JANNA",
+      "LastName": "HANNIKAINEN"
+    },
+    {
+      "EmaNumber": "14990043",
+      "FirstName": "ANNE-MARI",
+      "LastName": "HAAPSAMO"
+    },
+    {
+      "EmaNumber": "14990044",
+      "FirstName": "HENRI",
+      "LastName": "HAAPSAMO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990047",
+      "FirstName": "JOUNI",
+      "LastName": "LEHTINEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990048",
+      "FirstName": "JONI",
+      "LastName": "VIROLAINEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990049",
+      "FirstName": "EINARI",
+      "LastName": "LAVASTE"
+    },
+    {
+      "EmaNumber": "14990050",
+      "FirstName": "PETTERI",
+      "LastName": "HUUSKONEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990051",
+      "FirstName": "HENRI",
+      "LastName": "KUMPULAINEN"
+    },
+    {
+      "EmaNumber": "14990053",
+      "FirstName": "MIKKO",
+      "LastName": "AARNOS"
+    },
+    {
+      "EmaNumber": "14990054",
+      "FirstName": "MIMMI",
+      "LastName": "LEHTONEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990057",
+      "FirstName": "TOMMI",
+      "LastName": "IKONEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Espoo, Finland, 19 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990060",
+      "FirstName": "JUHO",
+      "LastName": "TUOMINEN"
+    },
+    {
+      "EmaNumber": "14990066",
+      "FirstName": "PAULI",
+      "LastName": "MARTTINEN"
+    },
+    {
+      "EmaNumber": "14990076",
+      "FirstName": "JANNE",
+      "LastName": "ESKOLA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990079",
+      "FirstName": "MIINA",
+      "LastName": "VIINIKKA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990083",
+      "FirstName": "KUKKA",
+      "LastName": "KORSU"
+    },
+    {
+      "EmaNumber": "14990094",
+      "FirstName": "VEIKKO",
+      "LastName": "LAITAMÄKI"
+    },
+    {
+      "EmaNumber": "14990096",
+      "FirstName": "ALEKSI",
+      "LastName": "VEHMASAHO",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990099",
+      "FirstName": "EEMIL",
+      "LastName": "AIKIO"
+    },
+    {
+      "EmaNumber": "14990103",
+      "FirstName": "LEEVI",
+      "LastName": "RANTASUOMELA"
+    },
+    {
+      "EmaNumber": "14990104",
+      "FirstName": "HENRI",
+      "LastName": "MÄKELÄ",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990105",
+      "FirstName": "SEPPO",
+      "LastName": "GRÖHN"
+    },
+    {
+      "EmaNumber": "14990110",
+      "FirstName": "NIILO",
+      "LastName": "NURMINEN"
+    },
+    {
+      "EmaNumber": "14990111",
+      "FirstName": "ESSI",
+      "LastName": "VIINIKKA"
+    },
+    {
+      "EmaNumber": "14990112",
+      "FirstName": "ELLA",
+      "LastName": "JUNTTARI"
+    },
+    {
+      "EmaNumber": "14990113",
+      "FirstName": "JOEL",
+      "LastName": "SIIRTO"
+    },
+    {
+      "EmaNumber": "14990114",
+      "FirstName": "TOMI",
+      "LastName": "PALOVUORI"
+    },
+    {
+      "EmaNumber": "14990115",
+      "FirstName": "ARI",
+      "LastName": "NALLE",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990118",
+      "FirstName": "JONI",
+      "LastName": "JOKINEN"
+    },
+    {
+      "EmaNumber": "14990119",
+      "FirstName": "JUHO",
+      "LastName": "JAUHIAINEN"
+    },
+    {
+      "EmaNumber": "14990120",
+      "FirstName": "JONI",
+      "LastName": "ILKKA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990121",
+      "FirstName": "MIKKO",
+      "LastName": "HÄNNINEN"
+    },
+    {
+      "EmaNumber": "14990122",
+      "FirstName": "ANTTI",
+      "LastName": "TAIVALSAARI"
+    },
+    {
+      "EmaNumber": "14990125",
+      "FirstName": "EVELIINA",
+      "LastName": "HAUTALAHTI"
+    },
+    {
+      "EmaNumber": "14990131",
+      "FirstName": "THU",
+      "LastName": "DINH"
+    },
+    {
+      "EmaNumber": "14990132",
+      "FirstName": "PETRI",
+      "LastName": "HAUSTOLA"
+    },
+    {
+      "EmaNumber": "14990133",
+      "FirstName": "ALEKSI",
+      "LastName": "FAGERROTH"
+    },
+    {
+      "EmaNumber": "14990134",
+      "FirstName": "ALEKSANTERI",
+      "LastName": "KUPI"
+    },
+    {
+      "EmaNumber": "14990135",
+      "FirstName": "LASSI",
+      "LastName": "LÄHTEENMÄKI"
+    },
+    {
+      "EmaNumber": "14990136",
+      "FirstName": "EERO",
+      "LastName": "PIHKALA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990137",
+      "FirstName": "NADIAH",
+      "LastName": "LAINE"
+    },
+    {
+      "EmaNumber": "14990138",
+      "FirstName": "HENRI",
+      "LastName": "NIVA"
+    },
+    {
+      "EmaNumber": "14990139",
+      "FirstName": "VILLE",
+      "LastName": "HASSINEN"
+    },
+    {
+      "EmaNumber": "14990140",
+      "FirstName": "ANSELMI",
+      "LastName": "AHONEN"
+    },
+    {
+      "EmaNumber": "14990141",
+      "FirstName": "IIRO",
+      "LastName": "PELLI"
+    },
+    {
+      "EmaNumber": "14990142",
+      "FirstName": "MIKHAIL",
+      "LastName": "LUGOVKIN"
+    },
+    {
+      "EmaNumber": "14990143",
+      "FirstName": "ILYA",
+      "LastName": "VELIKANOV",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990144",
+      "FirstName": "SVETLANA",
+      "LastName": "VELIKANOVA"
+    },
+    {
+      "EmaNumber": "14990145",
+      "FirstName": "TIMO",
+      "LastName": "MIINALAINEN"
+    },
+    {
+      "EmaNumber": "14990146",
+      "FirstName": "TEEMU",
+      "LastName": "PALONIEMI",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990147",
+      "FirstName": "VILLE",
+      "LastName": "LEHTOLA"
+    },
+    {
+      "EmaNumber": "14990148",
+      "FirstName": "Matias",
+      "LastName": "TRAN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990149",
+      "FirstName": "Petteri",
+      "LastName": "KÄRKI"
+    },
+    {
+      "EmaNumber": "14990150",
+      "FirstName": "Marko",
+      "LastName": "UOTILA"
+    },
+    {
+      "EmaNumber": "14990151",
+      "FirstName": "Maija",
+      "LastName": "HEISKANEN"
+    },
+    {
+      "EmaNumber": "14990152",
+      "FirstName": "Lauri",
+      "LastName": "HEISKANEN"
+    },
+    {
+      "EmaNumber": "14990153",
+      "FirstName": "Chris",
+      "LastName": "YUNG"
+    },
+    {
+      "EmaNumber": "14990154",
+      "FirstName": "Atte",
+      "LastName": "RAITOLAMPI"
+    },
+    {
+      "EmaNumber": "14990155",
+      "FirstName": "Utu",
+      "LastName": "KALLIOKOSKI",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990156",
+      "FirstName": "DREW",
+      "LastName": "MAKISALO"
+    },
+    {
+      "EmaNumber": "14990157",
+      "FirstName": "EVELIINA",
+      "LastName": "HAMALAINEN"
+    },
+    {
+      "EmaNumber": "14990158",
+      "FirstName": "IIVARI",
+      "LastName": "VAN DER UDEN"
+    },
+    {
+      "EmaNumber": "14990159",
+      "FirstName": "MIKKO",
+      "LastName": "TASKINEN"
+    },
+    {
+      "EmaNumber": "14990160",
+      "FirstName": "OSKARI",
+      "LastName": "HAAPSAMO"
+    },
+    {
+      "EmaNumber": "14990161",
+      "FirstName": "TIINA-KAISA",
+      "LastName": "NYKÄNEN"
+    },
+    {
+      "EmaNumber": "14990162",
+      "FirstName": "JOHANNES",
+      "LastName": "NATUNEN"
+    },
+    {
+      "EmaNumber": "14990163",
+      "FirstName": "VASILISA",
+      "LastName": "VELIKANOVA"
+    },
+    {
+      "EmaNumber": "14990164",
+      "FirstName": "TOMI",
+      "LastName": "PELTTARI",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990165",
+      "FirstName": "KARRI",
+      "LastName": "PÄÄKKÖNEN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990166",
+      "FirstName": "JOONAS",
+      "LastName": "HELAVA"
+    },
+    {
+      "EmaNumber": "14990167",
+      "FirstName": "MIKKO",
+      "LastName": "JUTILA"
+    },
+    {
+      "EmaNumber": "14990168",
+      "FirstName": "RURIK",
+      "LastName": "HAAPSAMO"
+    },
+    {
+      "EmaNumber": "14990169",
+      "FirstName": "TUNG",
+      "LastName": "NGUYEN QUANG"
+    },
+    {
+      "EmaNumber": "14990170",
+      "FirstName": "JOONAS",
+      "LastName": "VALKAMA"
+    },
+    {
+      "EmaNumber": "14990171",
+      "FirstName": "SAMULI",
+      "LastName": "HIRVONEN"
+    },
+    {
+      "EmaNumber": "14990172",
+      "FirstName": "NATNAEL",
+      "LastName": "VUORI"
+    },
+    {
+      "EmaNumber": "14990173",
+      "FirstName": "ONNI",
+      "LastName": "RUMPUNEN"
+    },
+    {
+      "EmaNumber": "14990174",
+      "FirstName": "ROBIN",
+      "LastName": "NYMAN"
+    },
+    {
+      "EmaNumber": "14990175",
+      "FirstName": "JESSE",
+      "LastName": "VUONTISJÄRVI"
+    },
+    {
+      "EmaNumber": "14990176",
+      "FirstName": "AKSELI",
+      "LastName": "PAKARINEN"
+    },
+    {
+      "EmaNumber": "14990177",
+      "FirstName": "JOHANNES",
+      "LastName": "RÄSÄNEN"
+    },
+    {
+      "EmaNumber": "14990178",
+      "FirstName": "MILLA",
+      "LastName": "SANDSTRÖM",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "14990179",
+      "FirstName": "VILLE",
+      "LastName": "ÖSTERLUND"
+    },
+    {
+      "EmaNumber": "14990180",
+      "FirstName": "ELLE",
+      "LastName": "FELLMAN"
+    },
+    {
+      "EmaNumber": "14990181",
+      "FirstName": "SHASWATO",
+      "LastName": "SARKER"
+    },
+    {
+      "EmaNumber": "14990182",
+      "FirstName": "TOUKO",
+      "LastName": "NISULA"
+    },
+    {
+      "EmaNumber": "14990183",
+      "FirstName": "TONI",
+      "LastName": "KANGASOJA"
+    },
+    {
+      "EmaNumber": "14990184",
+      "FirstName": "JESPER",
+      "LastName": "RÄISÄNEN"
+    },
+    {
+      "EmaNumber": "14990185",
+      "FirstName": "TUOMAS",
+      "LastName": "PYNNÖNEN"
+    },
+    {
+      "EmaNumber": "14990186",
+      "FirstName": "LAURI",
+      "LastName": "KOKKALA"
+    },
+    {
+      "EmaNumber": "14990187",
+      "FirstName": "ALVA",
+      "LastName": "ANTTONEN"
+    },
+    {
+      "EmaNumber": "14990188",
+      "FirstName": "SUVI",
+      "LastName": "SILVENNOINEN"
+    },
+    {
+      "EmaNumber": "14990189",
+      "FirstName": "LEEVI",
+      "LastName": "POUTANEN"
+    },
+    {
+      "EmaNumber": "14990190",
+      "FirstName": "PREETI",
+      "LastName": "PESÄ"
+    },
+    {
+      "EmaNumber": "14990191",
+      "FirstName": "LEEVI",
+      "LastName": "LUUKKONEN"
+    },
+    {
+      "EmaNumber": "14990192",
+      "FirstName": "INGRID",
+      "LastName": "JAVANAINEN"
+    },
+    {
+      "EmaNumber": "14990193",
+      "FirstName": "ARTTU",
+      "LastName": "PESOLA"
+    },
+    {
+      "EmaNumber": "14990194",
+      "FirstName": "OSKAR",
+      "LastName": "LAPPI"
+    },
+    {
+      "EmaNumber": "14990195",
+      "FirstName": "DUNG",
+      "LastName": "VU"
+    },
+    {
+      "EmaNumber": "14990196",
+      "FirstName": "JOONA",
+      "LastName": "NIKU"
+    },
+    {
+      "EmaNumber": "14990197",
+      "FirstName": "MARKO",
+      "LastName": "LUOMA"
+    },
+    {
+      "EmaNumber": "14990198",
+      "FirstName": "LUKA",
+      "LastName": "JÄÄSKELÄINEN"
+    },
+    {
+      "EmaNumber": "14990199",
+      "FirstName": "EMIL",
+      "LastName": "WESTERHOLM"
+    },
+    {
+      "EmaNumber": "14990200",
+      "FirstName": "DANTE",
+      "LastName": "EHNBERG"
+    }
+  ]
+}

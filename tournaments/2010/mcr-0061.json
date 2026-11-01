@@ -1,0 +1,176 @@
+{
+  "Name": "AARHUS OPEN 2010",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2010-01-23",
+  "ToDate": "2010-01-23",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 286
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 271
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 378
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 246
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 520
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 370
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 22
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000005",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -55
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "HANS",
+        "LastName": "VAN DER POEL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -340
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -138
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -536
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TORBEN",
+        "LastName": "DALUM",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -235
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -248
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -416
+      }
+    }
+  ]
+}

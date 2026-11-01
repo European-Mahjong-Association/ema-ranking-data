@@ -1,0 +1,226 @@
+{
+  "Name": "Doppelturnier 2024 Riichi",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-10-26",
+  "ToDate": "2024-10-26",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Marjoleine",
+      "LastName": "Lips"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 40,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010411",
+      "Result": 113900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100033",
+      "Result": 106800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010028",
+      "Result": 104300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000007",
+      "Result": 102600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010731",
+      "Result": 97600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05100077",
+      "Result": 44000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990082",
+      "Result": 43500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05000050",
+      "Result": 43200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05900002",
+      "Result": 42000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100153",
+      "Result": 40900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010727",
+      "Result": 40100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05900008",
+      "Result": 36400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100138",
+      "Result": 34300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05000013",
+      "Result": 33700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100018",
+      "Result": 33600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010613",
+      "Result": 32700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000008",
+      "Result": 30400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05000043",
+      "Result": 29600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010412",
+      "Result": 26500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05000042",
+      "Result": 25500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010003",
+      "Result": 20600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010039",
+      "Result": 14200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100124",
+      "Result": 10600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010725",
+      "Result": 9300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "05000012",
+      "Result": -1400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "05100058",
+      "Result": -6100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010701",
+      "Result": -30100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010168",
+      "Result": -31500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "19000077",
+      "Result": -40200
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02010038",
+      "Result": -56900
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010526",
+      "Result": -65400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "05000039",
+      "Result": -66000
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "JAN",
+        "LastName": "MOSES",
+        "RepresentingNationality": "de"
+      },
+      "Result": -67000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05000054",
+      "Result": -70900
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05100056",
+      "Result": -88800
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "05100016",
+      "Result": -95000
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05000055",
+      "Result": -95300
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010187",
+      "Result": -133400
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05000053",
+      "Result": -138500
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010721",
+      "Result": -189800
+    }
+  ]
+}

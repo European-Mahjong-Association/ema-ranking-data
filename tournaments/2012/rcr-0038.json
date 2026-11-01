@@ -1,0 +1,184 @@
+{
+  "Name": "TRI NITRO TOURNAMENT SMALL IMPACT",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-06-02",
+  "ToDate": "2012-06-02",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 125100
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MAXIME",
+        "LastName": "LEVEQUE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 99400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 95600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "YUJI",
+        "LastName": "OHORI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 92200
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 84900
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "NADINE",
+        "LastName": "LANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 42200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "BAO-TIN",
+        "LastName": "DUONG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 38300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04040105",
+      "Result": 37800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "FLORENT",
+        "LastName": "PLISSON",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 9600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DO THU KHOA",
+        "LastName": "TRINH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -6900
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "FRANÇOIS",
+        "LastName": "RAUZIL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -9400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04090035",
+      "Result": -28000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ISABELLE",
+        "LastName": "CHANE PANE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -31700
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "FABIEN",
+        "LastName": "ROBERT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -36500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "FLORENT",
+        "LastName": "SCHMIDT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -42000
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "AZIZ",
+        "LastName": "AZOUGAGH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -46300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JULIE",
+        "LastName": "GACSER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -61200
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "VALÉRIAN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -73800
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MAUDE",
+        "LastName": "GRIMBERG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -107900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04160015",
+      "Result": -181400
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Name": "MCR Open BADEN 2024 - SISICUP II",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-11-09",
+  "ToDate": "2024-11-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Ildiko",
+      "LastName": "HARGITAI"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000028",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 560
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "06010028",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 583
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000027",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 284
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000046",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 497
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 294
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 45
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 122
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -78
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000045",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -8
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000076",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -17
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000109",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -52
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -222
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "06010001",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -159
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -396
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000093",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -707
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "06010003",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -746
+      }
+    }
+  ]
+}

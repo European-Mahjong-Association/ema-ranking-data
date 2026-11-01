@@ -1,0 +1,130 @@
+{
+  "Name": "BOLOGNA DOUBLE RACE 2023 - RIICHI",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-06-25",
+  "ToDate": "2023-06-25",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Raúl",
+      "LastName": "Ríos Navarro"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000023",
+      "Result": 53900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000088",
+      "Result": 38500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000155",
+      "Result": 38000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000021",
+      "Result": 33100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000104",
+      "Result": 28300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990043",
+      "Result": 21000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000107",
+      "Result": 17200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000002",
+      "Result": 15600
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "YAN",
+        "LastName": "RAO",
+        "RepresentingNationality": "cn"
+      },
+      "Result": 8700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000018",
+      "Result": 8200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000131",
+      "Result": -400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000009",
+      "Result": -900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000164",
+      "Result": -11100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000093",
+      "Result": -11700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990127",
+      "Result": -20400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000109",
+      "Result": -25900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000202",
+      "Result": -31700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000170",
+      "Result": -33500
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "STEFANO",
+        "LastName": "PREDIERI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -56400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000080",
+      "Result": -66500
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "Name": "MCR Copenhagen Open 2007",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2007-04-21",
+  "ToDate": "2007-04-21",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 532
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 444
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000118",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 275
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 195
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 316
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 96
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 214
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 93
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "LENA",
+        "LastName": "SMITH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JESPER WILLEMOES",
+        "LastName": "HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "JUHO",
+        "LastName": "PAKARINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -55
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 106
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "KRAGH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -23
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -92
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "MARTENS",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -228
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "KORREMAN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -66
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000005",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -172
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -281
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -306
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04080002",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -369
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -104
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "TOPI",
+        "LastName": "MUSTO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -156
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -682
+      }
+    }
+  ]
+}

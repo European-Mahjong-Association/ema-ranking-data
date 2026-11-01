@@ -1,0 +1,302 @@
+{
+  "Name": "LAUSANNE MCR OPEN 2019",
+  "Country": "ch",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-06-08",
+  "ToDate": "2019-06-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Anton",
+      "LastName": "Kösters"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 870
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04290030",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 844
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000110",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 935
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04290031",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 425
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 313
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000009",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 191
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "NATALIA",
+        "LastName": "GOLIKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 199
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "VLADISLAV",
+        "LastName": "SAVELYEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 118
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "16000026",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 79
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030074",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 343
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "16000007",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 418
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040189",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 271
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 154
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990088",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 109
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "16000009",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 38
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04290037",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -19
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "16000031",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 66
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "16000008",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "NATALYA",
+        "LastName": "SAVELYEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -176
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04280015",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -180
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000170",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -243
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000006",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -283
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "16000016",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -50
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 52
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "16000021",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -218
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04290008",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -232
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "BRIGITTE",
+        "LastName": "WACHSMUTH",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -567
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000155",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -637
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04130106",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -587
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "16000034",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -913
+      }
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "MARIE-HÉLÈNE",
+        "LastName": "GROUX",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -506
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "16000032",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -644
+      }
+    }
+  ]
+}

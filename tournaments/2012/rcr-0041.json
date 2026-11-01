@@ -1,0 +1,128 @@
+{
+  "Name": "Riichi Danish Championship 2012",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-08-25",
+  "ToDate": "2012-08-26",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000022",
+      "Result": 171000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 116800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990024",
+      "Result": 67900
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "SHINSAKU",
+        "LastName": "IKEDA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 60600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 56100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000148",
+      "Result": 29600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000176",
+      "Result": 2000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -7300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000126",
+      "Result": -17100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "HELGE",
+        "LastName": "MOLLER PEDERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -17600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000051",
+      "Result": -33700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "YUJI",
+        "LastName": "OHORI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -54400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000003",
+      "Result": -75700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000192",
+      "Result": -95000
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "NICCOLO",
+        "LastName": "POULSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -96600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -106600
+    }
+  ]
+}

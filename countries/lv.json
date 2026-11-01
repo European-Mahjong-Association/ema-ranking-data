@@ -1,0 +1,40 @@
+{
+  "CountryCode": "lv",
+  "Country": "Latvia",
+  "Players": [
+    {
+      "EmaNumber": "27000001",
+      "FirstName": "OĻEGS",
+      "LastName": "OŠMJANS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "27000002",
+      "FirstName": "YULIIA",
+      "LastName": "ILINA"
+    },
+    {
+      "EmaNumber": "27000003",
+      "FirstName": "LYNXA",
+      "LastName": "ILVES",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "27000004",
+      "FirstName": "DMITRII",
+      "LastName": "BELASH"
+    }
+  ]
+}

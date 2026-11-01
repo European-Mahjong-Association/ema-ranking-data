@@ -1,0 +1,142 @@
+{
+  "Name": "8th open Italian riichi championship 2025",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-10-18",
+  "ToDate": "2025-10-19",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Raúl",
+      "LastName": "Ríos Navarro"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000093",
+      "Result": 154200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000180",
+      "Result": 83000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000200",
+      "Result": 79000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000080",
+      "Result": 45400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990103",
+      "Result": 42200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000131",
+      "Result": 40200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000175",
+      "Result": 37700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000210",
+      "Result": 14600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000018",
+      "Result": 11600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000202",
+      "Result": 11200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04290023",
+      "Result": -13600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000177",
+      "Result": -19500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000021",
+      "Result": -21900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000011",
+      "Result": -26000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000212",
+      "Result": -26800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990043",
+      "Result": -27600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000071",
+      "Result": -42400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000208",
+      "Result": -43000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000222",
+      "Result": -44400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000107",
+      "Result": -54000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000055",
+      "Result": -72000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000220",
+      "Result": -76200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "07000206",
+      "Result": -91800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "07000218",
+      "Result": -99900
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "CountryCode": "cz",
+  "Country": "Czech Republic",
+  "Players": [
+    {
+      "EmaNumber": "22000001",
+      "FirstName": "VOJTĚCH",
+      "LastName": "TRMAL"
+    },
+    {
+      "EmaNumber": "22000003",
+      "FirstName": "MARTIN",
+      "LastName": "DIVIŠ",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "22000004",
+      "FirstName": "RADKA",
+      "LastName": "NAVRATILOVA"
+    },
+    {
+      "EmaNumber": "22000016",
+      "FirstName": "FILIP",
+      "LastName": "NAVRÁTIL"
+    },
+    {
+      "EmaNumber": "22000021",
+      "FirstName": "PETR",
+      "LastName": "MATONOHA"
+    },
+    {
+      "EmaNumber": "22000027",
+      "FirstName": "MARTIN",
+      "LastName": "RYDLAND"
+    }
+  ]
+}

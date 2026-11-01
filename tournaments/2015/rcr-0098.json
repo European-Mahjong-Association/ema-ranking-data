@@ -1,0 +1,148 @@
+{
+  "Name": "SWEDISH OPEN RIICHI MAHJONG 2015",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-03-28",
+  "ToDate": "2015-03-29",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990068",
+      "Result": 249000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "17990007",
+      "Result": 221600
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "OSIPOV",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 174300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990047",
+      "Result": 113000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000149",
+      "Result": 105800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000003",
+      "Result": 82800
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 30200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990052",
+      "Result": 29100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000192",
+      "Result": 16400
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ROLF",
+        "LastName": "HEDBERG",
+        "RepresentingNationality": "se"
+      },
+      "Result": -9000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990064",
+      "Result": -12800
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ROBIN",
+        "LastName": "EKMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": -21400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000148",
+      "Result": -47400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000176",
+      "Result": -55700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000208",
+      "Result": -67800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -70500
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JOHAN",
+        "LastName": "EIDENVALL",
+        "RepresentingNationality": "se"
+      },
+      "Result": -142000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000156",
+      "Result": -142300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "BERGQUIST",
+        "RepresentingNationality": "se"
+      },
+      "Result": -203300
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "OLIVER",
+        "LastName": "EKSTRAND",
+        "RepresentingNationality": "se"
+      },
+      "Result": -252000
+    }
+  ]
+}

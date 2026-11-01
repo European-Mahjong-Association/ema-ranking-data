@@ -1,0 +1,279 @@
+{
+  "CountryCode": "ch",
+  "Country": "Switzerland",
+  "Players": [
+    {
+      "EmaNumber": "16000001",
+      "FirstName": "MEI HWA",
+      "LastName": "FELDER"
+    },
+    {
+      "EmaNumber": "16000002",
+      "FirstName": "BO",
+      "LastName": "LANG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "16000006",
+      "FirstName": "OLIVER",
+      "LastName": "PETEREIT"
+    },
+    {
+      "EmaNumber": "16000007",
+      "FirstName": "FRÉDÉRIC",
+      "LastName": "CHASSOT",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "16000008",
+      "FirstName": "ANNA",
+      "LastName": "CANOVA PUTINIER"
+    },
+    {
+      "EmaNumber": "16000009",
+      "FirstName": "NATHALIE",
+      "LastName": "JACQUART"
+    },
+    {
+      "EmaNumber": "16000011",
+      "FirstName": "GÉRARD",
+      "LastName": "HÊCHE"
+    },
+    {
+      "EmaNumber": "16000013",
+      "FirstName": "EVA",
+      "LastName": "LAINI"
+    },
+    {
+      "EmaNumber": "16000016",
+      "FirstName": "TANJA",
+      "LastName": "MAYR DELACRÉTAZ"
+    },
+    {
+      "EmaNumber": "16000020",
+      "FirstName": "PATRICE",
+      "LastName": "DELAY"
+    },
+    {
+      "EmaNumber": "16000021",
+      "FirstName": "MARC-ANTOINE",
+      "LastName": "HOFMANN"
+    },
+    {
+      "EmaNumber": "16000026",
+      "FirstName": "ESTHER",
+      "LastName": "HERNANDEZ"
+    },
+    {
+      "EmaNumber": "16000029",
+      "FirstName": "DEVI G.",
+      "LastName": "STECK"
+    },
+    {
+      "EmaNumber": "16000030",
+      "FirstName": "MARCOS",
+      "LastName": "ALONSO BLANCO"
+    },
+    {
+      "EmaNumber": "16000031",
+      "FirstName": "JUN",
+      "LastName": "LEE"
+    },
+    {
+      "EmaNumber": "16000032",
+      "FirstName": "LINDOR",
+      "LastName": "SHALA"
+    },
+    {
+      "EmaNumber": "16000034",
+      "FirstName": "THÉOPHILE",
+      "LastName": "LIBATO"
+    },
+    {
+      "EmaNumber": "16000035",
+      "FirstName": "THIBAUT",
+      "LastName": "ARNOLD",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "16000039",
+      "FirstName": "DARRYL",
+      "LastName": "ANDERSON"
+    },
+    {
+      "EmaNumber": "16000040",
+      "FirstName": "KOHEI",
+      "LastName": "MIYAKE"
+    },
+    {
+      "EmaNumber": "16000041",
+      "FirstName": "XENIA",
+      "LastName": "DESPOT"
+    },
+    {
+      "EmaNumber": "16000042",
+      "FirstName": "CÉDRIC",
+      "LastName": "BAUDIN"
+    },
+    {
+      "EmaNumber": "16000044",
+      "FirstName": "DUNCAN",
+      "LastName": "BOURQUARD",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "16000045",
+      "FirstName": "MARIE-CLAUDE",
+      "LastName": "ROLAND"
+    },
+    {
+      "EmaNumber": "16000046",
+      "FirstName": "Siew Kee",
+      "LastName": "THOO"
+    },
+    {
+      "EmaNumber": "16000047",
+      "FirstName": "Micaela",
+      "LastName": "BARDY"
+    },
+    {
+      "EmaNumber": "16000049",
+      "FirstName": "MURIEL",
+      "LastName": "ZIEGLER"
+    },
+    {
+      "EmaNumber": "16000050",
+      "FirstName": "FLORIAN",
+      "LastName": "MOREL"
+    },
+    {
+      "EmaNumber": "16000051",
+      "FirstName": "Aurélien",
+      "LastName": "JAQUIER"
+    },
+    {
+      "EmaNumber": "16000052",
+      "FirstName": "SIMON",
+      "LastName": "YUAN"
+    },
+    {
+      "EmaNumber": "16000053",
+      "FirstName": "MINNIE",
+      "LastName": "LEUNG"
+    },
+    {
+      "EmaNumber": "16000054",
+      "FirstName": "WEIPING",
+      "LastName": "TANG"
+    },
+    {
+      "EmaNumber": "16000055",
+      "FirstName": "Silvan",
+      "LastName": "KUNER"
+    },
+    {
+      "EmaNumber": "16000056",
+      "FirstName": "JULE",
+      "LastName": "JANEKE"
+    },
+    {
+      "EmaNumber": "16000057",
+      "FirstName": "RYAN",
+      "LastName": "DE MARIA"
+    },
+    {
+      "EmaNumber": "16000058",
+      "FirstName": "ANTHONY",
+      "LastName": "DUCRET"
+    },
+    {
+      "EmaNumber": "16000059",
+      "FirstName": "WEI",
+      "LastName": "SONG"
+    },
+    {
+      "EmaNumber": "16000060",
+      "FirstName": "JIN NI",
+      "LastName": "MARET"
+    },
+    {
+      "EmaNumber": "16000061",
+      "FirstName": "CAMILLE",
+      "LastName": "MENIS"
+    },
+    {
+      "EmaNumber": "16000062",
+      "FirstName": "NICOLAS",
+      "LastName": "VALLAT"
+    },
+    {
+      "EmaNumber": "16000063",
+      "FirstName": "PHILIPP",
+      "LastName": "DASEN"
+    },
+    {
+      "EmaNumber": "16000064",
+      "FirstName": "HAOCEN",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "16000065",
+      "FirstName": "DEBBIE",
+      "LastName": "CHAN"
+    },
+    {
+      "EmaNumber": "16000066",
+      "FirstName": "MARCO",
+      "LastName": "VIVA"
+    },
+    {
+      "EmaNumber": "16000067",
+      "FirstName": "Jonathan",
+      "LastName": "UNGER"
+    },
+    {
+      "EmaNumber": "16000069",
+      "FirstName": "LARS",
+      "LastName": "DOMMISSE"
+    },
+    {
+      "EmaNumber": "16000070",
+      "FirstName": "JIANMEI",
+      "LastName": "TAO"
+    },
+    {
+      "EmaNumber": "16000071",
+      "FirstName": "KEVIN",
+      "LastName": "HÄUSLER"
+    }
+  ]
+}

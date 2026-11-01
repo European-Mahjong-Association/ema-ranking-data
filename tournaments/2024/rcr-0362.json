@@ -1,0 +1,262 @@
+{
+  "Name": "Tenpai Finnish Championship 2024",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-12-21",
+  "ToDate": "2024-12-22",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Eskild",
+      "LastName": "MIDDELBOE"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 2,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990104",
+      "Result": 208500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990053",
+      "Result": 172500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990113",
+      "Result": 170200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000241",
+      "Result": 125500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990050",
+      "Result": 119800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990162",
+      "Result": 118900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990156",
+      "Result": 96000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990155",
+      "Result": 77500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990163",
+      "Result": 69500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990057",
+      "Result": 62500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990047",
+      "Result": 51400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990143",
+      "Result": 48400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990158",
+      "Result": 47100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990044",
+      "Result": 36200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990110",
+      "Result": 32000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990135",
+      "Result": 31400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990132",
+      "Result": 30800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990151",
+      "Result": 25800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990136",
+      "Result": 17100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990049",
+      "Result": 15700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990096",
+      "Result": 6400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990020",
+      "Result": 2200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990112",
+      "Result": -3500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990142",
+      "Result": -4100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990024",
+      "Result": -7400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990144",
+      "Result": -16000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990060",
+      "Result": -24500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990111",
+      "Result": -24700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990043",
+      "Result": -25500
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990145",
+      "Result": -30400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990164",
+      "Result": -33000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990079",
+      "Result": -39800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990120",
+      "Result": -44200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "14990165",
+      "Result": -44300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "14990160",
+      "Result": -55100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990166",
+      "Result": -59400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "14990134",
+      "Result": -59600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "14990133",
+      "Result": -69800
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "14990131",
+      "Result": -78000
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "14990105",
+      "Result": -97500
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "14990152",
+      "Result": -102400
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "14990115",
+      "Result": -105000
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "14990040",
+      "Result": -107000
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "14990146",
+      "Result": -107400
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "14990167",
+      "Result": -116600
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "14990161",
+      "Result": -129500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "14990054",
+      "Result": -131200
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "14990066",
+      "Result": -134500
+    }
+  ]
+}

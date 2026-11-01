@@ -1,0 +1,282 @@
+{
+  "Name": "DOPPELTURNIER 2016 - MCR OPEN",
+  "Country": "de",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-10-30",
+  "ToDate": "2016-10-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Eveline",
+      "LastName": "Broers"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 306
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100165",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 314
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010028",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 246
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 297
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100024",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 128
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05100058",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 82
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MARION",
+        "LastName": "MEIER",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 40
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05100100",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 124
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 46
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "GONG",
+        "LastName": "YIXIN",
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -150
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100078",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 284
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010003",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 257
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100017",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 162
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 117
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100057",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 28
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 2
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "HEIKO",
+        "LastName": "DOMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -33
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05100016",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -167
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ULLA",
+        "LastName": "EICKSCHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 182
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05900008",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -42
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -250
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05100077",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -217
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "HEIDE",
+        "LastName": "PREUSS",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ROLLE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "KAI OLIVIER",
+        "LastName": "GROTE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -295
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "JÜRGEN",
+        "LastName": "BRAHMST-SÖRENSEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -299
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100018",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -320
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "CORNELIA",
+        "LastName": "CAPITO",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -368
+      }
+    }
+  ]
+}

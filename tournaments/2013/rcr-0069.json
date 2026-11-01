@@ -1,0 +1,226 @@
+{
+  "Name": "PARIS TOURNAMENT 2013",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-12-07",
+  "ToDate": "2013-12-08",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Martin",
+      "LastName": "Rep"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "YUKIO",
+        "LastName": "KORIYAMA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 187600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990057",
+      "Result": 122400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "YANN",
+        "LastName": "SALMON",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 87700
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 86300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04160015",
+      "Result": 85400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11990044",
+      "Result": 80000
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 44600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990214",
+      "Result": 32200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040189",
+      "Result": 19400
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "VALÉRIAN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 6800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990047",
+      "Result": 6000
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "DO THU KHOA",
+        "LastName": "TRINH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 3700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "JULIEN",
+        "LastName": "RATEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -1100
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -7100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010020",
+      "Result": -11500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "FABIEN",
+        "LastName": "ROBERT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -14400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04040105",
+      "Result": -17800
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "SEAN",
+        "LastName": "SHORTEN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -42100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04040121",
+      "Result": -43900
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -56800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04160035",
+      "Result": -71400
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -77900
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ANTOINE",
+        "LastName": "BOUVIER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -88900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04040102",
+      "Result": -108800
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "SHINSAKU",
+        "LastName": "IKEDA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -124300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "11990028",
+      "Result": -132100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "NADINE",
+        "LastName": "LANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -140500
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "DISQUALIFIED",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 0
+    }
+  ]
+}

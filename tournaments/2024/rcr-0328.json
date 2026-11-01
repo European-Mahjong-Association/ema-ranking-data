@@ -1,0 +1,246 @@
+{
+  "Name": "4th Mizuchi no Zaihou Brno",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-04-20",
+  "ToDate": "2024-04-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lena",
+      "LastName": "Weinguny"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 44,
+  "NrCountries": 12,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000127",
+      "Result": 199400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990016",
+      "Result": 136000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "17990007",
+      "Result": 133900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030045",
+      "Result": 108800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000035",
+      "Result": 94700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05000018",
+      "Result": 76400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000169",
+      "Result": 72900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "16000040",
+      "Result": 70600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000093",
+      "Result": 63800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990004",
+      "Result": 62700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000168",
+      "Result": 50500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000073",
+      "Result": 50400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000102",
+      "Result": 44000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000071",
+      "Result": 39900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "22000027",
+      "Result": 25600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000144",
+      "Result": 22700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "21000015",
+      "Result": 15600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000003",
+      "Result": 15000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000053",
+      "Result": 12100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04990093",
+      "Result": 7700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000171",
+      "Result": 7000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000175",
+      "Result": 6900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "01000125",
+      "Result": -1000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "21000055",
+      "Result": -4800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04030091",
+      "Result": -5300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "17990008",
+      "Result": -6700
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "01000154",
+      "Result": -15200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "22000016",
+      "Result": -16500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "17990009",
+      "Result": -22700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "21000072",
+      "Result": -30200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "01000148",
+      "Result": -36400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000087",
+      "Result": -38600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "22000004",
+      "Result": -42600
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "12990014",
+      "Result": -57200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05000012",
+      "Result": -64700
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "21000074",
+      "Result": -73800
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "22000001",
+      "Result": -80300
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04030124",
+      "Result": -82100
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "Emma Nguyen",
+        "LastName": null,
+        "RepresentingNationality": "vide"
+      },
+      "Result": -89200
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "19000157",
+      "Result": -95000
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04030128",
+      "Result": -112800
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "25000009",
+      "Result": -120900
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "22000003",
+      "Result": -158400
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "17990003",
+      "Result": -162200
+    }
+  ]
+}

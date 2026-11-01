@@ -1,0 +1,282 @@
+{
+  "Name": "Valencia Riichi 2026",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-02",
+  "ToDate": "2026-05-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sérgio",
+      "LastName": "MATOS LIMA"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 10,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990234",
+      "Result": 190800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "16000040",
+      "Result": 168000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990043",
+      "Result": 147500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04310048",
+      "Result": 146600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990140",
+      "Result": 137900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990087",
+      "Result": 122700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990114",
+      "Result": 104000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11000060",
+      "Result": 93200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990104",
+      "Result": 91300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04530013",
+      "Result": 76900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05000029",
+      "Result": 75600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990118",
+      "Result": 73000
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990127",
+      "Result": 62500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990101",
+      "Result": 50900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04530005",
+      "Result": 47100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990091",
+      "Result": 43500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990105",
+      "Result": 35600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990253",
+      "Result": 25200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "12990014",
+      "Result": 23800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04320006",
+      "Result": 20400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04160092",
+      "Result": 16400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990082",
+      "Result": 10900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990027",
+      "Result": 9300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "26000023",
+      "Result": 6300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "10990084",
+      "Result": 1500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990129",
+      "Result": -1600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990093",
+      "Result": -5900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990125",
+      "Result": -7400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "10990141",
+      "Result": -7400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "19000071",
+      "Result": -26200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "10990100",
+      "Result": -26800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "10990138",
+      "Result": -29600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "10990099",
+      "Result": -31700
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04530026",
+      "Result": -42600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "10990126",
+      "Result": -49900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "10990010",
+      "Result": -57500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "10990110",
+      "Result": -67000
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "10990092",
+      "Result": -72200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04320005",
+      "Result": -73800
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "10990117",
+      "Result": -84100
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04090098",
+      "Result": -85400
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "10990026",
+      "Result": -99200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "10990102",
+      "Result": -101100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "10990999",
+      "Result": -102800
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "16000051",
+      "Result": -108400
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "10990011",
+      "Result": -110300
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "04530015",
+      "Result": -110600
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "10990116",
+      "Result": -114500
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "10990136",
+      "Result": -128900
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "14990178",
+      "Result": -135300
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "10990139",
+      "Result": -151700
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "12000017",
+      "Result": -258000
+    }
+  ]
+}

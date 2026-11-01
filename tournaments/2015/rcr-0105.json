@@ -1,0 +1,302 @@
+{
+  "Name": "UK OPEN RIICHI 2015",
+  "Country": "gb",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-08-15",
+  "ToDate": "2015-08-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Philipp",
+      "LastName": "Martin"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 9,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990004",
+      "Result": 262700
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "YIHE",
+        "LastName": "LU",
+        "RepresentingNationality": "cn"
+      },
+      "Result": 227500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990047",
+      "Result": 215200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11990057",
+      "Result": 201500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "11990006",
+      "Result": 142100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11990044",
+      "Result": 116700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990010",
+      "Result": 109900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "KATIE",
+        "LastName": "LAU",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 90200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11990011",
+      "Result": 89800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100153",
+      "Result": 87400
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 68400
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 55900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "11990022",
+      "Result": 53500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JUNICHI",
+        "LastName": "TANAKA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 37500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "TAKAO",
+        "LastName": "SASAKI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 34500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 29400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11000008",
+      "Result": 20000
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "WOOD",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 19900
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "KIMIHITO",
+        "LastName": "TANAKA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 18000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "BRESNICK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 8500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990028",
+      "Result": 3600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990074",
+      "Result": -13000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "22000004",
+      "Result": -21100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "22000016",
+      "Result": -27300
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "KATHARINA",
+        "LastName": "SCHATZ",
+        "RepresentingNationality": "de"
+      },
+      "Result": -32400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "11990081",
+      "Result": -42700
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -48700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010728",
+      "Result": -53600
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "MARK",
+        "LastName": "HAINES",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -64500
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "SHAUN",
+        "LastName": "DRURY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -88800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "11990005",
+      "Result": -103800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "11990084",
+      "Result": -105700
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ALEX",
+        "LastName": "LEET",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -110300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "11990020",
+      "Result": -133100
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "HANQIAN",
+        "LastName": "REN",
+        "RepresentingNationality": "cn"
+      },
+      "Result": -136100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990085",
+      "Result": -136500
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "STALLAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -141500
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "SUSAN",
+        "LastName": "CUMMING",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -146900
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "MURIEL",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -220500
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "ANDREW",
+        "LastName": "SMITH",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -265700
+    }
+  ]
+}

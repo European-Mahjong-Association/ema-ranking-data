@@ -1,0 +1,228 @@
+{
+  "Name": "Riichi Copenhagen Open 2012",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-09-29",
+  "ToDate": "2012-09-30",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 6,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 285000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 203100
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 142900
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 116900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000149",
+      "Result": 100700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000005",
+      "Result": 83500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 70800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "24000003",
+      "Result": 70100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990049",
+      "Result": 59400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990068",
+      "Result": 54000
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "FRITIOFF",
+        "LastName": "OLSSEN",
+        "RepresentingNationality": "se"
+      },
+      "Result": 46500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 46200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "17990009",
+      "Result": 35700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000176",
+      "Result": 23100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000003",
+      "Result": 22900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "CAROLINE",
+        "LastName": "KOPMANIS",
+        "RepresentingNationality": "be"
+      },
+      "Result": 8900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000192",
+      "Result": -3300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JOHAN",
+        "LastName": "EIDENVALL",
+        "RepresentingNationality": "se"
+      },
+      "Result": -33800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000118",
+      "Result": -36800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000049",
+      "Result": -54600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990047",
+      "Result": -56700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "17990007",
+      "Result": -62000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "17990003",
+      "Result": -64500
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -74000
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -76600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "09990064",
+      "Result": -81800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000022",
+      "Result": -103700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "03000148",
+      "Result": -107100
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "PER",
+        "LastName": "HYYRYNEN",
+        "RepresentingNationality": "se"
+      },
+      "Result": -151800
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "NYMARK",
+        "RepresentingNationality": "se"
+      },
+      "Result": -157800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "03000126",
+      "Result": -164500
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "17990004",
+      "Result": -166100
+    }
+  ]
+}

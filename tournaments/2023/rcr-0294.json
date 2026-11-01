@@ -1,0 +1,418 @@
+{
+  "Name": "SILESIAN RIICHI OPEN 2023",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-05-06",
+  "ToDate": "2023-05-07",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sérgio",
+      "LastName": "Matos Lima"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 68,
+  "NrCountries": 7,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000144",
+      "Result": 147500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000035",
+      "Result": 126800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000087",
+      "Result": 101600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000145",
+      "Result": 100100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000072",
+      "Result": 98900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000039",
+      "Result": 93800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000053",
+      "Result": 90700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000140",
+      "Result": 84400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11000042",
+      "Result": 83800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000148",
+      "Result": 78900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000003",
+      "Result": 72600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000136",
+      "Result": 67500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000154",
+      "Result": 62700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000091",
+      "Result": 62000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000149",
+      "Result": 58500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000162",
+      "Result": 57600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DOMINIK",
+        "LastName": "WILKUS",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 56900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000055",
+      "Result": 55400
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 53600
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "NANA",
+        "LastName": "HAYASHI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 48500
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "AKIHIRO",
+        "LastName": "HAYASHI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 47500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "21000005",
+      "Result": 46300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000141",
+      "Result": 35000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000129",
+      "Result": 34400
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": null,
+        "LastName": null,
+        "RepresentingNationality": "ua"
+      },
+      "Result": 29500
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "MĄDRECKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 27800
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "VARCHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 15200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "19000085",
+      "Result": 11500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "19000067",
+      "Result": 9400
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "TATSUYA",
+        "LastName": "ONOSE",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 7400
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "MAXIM",
+        "LastName": "SHAPARAU",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 7000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000167",
+      "Result": 4300
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "DAIICHIRO",
+        "LastName": "SEKIKAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 4100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "19000006",
+      "Result": 2400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "19000080",
+      "Result": 2200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "19000168",
+      "Result": -3500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "19000169",
+      "Result": -8700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "19000093",
+      "Result": -13300
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "19000101",
+      "Result": -13800
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "19000152",
+      "Result": -16000
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "19000031",
+      "Result": -17700
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "19000066",
+      "Result": -18600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "19000102",
+      "Result": -18700
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "11990138",
+      "Result": -25600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "19000170",
+      "Result": -43000
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "19000001",
+      "Result": -43700
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "19000171",
+      "Result": -44000
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "19000120",
+      "Result": -44800
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "01000013",
+      "Result": -45500
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "12990014",
+      "Result": -50200
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "19000071",
+      "Result": -51200
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "05000009",
+      "Result": -56700
+    },
+    {
+      "Placement": 53,
+      "Player": {
+        "FirstName": "HIROAKI",
+        "LastName": "NOGUCHI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -59700
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "20000019",
+      "Result": -60900
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "21000016",
+      "Result": -64300
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "AGATA",
+        "LastName": "ROSIŃSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -68300
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "19000174",
+      "Result": -72600
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "19000041",
+      "Result": -75400
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "05100182",
+      "Result": -78200
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "19000153",
+      "Result": -79300
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "19000175",
+      "Result": -82800
+    },
+    {
+      "Placement": 62,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ZOUBEK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -104900
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "19000155",
+      "Result": -105500
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "19000157",
+      "Result": -120500
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "19000156",
+      "Result": -123000
+    },
+    {
+      "Placement": 66,
+      "Player": {
+        "FirstName": "KUŹMA",
+        "LastName": "PAPAKUŁ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -127700
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "19000143",
+      "Result": -132800
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "21000015",
+      "Result": -134900
+    }
+  ]
+}

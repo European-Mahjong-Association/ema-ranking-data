@@ -1,0 +1,180 @@
+{
+  "Name": "REACH AUSTRIA TOURNAMENT",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2008-12-14",
+  "ToDate": "2008-12-14",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 8,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000053",
+      "Result": 98200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990006",
+      "Result": 78100
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "MUSTONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 65800
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 44300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "PAUL",
+        "LastName": "BENEDER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 36400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000013",
+      "Result": 29500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "AI",
+        "LastName": "IWAKI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 24100
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MARK",
+        "LastName": "CHIZHENOK",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 21600
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "NILS",
+        "LastName": "MAYERHOFER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 14300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "SJÖBLOM",
+        "RepresentingNationality": "se"
+      },
+      "Result": -3300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "RAPHAEL",
+        "LastName": "HOBBIGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -10800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000005",
+      "Result": -15400
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -17900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "BOTOND",
+        "LastName": "KIS",
+        "RepresentingNationality": "at"
+      },
+      "Result": -26300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "SRDJAN",
+        "LastName": "JATIC",
+        "RepresentingNationality": "at"
+      },
+      "Result": -26800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "KLÜPFEL",
+        "RepresentingNationality": "de"
+      },
+      "Result": -30300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -39800
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "ROMAN",
+        "LastName": "KASZUBA",
+        "RepresentingNationality": "at"
+      },
+      "Result": -49200
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "LARS",
+        "LastName": "DIECKOW",
+        "RepresentingNationality": "at"
+      },
+      "Result": -79100
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "CHANG",
+        "LastName": "XUE",
+        "RepresentingNationality": "at"
+      },
+      "Result": -117700
+    }
+  ]
+}

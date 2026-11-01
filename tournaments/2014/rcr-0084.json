@@ -1,0 +1,180 @@
+{
+  "Name": "Riichi Danish Championship 2014",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-08-30",
+  "ToDate": "2014-08-31",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100146",
+      "Result": 186400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 153300
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JANNE",
+        "LastName": "GRONDAHL",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 120000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000126",
+      "Result": 114800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000049",
+      "Result": 77600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990033",
+      "Result": 75300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 69600
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "REBECCA",
+        "LastName": "WAGNER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 57100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000149",
+      "Result": 51200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990029",
+      "Result": 25100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000192",
+      "Result": -500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000051",
+      "Result": -5300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000176",
+      "Result": -16900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "OSSI",
+        "LastName": "HIRVOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -21500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -27100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "SAMU",
+        "LastName": "VIITANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -32000
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JACOB",
+        "LastName": "SCHACHT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -35600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000148",
+      "Result": -38000
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -38100
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": -78000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000156",
+      "Result": -99200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "03000208",
+      "Result": -151400
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "LI YAN",
+        "LastName": "NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -154100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990031",
+      "Result": -232700
+    }
+  ]
+}

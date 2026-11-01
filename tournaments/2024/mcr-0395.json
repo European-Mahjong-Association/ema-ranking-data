@@ -1,0 +1,510 @@
+{
+  "Name": "MCR Danish Championship 2024",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-05-10",
+  "ToDate": "2024-05-12",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Erwan de",
+      "LastName": "KERGOMMEAUX"
+    }
+  ],
+  "NrDays": 3,
+  "NrPlayers": 60,
+  "NrCountries": 11,
+  "MersWeight": 4.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090008",
+      "Result": {
+        "TablePoints": 31.0,
+        "ContestPoints": 1372
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 30.0,
+        "ContestPoints": 1098
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04040246",
+      "Result": {
+        "TablePoints": 30.0,
+        "ContestPoints": 553
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 29.0,
+        "ContestPoints": 408
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 27.0,
+        "ContestPoints": 368
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 954
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 716
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 224
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04120084",
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 165
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "Yong",
+        "LastName": "FAI",
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 119
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 618
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 341
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "16000008",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 201
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "BERNARD - ANG",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 478
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04090093",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 309
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "24888001",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 895
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990114",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 647
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04210032",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 278
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000083",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": -90
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 464
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 442
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05100056",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 148
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990128",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 65
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 240
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 77
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "07000109",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": -94
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 103
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05100058",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 25
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990106",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": -23
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "19000080",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 129
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04090080",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 111
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -49
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 106
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04210015",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 194
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04090055",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": -157
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": -408
+      }
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -29
+      }
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "03000215",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -189
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05900008",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -220
+      }
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -515
+      }
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "05000053",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -635
+      }
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 21
+      }
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "04310069",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -33
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "04040105",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -112
+      }
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -194
+      }
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "05900002",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -243
+      }
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -468
+      }
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04040243",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -230
+      }
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "16000007",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -453
+      }
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "05100100",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -543
+      }
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "05100016",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -560
+      }
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04290030",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -328
+      }
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "10990082",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -534
+      }
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "04160109",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -489
+      }
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "05100165",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -598
+      }
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "05100077",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -675
+      }
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "04210040",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -608
+      }
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -933
+      }
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "09990151",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -1224
+      }
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "03000262",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -1245
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "Name": "Valencia Hatsuyume 2025",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-13",
+  "ToDate": "2025-12-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Zongbo",
+      "LastName": "Bao"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 9,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990043",
+      "Result": 245500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05000060",
+      "Result": 144900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990085",
+      "Result": 126600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990104",
+      "Result": 122300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990117",
+      "Result": 94300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990076",
+      "Result": 91300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990099",
+      "Result": 87700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990101",
+      "Result": 65000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990027",
+      "Result": 62200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04310048",
+      "Result": 40600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05000083",
+      "Result": 37600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990092",
+      "Result": 30600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990010",
+      "Result": 29300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11000085",
+      "Result": 22100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000207",
+      "Result": 19400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990082",
+      "Result": 14800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990084",
+      "Result": 14100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08011151",
+      "Result": 13500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990087",
+      "Result": 6600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04320006",
+      "Result": 6500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990128",
+      "Result": 900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990123",
+      "Result": -200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990125",
+      "Result": -200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990129",
+      "Result": -400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02000043",
+      "Result": -14900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990103",
+      "Result": -28000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04320005",
+      "Result": -38900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990118",
+      "Result": -42900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "10990130",
+      "Result": -48800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "10990127",
+      "Result": -53400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "10990131",
+      "Result": -80400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "10990011",
+      "Result": -84100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "10990126",
+      "Result": -86100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "10990116",
+      "Result": -98100
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "10990102",
+      "Result": -104000
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "10990100",
+      "Result": -123300
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "STHEFANI",
+        "LastName": "DEMEDICI",
+        "RepresentingNationality": "uy"
+      },
+      "Result": -134900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "10990122",
+      "Result": -136500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "10990026",
+      "Result": -165700
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "12000017",
+      "Result": -178000
+    }
+  ]
+}

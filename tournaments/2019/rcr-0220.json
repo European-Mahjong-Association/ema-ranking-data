@@ -1,0 +1,144 @@
+{
+  "Name": "1ST REGGIO EMILIA RIICHI OPEN",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-02-17",
+  "ToDate": "2019-02-17",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000021",
+      "Result": 50900
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "LORENZO",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": 49200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000009",
+      "Result": 28700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000131",
+      "Result": 32300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 26100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000093",
+      "Result": 14400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000018",
+      "Result": 19700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000177",
+      "Result": 10200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000155",
+      "Result": 12600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "LETIZIA",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": 8200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000170",
+      "Result": -3600
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "GIANLUCA",
+        "LastName": "DEBIDDA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -8800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "RAMANPREET",
+        "LastName": "SINGH",
+        "RepresentingNationality": "it"
+      },
+      "Result": -14700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000107",
+      "Result": -3100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000160",
+      "Result": -23700
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "COLI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -21100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000180",
+      "Result": -21400
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "GIORDANO",
+        "LastName": "URBANI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -37000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000109",
+      "Result": -57600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000080",
+      "Result": -61300
+    }
+  ]
+}

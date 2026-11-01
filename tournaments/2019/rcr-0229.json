@@ -1,0 +1,110 @@
+{
+  "Name": "1ST RIICHI MAHJONG MADRID CHAMPIONSHIP 2019",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-04-19",
+  "ToDate": "2019-04-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Cédric",
+      "LastName": "Aguerre"
+    }
+  ],
+  "NrDays": 3,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990020",
+      "Result": 182700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990027",
+      "Result": 177900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090080",
+      "Result": 76400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100153",
+      "Result": 52000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990043",
+      "Result": 69500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04090025",
+      "Result": 52200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990026",
+      "Result": 19000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": -6000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040036",
+      "Result": 18200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04090090",
+      "Result": -3700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04090024",
+      "Result": -19300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990053",
+      "Result": -60200
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "SHU-WEN",
+        "LastName": "KUO",
+        "RepresentingNationality": "es"
+      },
+      "Result": -88300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04040057",
+      "Result": -130300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990039",
+      "Result": -183400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990025",
+      "Result": -186300
+    }
+  ]
+}

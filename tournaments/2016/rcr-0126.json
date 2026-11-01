@@ -1,0 +1,120 @@
+{
+  "Name": "SWEDISH OPEN RIICHI CHAMPIONSHIP 2016",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-04-23",
+  "ToDate": "2016-04-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000051",
+      "Result": 108200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990049",
+      "Result": 86400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 81400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990052",
+      "Result": 71000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000156",
+      "Result": 62100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "FRITIOFF",
+        "LastName": "OLSSEN",
+        "RepresentingNationality": "se"
+      },
+      "Result": 36600
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "KARL",
+        "LastName": "ANDERSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": 11100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990068",
+      "Result": 8500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990047",
+      "Result": 200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "BERGQUIST",
+        "RepresentingNationality": "se"
+      },
+      "Result": -18200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "JOHAN",
+        "LastName": "EIDENVALL",
+        "RepresentingNationality": "se"
+      },
+      "Result": -37000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990090",
+      "Result": -45200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000208",
+      "Result": -96600
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -102500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000192",
+      "Result": -105600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990064",
+      "Result": -120400
+    }
+  ]
+}

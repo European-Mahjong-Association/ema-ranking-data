@@ -1,0 +1,162 @@
+{
+  "Name": "Bologna Double Race 2025 - Riichi",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-06-07",
+  "ToDate": "2025-06-07",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Aymeric",
+      "LastName": "MASSON"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000210",
+      "Result": 97000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000170",
+      "Result": 71700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000018",
+      "Result": 70000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000175",
+      "Result": 62400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "02010078",
+      "Result": 61700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "02010054",
+      "Result": 48000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000177",
+      "Result": 44000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000080",
+      "Result": 42700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000034",
+      "Result": 26200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000213",
+      "Result": 22300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010086",
+      "Result": 16900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000212",
+      "Result": 16100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000206",
+      "Result": -3300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000180",
+      "Result": -7400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000021",
+      "Result": -11200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000217",
+      "Result": -11500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000093",
+      "Result": -19100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000218",
+      "Result": -19100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000107",
+      "Result": -34400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000155",
+      "Result": -35800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000219",
+      "Result": -39100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000220",
+      "Result": -39400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "07000131",
+      "Result": -46900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "07000011",
+      "Result": -53700
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "07000208",
+      "Result": -56600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "07000200",
+      "Result": -57000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "07000109",
+      "Result": -65400
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000196",
+      "Result": -99100
+    }
+  ]
+}

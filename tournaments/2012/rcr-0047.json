@@ -1,0 +1,246 @@
+{
+  "Name": "HACHI HACHI TAIKAI 2012",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-12-08",
+  "ToDate": "2012-12-08",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Alexander",
+      "LastName": "Doppelhofer"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "TOMASZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 120000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 104000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000003",
+      "Result": 100100
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "GRZEGORZ",
+        "LastName": "KALINOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 81700
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "KAORU",
+        "LastName": "TOMOMATSU",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 66500
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "TOSHINORI",
+        "LastName": "KONDO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 66200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "HIROSHI",
+        "LastName": "OTAKE",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 64200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "TERUHIKO",
+        "LastName": "ARAKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 60500
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 55100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000001",
+      "Result": 53000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000006",
+      "Result": 52300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "HIROSHI",
+        "LastName": "IKEUCHI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 51000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "DAISUKE",
+        "LastName": "HONGO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 43800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000007",
+      "Result": 30200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010083",
+      "Result": 23500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JEREMIASZ",
+        "LastName": "WALCZAK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 20100
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MICHAŁ",
+        "LastName": "WOŹNY",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -10500
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "WIKTOR",
+        "LastName": "KLONOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -15300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "TAKUMA",
+        "LastName": "SUZUKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -31200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000011",
+      "Result": -48400
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MACIEJ",
+        "LastName": "KRAWCZAK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -70700
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "JACEK",
+        "LastName": "MENDYK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -80800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "SEBASTIAN",
+        "LastName": "MARKOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -82400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "KAJAT",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -113100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "KLAUDIA",
+        "LastName": "POKÓJ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -113300
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "DOMINIKA",
+        "LastName": "BŁAŻYCA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -115900
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "BOLIMOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -133800
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "JERZY",
+        "LastName": "RUZIK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -176800
+    }
+  ]
+}

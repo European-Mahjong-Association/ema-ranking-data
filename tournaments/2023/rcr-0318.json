@@ -1,0 +1,186 @@
+{
+  "Name": "BUCHARIICHI 2023",
+  "Country": "ro",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-11-25",
+  "ToDate": "2023-11-26",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Julien",
+      "LastName": "FOUQUES"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04160081",
+      "Result": 173900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "21000014",
+      "Result": 127500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04040048",
+      "Result": 126600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04310012",
+      "Result": 118800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "24000003",
+      "Result": 88900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04530002",
+      "Result": 58400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010052",
+      "Result": 46800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "25000003",
+      "Result": 46700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100168",
+      "Result": 44900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05000037",
+      "Result": 44200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000053",
+      "Result": 35500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "25000009",
+      "Result": 29400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990047",
+      "Result": 15200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010436",
+      "Result": 3500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "25000002",
+      "Result": 3000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990143",
+      "Result": -2900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990127",
+      "Result": -33300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000154",
+      "Result": -40200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "25000005",
+      "Result": -41900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100166",
+      "Result": -42300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05100182",
+      "Result": -43600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "25000008",
+      "Result": -52000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000005",
+      "Result": -54000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04160080",
+      "Result": -54600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010737",
+      "Result": -57400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "05100181",
+      "Result": -58900
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100167",
+      "Result": -84000
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02000005",
+      "Result": -101100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "05100153",
+      "Result": -120300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "25000007",
+      "Result": -132400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "25000006",
+      "Result": -167600
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -270000
+    }
+  ]
+}

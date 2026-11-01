@@ -1,0 +1,102 @@
+{
+  "Name": "Riichi Italian Championship 2022 (5th)",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-11-03",
+  "ToDate": "2022-11-04",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Michael",
+      "LastName": "Gürtl-Dusleag"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000018",
+      "Result": 134600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000131",
+      "Result": 115900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000176",
+      "Result": 47400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000170",
+      "Result": 38500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "12990014",
+      "Result": 36500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000080",
+      "Result": 34700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000109",
+      "Result": 29300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000104",
+      "Result": 16500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000164",
+      "Result": 13900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000125",
+      "Result": -29600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000071",
+      "Result": -33300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000177",
+      "Result": -37900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000093",
+      "Result": -70700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000180",
+      "Result": -77400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000009",
+      "Result": -108900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000021",
+      "Result": -109500
+    }
+  ]
+}

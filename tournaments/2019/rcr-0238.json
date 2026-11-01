@@ -1,0 +1,134 @@
+{
+  "Name": "BOLOGNA DOUBLE RACE 2019 - RIICHI",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-06-15",
+  "ToDate": "2019-06-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Annie",
+      "LastName": "Manzo"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000018",
+      "Result": 70900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000093",
+      "Result": 62800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04040057",
+      "Result": 58500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000164",
+      "Result": 36000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000021",
+      "Result": 27500
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "LORENZO",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": 24000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000131",
+      "Result": -600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000009",
+      "Result": -4700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000170",
+      "Result": -4700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04090025",
+      "Result": -10400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000160",
+      "Result": -13000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000080",
+      "Result": -13900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04090024",
+      "Result": -15100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000002",
+      "Result": -15200
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -15300
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -21400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000155",
+      "Result": -24400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000176",
+      "Result": -26800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000052",
+      "Result": -72400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000104",
+      "Result": -81800
+    }
+  ]
+}

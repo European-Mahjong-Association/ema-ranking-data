@@ -1,0 +1,286 @@
+{
+  "Name": "Breizh Open 2024",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-08",
+  "ToDate": "2024-06-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jérémie",
+      "LastName": "PIERARD DE MAUJOUY"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 5,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04320014",
+      "Result": 174700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04990106",
+      "Result": 151000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04990103",
+      "Result": 135900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04090055",
+      "Result": 131300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04160071",
+      "Result": 118100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04300046",
+      "Result": 112500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04210032",
+      "Result": 96900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04040121",
+      "Result": 92400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04160081",
+      "Result": 87700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04040105",
+      "Result": 87000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04320005",
+      "Result": 78800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04160103",
+      "Result": 50600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04310086",
+      "Result": 50400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160140",
+      "Result": 49300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04090098",
+      "Result": 48700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04040036",
+      "Result": 42600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04160080",
+      "Result": 41500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04040057",
+      "Result": 38700
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "LastName": null,
+        "RepresentingNationality": "ca"
+      },
+      "Result": 35600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04090078",
+      "Result": 34700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04310040",
+      "Result": 30500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "16000035",
+      "Result": 27500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04160108",
+      "Result": 26800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04140010",
+      "Result": 15800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04300022",
+      "Result": -500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160112",
+      "Result": -2400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04230040",
+      "Result": -9300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04210023",
+      "Result": -11700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04160118",
+      "Result": -17000
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160134",
+      "Result": -19900
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04090071",
+      "Result": -20600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04310065",
+      "Result": -24200
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04160082",
+      "Result": -37000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04310012",
+      "Result": -38100
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04160141",
+      "Result": -49100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04300031",
+      "Result": -51900
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04160139",
+      "Result": -57100
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "10990082",
+      "Result": -58500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04310050",
+      "Result": -60200
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04090080",
+      "Result": -61100
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "12000001",
+      "Result": -64900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04160088",
+      "Result": -66200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "04320004",
+      "Result": -67900
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "04160109",
+      "Result": -81400
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04310094",
+      "Result": -95100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "04320006",
+      "Result": -99500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "04560009",
+      "Result": -102200
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04310087",
+      "Result": -106500
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04240014",
+      "Result": -124100
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "04310089",
+      "Result": -134400
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "04090008",
+      "Result": -156600
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04160114",
+      "Result": -221600
+    }
+  ]
+}

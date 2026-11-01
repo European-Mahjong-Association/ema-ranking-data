@@ -1,0 +1,318 @@
+{
+  "Name": "Rode Lotus MCR 2026",
+  "Country": "be",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-30",
+  "ToDate": "2026-05-31",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Thomas",
+      "LastName": "BOUTONNET"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 9,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04280015",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 992
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04990024",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 519
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010036",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 515
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "02010014",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 494
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 497
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 334
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04090025",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 254
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04090055",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 553
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040201",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 288
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010495",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 52
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 363
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04210056",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 202
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04130106",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 194
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04280017",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 186
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000080",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 32
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04280033",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -65
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04090024",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010698",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 165
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04090060",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -8
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04550024",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -94
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04040036",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -169
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -488
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02000007",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -216
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "BERNARD",
+        "LastName": "ANG WEI MING",
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -369
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02010052",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -120
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -187
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04040243",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -232
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010041",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -271
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010769",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -341
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010743",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -218
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -262
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -445
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010073",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -452
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -586
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02000047",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -791
+      }
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": 0
+      }
+    }
+  ]
+}

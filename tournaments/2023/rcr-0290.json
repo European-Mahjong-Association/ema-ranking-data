@@ -1,0 +1,216 @@
+{
+  "Name": "BREIZH OPEN 2023",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-04-09",
+  "ToDate": "2023-04-10",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "12990014",
+      "Result": 169300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04160108",
+      "Result": 148800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04310012",
+      "Result": 109600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04090080",
+      "Result": 106400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04310065",
+      "Result": 72200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04320026",
+      "Result": 55200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160092",
+      "Result": 52700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04160103",
+      "Result": 46200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04300046",
+      "Result": 45800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04160109",
+      "Result": 39800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100160",
+      "Result": 27900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04310086",
+      "Result": 7400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04320013",
+      "Result": 4200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160115",
+      "Result": 4200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04210023",
+      "Result": 1600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990016",
+      "Result": 500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04160071",
+      "Result": -800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04320014",
+      "Result": -10500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04530002",
+      "Result": -11200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04530001",
+      "Result": -12200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010741",
+      "Result": -13500
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "ANGÉLO",
+        "LastName": "MAOLET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -15500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04160035",
+      "Result": -19400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "ISABELLE",
+        "LastName": "MARSAC",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -27800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04040105",
+      "Result": -37200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160112",
+      "Result": -37800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04520001",
+      "Result": -41800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04310079",
+      "Result": -48400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04160088",
+      "Result": -75300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160110",
+      "Result": -76200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04300031",
+      "Result": -76800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04160114",
+      "Result": -85100
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ALEXIS",
+        "LastName": "GOUET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -91000
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "YANNICK",
+        "LastName": "VAUTIER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -107400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05100161",
+      "Result": -124600
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -405000
+    }
+  ]
+}

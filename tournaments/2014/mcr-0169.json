@@ -1,0 +1,228 @@
+{
+  "Name": "Red Dragon - MCR Open 2014",
+  "Country": "hu",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-05-17",
+  "ToDate": "2014-05-18",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 398
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "06990001",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 403
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "PÁL",
+        "LastName": "HALÁSZ",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 174
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010137",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 433
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 189
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "06010041",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 120
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -92
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "06010008",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 125
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 119
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000035",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 71
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000028",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 370
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "06010025",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 133
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 28
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 24
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 18
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ALESSIA",
+        "LastName": "COSMO",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -47
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "RÓBERT",
+        "LastName": "SIMON L",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 18
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "FERENC",
+        "LastName": "FRÜHVALD",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -48
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000110",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -258
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "06010040",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -379
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MÁRTA RÓZSA",
+        "LastName": "BERI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -378
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000109",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -442
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "06010021",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -426
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -553
+      }
+    }
+  ]
+}

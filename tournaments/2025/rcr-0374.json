@@ -1,0 +1,142 @@
+{
+  "Name": "Aru Hi Riichi Open 2025",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-06-07",
+  "ToDate": "2025-06-07",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Tina",
+      "LastName": "Christensen"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990146",
+      "Result": 116500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000176",
+      "Result": 100800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990130",
+      "Result": 72900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990168",
+      "Result": 69300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990176",
+      "Result": 55100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010743",
+      "Result": 47700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990133",
+      "Result": 44100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990199",
+      "Result": 33600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990134",
+      "Result": 29200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990062",
+      "Result": 19500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990124",
+      "Result": 16500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990088",
+      "Result": 15600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990162",
+      "Result": -12100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990159",
+      "Result": -16200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990132",
+      "Result": -21100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990152",
+      "Result": -22800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990157",
+      "Result": -27200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990212",
+      "Result": -28500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990154",
+      "Result": -33200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990198",
+      "Result": -81300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990205",
+      "Result": -88800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990128",
+      "Result": -105500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000003",
+      "Result": -108400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990200",
+      "Result": -115700
+    }
+  ]
+}

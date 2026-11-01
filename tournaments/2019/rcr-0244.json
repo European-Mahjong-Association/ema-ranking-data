@@ -1,0 +1,144 @@
+{
+  "Name": "VALENCIA RIICHI 2019",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-09-14",
+  "ToDate": "2019-09-15",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11000001",
+      "Result": 161200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990043",
+      "Result": 90700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04300022",
+      "Result": 81200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11000002",
+      "Result": 72600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990020",
+      "Result": 67400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000023",
+      "Result": 59000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990027",
+      "Result": 35800
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 32300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000170",
+      "Result": 30200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990026",
+      "Result": 23200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05100153",
+      "Result": 22300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "16000007",
+      "Result": 16100
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 7400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990025",
+      "Result": 6200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990072",
+      "Result": -3700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990039",
+      "Result": -14600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990018",
+      "Result": -17700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990051",
+      "Result": -20600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000104",
+      "Result": -25900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04090080",
+      "Result": -77200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990053",
+      "Result": -107400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990076",
+      "Result": -109400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990056",
+      "Result": -149600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990074",
+      "Result": -199500
+    }
+  ]
+}

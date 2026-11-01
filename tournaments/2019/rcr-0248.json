@@ -1,0 +1,198 @@
+{
+  "Name": "ORANDA SAI KOU 2019",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-08-24",
+  "ToDate": "2019-08-24",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Manuel",
+      "LastName": "Schlich"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 32,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010021",
+      "Result": 167000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010728",
+      "Result": 129100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010487",
+      "Result": 85200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100100",
+      "Result": 76400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010166",
+      "Result": 55500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010022",
+      "Result": 51200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010052",
+      "Result": 50300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010730",
+      "Result": 43000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010028",
+      "Result": 40500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010412",
+      "Result": 22200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010083",
+      "Result": 20500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010271",
+      "Result": 17600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010656",
+      "Result": 7800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010725",
+      "Result": 800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010411",
+      "Result": 300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010173",
+      "Result": -2700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100166",
+      "Result": -4400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010580",
+      "Result": -5800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010003",
+      "Result": -11600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010187",
+      "Result": -14100
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010505",
+      "Result": -20100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -40800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100170",
+      "Result": -44400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010584",
+      "Result": -44500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010295",
+      "Result": -45500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010585",
+      "Result": -46900
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "ANGELIQUE",
+        "LastName": "DELFSMA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -57300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010415",
+      "Result": -75100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010036",
+      "Result": -84900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010162",
+      "Result": -102000
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "REGINA",
+        "LastName": "SNEL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -112400
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "NICO",
+        "LastName": "LINNEMANN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -154900
+    }
+  ]
+}

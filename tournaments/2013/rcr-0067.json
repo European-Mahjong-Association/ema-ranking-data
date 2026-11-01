@@ -1,0 +1,244 @@
+{
+  "Name": "CRIMEAN RIICHI OPEN 2013",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-11-23",
+  "ToDate": "2013-11-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "21000015",
+      "Result": 266700
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "YAKOVLEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 142600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000013",
+      "Result": 127100
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "GRISHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 120800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "LUBOV",
+        "LastName": "MISHAKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 97000
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "EFIMENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 85700
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 85400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000016",
+      "Result": 76600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000023",
+      "Result": 73600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "VARCHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 64600
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "YAKOVLEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 62200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "RIEPIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 49800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "NINA",
+        "LastName": "ARTIUSHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 32400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "21000005",
+      "Result": 8100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000014",
+      "Result": 3100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "BUDKOVSKIY",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -2800
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "KAREN",
+        "LastName": "HARUTYUNYAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -26800
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "SKLYARENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -48500
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "BEZRUK",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -54400
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "KONSTANTIN",
+        "LastName": "MJASNIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -56600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARIIA",
+        "LastName": "KOZACHOK",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -58800
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "RUDENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -93800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "VITVITSKIY",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -130100
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -131500
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "MARINA",
+        "LastName": "VASILEYKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -133400
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "DENIS",
+        "LastName": "EFREMOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -190100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "LUNEOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -304700
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -210000
+    }
+  ]
+}

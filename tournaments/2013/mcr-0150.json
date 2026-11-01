@@ -1,0 +1,208 @@
+{
+  "Name": "TAMBOV TOURNAMENT 2013",
+  "Country": "ru",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-09-14",
+  "ToDate": "2013-09-14",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "EVGENIYA",
+        "LastName": "HLUDENTSOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 416
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ALEKSANDR",
+        "LastName": "GOPTAREV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 264
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "TATYANA",
+        "LastName": "GOPTAREVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 258
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ANTON",
+        "LastName": "VERDI",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 133
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "OKSANA",
+        "LastName": "BOLSHAKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 91
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ALEKSANDR",
+        "LastName": "FEDOROV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 59
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "IGOR",
+        "LastName": "BIRUKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 39
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "VARVARA",
+        "LastName": "KREMINSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -3
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "IRINA",
+        "LastName": "RYZHANINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -16
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "NECHAEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -40
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "ELSHANKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -86
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "ANFIMOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -133
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "ANOKHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -155
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "VERDI",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -300
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ALEKSANDER",
+        "LastName": "MELNIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -76
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "ARZAMASCEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -451
+      }
+    }
+  ]
+}

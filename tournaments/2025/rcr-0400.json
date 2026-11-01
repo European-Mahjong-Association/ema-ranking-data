@@ -1,0 +1,342 @@
+{
+  "Name": "French Riichi Championship 2025",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-13",
+  "ToDate": "2025-12-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Henri",
+      "LastName": "Devillez"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 64,
+  "NrCountries": 7,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04690008",
+      "Result": 156300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04210032",
+      "Result": 150500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04310012",
+      "Result": 107900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04160108",
+      "Result": 107050
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04690009",
+      "Result": 104500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04090024",
+      "Result": 100500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000071",
+      "Result": 84800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04990118",
+      "Result": 78600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04310086",
+      "Result": 78100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010074",
+      "Result": 72100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "12990014",
+      "Result": 59500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04520005",
+      "Result": 57400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04530009",
+      "Result": 57200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160170",
+      "Result": 55500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04530016",
+      "Result": 55200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04520003",
+      "Result": 49900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04530005",
+      "Result": 47200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05000071",
+      "Result": 46800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04600003",
+      "Result": 45300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04690010",
+      "Result": 42900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04160114",
+      "Result": 40800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04310079",
+      "Result": 26400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04320013",
+      "Result": 23300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04090055",
+      "Result": 18900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04670001",
+      "Result": 12600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160071",
+      "Result": 12300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04690001",
+      "Result": 8300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04320030",
+      "Result": 6900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04230050",
+      "Result": 6400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04090080",
+      "Result": 4900
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04040036",
+      "Result": 4100
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04160103",
+      "Result": 3000
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04160082",
+      "Result": 1800
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04300046",
+      "Result": 1700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04140010",
+      "Result": -1100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04530013",
+      "Result": -2600
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04530021",
+      "Result": -5300
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010752",
+      "Result": -8100
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04530015",
+      "Result": -8850
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04160092",
+      "Result": -14200
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04600009",
+      "Result": -16700
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04600016",
+      "Result": -23150
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "04990009",
+      "Result": -26100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "04090098",
+      "Result": -26200
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04090025",
+      "Result": -28800
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "04510004",
+      "Result": -36500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "16000065",
+      "Result": -39400
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "04090078",
+      "Result": -42600
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04530017",
+      "Result": -52100
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "04530008",
+      "Result": -57700
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "04530011",
+      "Result": -60400
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04290023",
+      "Result": -69200
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "04160088",
+      "Result": -70400
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "04530001",
+      "Result": -75800
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "04310040",
+      "Result": -97300
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "04040321",
+      "Result": -99500
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "04320026",
+      "Result": -99600
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "04530002",
+      "Result": -103400
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "04410014",
+      "Result": -105050
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "04520001",
+      "Result": -108400
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "04530018",
+      "Result": -122900
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "04310050",
+      "Result": -131700
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "04040105",
+      "Result": -152900
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "04600002",
+      "Result": -165700
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Name": "RCR MAHJONG SPIRIT 2019",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-12-01",
+  "ToDate": "2019-12-01",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04030028",
+      "Result": 138200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04030045",
+      "Result": 76300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04080019",
+      "Result": 69500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030141",
+      "Result": 58000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030124",
+      "Result": 45800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030006",
+      "Result": 42100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04030100",
+      "Result": 38600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04030091",
+      "Result": 37200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04030005",
+      "Result": 21600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JULIEN",
+        "LastName": "HO-FIAT-HEE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 17500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030128",
+      "Result": 800
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "JÉRÉMY",
+        "LastName": "FONTAINE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -4300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04050022",
+      "Result": -6900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04080018",
+      "Result": -10400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030003",
+      "Result": -18700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04030145",
+      "Result": -22600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JENNIFER",
+        "LastName": "BLOUET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -25300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04030125",
+      "Result": -39100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "EMILIE",
+        "LastName": "LAM WAN SHUM",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -40900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04030109",
+      "Result": -41600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04030051",
+      "Result": -44400
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "DOLMA",
+        "LastName": "NAULLEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -100100
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04030087",
+      "Result": -105400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04060014",
+      "Result": -144900
+    }
+  ]
+}

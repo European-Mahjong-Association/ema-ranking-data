@@ -1,0 +1,272 @@
+{
+  "Name": "SWEDISH OPEN RIICHI MAHJONG CHAMPIONSHIP 2019",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-03-23",
+  "ToDate": "2019-03-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "21000043",
+      "Result": 183000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "23000005",
+      "Result": 154800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990072",
+      "Result": 129000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 128900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MARYNA",
+        "LastName": "IHNATOVA",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 107300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990044",
+      "Result": 102900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100153",
+      "Result": 72900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MIKA",
+        "LastName": "GRÖNROOS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 68100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990110",
+      "Result": 63100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000037",
+      "Result": 62300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 49500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 48200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990117",
+      "Result": 35100
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "HENRI",
+        "LastName": "VATAJA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 30700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990054",
+      "Result": 25900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "23000006",
+      "Result": 21800
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": 14800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990107",
+      "Result": 14100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990090",
+      "Result": 9800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990079",
+      "Result": 7000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990045",
+      "Result": 5000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "21000053",
+      "Result": -13700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000014",
+      "Result": -15700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990068",
+      "Result": -17500
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "GUSTAV",
+        "LastName": "LUNDSTRÖM",
+        "RepresentingNationality": "se"
+      },
+      "Result": -32000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "03000192",
+      "Result": -37800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000176",
+      "Result": -44100
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ASTRID",
+        "LastName": "DUBEDOUT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -54000
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990099",
+      "Result": -63000
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "BELOVS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -68200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990047",
+      "Result": -70000
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "OLEKSII",
+        "LastName": "LOGVINOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -75700
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "KENT",
+        "LastName": "KROGSENG",
+        "RepresentingNationality": "no"
+      },
+      "Result": -86700
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "RISSANEN",
+        "RepresentingNationality": "se"
+      },
+      "Result": -87100
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "21000055",
+      "Result": -88100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990024",
+      "Result": -97300
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "09990049",
+      "Result": -105400
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "21000015",
+      "Result": -115200
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "GLENN IVAR",
+        "LastName": "HUSOM",
+        "RepresentingNationality": "no"
+      },
+      "Result": -126400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990116",
+      "Result": -196300
+    }
+  ]
+}

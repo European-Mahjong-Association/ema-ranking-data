@@ -1,0 +1,266 @@
+{
+  "Name": "HANNOVER MAH-JONGG OPEN 2012",
+  "Country": "de",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-07-14",
+  "ToDate": "2012-07-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Rudi",
+      "LastName": "Kopmanis"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100058",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 347
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "HEIKO",
+        "LastName": "DOMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 667
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MARLEEN",
+        "LastName": "DEWOLF",
+        "RepresentingNationality": "be"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 366
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "ZAHRADNIK",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 263
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 340
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "FRAUKE",
+        "LastName": "ROOS",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 136
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 185
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010022",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 125
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 41
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05900002",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 15
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "NORBERT",
+        "LastName": "LUCKHARDT",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 18
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040026",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 13
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "MÜLLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -95
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100033",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -155
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100016",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -1
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010025",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010187",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -131
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "GALINA",
+        "LastName": "BELIAKOVA",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -205
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010036",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -243
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -295
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "WERNER",
+        "LastName": "RIEDEL",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -151
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "XENIA",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -459
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010271",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -333
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "ULLA",
+        "LastName": "EICKSCHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -334
+      }
+    }
+  ]
+}

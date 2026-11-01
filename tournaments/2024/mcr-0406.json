@@ -1,0 +1,214 @@
+{
+  "Name": "Hungarian MCR open 2024 (15th) - SISICUP I",
+  "Country": "hu",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-10-19",
+  "ToDate": "2024-10-20",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Johanna",
+      "LastName": "Bernkopf"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "06010028",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 662
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "06010025",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 557
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 410
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990082",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 357
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "06990001",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 750
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 563
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "06020021",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 305
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "06990033",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 228
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 232
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "06010001",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 105
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "06010008",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "06990036",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 244
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "06010041",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -12
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -330
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "06010021",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 102
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 46
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "06010040",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "06990034",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -233
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "06990037",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -604
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "06020018",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -543
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "06990038",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -690
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "06990039",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -504
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "06990030",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -739
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "06990040",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -796
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "Name": "Riichi Copenhagen Open 2025",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-02-09",
+  "ToDate": "2025-02-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Niklas",
+      "LastName": "Johansson"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 36,
+  "NrCountries": 7,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000252",
+      "Result": 146300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000161",
+      "Result": 104900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990088",
+      "Result": 70000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000140",
+      "Result": 58300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000241",
+      "Result": 51200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000156",
+      "Result": 47900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990183",
+      "Result": 44400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990141",
+      "Result": 32600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000003",
+      "Result": 30100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990112",
+      "Result": 28900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990190",
+      "Result": 22800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11000013",
+      "Result": 16400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000176",
+      "Result": 15800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11000067",
+      "Result": 8500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010743",
+      "Result": 5600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990124",
+      "Result": 2400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000049",
+      "Result": -2500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990199",
+      "Result": -3400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990045",
+      "Result": -8600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990110",
+      "Result": -9900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990164",
+      "Result": -12100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990155",
+      "Result": -13200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000126",
+      "Result": -15600
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "MIKITO",
+        "LastName": "KURUSAWA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": -18400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "09990200",
+      "Result": -27300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "09990163",
+      "Result": -29000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990154",
+      "Result": -31000
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "24000005",
+      "Result": -35100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "11000012",
+      "Result": -38400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990198",
+      "Result": -50700
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990044",
+      "Result": -65700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "03000051",
+      "Result": -65900
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "03000192",
+      "Result": -67300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "03000208",
+      "Result": -69800
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "03000149",
+      "Result": -76000
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "03000269",
+      "Result": -86200
+    }
+  ]
+}

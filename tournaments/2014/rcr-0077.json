@@ -1,0 +1,128 @@
+{
+  "Name": "RIICHI BADEN OPEN 2014",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-03-22",
+  "ToDate": "2014-03-23",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000053",
+      "Result": 214800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 171000
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 162000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990007",
+      "Result": 130300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DANGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 116100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "22000003",
+      "Result": 82200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "JENIFER",
+        "LastName": "KRAWARIK",
+        "RepresentingNationality": "at"
+      },
+      "Result": 11200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -22800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "ILINA",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -25200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "BOGACHKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -65500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "17990004",
+      "Result": -87200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "22000004",
+      "Result": -93900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "17990008",
+      "Result": -98400
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -109300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "17990009",
+      "Result": -167800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000066",
+      "Result": -217500
+    }
+  ]
+}

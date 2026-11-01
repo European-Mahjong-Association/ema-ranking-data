@@ -1,0 +1,270 @@
+{
+  "Name": "Rode Lotus Riichi 2024",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-04-27",
+  "ToDate": "2024-04-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Ivar",
+      "LastName": "Bouwman"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 5,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "Yu",
+        "LastName": "KAWANASHI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 169200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04160092",
+      "Result": 146800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010073",
+      "Result": 128800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "02000006",
+      "Result": 124500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030091",
+      "Result": 123100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04990103",
+      "Result": 101400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04030128",
+      "Result": 100300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010054",
+      "Result": 97700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02000009",
+      "Result": 96300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010731",
+      "Result": 82300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010062",
+      "Result": 76100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010074",
+      "Result": 68700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "02000016",
+      "Result": 67200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010737",
+      "Result": 66000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010712",
+      "Result": 63200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04160071",
+      "Result": 61800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02010057",
+      "Result": 57700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02000013",
+      "Result": 51600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02000011",
+      "Result": 50200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "02010086",
+      "Result": 45200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02010085",
+      "Result": 36600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010526",
+      "Result": 18800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02010089",
+      "Result": 8800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02010088",
+      "Result": -100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010727",
+      "Result": -7600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02000001",
+      "Result": -21400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "02000007",
+      "Result": -22200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "11000013",
+      "Result": -24800
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010082",
+      "Result": -33700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02000017",
+      "Result": -38600
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010052",
+      "Result": -39600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "02010038",
+      "Result": -65800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04030045",
+      "Result": -79000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04210023",
+      "Result": -79700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010168",
+      "Result": -83300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02010041",
+      "Result": -85100
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "02010039",
+      "Result": -87700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04030124",
+      "Result": -92000
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010613",
+      "Result": -93300
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "02010058",
+      "Result": -94600
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04160103",
+      "Result": -99900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "02010084",
+      "Result": -108700
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "02010036",
+      "Result": -108800
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02000005",
+      "Result": -131900
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "02000010",
+      "Result": -137000
+    },
+    {
+      "Placement": 46,
+      "Player": {
+        "FirstName": "Sora",
+        "LastName": "TOGO",
+        "RepresentingNationality": "jp"
+      },
+      "Result": -160000
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "02000012",
+      "Result": -172700
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "02010081",
+      "Result": -238200
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Name": "DOUBLE RIICHI - MOU IKKAI 2023",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-11-05",
+  "ToDate": "2023-11-05",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "William",
+      "LastName": "CHU-FUK-SHIAN"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04030124",
+      "Result": 116700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04080019",
+      "Result": 74100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04030045",
+      "Result": 67600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030091",
+      "Result": 55700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030022",
+      "Result": 54600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030023",
+      "Result": 54600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04030128",
+      "Result": 53000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04060061",
+      "Result": 34300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04030100",
+      "Result": 900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030141",
+      "Result": -27100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04230004",
+      "Result": -30200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04030003",
+      "Result": -37400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04180005",
+      "Result": -40500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04030109",
+      "Result": -44200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030006",
+      "Result": -55500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04060046",
+      "Result": -69900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04030051",
+      "Result": -79900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04080018",
+      "Result": -86800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04030005",
+      "Result": -108200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04060014",
+      "Result": -115100
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "Name": "SPANISH OPEN MAHJONG CHAMPIONSHIP 2013",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-05-25",
+  "ToDate": "2013-05-26",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 793
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 496
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 762
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "EMMA",
+        "LastName": "GUENEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 369
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 467
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 483
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 289
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 284
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ANTONIO",
+        "LastName": "GUILLAMÓN RUBIO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 177
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 302
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010168",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 257
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 349
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 110
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 49
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010036",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "NURIA",
+        "LastName": "NOGUERA NICOLÁS",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -176
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ABEL",
+        "LastName": "SÁNCHEZ DÍAZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 51
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -14
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -252
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -260
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -324
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "12990002",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -118
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "JUAN FCO",
+        "LastName": "ARQUES GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -336
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -614
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "RICARDO",
+        "LastName": "BERNAL MORALES",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -710
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "FRANCISCO",
+        "LastName": "MACHADO",
+        "RepresentingNationality": "pt"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -625
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -636
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "SIMÓN",
+        "LastName": "BERNAL NARANJO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -969
+      }
+    }
+  ]
+}

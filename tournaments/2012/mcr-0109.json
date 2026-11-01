@@ -1,0 +1,180 @@
+{
+  "Name": "AARHUS TOURNAMENT 2012",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-02-18",
+  "ToDate": "2012-02-18",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "NICCOLO",
+        "LastName": "POULSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 189
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 480
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 323
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 765
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 658
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 202
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 248
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 18
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -250
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 38
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -180
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -281
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -147
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -275
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "TORBEN",
+        "LastName": "DALUM",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -723
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "LI YAN",
+        "LastName": "NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -1075
+      }
+    }
+  ]
+}

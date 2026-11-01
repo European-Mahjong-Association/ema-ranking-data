@@ -1,0 +1,199 @@
+{
+  "CountryCode": "ie",
+  "Country": "Ireland",
+  "Players": [
+    {
+      "EmaNumber": "26000001",
+      "FirstName": "CONOR",
+      "LastName": "MULLIN"
+    },
+    {
+      "EmaNumber": "26000002",
+      "FirstName": "ANDREW",
+      "LastName": "ZP SMITH",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "26000003",
+      "FirstName": "SIMON",
+      "LastName": "PICARD",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Marseilles, France, 22 June"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "26000004",
+      "FirstName": "MEGHANN",
+      "LastName": "MCKEAGUE"
+    },
+    {
+      "EmaNumber": "26000005",
+      "FirstName": "SEIKO",
+      "LastName": "HAYASE"
+    },
+    {
+      "EmaNumber": "26000006",
+      "FirstName": "Jerry",
+      "LastName": "WENG"
+    },
+    {
+      "EmaNumber": "26000007",
+      "FirstName": "Martin",
+      "LastName": "SCHLEIMER",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Blackpool"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "26000008",
+      "FirstName": "Yucheng",
+      "LastName": "GAO"
+    },
+    {
+      "EmaNumber": "26000009",
+      "FirstName": "Alexander",
+      "LastName": "STRADNIC"
+    },
+    {
+      "EmaNumber": "26000010",
+      "FirstName": "Livey",
+      "LastName": "IRWIN"
+    },
+    {
+      "EmaNumber": "26000011",
+      "FirstName": "Alex",
+      "LastName": "WILDE"
+    },
+    {
+      "EmaNumber": "26000012",
+      "FirstName": "Shogo",
+      "LastName": "SAITO"
+    },
+    {
+      "EmaNumber": "26000013",
+      "FirstName": "Tramy",
+      "LastName": "LE"
+    },
+    {
+      "EmaNumber": "26000014",
+      "FirstName": "Jonathan",
+      "LastName": "MATCHETT"
+    },
+    {
+      "EmaNumber": "26000015",
+      "FirstName": "Julia",
+      "LastName": "SOH"
+    },
+    {
+      "EmaNumber": "26000016",
+      "FirstName": "ZHIYU",
+      "LastName": "ZHENG"
+    },
+    {
+      "EmaNumber": "26000017",
+      "FirstName": "MAGHNUS",
+      "LastName": "HARTIGAN"
+    },
+    {
+      "EmaNumber": "26000018",
+      "FirstName": "DANIEL",
+      "LastName": "WATTS"
+    },
+    {
+      "EmaNumber": "26000019",
+      "FirstName": "VIRGINIE",
+      "LastName": "PIERRE"
+    },
+    {
+      "EmaNumber": "26000020",
+      "FirstName": "WILLIAM",
+      "LastName": "O BRIEN"
+    },
+    {
+      "EmaNumber": "26000021",
+      "FirstName": "KENTA",
+      "LastName": "UTSUNOMIYA"
+    },
+    {
+      "EmaNumber": "26000022",
+      "FirstName": "SIOBHAN",
+      "LastName": "CHEN"
+    },
+    {
+      "EmaNumber": "26000023",
+      "FirstName": "JOAQUIN",
+      "LastName": "PADILLA RIVERO"
+    },
+    {
+      "EmaNumber": "26000024",
+      "FirstName": "SUSAN",
+      "LastName": "HU"
+    },
+    {
+      "EmaNumber": "26000025",
+      "FirstName": "YUWEN",
+      "LastName": "PAN"
+    },
+    {
+      "EmaNumber": "26000026",
+      "FirstName": "ANGEL",
+      "LastName": "LEUNG"
+    },
+    {
+      "EmaNumber": "26000027",
+      "FirstName": "YIZHENG",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "26000028",
+      "FirstName": "SHUHAO",
+      "LastName": "YUE"
+    },
+    {
+      "EmaNumber": "26000029",
+      "FirstName": "OTTO",
+      "LastName": "PETÄJÄ"
+    },
+    {
+      "EmaNumber": "26000030",
+      "FirstName": "HAFUZA",
+      "LastName": "KASABI"
+    },
+    {
+      "EmaNumber": "26000031",
+      "FirstName": "AMBER",
+      "LastName": "MUN"
+    },
+    {
+      "EmaNumber": "26000032",
+      "FirstName": "JIANG",
+      "LastName": "ZHU",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Blackpool"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "26000033",
+      "FirstName": "DANTE",
+      "LastName": "EBLE CANALE"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Name": "Riichi Italian Championship 2024 (7th)",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-10-26",
+  "ToDate": "2024-10-27",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000155",
+      "Result": 20
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000207",
+      "Result": 19
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000202",
+      "Result": 18
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000131",
+      "Result": 17
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000180",
+      "Result": 16
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000160",
+      "Result": 15
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000093",
+      "Result": 14
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000177",
+      "Result": 13
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000018",
+      "Result": 12
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000196",
+      "Result": 11
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000175",
+      "Result": 10
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000011",
+      "Result": 9
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000206",
+      "Result": 8
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000109",
+      "Result": 7
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000107",
+      "Result": 6
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000170",
+      "Result": 5
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000208",
+      "Result": 4
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000209",
+      "Result": 3
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000001",
+      "Result": 2
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000021",
+      "Result": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Name": "MAHJONG-SEURA TENPAI 2016",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-12-17",
+  "ToDate": "2016-12-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Tommi",
+      "LastName": "Ikonen"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "OSSI",
+        "LastName": "HIRVOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 114200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990047",
+      "Result": 103700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990049",
+      "Result": 68300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990024",
+      "Result": 67900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ALEKSI",
+        "LastName": "VALTONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 41700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "AIVO-JUPITER",
+        "LastName": "KORHONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 31700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990020",
+      "Result": 22400
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "AUVO",
+        "LastName": "KUUSELA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 18900
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "SAMU",
+        "LastName": "VIITANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 7200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990029",
+      "Result": -1800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990053",
+      "Result": -2500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990054",
+      "Result": -6200
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "VILLE",
+        "LastName": "PIRTTIMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -11600
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "MERI",
+        "LastName": "RAJAMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -20200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990041",
+      "Result": -21200
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "VALTTERI",
+        "LastName": "ISOAHO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -24100
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "KASPER",
+        "LastName": "KIVIMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -24300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "ANU",
+        "LastName": "HYVÖNEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -37800
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MARKUS",
+        "LastName": "HIRVELÄ",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -42300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990033",
+      "Result": -52000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990060",
+      "Result": -55800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990066",
+      "Result": -62400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990043",
+      "Result": -67600
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990048",
+      "Result": -106200
+    }
+  ]
+}

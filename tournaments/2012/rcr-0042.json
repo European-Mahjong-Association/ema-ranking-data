@@ -1,0 +1,141 @@
+{
+  "Name": "GRAZ OPEN RIICHI TOURNAMENT",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-09-08",
+  "ToDate": "2012-09-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lena",
+      "LastName": "Weinguny"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "TONCAR",
+        "RepresentingNationality": "at"
+      },
+      "Result": 183200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 140000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "17990004",
+      "Result": 73700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990008",
+      "Result": 54600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 43700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": null,
+        "LastName": null
+      },
+      "Result": 0
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000053",
+      "Result": 37500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000013",
+      "Result": 10600
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "JASMIN",
+        "LastName": "RESCH",
+        "RepresentingNationality": "at"
+      },
+      "Result": 7900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990009",
+      "Result": -14300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "17990003",
+      "Result": -28000
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARKOLIN",
+        "RepresentingNationality": "at"
+      },
+      "Result": -45600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -62000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "CHRISTOPH",
+        "LastName": "MEYER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -88900
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "NINA",
+        "LastName": "POLLAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -89500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "MARKOLIN",
+        "RepresentingNationality": "at"
+      },
+      "Result": -262500
+    }
+  ]
+}

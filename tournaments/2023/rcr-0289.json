@@ -1,0 +1,152 @@
+{
+  "Name": "3RD MIZUCHI NO ZAIHOU BRNO 2023",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-04-01",
+  "ToDate": "2023-04-02",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 184900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100153",
+      "Result": 137700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000085",
+      "Result": 95200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000087",
+      "Result": 92400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "22000003",
+      "Result": 88700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040048",
+      "Result": 67800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000053",
+      "Result": 66400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000145",
+      "Result": 48600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000140",
+      "Result": 43600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ZOUBEK",
+        "RepresentingNationality": "at"
+      },
+      "Result": 17400
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 11400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990003",
+      "Result": 8100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000073",
+      "Result": 6400
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ZIJAD",
+        "LastName": "DURAKOVIC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 5700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100182",
+      "Result": -8600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "22000027",
+      "Result": -31500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000003",
+      "Result": -37300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000131",
+      "Result": -55800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000102",
+      "Result": -73900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000093",
+      "Result": -92900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "01000066",
+      "Result": -117300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000157",
+      "Result": -139800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000074",
+      "Result": -146400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "22000001",
+      "Result": -210800
+    }
+  ]
+}

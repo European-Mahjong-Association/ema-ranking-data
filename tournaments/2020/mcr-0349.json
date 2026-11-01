@@ -1,0 +1,224 @@
+{
+  "Name": "MALMO MCR OPEN 2020",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-03-07",
+  "ToDate": "2020-03-08",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990011",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 484
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 456
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 415
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MIKKEL",
+        "LastName": "ASKJæR-FRIIS",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 596
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 236
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 119
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990099",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 339
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "EJE",
+        "LastName": "NORMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 301
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 228
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 55
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990114",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 51
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -127
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ASTRID",
+        "LastName": "DUBEDOUT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -91
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000215",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -149
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -163
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "DANRUI",
+        "LastName": "FANG",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -178
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -184
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -196
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -83
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -203
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990107",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -480
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -402
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990124",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -656
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -408
+      }
+    }
+  ]
+}

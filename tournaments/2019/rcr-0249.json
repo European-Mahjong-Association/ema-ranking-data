@@ -1,0 +1,204 @@
+{
+  "Name": "BOLOGNA 2019",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-10-12",
+  "ToDate": "2019-10-13",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090024",
+      "Result": 126200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "KHROMOV",
+        "RepresentingNationality": "rs"
+      },
+      "Result": 82300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090080",
+      "Result": 73400
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 58500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000131",
+      "Result": 68500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990076",
+      "Result": 51700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04090025",
+      "Result": 40000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000170",
+      "Result": 65800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040057",
+      "Result": 20000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990043",
+      "Result": 13100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 17700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "LOGINOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 19900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000021",
+      "Result": 28500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000093",
+      "Result": 16100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000080",
+      "Result": 8600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000155",
+      "Result": -20000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000160",
+      "Result": -7700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990005",
+      "Result": -32800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "07000180",
+      "Result": -25500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "11990085",
+      "Result": -25500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990011",
+      "Result": -17400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000009",
+      "Result": -24400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "11990010",
+      "Result": -13700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "07000104",
+      "Result": -23100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "07000107",
+      "Result": -29700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "07000023",
+      "Result": -43300
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "NORMA",
+        "LastName": "TODD",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -64500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000018",
+      "Result": -69900
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "LETIZIA",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -62300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "07000052",
+      "Result": -86100
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "SUSAN",
+        "LastName": "CUMMING",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -63300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "11990084",
+      "Result": -81100
+    }
+  ]
+}

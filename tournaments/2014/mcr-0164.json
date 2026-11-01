@@ -1,0 +1,224 @@
+{
+  "Name": "SPANISH OPEN MAHJONG CHAMPIONSHIP 2014",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-04-05",
+  "ToDate": "2014-04-06",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 845
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 662
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 869
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 392
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 308
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ANTONIO",
+        "LastName": "GUILLAMÓN RUBIO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 248
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -9
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 347
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 197
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 97
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -224
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010036",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 103
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "12990002",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -68
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -95
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -144
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -311
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 21
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -164
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -285
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990023",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -379
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARIA ISABEL",
+        "LastName": "NORTES GALVEZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -461
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04040036",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -535
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990012",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -563
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -851
+      }
+    }
+  ]
+}

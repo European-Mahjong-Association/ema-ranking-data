@@ -1,0 +1,128 @@
+{
+  "Name": "AARHUS OPEN 2009",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2009-08-29",
+  "ToDate": "2009-08-29",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 81400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 64200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000051",
+      "Result": 49500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000118",
+      "Result": 41800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 26500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000005",
+      "Result": 16400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 15700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000148",
+      "Result": -1800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -13300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -15700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000049",
+      "Result": -19900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000003",
+      "Result": -26200
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "OLSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -37800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000149",
+      "Result": -46700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000126",
+      "Result": -62100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "TORBEN",
+        "LastName": "DALUM",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -72000
+    }
+  ]
+}

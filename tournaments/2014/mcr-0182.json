@@ -1,0 +1,168 @@
+{
+  "Name": "Swedish MCR Championship 2014",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-10-04",
+  "ToDate": "2014-10-05",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MIKKEL",
+        "LastName": "ASKJæR-FRIIS",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 493
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 424
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 332
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ROBIN",
+        "LastName": "BACKMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 78
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 37
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 172
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 78
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 42
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 175
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MARIE",
+        "LastName": "NORÉN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990011",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -121
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990006",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -30
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -121
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990062",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -337
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "KAI",
+        "LastName": "NILSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -464
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "LEON CLARA",
+        "LastName": "ZENDEJAS MEDINA",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -762
+      }
+    }
+  ]
+}

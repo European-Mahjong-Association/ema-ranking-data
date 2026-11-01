@@ -1,0 +1,246 @@
+{
+  "Name": "GREAT WAVE 2023",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-10-21",
+  "ToDate": "2023-10-22",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jasper",
+      "LastName": "Germeys"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 44,
+  "NrCountries": 6,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990047",
+      "Result": 128500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990142",
+      "Result": 128300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990143",
+      "Result": 118700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990053",
+      "Result": 101400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990029",
+      "Result": 96500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990040",
+      "Result": 95200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990103",
+      "Result": 94700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990136",
+      "Result": 89750
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990041",
+      "Result": 78100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990120",
+      "Result": 76700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000014",
+      "Result": 74900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990057",
+      "Result": 60100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990132",
+      "Result": 57300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990044",
+      "Result": 55400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990031",
+      "Result": 44725
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990115",
+      "Result": 33800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990079",
+      "Result": 30800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990113",
+      "Result": 26725
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000192",
+      "Result": 21100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990137",
+      "Result": 19325
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990096",
+      "Result": 16700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990121",
+      "Result": 8400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990138",
+      "Result": 2900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990051",
+      "Result": -12600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990125",
+      "Result": -12700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990131",
+      "Result": -12700
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990043",
+      "Result": -21600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990054",
+      "Result": -23700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990024",
+      "Result": -49900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990020",
+      "Result": -52800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990011",
+      "Result": -53700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990134",
+      "Result": -57900
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "KAIDO KALLIKORM",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -61200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "01000144",
+      "Result": -63750
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "14990111",
+      "Result": -69100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990012",
+      "Result": -79050
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "14990139",
+      "Result": -88675
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "14990104",
+      "Result": -89700
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "14990140",
+      "Result": -103400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "14990112",
+      "Result": -109750
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "09990047",
+      "Result": -113100
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "14990144",
+      "Result": -114600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "14990099",
+      "Result": -153900
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "14990141",
+      "Result": -162200
+    }
+  ]
+}

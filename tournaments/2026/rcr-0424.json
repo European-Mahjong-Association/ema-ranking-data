@@ -1,0 +1,266 @@
+{
+  "Name": "Rode Lotus Riichi 2026",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-09-12",
+  "ToDate": "2026-09-13",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Stéphane",
+      "LastName": "COMMANS"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 9,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02000016",
+      "Result": 230100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "26000025",
+      "Result": 181600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02000046",
+      "Result": 150800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990190",
+      "Result": 135300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04690009",
+      "Result": 112200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "26000016",
+      "Result": 110500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04690008",
+      "Result": 91400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02000045",
+      "Result": 85100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04690001",
+      "Result": 82100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010752",
+      "Result": 81800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05000062",
+      "Result": 70000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "02010054",
+      "Result": 65900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04040105",
+      "Result": 65600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "02010085",
+      "Result": 57300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05000060",
+      "Result": 50700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04990103",
+      "Result": 49200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02010057",
+      "Result": 44700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02000017",
+      "Result": 35900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04630001",
+      "Result": 35700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04040214",
+      "Result": 33900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02010036",
+      "Result": 32000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010073",
+      "Result": 25500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02010043",
+      "Result": 16800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02000041",
+      "Result": -15900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02000043",
+      "Result": -21100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04690004",
+      "Result": -23500
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04690010",
+      "Result": -25700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990103",
+      "Result": -26800
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08011151",
+      "Result": -30600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02010074",
+      "Result": -33900
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "19000080",
+      "Result": -34600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "02000049",
+      "Result": -40700
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02000005",
+      "Result": -45800
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02000013",
+      "Result": -46500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02000033",
+      "Result": -70300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02000048",
+      "Result": -71400
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04690007",
+      "Result": -86600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04630023",
+      "Result": -97300
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "02010069",
+      "Result": -113200
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "02010084",
+      "Result": -114800
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02000009",
+      "Result": -117900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "05000043",
+      "Result": -121600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "02010038",
+      "Result": -122900
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02000002",
+      "Result": -142600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "02010039",
+      "Result": -154000
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010052",
+      "Result": -166800
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "02000027",
+      "Result": -243700
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -300000
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "Name": "Porto Riichi Open Championship 2025",
+  "Country": "pt",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-09-20",
+  "ToDate": "2025-09-21",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sophie",
+      "LastName": "DELAUCHE"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990104",
+      "Result": 166900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990103",
+      "Result": 163000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "21000067",
+      "Result": 154600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000060",
+      "Result": 125400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04690008",
+      "Result": 113100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "12990014",
+      "Result": 108800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000071",
+      "Result": 102000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990190",
+      "Result": 68200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990183",
+      "Result": 55700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04160080",
+      "Result": 54200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04530005",
+      "Result": 47800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "24000005",
+      "Result": 32000
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "12000009",
+      "Result": 31000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04530007",
+      "Result": 24000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "02010085",
+      "Result": 14700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04320005",
+      "Result": 13600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990117",
+      "Result": 7800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "12000016",
+      "Result": 6500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990127",
+      "Result": -1300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "12000013",
+      "Result": -4900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000104",
+      "Result": -10000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05000001",
+      "Result": -22200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000043",
+      "Result": -25300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04320006",
+      "Result": -28200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04160088",
+      "Result": -47300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "17990004",
+      "Result": -51100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "07000170",
+      "Result": -70500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "12000017",
+      "Result": -70900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "12000015",
+      "Result": -96400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "12000008",
+      "Result": -97000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "21000057",
+      "Result": -111900
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "10990092",
+      "Result": -114400
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "21000065",
+      "Result": -131300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02010084",
+      "Result": -157400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "12000014",
+      "Result": -170900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "12000006",
+      "Result": -212500
+    }
+  ]
+}

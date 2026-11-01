@@ -1,0 +1,243 @@
+{
+  "CountryCode": "dk",
+  "Country": "Denmark",
+  "Players": [
+    {
+      "EmaNumber": "03000003",
+      "FirstName": "TINA",
+      "LastName": "CHRISTENSEN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2009-01-01",
+          "note": "Baden"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000005",
+      "FirstName": "JEPPE",
+      "LastName": "STIG NIELSEN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2012-01-01",
+          "note": "Copenhague"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000022",
+      "FirstName": "HENRIK",
+      "LastName": "LETH",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2009-01-01",
+          "note": "Baden"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000049",
+      "FirstName": "FREDDY",
+      "LastName": "CHRISTIANSEN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2012-01-01",
+          "note": "Copenhague"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000051",
+      "FirstName": "MORTEN",
+      "LastName": "ANDERSEN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2009-01-01",
+          "note": "Baden"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000118",
+      "FirstName": "CAMILLA",
+      "LastName": "DALSGAARD"
+    },
+    {
+      "EmaNumber": "03000126",
+      "FirstName": "LARS",
+      "LastName": "THERKELSEN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000140",
+      "FirstName": "SHI HUA",
+      "LastName": "CHEN KOLD"
+    },
+    {
+      "EmaNumber": "03000148",
+      "FirstName": "FRANK",
+      "LastName": "ROSTVED-ANBERG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2012-01-01",
+          "note": "Copenhague"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000149",
+      "FirstName": "ISABEL",
+      "LastName": "BAHIANO STEENHOLM"
+    },
+    {
+      "EmaNumber": "03000156",
+      "FirstName": "SHEILA",
+      "LastName": "HANSEN"
+    },
+    {
+      "EmaNumber": "03000169",
+      "FirstName": "EIVIND",
+      "LastName": "BENGTSSON"
+    },
+    {
+      "EmaNumber": "03000176",
+      "FirstName": "JESPER",
+      "LastName": "NØHR",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2012-01-01",
+          "note": "Copenhague"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000180",
+      "FirstName": "MICHEL",
+      "LastName": "MANDIX"
+    },
+    {
+      "EmaNumber": "03000192",
+      "FirstName": "SEBASTIAN",
+      "LastName": "LAVALLEE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000208",
+      "FirstName": "EIGO",
+      "LastName": "KAWATANI"
+    },
+    {
+      "EmaNumber": "03000215",
+      "FirstName": "TING FANG",
+      "LastName": "OLSEN"
+    },
+    {
+      "EmaNumber": "03000228",
+      "FirstName": "SEBASTIAN",
+      "LastName": "VIKKELSØ ELLEHOLM",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000241",
+      "FirstName": "ESKILD",
+      "LastName": "MIDDELBOE",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "03000252",
+      "FirstName": "BAO",
+      "LastName": "ZHENG LIU"
+    },
+    {
+      "EmaNumber": "03000262",
+      "FirstName": "Michael",
+      "LastName": "BERTH"
+    },
+    {
+      "EmaNumber": "03000269",
+      "FirstName": "FELIX",
+      "LastName": "HUBBELMEIJER"
+    },
+    {
+      "EmaNumber": "03000277",
+      "FirstName": "SHIGENG",
+      "LastName": "YAN"
+    },
+    {
+      "EmaNumber": "03000279",
+      "FirstName": "FREYA",
+      "LastName": "PEARCE"
+    },
+    {
+      "EmaNumber": "03000287",
+      "FirstName": "ARIEL",
+      "LastName": "MELCHIOR"
+    }
+  ]
+}

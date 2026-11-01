@@ -1,0 +1,130 @@
+{
+  "Name": "GRAZ OPEN RIICHI 2019",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-05-11",
+  "ToDate": "2019-05-12",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Linxuan",
+      "LastName": "He"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000053",
+      "Result": 142300
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 103200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "HADOLT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 97700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000131",
+      "Result": 88300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 67700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "SUSANNE",
+        "LastName": "SCHWARZ",
+        "RepresentingNationality": "at"
+      },
+      "Result": 59500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000136",
+      "Result": 40300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990072",
+      "Result": 13200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04990093",
+      "Result": -22700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000113",
+      "Result": -29800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000066",
+      "Result": -74200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -80500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "JUSTIN",
+        "LastName": "HOLMES",
+        "RepresentingNationality": "at"
+      },
+      "Result": -83000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "SHU-WEN",
+        "LastName": "KUO",
+        "RepresentingNationality": "es"
+      },
+      "Result": -100400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04040057",
+      "Result": -108500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000127",
+      "Result": -153100
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Name": "ODESA RIICHI 2020",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-08-15",
+  "ToDate": "2020-08-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Maksym",
+      "LastName": "Ivanov"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "20000019",
+      "Result": 222400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "21000072",
+      "Result": 169000
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "IRA",
+        "LastName": "SPELNICOVA",
+        "RepresentingNationality": "md"
+      },
+      "Result": 70600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000043",
+      "Result": 64500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000065",
+      "Result": 42400
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "OLGA",
+        "LastName": "VALIT",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 25700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000067",
+      "Result": 4200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000055",
+      "Result": 0
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000015",
+      "Result": -29200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000053",
+      "Result": -33500
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "PANOVA",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -49400
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -65500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "BAL",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -78100
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "OLESYA",
+        "LastName": "PRYPYSNYUK",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -103200
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "CHERNENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -112200
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

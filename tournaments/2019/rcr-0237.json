@@ -1,0 +1,932 @@
+{
+  "Name": "European Riichi Championship 2019 (5th)",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-06-21",
+  "ToDate": "2019-06-23",
+  "DateDescription": null,
+  "NrDays": 3,
+  "NrPlayers": 140,
+  "NrCountries": 26,
+  "MersWeight": 6.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "NADANYAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 247800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "ZAYAKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 240700
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "HIROSHI YAMAI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": 216200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "GORYACHEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 172500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000091",
+      "Result": 172000
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000073",
+      "Result": 152200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990044",
+      "Result": 148000
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ANTHONY TO",
+        "LastName": null,
+        "RepresentingNationality": "au"
+      },
+      "Result": 140900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990047",
+      "Result": 138100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "KOTLOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 123600
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "OLGA",
+        "LastName": "ALEKSEEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 121800
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "SHANE ZAMORA",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": 120400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000003",
+      "Result": 112700
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000125",
+      "Result": 111500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "KHROMOV",
+        "RepresentingNationality": "rs"
+      },
+      "Result": 109100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990043",
+      "Result": 108100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04230040",
+      "Result": 106600
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "NOVIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 106100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VLADISLAV",
+        "LastName": "PLYASUNOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 105900
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MASAHARU TOMOTAKE",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": 100800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990033",
+      "Result": 94700
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "KINYAN LUI",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": 94000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000037",
+      "Result": 89200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100153",
+      "Result": 86200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990024",
+      "Result": 84500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010003",
+      "Result": 83400
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "KEVIN LIN",
+        "LastName": null,
+        "RepresentingNationality": "au"
+      },
+      "Result": 82300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "11000002",
+      "Result": 80600
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 76100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "SIROTKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 73300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "11990016",
+      "Result": 72100
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 66800
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "KASPER",
+        "LastName": "KIVIMÄKI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 66300
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 65700
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 59200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "01000066",
+      "Result": 58600
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05100124",
+      "Result": 57100
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "17990009",
+      "Result": 54100
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "CLAIRE POZNIAK",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": 51800
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "OXANA",
+        "LastName": "VYSHIVANNAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 51600
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "21000015",
+      "Result": 50600
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "14990142",
+      "Result": 49900
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "ARSLAN",
+        "LastName": "MANDJIEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 49300
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "07000164",
+      "Result": 48300
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "11990057",
+      "Result": 48000
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "21000014",
+      "Result": 47800
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "24888001",
+      "Result": 41200
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "11000001",
+      "Result": 39300
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 37900
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "01000136",
+      "Result": 37700
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "14990076",
+      "Result": 37600
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 35200
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "17990004",
+      "Result": 26800
+    },
+    {
+      "Placement": 54,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 21400
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "GLENN IVAR",
+        "LastName": "HUSOM",
+        "RepresentingNationality": "no"
+      },
+      "Result": 16300
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "19000071",
+      "Result": 13200
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "08010022",
+      "Result": 12000
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "22000004",
+      "Result": 11700
+    },
+    {
+      "Placement": 59,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 9600
+    },
+    {
+      "Placement": 60,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "BYKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 7700
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "02010038",
+      "Result": 6100
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "01000131",
+      "Result": 5300
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "07000018",
+      "Result": 3500
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "07000093",
+      "Result": -3000
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "04040057",
+      "Result": -3500
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "03000126",
+      "Result": -3600
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "11990010",
+      "Result": -6300
+    },
+    {
+      "Placement": 68,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": -6500
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "14990049",
+      "Result": -6900
+    },
+    {
+      "Placement": 70,
+      "EmaNumber": "12990014",
+      "Result": -8100
+    },
+    {
+      "Placement": 71,
+      "EmaNumber": "03000208",
+      "Result": -8900
+    },
+    {
+      "Placement": 72,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -9400
+    },
+    {
+      "Placement": 73,
+      "EmaNumber": "11990006",
+      "Result": -10000
+    },
+    {
+      "Placement": 74,
+      "EmaNumber": "08010187",
+      "Result": -12700
+    },
+    {
+      "Placement": 75,
+      "EmaNumber": "04290001",
+      "Result": -13200
+    },
+    {
+      "Placement": 76,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "MORENO",
+        "RepresentingNationality": "us"
+      },
+      "Result": -14200
+    },
+    {
+      "Placement": 77,
+      "EmaNumber": "25000002",
+      "Result": -14600
+    },
+    {
+      "Placement": 78,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -14700
+    },
+    {
+      "Placement": 79,
+      "EmaNumber": "08010028",
+      "Result": -14900
+    },
+    {
+      "Placement": 80,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -14900
+    },
+    {
+      "Placement": 81,
+      "EmaNumber": "14990079",
+      "Result": -18000
+    },
+    {
+      "Placement": 82,
+      "EmaNumber": "19000031",
+      "Result": -18500
+    },
+    {
+      "Placement": 83,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "LOGINOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -20600
+    },
+    {
+      "Placement": 84,
+      "EmaNumber": "04090080",
+      "Result": -20700
+    },
+    {
+      "Placement": 85,
+      "EmaNumber": "08010173",
+      "Result": -22100
+    },
+    {
+      "Placement": 86,
+      "EmaNumber": "08010412",
+      "Result": -25600
+    },
+    {
+      "Placement": 87,
+      "Player": {
+        "FirstName": "OSSI",
+        "LastName": "HIRVOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -31700
+    },
+    {
+      "Placement": 88,
+      "Player": {
+        "FirstName": "REYLLY",
+        "LastName": "BRANDS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -34100
+    },
+    {
+      "Placement": 89,
+      "EmaNumber": "03000051",
+      "Result": -36500
+    },
+    {
+      "Placement": 90,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "ALESHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -36800
+    },
+    {
+      "Placement": 91,
+      "EmaNumber": "08010025",
+      "Result": -40000
+    },
+    {
+      "Placement": 92,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "SOROKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -40000
+    },
+    {
+      "Placement": 93,
+      "EmaNumber": "01000053",
+      "Result": -41200
+    },
+    {
+      "Placement": 94,
+      "Player": {
+        "FirstName": "SAMU",
+        "LastName": "VIITANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -42900
+    },
+    {
+      "Placement": 95,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "TKACHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -43000
+    },
+    {
+      "Placement": 96,
+      "EmaNumber": "19000087",
+      "Result": -44400
+    },
+    {
+      "Placement": 97,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "CLARKE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -47300
+    },
+    {
+      "Placement": 98,
+      "EmaNumber": "09990049",
+      "Result": -48400
+    },
+    {
+      "Placement": 99,
+      "EmaNumber": "04310012",
+      "Result": -52200
+    },
+    {
+      "Placement": 100,
+      "Player": {
+        "FirstName": "MATHIEU",
+        "LastName": "CHAMBE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -54600
+    },
+    {
+      "Placement": 101,
+      "Player": {
+        "FirstName": "ANGÉLO",
+        "LastName": "MAOLET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -55100
+    },
+    {
+      "Placement": 102,
+      "EmaNumber": "19000102",
+      "Result": -56700
+    },
+    {
+      "Placement": 103,
+      "Player": {
+        "FirstName": "NATALYA",
+        "LastName": "USKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -59700
+    },
+    {
+      "Placement": 104,
+      "EmaNumber": "08010166",
+      "Result": -60500
+    },
+    {
+      "Placement": 105,
+      "EmaNumber": "17990007",
+      "Result": -61900
+    },
+    {
+      "Placement": 106,
+      "EmaNumber": "19000032",
+      "Result": -62100
+    },
+    {
+      "Placement": 107,
+      "EmaNumber": "19000001",
+      "Result": -68400
+    },
+    {
+      "Placement": 108,
+      "EmaNumber": "03000022",
+      "Result": -68800
+    },
+    {
+      "Placement": 109,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "VEREBEI",
+        "RepresentingNationality": "by"
+      },
+      "Result": -69100
+    },
+    {
+      "Placement": 110,
+      "EmaNumber": "04160080",
+      "Result": -71800
+    },
+    {
+      "Placement": 111,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": -76500
+    },
+    {
+      "Placement": 112,
+      "Player": {
+        "FirstName": "CYRIL",
+        "LastName": "BOICHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -78800
+    },
+    {
+      "Placement": 113,
+      "Player": {
+        "FirstName": "EDWIN DIZON",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": -81900
+    },
+    {
+      "Placement": 114,
+      "EmaNumber": "08010580",
+      "Result": -85900
+    },
+    {
+      "Placement": 115,
+      "EmaNumber": "01000127",
+      "Result": -89000
+    },
+    {
+      "Placement": 116,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "LEONTIEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -89400
+    },
+    {
+      "Placement": 117,
+      "EmaNumber": "09990110",
+      "Result": -91100
+    },
+    {
+      "Placement": 118,
+      "EmaNumber": "19000077",
+      "Result": -91400
+    },
+    {
+      "Placement": 119,
+      "EmaNumber": "08010727",
+      "Result": -92500
+    },
+    {
+      "Placement": 120,
+      "EmaNumber": "19000093",
+      "Result": -93900
+    },
+    {
+      "Placement": 121,
+      "EmaNumber": "08010171",
+      "Result": -96300
+    },
+    {
+      "Placement": 122,
+      "EmaNumber": "01000013",
+      "Result": -99000
+    },
+    {
+      "Placement": 123,
+      "EmaNumber": "08010584",
+      "Result": -99200
+    },
+    {
+      "Placement": 124,
+      "EmaNumber": "20000003",
+      "Result": -101900
+    },
+    {
+      "Placement": 125,
+      "EmaNumber": "21000053",
+      "Result": -104500
+    },
+    {
+      "Placement": 126,
+      "EmaNumber": "19000066",
+      "Result": -104700
+    },
+    {
+      "Placement": 127,
+      "EmaNumber": "05100072",
+      "Result": -108900
+    },
+    {
+      "Placement": 128,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -109800
+    },
+    {
+      "Placement": 129,
+      "EmaNumber": "04160081",
+      "Result": -113600
+    },
+    {
+      "Placement": 130,
+      "EmaNumber": "03000176",
+      "Result": -117700
+    },
+    {
+      "Placement": 131,
+      "Player": {
+        "FirstName": "DINARA",
+        "LastName": "GABDULLINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -126000
+    },
+    {
+      "Placement": 132,
+      "EmaNumber": "03000156",
+      "Result": -127700
+    },
+    {
+      "Placement": 133,
+      "EmaNumber": "11990011",
+      "Result": -153100
+    },
+    {
+      "Placement": 134,
+      "EmaNumber": "08010021",
+      "Result": -157300
+    },
+    {
+      "Placement": 135,
+      "EmaNumber": "07000170",
+      "Result": -164000
+    },
+    {
+      "Placement": 136,
+      "EmaNumber": "08010585",
+      "Result": -165100
+    },
+    {
+      "Placement": 137,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -166400
+    },
+    {
+      "Placement": 138,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": -186300
+    },
+    {
+      "Placement": 139,
+      "EmaNumber": "05100157",
+      "Result": -190200
+    },
+    {
+      "Placement": 140,
+      "EmaNumber": "19000085",
+      "Result": -238600
+    }
+  ]
+}

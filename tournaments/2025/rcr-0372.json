@@ -1,0 +1,122 @@
+{
+  "Name": "RONmania 2025",
+  "Country": "ro",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-05-10",
+  "ToDate": "2025-05-11",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Joseph",
+      "LastName": "JAMES"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 8,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05000042",
+      "Result": 181000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "25000005",
+      "Result": 99000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990103",
+      "Result": 93800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010766",
+      "Result": 80100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "11000006",
+      "Result": 79000
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "17990004",
+      "Result": 73800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000030",
+      "Result": 69400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990141",
+      "Result": 53800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000147",
+      "Result": 28600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05000061",
+      "Result": 15500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "24000003",
+      "Result": -13000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010737",
+      "Result": -23400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100166",
+      "Result": -53600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000154",
+      "Result": -65100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "25000003",
+      "Result": -69800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "25000009",
+      "Result": -74900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000001",
+      "Result": -80600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05100181",
+      "Result": -90000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "05100168",
+      "Result": -135600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100167",
+      "Result": -169000
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Name": "POLISH WRC2014 QUALIFICATION",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-03-02",
+  "ToDate": "2014-03-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Dominik",
+      "LastName": "KOLENDA"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000001",
+      "Result": 123400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MICHAŁ",
+        "LastName": "KOTOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 96400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000006",
+      "Result": 71000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MACIEJ",
+        "LastName": "MARKIEWICZ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 62100
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 49600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000003",
+      "Result": 42100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000035",
+      "Result": 19800
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "SAWICKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -15700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000039",
+      "Result": -16600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000042",
+      "Result": -35200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MARCIN",
+        "LastName": "KOTOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -38800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000011",
+      "Result": -68900
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MACIEJ",
+        "LastName": "KARNY",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -93100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000007",
+      "Result": -110400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "TOMASZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -164800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 0
+    }
+  ]
+}

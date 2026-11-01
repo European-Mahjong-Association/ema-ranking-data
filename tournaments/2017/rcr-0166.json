@@ -1,0 +1,228 @@
+{
+  "Name": "KHARKIV OPEN 2017",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-09-23",
+  "ToDate": "2017-09-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "CHERNENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 134500
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "CYRIL",
+        "LastName": "BOICHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 124000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "21000037",
+      "Result": 95600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000005",
+      "Result": 83600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "KRYVEZHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 75500
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MARIIA",
+        "LastName": "KOZACHOK",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 64600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000024",
+      "Result": 60500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000016",
+      "Result": 54300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000038",
+      "Result": 51300
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MAKSYM",
+        "LastName": "BUGAKOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 46200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000041",
+      "Result": 23600
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "BOGOMOLOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 16600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "21000014",
+      "Result": 11000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "21000015",
+      "Result": 8100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000023",
+      "Result": -1000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "21000065",
+      "Result": -7800
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -31000
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "NINA",
+        "LastName": "ARTIUSHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -33800
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "LEBEDENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -35300
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARINA",
+        "LastName": "VASILEYKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -49600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "ANDRII",
+        "LastName": "BOIKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -57900
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "SERHII",
+        "LastName": "IHNATOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -69900
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "RUSLAN",
+        "LastName": "GORIUCHKIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -73300
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "VARCHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -78100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "RODION",
+        "LastName": "HORLACHOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -91800
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "MARYNA",
+        "LastName": "IHNATOVA",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -123700
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "DENIS",
+        "LastName": "EFREMOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -131500
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "OLEKSII",
+        "LastName": "LOGVINOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -140200
+    }
+  ]
+}

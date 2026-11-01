@@ -1,0 +1,130 @@
+{
+  "Name": "DRAGON OWL RIICHI CONTEST 2015",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-07-25",
+  "ToDate": "2015-07-25",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Marek",
+      "LastName": "Wakuluk"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000003",
+      "Result": 146200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000035",
+      "Result": 95300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000006",
+      "Result": 93500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000041",
+      "Result": 61700
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "TOMASZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 40200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000001",
+      "Result": 33300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000007",
+      "Result": 17700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000031",
+      "Result": 16800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "POWAŁOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 6900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000032",
+      "Result": -25100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000011",
+      "Result": -29500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -41400
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "OLIWIA",
+        "LastName": "WOLSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -48800
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "NATALIA",
+        "LastName": "OLBIŃSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -69700
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MAGDALENA",
+        "LastName": "JANICKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -133200
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "PAWEŁ",
+        "LastName": "RYMAROWICZ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -163900
+    }
+  ]
+}

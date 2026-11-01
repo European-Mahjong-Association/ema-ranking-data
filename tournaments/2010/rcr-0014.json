@@ -1,0 +1,140 @@
+{
+  "Name": "Riichi Danish Championship 2010",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2010-06-20",
+  "ToDate": "2010-06-20",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 111900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000022",
+      "Result": 111100
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 62700
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "TORBEN",
+        "LastName": "DALUM",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 34600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000051",
+      "Result": 25100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000005",
+      "Result": 22700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000003",
+      "Result": 20800
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 9200
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 8800
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -19500
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "KRAGH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -23900
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "THUBORG MADSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -29600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -46200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -52400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000148",
+      "Result": -65400
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -169900
+    }
+  ]
+}

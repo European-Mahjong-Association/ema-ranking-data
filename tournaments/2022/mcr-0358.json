@@ -1,0 +1,214 @@
+{
+  "Name": "Swedish MCR Championship 2022",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-09-24",
+  "ToDate": "2022-09-25",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Erwan de",
+      "LastName": "KERGOMMEAUX"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 459
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "02010042",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 694
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 743
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 455
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 472
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 438
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990114",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 429
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990099",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 238
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02010052",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -20
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990011",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 468
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 459
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990106",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -291
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -138
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -332
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -182
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04290030",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -213
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -440
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -244
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -267
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990110",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -476
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990062",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -482
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990126",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -418
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990104",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -392
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990128",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -980
+      }
+    }
+  ]
+}

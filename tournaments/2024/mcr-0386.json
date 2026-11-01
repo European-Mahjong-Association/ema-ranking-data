@@ -1,0 +1,182 @@
+{
+  "Name": "MCR Copenhagen Open 2024",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-01-28",
+  "ToDate": "2024-01-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Emma",
+      "LastName": "Fahlstrom"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000118",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 260
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 304
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 627
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 405
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 242
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 204
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 30
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 100
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000180",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 53
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -22
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990110",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 199
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000192",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 3
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -159
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -393
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -445
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -119
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000169",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -253
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -338
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -376
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -332
+      }
+    }
+  ]
+}

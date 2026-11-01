@@ -1,0 +1,182 @@
+{
+  "Name": "Uppsala MCR Open 2025",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-02-15",
+  "ToDate": "2025-02-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Carmen",
+      "LastName": "Valbuena Medina"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990159",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 674
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990099",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 243
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990177",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 476
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990114",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 375
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 151
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990169",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 61
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 78
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990165",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -53
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990173",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 100
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990104",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 26
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990126",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 66
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990166",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -180
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990197",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -203
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990201",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -284
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990195",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -161
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990172",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -296
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990196",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -331
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990170",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -254
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -251
+      }
+    }
+  ]
+}

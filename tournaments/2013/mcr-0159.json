@@ -1,0 +1,192 @@
+{
+  "Name": "1ST TOURNAMENT - LOS 3 DRAGONES",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-12-14",
+  "ToDate": "2013-12-14",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 177
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 318
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 166
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 393
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 67
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 175
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 116
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 63
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 205
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 31
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 23
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -73
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990039",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -80
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -55
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -118
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JUAN JOSÉ",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -141
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -216
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -300
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "VICENTE JAVIER",
+        "LastName": "VALLS MARTÍNEZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -441
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "JUAN",
+        "LastName": "HARO ESCUDERO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -310
+      }
+    }
+  ]
+}

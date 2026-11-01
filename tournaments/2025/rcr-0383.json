@@ -1,0 +1,206 @@
+{
+  "Name": "Black Hole 2025",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-09-13",
+  "ToDate": "2025-09-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Stéphane",
+      "LastName": "COMMANS"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02000005",
+      "Result": 144800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "02010073",
+      "Result": 120500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04690008",
+      "Result": 110300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "02010033",
+      "Result": 100700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "02010074",
+      "Result": 97600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04630001",
+      "Result": 90600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010086",
+      "Result": 86100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02000016",
+      "Result": 85600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02010080",
+      "Result": 82800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010058",
+      "Result": 69200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010752",
+      "Result": 41900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040214",
+      "Result": 29300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "06990035",
+      "Result": 28000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "02010038",
+      "Result": 26100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04690002",
+      "Result": 13700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02000001",
+      "Result": 2200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02000024",
+      "Result": -5200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010069",
+      "Result": -6100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02000013",
+      "Result": -6600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04160071",
+      "Result": -7600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02000027",
+      "Result": -20600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "02010082",
+      "Result": -23100
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04690009",
+      "Result": -40700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02000009",
+      "Result": -41100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "02010039",
+      "Result": -53700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02000007",
+      "Result": -55200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04990103",
+      "Result": -56700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010043",
+      "Result": -65300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010088",
+      "Result": -79200
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "05000060",
+      "Result": -86900
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "ALEXANDRE",
+        "LastName": "SANCHEZ FALCON",
+        "RepresentingNationality": "be"
+      },
+      "Result": -88600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04090098",
+      "Result": -93400
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04690010",
+      "Result": -103600
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02000036",
+      "Result": -113900
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02010078",
+      "Result": -117500
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02010079",
+      "Result": -184400
+    }
+  ]
+}

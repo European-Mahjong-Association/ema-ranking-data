@@ -1,0 +1,142 @@
+{
+  "Name": "REGGIO EMILIA RIICHI OPEN 2023",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-03-05",
+  "ToDate": "2023-03-05",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Massimo",
+      "LastName": "CRIVARO"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 102200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000107",
+      "Result": 100100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000155",
+      "Result": 82300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000093",
+      "Result": 47100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000023",
+      "Result": 47000
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000021",
+      "Result": 37800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000196",
+      "Result": 27800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000177",
+      "Result": 18900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000018",
+      "Result": 10500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000080",
+      "Result": 6100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000009",
+      "Result": 5600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000131",
+      "Result": -2500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000109",
+      "Result": -51000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000197",
+      "Result": -54300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "GIANLUCA",
+        "LastName": "DEBIDDA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -54600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MARCO",
+        "LastName": "CAULI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -55400
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ALESSANDRO",
+        "LastName": "CIPRO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -58900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000180",
+      "Result": -70300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "LETIZIA",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -82700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000200",
+      "Result": -96300
+    }
+  ]
+}

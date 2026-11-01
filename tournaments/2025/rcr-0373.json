@@ -1,0 +1,102 @@
+{
+  "Name": "RMP Riichi Open 2025",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-05-17",
+  "ToDate": "2025-05-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Justin",
+      "LastName": "KOH"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000127",
+      "Result": 136000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 84100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000125",
+      "Result": 62600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000149",
+      "Result": 46300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000053",
+      "Result": 39100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11990143",
+      "Result": 21700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990007",
+      "Result": 13600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "17990004",
+      "Result": -12800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000148",
+      "Result": -27600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05000018",
+      "Result": -32000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000131",
+      "Result": -32300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000154",
+      "Result": -43200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000146",
+      "Result": -43800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000160",
+      "Result": -44200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000066",
+      "Result": -50900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05000056",
+      "Result": -156600
+    }
+  ]
+}

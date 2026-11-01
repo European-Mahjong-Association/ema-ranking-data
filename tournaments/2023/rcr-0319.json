@@ -1,0 +1,266 @@
+{
+  "Name": "Riichi Italian Championship 2023 (6th)",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-12-09",
+  "ToDate": "2023-12-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sérgio",
+      "LastName": "Matos Lima"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 13,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000146",
+      "Result": 164400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000018",
+      "Result": 138900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04320013",
+      "Result": 136300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04310079",
+      "Result": 121800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000155",
+      "Result": 110700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "12990014",
+      "Result": 102200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11000023",
+      "Result": 101500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04040057",
+      "Result": 90100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000202",
+      "Result": 83000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04160110",
+      "Result": 76200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "11000010",
+      "Result": 60400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000083",
+      "Result": 56900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000093",
+      "Result": 56500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000203",
+      "Result": 54900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000155",
+      "Result": 47900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000131",
+      "Result": 44100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000125",
+      "Result": 39700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990143",
+      "Result": 22700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000102",
+      "Result": 22300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000204",
+      "Result": 17800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "25000010",
+      "Result": 15200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000021",
+      "Result": 12100
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000068",
+      "Result": 11900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990127",
+      "Result": 10400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "07000107",
+      "Result": 8300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000071",
+      "Result": -2600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000032",
+      "Result": -9400
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000001",
+      "Result": -14600
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "01000013",
+      "Result": -16400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "07000088",
+      "Result": -21800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05100182",
+      "Result": -23900
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000042",
+      "Result": -24000
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04310012",
+      "Result": -39800
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "07000109",
+      "Result": -47400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04990106",
+      "Result": -48900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "07000080",
+      "Result": -51900
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "07000009",
+      "Result": -66400
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04090025",
+      "Result": -67200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "11990140",
+      "Result": -72400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "01000154",
+      "Result": -78800
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "11990133",
+      "Result": -84900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "16000008",
+      "Result": -94200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "19000003",
+      "Result": -111000
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "01000147",
+      "Result": -113500
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04090024",
+      "Result": -120200
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "07000170",
+      "Result": -126600
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "10990084",
+      "Result": -156500
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

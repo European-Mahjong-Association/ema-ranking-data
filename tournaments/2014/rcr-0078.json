@@ -1,0 +1,294 @@
+{
+  "Name": "SWEDISH OPEN RIICHI MAHJONG CHAMPIONSHIP 2014",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-03-29",
+  "ToDate": "2014-03-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Konsta",
+      "LastName": "LENSU"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "17990007",
+      "Result": 315800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "OSIPOV",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 238000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990073",
+      "Result": 222200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990024",
+      "Result": 208000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000176",
+      "Result": 128900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "17990008",
+      "Result": 120200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990052",
+      "Result": 89900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000156",
+      "Result": 89800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990068",
+      "Result": 83100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "BERGQUIST",
+        "RepresentingNationality": "se"
+      },
+      "Result": 69500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990064",
+      "Result": 56300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "NIKLAS",
+        "LastName": "BENGTSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": 51200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990047",
+      "Result": 48200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "NYMARK",
+        "RepresentingNationality": "se"
+      },
+      "Result": 40900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000192",
+      "Result": 29900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ROBIN",
+        "LastName": "EKMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": 26000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990049",
+      "Result": 24600
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "MAARIA",
+        "LastName": "WAHLSTRÖM",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 13500
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "NIKOLAS",
+        "LastName": "KIILI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -100
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "KARL",
+        "LastName": "ANDERSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": -1300
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -1600
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "SIMON",
+        "LastName": "WIDELL",
+        "RepresentingNationality": "se"
+      },
+      "Result": -39500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "NILSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": -57300
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "JARI",
+        "LastName": "HELENIUS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -58700
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -66300
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "QIM",
+        "LastName": "DAHL KARLSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": -68300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000148",
+      "Result": -78100
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "KRISTOFFER",
+        "LastName": "LINDFORS",
+        "RepresentingNationality": "se"
+      },
+      "Result": -93100
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "SÖREN",
+        "LastName": "GULLBRAND",
+        "RepresentingNationality": "se"
+      },
+      "Result": -117700
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ÅSA",
+        "LastName": "JOHANSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": -124600
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "CHRISTIAN",
+        "LastName": "LUNDELL",
+        "RepresentingNationality": "se"
+      },
+      "Result": -130600
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "SAM",
+        "LastName": "LOCKWOOD",
+        "RepresentingNationality": "se"
+      },
+      "Result": -153900
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "RÅDMAN",
+        "RepresentingNationality": "se"
+      },
+      "Result": -161400
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "ROLF",
+        "LastName": "HEDBERG",
+        "RepresentingNationality": "se"
+      },
+      "Result": -175100
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "KAI",
+        "LastName": "WIDELL NIIGATA",
+        "RepresentingNationality": "se"
+      },
+      "Result": -235300
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "MÅNS",
+        "LastName": "GEZELIUS",
+        "RepresentingNationality": "se"
+      },
+      "Result": -306100
+    }
+  ]
+}

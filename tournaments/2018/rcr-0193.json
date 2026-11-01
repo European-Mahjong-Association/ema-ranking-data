@@ -1,0 +1,190 @@
+{
+  "Name": "DOUBLE RACE 2018 RIICHI",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-06-10",
+  "ToDate": "2018-06-10",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Cédric",
+      "LastName": "AGUERRE"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000091",
+      "Result": 133400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "LORENZO",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": 122600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000104",
+      "Result": 99300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04090080",
+      "Result": 72800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000080",
+      "Result": 52100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000170",
+      "Result": 52000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000018",
+      "Result": 37800
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MINGXI",
+        "LastName": "LIANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 22800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000109",
+      "Result": 22400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000155",
+      "Result": 22200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04990024",
+      "Result": 21100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000009",
+      "Result": -100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000093",
+      "Result": -6300
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "PARIDE",
+        "LastName": "BENINI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -10700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000052",
+      "Result": -13300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000023",
+      "Result": -17200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "07000002",
+      "Result": -23800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000107",
+      "Result": -24000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04090025",
+      "Result": -35000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -39100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "COLI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -41100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04040057",
+      "Result": -46900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "07000131",
+      "Result": -48100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000087",
+      "Result": -58100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -61800
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "LETIZIA",
+        "LastName": "DELLA CASA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -66800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "07000021",
+      "Result": -98300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04090024",
+      "Result": -107900
+    }
+  ]
+}

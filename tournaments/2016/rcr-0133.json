@@ -1,0 +1,148 @@
+{
+  "Name": "DRAGON OWL RIICHI CONTEST 2016",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-08-20",
+  "ToDate": "2016-08-20",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000031",
+      "Result": 111400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000032",
+      "Result": 46400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000073",
+      "Result": 44300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000003",
+      "Result": 36500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MAGDALENA",
+        "LastName": "JANICKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 31100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000063",
+      "Result": 29200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "NATALIA",
+        "LastName": "BUŁA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 21500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 13000
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "OLIWIA",
+        "LastName": "WOLSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 10600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000066",
+      "Result": 1000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000049",
+      "Result": -1400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000062",
+      "Result": -6900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000042",
+      "Result": -7900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "POWAŁOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -11700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000001",
+      "Result": -14100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MAREK",
+        "LastName": "WAKULUK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -20500
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "RADOSŁAW",
+        "LastName": "SALAMUCHA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -37400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000006",
+      "Result": -43200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000067",
+      "Result": -118500
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ROGER",
+        "LastName": "WASZKIEWICZ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -143400
+    }
+  ]
+}

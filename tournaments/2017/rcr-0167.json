@@ -1,0 +1,210 @@
+{
+  "Name": "BOLOGNA RIICHI OPEN 2017",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-10-14",
+  "ToDate": "2017-10-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Paola",
+      "LastName": "Bungaro"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ALEKSEI",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 191000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04090080",
+      "Result": 171300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990043",
+      "Result": 133600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "IVAN",
+        "LastName": "COLI",
+        "RepresentingNationality": "it"
+      },
+      "Result": 63300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100153",
+      "Result": 53100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000018",
+      "Result": 51300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000001",
+      "Result": 48400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990004",
+      "Result": 42300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000160",
+      "Result": 34900
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MASSIMO",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": 34900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030100",
+      "Result": 32500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11990010",
+      "Result": 25000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "RYO",
+        "LastName": "FUKAURA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 14200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000164",
+      "Result": 12100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000002",
+      "Result": 10400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000034",
+      "Result": 9200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11990005",
+      "Result": 1000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "07000093",
+      "Result": -5300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -14900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "11990011",
+      "Result": -23000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000021",
+      "Result": -24400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000104",
+      "Result": -32700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "07000131",
+      "Result": -50100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "07000023",
+      "Result": -52900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "07000052",
+      "Result": -58500
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "LUCA",
+        "LastName": "CRIVARO",
+        "RepresentingNationality": "it"
+      },
+      "Result": -67700
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "07000136",
+      "Result": -71900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000011",
+      "Result": -86200
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04030022",
+      "Result": -87100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "FILIPPO",
+        "LastName": "MENICUCCI",
+        "RepresentingNationality": "it"
+      },
+      "Result": -101800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "07000103",
+      "Result": -144000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "07000109",
+      "Result": -204300
+    }
+  ]
+}

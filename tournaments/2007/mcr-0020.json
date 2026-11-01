@@ -1,0 +1,464 @@
+{
+  "Name": "Green Dragon - MCR Open 2007",
+  "Country": "hu",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2007-05-19",
+  "ToDate": "2007-05-20",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 44,
+  "NrCountries": 7,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "06010008",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 380
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 780
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "06990001",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 520
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "SZILVIA",
+        "LastName": "SZEKERES",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 377
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 400
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040010",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 277
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "HOFFMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 258
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "SÁNDOR",
+        "LastName": "DR. PINCZÉS",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 252
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 155
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "NUSRETA",
+        "LastName": "MAUTHNER",
+        "RepresentingNationality": "ba"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ZSOLT",
+        "LastName": "NYULASI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 201
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "RIHA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 282
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "06010001",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 257
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "PAULA",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "pt"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 250
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ZSANETT",
+        "LastName": "LAKOS",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 247
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "LAURENT",
+        "LastName": "MAHÉ",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 113
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ANDREA",
+        "LastName": "MÁTRAI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 112
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "CSABA ZERGI",
+        "LastName": "TIBOR",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 265
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "KLÁRA",
+        "LastName": "TAKÁCSNÉ LOWINGER",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 223
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 123
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "NORBERT",
+        "LastName": "ZSÁMBOKI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 71
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MIKLÓS",
+        "LastName": "ILLÉSSY",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 50
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010022",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -15
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "VIVIEN",
+        "LastName": "RAJDA",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -228
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000028",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -236
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 112
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "FERENC",
+        "LastName": "FRÜHVALD",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -36
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010036",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -91
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -108
+      }
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ERIKA",
+        "LastName": "MAGÓ",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -150
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -16
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -70
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -264
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "06990005",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -240
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "06010003",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -314
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "06010028",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -493
+      }
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "01000025",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -148
+      }
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "06010025",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -376
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -396
+      }
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "ANDRÁSI",
+        "LastName": "ANDRÁSI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -494
+      }
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -496
+      }
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "SÉBASTIEN",
+        "LastName": "BERRET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -383
+      }
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "LÁSZLÓ",
+        "LastName": "PÁLINKÁS",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -656
+      }
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "ANDREA",
+        "LastName": "PÁLINKÁSNÉ GÁBOR",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -708
+      }
+    }
+  ]
+}

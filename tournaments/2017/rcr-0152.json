@@ -1,0 +1,206 @@
+{
+  "Name": "GRAZ OPEN RIICHI TOURNAMENT 2017",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-04-29",
+  "ToDate": "2017-04-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Henrik",
+      "LastName": "LETH"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04040057",
+      "Result": 254000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "17990008",
+      "Result": 93300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000053",
+      "Result": 76400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000131",
+      "Result": 73200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000013",
+      "Result": 52500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000022",
+      "Result": 43300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "17990004",
+      "Result": 32900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MARCO",
+        "LastName": "KRETSCHMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 30700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000125",
+      "Result": 28900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000066",
+      "Result": 26200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "JOSUA",
+        "LastName": "BÄCHLE",
+        "RepresentingNationality": "at"
+      },
+      "Result": 26000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990007",
+      "Result": 25600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "HADOLT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 24200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000127",
+      "Result": 20900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "17990009",
+      "Result": 16400
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "STEININGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -11300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -16400
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -24700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "17990003",
+      "Result": -28100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100153",
+      "Result": -45100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -46400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000107",
+      "Result": -63500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -73100
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -89100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000073",
+      "Result": -108700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000080",
+      "Result": -112100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "JURAJ",
+        "LastName": "MÓZA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -125000
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "TONCAR",
+        "RepresentingNationality": "at"
+      },
+      "Result": -141000
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "Name": "VERDEN OPEN  2016",
+  "Country": "de",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-04-17",
+  "ToDate": "2016-04-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Olav",
+      "LastName": "Sommers"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 261
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ARNDT",
+        "LastName": "REGORZ",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 408
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100143",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 345
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100057",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 305
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100033",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 145
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "FRED",
+        "LastName": "BOHLMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 135
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100056",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 177
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010526",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 47
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "HEIKO",
+        "LastName": "DOMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 46
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ULLA",
+        "LastName": "EICKSCHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 158
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05900008",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -47
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -57
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "KAREN",
+        "LastName": "ANKLAMM",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -108
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100016",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -133
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05900002",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -114
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100024",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -187
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100017",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -194
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ROLLE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -309
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "FRAUKE",
+        "LastName": "ROOS",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -436
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100018",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -442
+      }
+    }
+  ]
+}

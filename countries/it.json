@@ -1,0 +1,582 @@
+{
+  "CountryCode": "it",
+  "Country": "Italy",
+  "Players": [
+    {
+      "EmaNumber": "07000001",
+      "FirstName": "LUCA",
+      "LastName": "GAVELLI"
+    },
+    {
+      "EmaNumber": "07000002",
+      "FirstName": "MARCO",
+      "LastName": "BAZZOCCHI"
+    },
+    {
+      "EmaNumber": "07000005",
+      "FirstName": "PATRIZIA",
+      "LastName": "BUSCARINI"
+    },
+    {
+      "EmaNumber": "07000006",
+      "FirstName": "DANIELA",
+      "LastName": "NATALI"
+    },
+    {
+      "EmaNumber": "07000007",
+      "FirstName": "MARCO",
+      "LastName": "MILANDRI"
+    },
+    {
+      "EmaNumber": "07000008",
+      "FirstName": "ANDREA",
+      "LastName": "VERPELLI"
+    },
+    {
+      "EmaNumber": "07000009",
+      "FirstName": "STEFANO",
+      "LastName": "RIJOFF"
+    },
+    {
+      "EmaNumber": "07000011",
+      "FirstName": "ANGELA",
+      "LastName": "PLEBANI"
+    },
+    {
+      "EmaNumber": "07000013",
+      "FirstName": "STEFANIA",
+      "LastName": "PROCOPIO"
+    },
+    {
+      "EmaNumber": "07000014",
+      "FirstName": "ROSITA",
+      "LastName": "BONALDO"
+    },
+    {
+      "EmaNumber": "07000017",
+      "FirstName": "MICHELE",
+      "LastName": "BOLLINO"
+    },
+    {
+      "EmaNumber": "07000018",
+      "FirstName": "MARCO",
+      "LastName": "MONTEBELLI",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Paris"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "07000019",
+      "FirstName": "ALESSANDRO",
+      "LastName": "GIAU"
+    },
+    {
+      "EmaNumber": "07000020",
+      "FirstName": "LORETTA",
+      "LastName": "PIZZI"
+    },
+    {
+      "EmaNumber": "07000021",
+      "FirstName": "ELENA",
+      "LastName": "SAVINI"
+    },
+    {
+      "EmaNumber": "07000023",
+      "FirstName": "BENEDETTA",
+      "LastName": "TESI"
+    },
+    {
+      "EmaNumber": "07000024",
+      "FirstName": "SERENA",
+      "LastName": "PORRATI"
+    },
+    {
+      "EmaNumber": "07000026",
+      "FirstName": "ADRIANO",
+      "LastName": "MANTOVANI"
+    },
+    {
+      "EmaNumber": "07000030",
+      "FirstName": "BARBARA",
+      "LastName": "SOLENGHI"
+    },
+    {
+      "EmaNumber": "07000034",
+      "FirstName": "MICHELE",
+      "LastName": "COMERCI"
+    },
+    {
+      "EmaNumber": "07000035",
+      "FirstName": "GIACOMO",
+      "LastName": "FERRUZZI"
+    },
+    {
+      "EmaNumber": "07000037",
+      "FirstName": "STEFANO",
+      "LastName": "SCARAMUZZA"
+    },
+    {
+      "EmaNumber": "07000042",
+      "FirstName": "VITTORIO",
+      "LastName": "BASSI"
+    },
+    {
+      "EmaNumber": "07000048",
+      "FirstName": "GIANFRANCO",
+      "LastName": "PIANCASTELLI"
+    },
+    {
+      "EmaNumber": "07000051",
+      "FirstName": "GIACOMO",
+      "LastName": "LAMPORESI"
+    },
+    {
+      "EmaNumber": "07000052",
+      "FirstName": "MARCO",
+      "LastName": "LORENZI"
+    },
+    {
+      "EmaNumber": "07000055",
+      "FirstName": "MASSIMILIANO",
+      "LastName": "TRANCHINA"
+    },
+    {
+      "EmaNumber": "07000065",
+      "FirstName": "STEFANIA",
+      "LastName": "GORI"
+    },
+    {
+      "EmaNumber": "07000068",
+      "FirstName": "ANDREA",
+      "LastName": "BARZAGHI"
+    },
+    {
+      "EmaNumber": "07000070",
+      "FirstName": "MARCO",
+      "LastName": "FOSCHI"
+    },
+    {
+      "EmaNumber": "07000075",
+      "FirstName": "FABRIZIO",
+      "LastName": "FERRI"
+    },
+    {
+      "EmaNumber": "07000076",
+      "FirstName": "ANNA",
+      "LastName": "TOMISANI"
+    },
+    {
+      "EmaNumber": "07000078",
+      "FirstName": "LAURA",
+      "LastName": "ENFI"
+    },
+    {
+      "EmaNumber": "07000080",
+      "FirstName": "AUGUSTO",
+      "LastName": "GHERARDI"
+    },
+    {
+      "EmaNumber": "07000082",
+      "FirstName": "ROGER",
+      "LastName": "PEREGO"
+    },
+    {
+      "EmaNumber": "07000083",
+      "FirstName": "ELISA",
+      "LastName": "FOSCHI"
+    },
+    {
+      "EmaNumber": "07000084",
+      "FirstName": "ANTONELLA",
+      "LastName": "DE MARINIS"
+    },
+    {
+      "EmaNumber": "07000085",
+      "FirstName": "LORENZO",
+      "LastName": "LA MARCA"
+    },
+    {
+      "EmaNumber": "07000088",
+      "FirstName": "CARMELITA",
+      "LastName": "GARRIDO"
+    },
+    {
+      "EmaNumber": "07000089",
+      "FirstName": "MAURIZIO",
+      "LastName": "CIOL"
+    },
+    {
+      "EmaNumber": "07000093",
+      "FirstName": "OMBRETTA",
+      "LastName": "TASSINARI"
+    },
+    {
+      "EmaNumber": "07000095",
+      "FirstName": "ROSSELLA",
+      "LastName": "CALOSCI"
+    },
+    {
+      "EmaNumber": "07000096",
+      "FirstName": "FRANCESCO",
+      "LastName": "MARTINI"
+    },
+    {
+      "EmaNumber": "07000103",
+      "FirstName": "PAOLO",
+      "LastName": "SILVESTRI"
+    },
+    {
+      "EmaNumber": "07000104",
+      "FirstName": "FRANCESCA",
+      "LastName": "BATTAGLINI"
+    },
+    {
+      "EmaNumber": "07000107",
+      "FirstName": "DANILO",
+      "LastName": "SERIO"
+    },
+    {
+      "EmaNumber": "07000109",
+      "FirstName": "MIRIA",
+      "LastName": "MARTELLI"
+    },
+    {
+      "EmaNumber": "07000111",
+      "FirstName": "FRANCA",
+      "LastName": "PECE"
+    },
+    {
+      "EmaNumber": "07000114",
+      "FirstName": "ALBERTO",
+      "LastName": "ROSI",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "07000115",
+      "FirstName": "GIUSEPPE",
+      "LastName": "IACOLINO"
+    },
+    {
+      "EmaNumber": "07000131",
+      "FirstName": "ALBERTO",
+      "LastName": "VENTURI"
+    },
+    {
+      "EmaNumber": "07000136",
+      "FirstName": "CARLA",
+      "LastName": "MORBIDELLI"
+    },
+    {
+      "EmaNumber": "07000138",
+      "FirstName": "CLAUDIA",
+      "LastName": "FOLESANI"
+    },
+    {
+      "EmaNumber": "07000141",
+      "FirstName": "VALENTINA",
+      "LastName": "VALENTINO"
+    },
+    {
+      "EmaNumber": "07000145",
+      "FirstName": "DANIELE",
+      "LastName": "CESARINI"
+    },
+    {
+      "EmaNumber": "07000148",
+      "FirstName": "LUCA",
+      "LastName": "BONCRISTIANO"
+    },
+    {
+      "EmaNumber": "07000150",
+      "FirstName": "NICOLETTA",
+      "LastName": "BASCHIROTTO"
+    },
+    {
+      "EmaNumber": "07000152",
+      "FirstName": "VALENTINA",
+      "LastName": "CERRA"
+    },
+    {
+      "EmaNumber": "07000154",
+      "FirstName": "FRANCESCO",
+      "LastName": "FACCHINO"
+    },
+    {
+      "EmaNumber": "07000155",
+      "FirstName": "OSCAR",
+      "LastName": "PALMISANO"
+    },
+    {
+      "EmaNumber": "07000158",
+      "FirstName": "ANDREA",
+      "LastName": "RENDA"
+    },
+    {
+      "EmaNumber": "07000160",
+      "FirstName": "DAVIDE",
+      "LastName": "MASTRULLO"
+    },
+    {
+      "EmaNumber": "07000164",
+      "FirstName": "ALAN",
+      "LastName": "COLI"
+    },
+    {
+      "EmaNumber": "07000170",
+      "FirstName": "DOMENICO",
+      "LastName": "SANSEVIERI"
+    },
+    {
+      "EmaNumber": "07000172",
+      "FirstName": "LUCA",
+      "LastName": "CRAGNOLIN"
+    },
+    {
+      "EmaNumber": "07000175",
+      "FirstName": "FRANCESCO",
+      "LastName": "CHIMENTI"
+    },
+    {
+      "EmaNumber": "07000176",
+      "FirstName": "WEI DE",
+      "LastName": "LOU",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "07000177",
+      "FirstName": "LORIS",
+      "LastName": "LANGERI"
+    },
+    {
+      "EmaNumber": "07000180",
+      "FirstName": "GIUSEPPE",
+      "LastName": "RIZZO"
+    },
+    {
+      "EmaNumber": "07000182",
+      "FirstName": "LUIGI",
+      "LastName": "CENTONZE"
+    },
+    {
+      "EmaNumber": "07000183",
+      "FirstName": "ANTONELLA",
+      "LastName": "FERIOLI"
+    },
+    {
+      "EmaNumber": "07000194",
+      "FirstName": "MATTEO",
+      "LastName": "SCANDELLA"
+    },
+    {
+      "EmaNumber": "07000195",
+      "FirstName": "FRANCESCO",
+      "LastName": "MEZZAPESA"
+    },
+    {
+      "EmaNumber": "07000196",
+      "FirstName": "FEDERICA",
+      "LastName": "CROCI"
+    },
+    {
+      "EmaNumber": "07000197",
+      "FirstName": "ILARIA",
+      "LastName": "LALINGA"
+    },
+    {
+      "EmaNumber": "07000200",
+      "FirstName": "LUCA",
+      "LastName": "SILE"
+    },
+    {
+      "EmaNumber": "07000201",
+      "FirstName": "MARTINA",
+      "LastName": "STEFANUTTI"
+    },
+    {
+      "EmaNumber": "07000202",
+      "FirstName": "YUAN",
+      "LastName": "ZHAN"
+    },
+    {
+      "EmaNumber": "07000203",
+      "FirstName": "LORENZO",
+      "LastName": "CERINI"
+    },
+    {
+      "EmaNumber": "07000204",
+      "FirstName": "LORENZO",
+      "LastName": "COTZA"
+    },
+    {
+      "EmaNumber": "07000205",
+      "FirstName": "Andre",
+      "LastName": "CARNEIRO"
+    },
+    {
+      "EmaNumber": "07000206",
+      "FirstName": "GIUSEPPE",
+      "LastName": "TOMASI"
+    },
+    {
+      "EmaNumber": "07000207",
+      "FirstName": "YAEPHRA",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "07000208",
+      "FirstName": "ALESSANDRA",
+      "LastName": "MALIZIA"
+    },
+    {
+      "EmaNumber": "07000209",
+      "FirstName": "Luca",
+      "LastName": "MANFRINATI"
+    },
+    {
+      "EmaNumber": "07000210",
+      "FirstName": "ALESSANDRO ANDREA",
+      "LastName": "FUCCI"
+    },
+    {
+      "EmaNumber": "07000211",
+      "FirstName": "ALESSANDRO",
+      "LastName": "PICCHIONI"
+    },
+    {
+      "EmaNumber": "07000212",
+      "FirstName": "FRANCESCO",
+      "LastName": "PICCHIONI"
+    },
+    {
+      "EmaNumber": "07000213",
+      "FirstName": "LORENZO",
+      "LastName": "VANOLI"
+    },
+    {
+      "EmaNumber": "07000214",
+      "FirstName": "YUJIA",
+      "LastName": "ZHU"
+    },
+    {
+      "EmaNumber": "07000216",
+      "FirstName": "GIORGIO",
+      "LastName": "ESOPI"
+    },
+    {
+      "EmaNumber": "07000217",
+      "FirstName": "MASSIMO",
+      "LastName": "CIRELLI"
+    },
+    {
+      "EmaNumber": "07000218",
+      "FirstName": "ANGELO",
+      "LastName": "TOMASI"
+    },
+    {
+      "EmaNumber": "07000219",
+      "FirstName": "SONIA",
+      "LastName": "CESARO"
+    },
+    {
+      "EmaNumber": "07000220",
+      "FirstName": "RICCARDO",
+      "LastName": "ZIZZI"
+    },
+    {
+      "EmaNumber": "07000222",
+      "FirstName": "MARCO",
+      "LastName": "CASAGLIA"
+    },
+    {
+      "EmaNumber": "07000223",
+      "FirstName": "PIETRO",
+      "LastName": "MONTEBELLI"
+    },
+    {
+      "EmaNumber": "07000224",
+      "FirstName": "LEONARD",
+      "LastName": "ORNAGHI"
+    },
+    {
+      "EmaNumber": "07000225",
+      "FirstName": "PIETRO",
+      "LastName": "LONARDI"
+    },
+    {
+      "EmaNumber": "07000226",
+      "FirstName": "LUCA",
+      "LastName": "ALFIERI"
+    },
+    {
+      "EmaNumber": "07000227",
+      "FirstName": "LORENZO",
+      "LastName": "CALOSI"
+    },
+    {
+      "EmaNumber": "07000228",
+      "FirstName": "MIRCO",
+      "LastName": "MILANDRI"
+    },
+    {
+      "EmaNumber": "07000229",
+      "FirstName": "VALENTINA",
+      "LastName": "MUSSONI"
+    },
+    {
+      "EmaNumber": "07000230",
+      "FirstName": "MARCO",
+      "LastName": "FUMI"
+    },
+    {
+      "EmaNumber": "07000231",
+      "FirstName": "CARLOTTA",
+      "LastName": "CIANFERONI"
+    },
+    {
+      "EmaNumber": "07000232",
+      "FirstName": "MARCO",
+      "LastName": "GIACOMELLI"
+    },
+    {
+      "EmaNumber": "07000233",
+      "FirstName": "GIORGIA",
+      "LastName": "BOLLINO"
+    },
+    {
+      "EmaNumber": "07000234",
+      "FirstName": "FABIO",
+      "LastName": "BOCCALARI"
+    },
+    {
+      "EmaNumber": "07000235",
+      "FirstName": "MATTIA",
+      "LastName": "BASSI"
+    },
+    {
+      "EmaNumber": "07000236",
+      "FirstName": "ANDREA",
+      "LastName": "PERTEGHELLA"
+    }
+  ]
+}

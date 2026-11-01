@@ -1,0 +1,194 @@
+{
+  "Name": "GREAT SCHOLARS 2013",
+  "Country": "gb",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-04-06",
+  "ToDate": "2013-04-06",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Peter",
+      "LastName": "Langford"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990057",
+      "Result": 163900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990028",
+      "Result": 153200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "11990010",
+      "Result": 148800
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 100500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ROBIN",
+        "LastName": "NEATHERWAY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 73200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "GRIFFIN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 65300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "PAUL",
+        "LastName": "BROADBRIDGE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 53500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "TAKASHI",
+        "LastName": "FUJII",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 34700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040102",
+      "Result": 30200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "CLARKE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 29800
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "SHAUN",
+        "LastName": "DRURY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 25500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11990011",
+      "Result": -9100
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "GRAEME",
+        "LastName": "ROBINSON",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -14000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11990060",
+      "Result": -21100
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ESTHER",
+        "LastName": "JAP",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -24500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990062",
+      "Result": -39200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "TING",
+        "LastName": null,
+        "RepresentingNationality": "gb"
+      },
+      "Result": -40000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990016",
+      "Result": -57000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990004",
+      "Result": -65800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000013",
+      "Result": -98300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990005",
+      "Result": -104200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -109300
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ALEX",
+        "LastName": "MARCH",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -130100
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DEXTER",
+        "LastName": "GRIFFITHS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -166000
+    }
+  ]
+}

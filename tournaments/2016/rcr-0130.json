@@ -1,0 +1,182 @@
+{
+  "Name": "ONLY RIICHI OPEN 2016",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-06-25",
+  "ToDate": "2016-06-25",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Luc",
+      "LastName": "HUMBERT"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04300022",
+      "Result": 99900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04320014",
+      "Result": 46900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04160015",
+      "Result": 46200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": 41800
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "FRÉDÉRIC",
+        "LastName": "GRUEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 40700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04300002",
+      "Result": 37300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160080",
+      "Result": 36300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04320004",
+      "Result": 33000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "16000008",
+      "Result": 17000
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MAMY",
+        "LastName": "RAMINOSA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 14400
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 8100
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "ZHANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 2200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04160035",
+      "Result": -100
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -4700
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -8700
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "AZIZ",
+        "LastName": "AZOUGAGH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -36200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04320005",
+      "Result": -38600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04290001",
+      "Result": -40700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04040189",
+      "Result": -41300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04160071",
+      "Result": -46600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04040102",
+      "Result": -51400
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "HENRY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -61300
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "PIERRE",
+        "LastName": "HUTIN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -67400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04320006",
+      "Result": -70800
+    }
+  ]
+}

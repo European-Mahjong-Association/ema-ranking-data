@@ -1,0 +1,214 @@
+{
+  "Name": "MCR Copenhagen Open 2025",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-02-09",
+  "ToDate": "2025-02-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Niklas",
+      "LastName": "Johansson"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010743",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 450
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 441
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 364
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 354
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 370
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 269
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990008",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 460
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000192",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 153
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 84
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 78
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 20
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000262",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -74
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -91
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -206
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990165",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -16
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990166",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -71
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -89
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -98
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990170",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -336
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990172",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -456
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990169",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -471
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -332
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "03000269",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -487
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990110",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -336
+      }
+    }
+  ]
+}

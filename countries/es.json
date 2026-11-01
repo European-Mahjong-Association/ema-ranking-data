@@ -1,0 +1,516 @@
+{
+  "CountryCode": "es",
+  "Country": "Spain",
+  "Players": [
+    {
+      "EmaNumber": "10000002",
+      "FirstName": "ENTRENA FRANCISCO JAVIER",
+      "LastName": "GARCIA"
+    },
+    {
+      "EmaNumber": "10000003",
+      "FirstName": "ALEX",
+      "LastName": "DOLSET"
+    },
+    {
+      "EmaNumber": "10990007",
+      "FirstName": "JOSÉ",
+      "LastName": "MORENO MERINO"
+    },
+    {
+      "EmaNumber": "10990010",
+      "FirstName": "RAFAEL",
+      "LastName": "GALDÓN MARTÍNEZ"
+    },
+    {
+      "EmaNumber": "10990011",
+      "FirstName": "DAVID",
+      "LastName": "LORENZO CARRASCO"
+    },
+    {
+      "EmaNumber": "10990012",
+      "FirstName": "DIANA",
+      "LastName": "FUENTES CARREÑO"
+    },
+    {
+      "EmaNumber": "10990016",
+      "FirstName": "IVAN",
+      "LastName": "MAESTRE ROS"
+    },
+    {
+      "EmaNumber": "10990017",
+      "FirstName": "SAMUEL",
+      "LastName": "TÚNEZ HEREDIA",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "10990018",
+      "FirstName": "HÉCTOR",
+      "LastName": "ESCASO GIL"
+    },
+    {
+      "EmaNumber": "10990019",
+      "FirstName": "DAVID",
+      "LastName": "MARTÍNEZ GARCIA"
+    },
+    {
+      "EmaNumber": "10990020",
+      "FirstName": "EDUARDO",
+      "LastName": "AMADOR LORENTE"
+    },
+    {
+      "EmaNumber": "10990022",
+      "FirstName": "CARMEN",
+      "LastName": "VALBUENA MEDINA",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "10990023",
+      "FirstName": "ALBERTO",
+      "LastName": "TURPÍN"
+    },
+    {
+      "EmaNumber": "10990024",
+      "FirstName": "MARIA DEL MAR",
+      "LastName": "TÙNEZ PÉREZ"
+    },
+    {
+      "EmaNumber": "10990025",
+      "FirstName": "MARIA DEL PILAR",
+      "LastName": "CASTELLANO RIVAS"
+    },
+    {
+      "EmaNumber": "10990026",
+      "FirstName": "EDGAR",
+      "LastName": "RUBIO RODILLA",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "10990027",
+      "FirstName": "ANTONIO",
+      "LastName": "AYLLÓN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "10990028",
+      "FirstName": "ALEJANDRO",
+      "LastName": "MARTÍNEZ FERNÁNDEZ"
+    },
+    {
+      "EmaNumber": "10990030",
+      "FirstName": "JOHANN",
+      "LastName": "BERNAL NARANJO"
+    },
+    {
+      "EmaNumber": "10990037",
+      "FirstName": "KATIA",
+      "LastName": "TÚNEZ HEREDIA"
+    },
+    {
+      "EmaNumber": "10990039",
+      "FirstName": "ERNESTO",
+      "LastName": "VEGA DE LA IGLESIA SORIA"
+    },
+    {
+      "EmaNumber": "10990042",
+      "FirstName": "INMA",
+      "LastName": "CUEVAS TORTOSA"
+    },
+    {
+      "EmaNumber": "10990043",
+      "FirstName": "RAÚL",
+      "LastName": "RÍOS NAVARRO"
+    },
+    {
+      "EmaNumber": "10990047",
+      "FirstName": "MIGUEL",
+      "LastName": "PASCUAL RAMÍREZ"
+    },
+    {
+      "EmaNumber": "10990051",
+      "FirstName": "MARCOS",
+      "LastName": "SAN ANTONIO SERRANO"
+    },
+    {
+      "EmaNumber": "10990053",
+      "FirstName": "VÍCTOR",
+      "LastName": "GONZÁLEZ FUENTE"
+    },
+    {
+      "EmaNumber": "10990056",
+      "FirstName": "VIRGINIA",
+      "LastName": "POLONIO BAEYENS"
+    },
+    {
+      "EmaNumber": "10990057",
+      "FirstName": "LUIS EDUARDO",
+      "LastName": "RUBIO RODRIGUEZ"
+    },
+    {
+      "EmaNumber": "10990060",
+      "FirstName": "MARIO",
+      "LastName": "BALLESTER CARACENA"
+    },
+    {
+      "EmaNumber": "10990062",
+      "FirstName": "ELVIRA",
+      "LastName": "SANCHEZ FUENTES"
+    },
+    {
+      "EmaNumber": "10990063",
+      "FirstName": "ABRAHAM ANTONIO",
+      "LastName": "RIQUELME SÁNCHEZ"
+    },
+    {
+      "EmaNumber": "10990070",
+      "FirstName": "DAVID",
+      "LastName": "SOLER RECIO"
+    },
+    {
+      "EmaNumber": "10990071",
+      "FirstName": "MARIA JOSE",
+      "LastName": "RODRIGUEZ SAN VICENTE"
+    },
+    {
+      "EmaNumber": "10990072",
+      "FirstName": "LINXUAN",
+      "LastName": "HE"
+    },
+    {
+      "EmaNumber": "10990074",
+      "FirstName": "ANA",
+      "LastName": "PEREZ GALVE"
+    },
+    {
+      "EmaNumber": "10990076",
+      "FirstName": "JOAQUIN DERRAC",
+      "LastName": "RUS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "10990081",
+      "FirstName": "MARIONA",
+      "LastName": "NADAL"
+    },
+    {
+      "EmaNumber": "10990082",
+      "FirstName": "YEYIN",
+      "LastName": "LU"
+    },
+    {
+      "EmaNumber": "10990084",
+      "FirstName": "PABLO",
+      "LastName": "REBOLLO"
+    },
+    {
+      "EmaNumber": "10990085",
+      "FirstName": "SERGIO",
+      "LastName": "GALVE GARCIA"
+    },
+    {
+      "EmaNumber": "10990086",
+      "FirstName": "NICOLÁS",
+      "LastName": "BELTRÁN ALIAGA"
+    },
+    {
+      "EmaNumber": "10990087",
+      "FirstName": "SERGI",
+      "LastName": "VILLALOBOS"
+    },
+    {
+      "EmaNumber": "10990088",
+      "FirstName": "ANNA",
+      "LastName": "STEPANOVA"
+    },
+    {
+      "EmaNumber": "10990089",
+      "FirstName": "Edward Joel",
+      "LastName": "CARWYN MUSKUS"
+    },
+    {
+      "EmaNumber": "10990090",
+      "FirstName": "Arnold",
+      "LastName": "CABARUBIAS"
+    },
+    {
+      "EmaNumber": "10990091",
+      "FirstName": "Luis",
+      "LastName": "SALVADOR ARMENTEROS"
+    },
+    {
+      "EmaNumber": "10990092",
+      "FirstName": "Cels",
+      "LastName": "MONTERDE"
+    },
+    {
+      "EmaNumber": "10990093",
+      "FirstName": "Kenji",
+      "LastName": "HAYASHI"
+    },
+    {
+      "EmaNumber": "10990094",
+      "FirstName": "Matthieu",
+      "LastName": "ARENE"
+    },
+    {
+      "EmaNumber": "10990095",
+      "FirstName": "Myra",
+      "LastName": "CLARA DEUEL"
+    },
+    {
+      "EmaNumber": "10990096",
+      "FirstName": "Teresa",
+      "LastName": "SAURÍ"
+    },
+    {
+      "EmaNumber": "10990097",
+      "FirstName": "Jesús",
+      "LastName": "NAVARRO RODRÍGUEZ"
+    },
+    {
+      "EmaNumber": "10990098",
+      "FirstName": "Manuela",
+      "LastName": "REDONDO GÓMEZ"
+    },
+    {
+      "EmaNumber": "10990099",
+      "FirstName": "NIKOLAI",
+      "LastName": "TOLOCHNYI"
+    },
+    {
+      "EmaNumber": "10990100",
+      "FirstName": "Raquel",
+      "LastName": "FERNÁNDEZ SERRANO"
+    },
+    {
+      "EmaNumber": "10990101",
+      "FirstName": "GABRIEL",
+      "LastName": "ROCA BASET"
+    },
+    {
+      "EmaNumber": "10990102",
+      "FirstName": "CECILIA",
+      "LastName": "DÍAZ SOTO"
+    },
+    {
+      "EmaNumber": "10990103",
+      "FirstName": "JUNJIE",
+      "LastName": "SUN"
+    },
+    {
+      "EmaNumber": "10990104",
+      "FirstName": "KAIEN",
+      "LastName": "QIU"
+    },
+    {
+      "EmaNumber": "10990105",
+      "FirstName": "ALBA",
+      "LastName": "GUIRAO CARBONELL"
+    },
+    {
+      "EmaNumber": "10990106",
+      "FirstName": "OSCAR",
+      "LastName": "MARTÍN ROBLES"
+    },
+    {
+      "EmaNumber": "10990107",
+      "FirstName": "MARINA",
+      "LastName": "BARRAU"
+    },
+    {
+      "EmaNumber": "10990108",
+      "FirstName": "CARLOS",
+      "LastName": "XU LIN"
+    },
+    {
+      "EmaNumber": "10990109",
+      "FirstName": "LAURA",
+      "LastName": "BLANCO GOMEZ"
+    },
+    {
+      "EmaNumber": "10990110",
+      "FirstName": "RAFAEL",
+      "LastName": "EUSEBIO LOPEZ"
+    },
+    {
+      "EmaNumber": "10990112",
+      "FirstName": "JUAN ANTONIO",
+      "LastName": "NIETO GOMEZ"
+    },
+    {
+      "EmaNumber": "10990113",
+      "FirstName": "LUIS ALBERTO",
+      "LastName": "ANGEL SASTRE"
+    },
+    {
+      "EmaNumber": "10990114",
+      "FirstName": "JOSH",
+      "LastName": "RAAB"
+    },
+    {
+      "EmaNumber": "10990115",
+      "FirstName": "PAULA",
+      "LastName": "DÍAZ RINCÓN"
+    },
+    {
+      "EmaNumber": "10990116",
+      "FirstName": "SERGIO",
+      "LastName": "LÓPEZ SERRANO"
+    },
+    {
+      "EmaNumber": "10990117",
+      "FirstName": "DIEGO",
+      "LastName": "VICENTE CARNICER"
+    },
+    {
+      "EmaNumber": "10990118",
+      "FirstName": "AICON",
+      "LastName": "IZURA CONCELLÓN"
+    },
+    {
+      "EmaNumber": "10990119",
+      "FirstName": "GEMA",
+      "LastName": "GRACIA LÓPEZ"
+    },
+    {
+      "EmaNumber": "10990120",
+      "FirstName": "SOFÍA",
+      "LastName": "RODRÍGUEZ"
+    },
+    {
+      "EmaNumber": "10990121",
+      "FirstName": "ERIK",
+      "LastName": "MARTÍNEZ"
+    },
+    {
+      "EmaNumber": "10990122",
+      "FirstName": "PURIFICACIÓN",
+      "LastName": "ALFONSO RIVEIRO"
+    },
+    {
+      "EmaNumber": "10990123",
+      "FirstName": "CARLOS",
+      "LastName": "GRANADOS MARTÍNEZ"
+    },
+    {
+      "EmaNumber": "10990125",
+      "FirstName": "LUCA",
+      "LastName": "BONACINI"
+    },
+    {
+      "EmaNumber": "10990126",
+      "FirstName": "ALEJANDRO",
+      "LastName": "BARRANCO CASTRO"
+    },
+    {
+      "EmaNumber": "10990127",
+      "FirstName": "DIEGO",
+      "LastName": "SANTOS"
+    },
+    {
+      "EmaNumber": "10990128",
+      "FirstName": "ALBERTO",
+      "LastName": "TOLEDO MAYORGA"
+    },
+    {
+      "EmaNumber": "10990129",
+      "FirstName": "MARCELO",
+      "LastName": "MORENO"
+    },
+    {
+      "EmaNumber": "10990130",
+      "FirstName": "DANIEL",
+      "LastName": "DE ÁLAVA"
+    },
+    {
+      "EmaNumber": "10990131",
+      "FirstName": "MARTIN",
+      "LastName": "GORDO"
+    },
+    {
+      "EmaNumber": "10990133",
+      "FirstName": "CINTIA",
+      "LastName": "HORCAJO JEREZ"
+    },
+    {
+      "EmaNumber": "10990134",
+      "FirstName": "MIGUEL",
+      "LastName": "PASCUAL TÚNEZ"
+    },
+    {
+      "EmaNumber": "10990135",
+      "FirstName": "KING MAN",
+      "LastName": "CHEUNG"
+    },
+    {
+      "EmaNumber": "10990136",
+      "FirstName": "ANDRES",
+      "LastName": "AGUILAR ALHAMA"
+    },
+    {
+      "EmaNumber": "10990137",
+      "FirstName": "OLGA",
+      "LastName": "ELIA RENOVELL BONILLO"
+    },
+    {
+      "EmaNumber": "10990138",
+      "FirstName": "SAMUEL",
+      "LastName": "LEÓN PANIAGUA"
+    },
+    {
+      "EmaNumber": "10990139",
+      "FirstName": "MARCOS",
+      "LastName": "GONZÁLEZ CABELLOS"
+    },
+    {
+      "EmaNumber": "10990140",
+      "FirstName": "TATSUYA",
+      "LastName": "KAWAMURA"
+    },
+    {
+      "EmaNumber": "10990141",
+      "FirstName": "MANUEL",
+      "LastName": "GARCÍA LUCENA"
+    },
+    {
+      "EmaNumber": "10990146",
+      "FirstName": "Jeannette",
+      "LastName": "LOAKMAN"
+    },
+    {
+      "EmaNumber": "10990999",
+      "FirstName": "SERGI",
+      "LastName": "ALMARZA"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "Name": "Yuki No Taikai 2024",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-01-27",
+  "ToDate": "2024-01-27",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Manuel",
+      "LastName": "Tertre"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 56,
+  "NrCountries": 4,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010731",
+      "Result": 130900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010505",
+      "Result": 120900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010707",
+      "Result": 110600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010162",
+      "Result": 106300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010750",
+      "Result": 96700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010028",
+      "Result": 90100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010074",
+      "Result": 83500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010766",
+      "Result": 65000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010752",
+      "Result": 60100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010020",
+      "Result": 54900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010758",
+      "Result": 51900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010728",
+      "Result": 46700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010171",
+      "Result": 45500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010187",
+      "Result": 43400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04160092",
+      "Result": 32600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010054",
+      "Result": 17900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010557",
+      "Result": 17000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010633",
+      "Result": 15600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010168",
+      "Result": 15400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100100",
+      "Result": 12900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010526",
+      "Result": 11300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010712",
+      "Result": 2300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010725",
+      "Result": -1400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010580",
+      "Result": -3700
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010173",
+      "Result": -5100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010003",
+      "Result": -5600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "02010036",
+      "Result": -7600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010650",
+      "Result": -10300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "08010376",
+      "Result": -10400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010745",
+      "Result": -12100
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010039",
+      "Result": -14400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010021",
+      "Result": -14500
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010427",
+      "Result": -15600
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02010082",
+      "Result": -16500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "08010748",
+      "Result": -18900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "08010166",
+      "Result": -23300
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010727",
+      "Result": -27500
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010083",
+      "Result": -29200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "02010038",
+      "Result": -31200
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010295",
+      "Result": -31300
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "08010585",
+      "Result": -34100
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "08010584",
+      "Result": -38300
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010613",
+      "Result": -40700
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "02010052",
+      "Result": -48600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "02010058",
+      "Result": -49800
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010730",
+      "Result": -50500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "08010744",
+      "Result": -52800
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "02010084",
+      "Result": -59100
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "08010741",
+      "Result": -61500
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "08010762",
+      "Result": -61900
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "08010737",
+      "Result": -71400
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "08010487",
+      "Result": -79500
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "08010022",
+      "Result": -83900
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "08010486",
+      "Result": -84900
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "08010271",
+      "Result": -91800
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "08010518",
+      "Result": -104100
+    }
+  ]
+}

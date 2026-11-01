@@ -1,0 +1,440 @@
+{
+  "Name": "RUSSIAN OPEN MAHJONG CHAMPIONSHIP 2011",
+  "Country": "ru",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-11-05",
+  "ToDate": "2011-11-06",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "IGOR",
+        "LastName": "BIRUKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 558
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "MAKSAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 475
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "VITALY",
+        "LastName": "NOVIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 425
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000008",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 210
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "SVETLANA",
+        "LastName": "ILYINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 515
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "TEREKHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 444
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "STEPANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 242
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "STEPANOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 218
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "OKSANA",
+        "LastName": "BOLSHAKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 184
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "ILYIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 170
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "IGOR",
+        "LastName": "VOLKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 122
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 41
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 692
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "EKATERINA",
+        "LastName": "ZINOV EVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "VITALII",
+        "LastName": "SAVICKII",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 206
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ALEKSEY",
+        "LastName": "RYZHOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -2
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "PEROV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -218
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "EVGENIA",
+        "LastName": "NETREBINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 484
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "TATYANA",
+        "LastName": "NESTER",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 74
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "CHICHIGIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 49
+      }
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "TATYANA",
+        "LastName": "GOPTAREVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 81
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "NATALYA",
+        "LastName": "SHERSHAK",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 63
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ALEKSANDR",
+        "LastName": "GOPTAREV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 31
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "ANOKHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -298
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "SHERSHAK",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -115
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "ALEKSEY",
+        "LastName": "BOLSHAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -328
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "ALLA",
+        "LastName": "DANILEVSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -336
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ALEKSANDR",
+        "LastName": "BABUSHKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -466
+      }
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "KVASHA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -313
+      }
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "OLEG",
+        "LastName": "LOGVINOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -218
+      }
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "ALEKSANDR",
+        "LastName": "ISTOMIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -310
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "OLGA",
+        "LastName": "SALNIKOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -534
+      }
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ARSLAN",
+        "LastName": "MANDJIEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -632
+      }
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "NECHAEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -747
+      }
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "VOIDED",
+        "LastName": "VOIDED",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": 0
+      }
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "VOIDED2",
+        "LastName": "VOIDED2",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": 0
+      }
+    }
+  ]
+}

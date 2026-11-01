@@ -1,0 +1,274 @@
+{
+  "Name": "Tenpai Championship Open 2025",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-13",
+  "ToDate": "2025-12-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Olegs",
+      "LastName": "Osmjans"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 5,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990135",
+      "Result": 190300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990134",
+      "Result": 179000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990024",
+      "Result": 142700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990113",
+      "Result": 142300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990131",
+      "Result": 124600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990047",
+      "Result": 113300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990104",
+      "Result": 113000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990146",
+      "Result": 107000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990043",
+      "Result": 101200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "27000001",
+      "Result": 68300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990053",
+      "Result": 65200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990020",
+      "Result": 46800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990150",
+      "Result": 46100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990158",
+      "Result": 44600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990083",
+      "Result": 27900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990160",
+      "Result": 27900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990156",
+      "Result": 27400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990171",
+      "Result": 26200
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "RAJAMETS",
+        "RepresentingNationality": "ee"
+      },
+      "Result": 18600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990079",
+      "Result": 17000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990057",
+      "Result": 13600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990182",
+      "Result": 7800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990178",
+      "Result": 6000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990050",
+      "Result": 4900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990133",
+      "Result": -2800
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990114",
+      "Result": -12300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990048",
+      "Result": -12800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990162",
+      "Result": -14800
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990189",
+      "Result": -27700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990185",
+      "Result": -33400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990188",
+      "Result": -40700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990060",
+      "Result": -41400
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990132",
+      "Result": -46200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "14990190",
+      "Result": -49300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "27000003",
+      "Result": -55200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990120",
+      "Result": -60000
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "14990168",
+      "Result": -60600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "14990111",
+      "Result": -72800
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "21000057",
+      "Result": -89000
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "14990122",
+      "Result": -92900
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "14990119",
+      "Result": -93500
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "14990191",
+      "Result": -94600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "14990192",
+      "Result": -121000
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "14990125",
+      "Result": -126600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "14990166",
+      "Result": -127100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "27000002",
+      "Result": -132500
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "HANS",
+        "LastName": "ERIK",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -160800
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -130400
+    }
+  ]
+}

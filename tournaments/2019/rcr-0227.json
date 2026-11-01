@@ -1,0 +1,222 @@
+{
+  "Name": "RIICHI TWICKENHAM 2019",
+  "Country": "gb",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-04-13",
+  "ToDate": "2019-04-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Timur",
+      "LastName": "Hahn"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "RUSSELL",
+        "LastName": "CHAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 133300
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "CLARKE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 111700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "11990060",
+      "Result": 86600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "THOM",
+        "LastName": "DIMENT",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 78300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000087",
+      "Result": 78100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "16000029",
+      "Result": 75500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "CARL GEORG",
+        "LastName": "HEISE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 65000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990105",
+      "Result": 53000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000145",
+      "Result": 52400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000091",
+      "Result": 43100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "11990010",
+      "Result": 41900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100153",
+      "Result": 32600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "16000008",
+      "Result": 31500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11990074",
+      "Result": 27300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "11990057",
+      "Result": 24100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "MARK",
+        "LastName": "JENKING-REES",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 21200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "LOWE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 20300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JASON",
+        "LastName": "HE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 18100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990085",
+      "Result": -7500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "16000007",
+      "Result": -18500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "26000002",
+      "Result": -24500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990016",
+      "Result": -37100
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "11990081",
+      "Result": -37400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "11990004",
+      "Result": -47000
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "DEXTER",
+        "LastName": "LOWE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -56800
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "11990011",
+      "Result": -57600
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "OLIVER",
+        "LastName": "BURROWS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -70700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "11990084",
+      "Result": -86600
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "11990005",
+      "Result": -89000
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "11990120",
+      "Result": -104200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "11990113",
+      "Result": -229500
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "SELINA",
+        "LastName": "STECK",
+        "RepresentingNationality": "ch"
+      },
+      "Result": -233600
+    }
+  ]
+}

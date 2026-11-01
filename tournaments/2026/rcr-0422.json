@@ -1,0 +1,286 @@
+{
+  "Name": "Porto Riichi Open Championship 2026",
+  "Country": "pt",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-08-08",
+  "ToDate": "2026-08-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Klaudia",
+      "LastName": "LENSU"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 13,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990143",
+      "Result": 206900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "12990014",
+      "Result": 130600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010752",
+      "Result": 114700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000007",
+      "Result": 112500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04690008",
+      "Result": 109100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "12000004",
+      "Result": 100900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000102",
+      "Result": 86400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000057",
+      "Result": 75500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05000062",
+      "Result": 75000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04040057",
+      "Result": 55900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000071",
+      "Result": 55000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990237",
+      "Result": 50700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "11000013",
+      "Result": 47200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000139",
+      "Result": 47000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04690010",
+      "Result": 45500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "12000006",
+      "Result": 40300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000237",
+      "Result": 38300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11000066",
+      "Result": 37200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000011",
+      "Result": 30900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "07000207",
+      "Result": 28500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "12000003",
+      "Result": 24300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "07000194",
+      "Result": 22700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "07000177",
+      "Result": 18100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "12000020",
+      "Result": 17200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990024",
+      "Result": 16200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04990106",
+      "Result": 11000
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04310094",
+      "Result": -6800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04160088",
+      "Result": -15400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990234",
+      "Result": -21600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "12000005",
+      "Result": -27200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "01000162",
+      "Result": -30300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000003",
+      "Result": -33900
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010039",
+      "Result": -34000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "10990103",
+      "Result": -34600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "12000019",
+      "Result": -38100
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "12000024",
+      "Result": -39700
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "04310048",
+      "Result": -41100
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "12000018",
+      "Result": -41600
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "02010084",
+      "Result": -48200
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "12000009",
+      "Result": -52200
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "12000014",
+      "Result": -69700
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "11000085",
+      "Result": -87400
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "12000022",
+      "Result": -90600
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "05100100",
+      "Result": -100300
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "12000021",
+      "Result": -105300
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "11000140",
+      "Result": -116700
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "12000023",
+      "Result": -120200
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "12000017",
+      "Result": -121200
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "TRAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -128500
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "02xx20260820xx1",
+      "Result": -141200
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "10990092",
+      "Result": -151500
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "04040026",
+      "Result": -240000
+    }
+  ]
+}

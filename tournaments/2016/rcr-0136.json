@@ -1,0 +1,134 @@
+{
+  "Name": "RIICHI OPEN BRATISLAVA 2016",
+  "Country": "sk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-08-27",
+  "ToDate": "2016-08-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Konsta",
+      "LastName": "Lensu"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990024",
+      "Result": 79200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 75600
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JURAJ",
+        "LastName": "MÓZA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 56600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990004",
+      "Result": 39700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "17990009",
+      "Result": 38100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 30800
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MATEJ",
+        "LastName": "KUČERA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 28000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "17990007",
+      "Result": 23100
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000073",
+      "Result": -11100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -16500
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MICHAELA",
+        "LastName": "KAŠČÁKOVÁ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -30900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000125",
+      "Result": -48800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "22000001",
+      "Result": -57400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "17990008",
+      "Result": -68900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "RADIM",
+        "LastName": "ANTOŠ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -177600
+    }
+  ]
+}

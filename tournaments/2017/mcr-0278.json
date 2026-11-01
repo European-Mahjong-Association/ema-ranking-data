@@ -1,0 +1,196 @@
+{
+  "Name": "CARINTHIAN OPEN 2017 GRAZ",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-10-28",
+  "ToDate": "2017-10-29",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 741
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 533
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 482
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000109",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 646
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "06010003",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 491
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 319
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000088",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 415
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "06010041",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 257
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "DORIS",
+        "LastName": "SALLMUTTER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 108
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 160
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000027",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 11
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ROMANA",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 136
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -299
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "06010040",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -320
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000025",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -688
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -65
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000093",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -225
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000138",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -861
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -799
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "KATHARINA",
+        "LastName": "GANSTER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -1042
+      }
+    }
+  ]
+}

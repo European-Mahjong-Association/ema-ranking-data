@@ -1,0 +1,220 @@
+{
+  "Name": "LOS 13 HUERFANOS OPEN 2019",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-07-13",
+  "ToDate": "2019-07-14",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 28.0,
+        "ContestPoints": 1098
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 1203
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 764
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 549
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990042",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 308
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 102
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990047",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 301
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990039",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 36
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990063",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 156
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 126
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ALEKSEI",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -18
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990051",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -91
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990070",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -121
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990023",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -127
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "12990002",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -241
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990053",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -246
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -122
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -188
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -311
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "MARTINEZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -363
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -491
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -630
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -722
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990060",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -972
+      }
+    }
+  ]
+}

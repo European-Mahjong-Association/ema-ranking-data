@@ -1,0 +1,360 @@
+{
+  "Name": "10TH UK OPEN RIICHI",
+  "Country": "gb",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-07-27",
+  "ToDate": "2019-07-28",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 10,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990010",
+      "Result": 187100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000104",
+      "Result": 135900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "11990044",
+      "Result": 128800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040057",
+      "Result": 99600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "HONG",
+        "LastName": "LI",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 87500
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "BELOVS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 86000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010033",
+      "Result": 74600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "26000002",
+      "Result": 70700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11990006",
+      "Result": 68000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "11990060",
+      "Result": 67400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "11990011",
+      "Result": 64100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11990004",
+      "Result": 57100
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "LOWE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 49900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000018",
+      "Result": 48900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010168",
+      "Result": 47200
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JASON",
+        "LastName": "HE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 46600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11990057",
+      "Result": 45500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990123",
+      "Result": 33500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990074",
+      "Result": 26800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "11990005",
+      "Result": 25100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "VICTORIA LOPEZ",
+        "LastName": "MORALES",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 17400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05100153",
+      "Result": 11600
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "KATIE",
+        "LastName": "LAU",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 7200
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04290001",
+      "Result": -3900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010043",
+      "Result": -4900
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990029",
+      "Result": -15700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "11990085",
+      "Result": -16200
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "MARK",
+        "LastName": "JENKING-REES",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -20300
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "BAPTISTE",
+        "LastName": "EREAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -22000
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "RUSSELL",
+        "LastName": "CHAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -26000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "10990076",
+      "Result": -28700
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "SHAUN",
+        "LastName": "DRURY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -33900
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "11990072",
+      "Result": -36500
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "WOOD",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -38900
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990105",
+      "Result": -42900
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "11990081",
+      "Result": -47700
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "ALEX",
+        "LastName": "LEET",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -48100
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04090024",
+      "Result": -49500
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "YIXUAN",
+        "LastName": "LIU",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -52500
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "11990016",
+      "Result": -58000
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "SUSAN",
+        "LastName": "CUMMING",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -64400
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "07000080",
+      "Result": -66500
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "BARTOSZ",
+        "LastName": "ARENDARSKI",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -74200
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "ANGUS",
+        "LastName": "FISK",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -84100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "04090025",
+      "Result": -85400
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "THOM",
+        "LastName": "DIMENT",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -92100
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "11990022",
+      "Result": -94900
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "11990084",
+      "Result": -107800
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "STALLAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -114800
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "OLIVER",
+        "LastName": "BURROWS",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -116400
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "PETER B",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -160100
+    }
+  ]
+}

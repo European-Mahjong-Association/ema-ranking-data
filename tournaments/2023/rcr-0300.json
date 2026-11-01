@@ -1,0 +1,302 @@
+{
+  "Name": "Vienna Riichi Open 2023",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-07-01",
+  "ToDate": "2023-07-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Lukasz",
+      "LastName": "Grzybowski"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 11,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000053",
+      "Result": 155900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "23000005",
+      "Result": 144200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000148",
+      "Result": 111500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000149",
+      "Result": 99900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000102",
+      "Result": 84400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000003",
+      "Result": 74400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000055",
+      "Result": 71600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "02010084",
+      "Result": 53700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000073",
+      "Result": 52000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "12990014",
+      "Result": 51100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000140",
+      "Result": 47800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04160110",
+      "Result": 46800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000136",
+      "Result": 44500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160092",
+      "Result": 43900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04990093",
+      "Result": 42800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000145",
+      "Result": 40200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "GUT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 28600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000072",
+      "Result": 28500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000146",
+      "Result": 26700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100182",
+      "Result": 23700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05000006",
+      "Result": 22200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "HADOLT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 18600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04160115",
+      "Result": 17200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000071",
+      "Result": 16200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "17990007",
+      "Result": 4900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "03000126",
+      "Result": 3600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "01000147",
+      "Result": 2600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010085",
+      "Result": 800
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "01000127",
+      "Result": 500
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "05100166",
+      "Result": -1300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05000011",
+      "Result": -12500
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "01000151",
+      "Result": -15100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "01000131",
+      "Result": -15400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "01000113",
+      "Result": -21200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "01000013",
+      "Result": -24700
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04160071",
+      "Result": -34600
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05100180",
+      "Result": -40200
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "01000125",
+      "Result": -41400
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05100181",
+      "Result": -46300
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SCHURZ",
+        "RepresentingNationality": "at"
+      },
+      "Result": -48400
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "01000066",
+      "Result": -49800
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "01000153",
+      "Result": -56400
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "17990004",
+      "Result": -63200
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "21000068",
+      "Result": -67400
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "05000007",
+      "Result": -68400
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "01000154",
+      "Result": -74700
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "21000015",
+      "Result": -88200
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "01000107",
+      "Result": -131800
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ZOUBEK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -141000
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "06990014",
+      "Result": -150400
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "LEONIE",
+        "LastName": "KLEINEICK",
+        "RepresentingNationality": "de"
+      },
+      "Result": -160500
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "01000144",
+      "Result": -172900
+    }
+  ]
+}

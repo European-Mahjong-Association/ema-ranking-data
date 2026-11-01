@@ -1,0 +1,224 @@
+{
+  "Name": "Riichi Danish Championship 2026",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-10-03",
+  "ToDate": "2026-10-04",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010171",
+      "Result": 197900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990110",
+      "Result": 116200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "26000016",
+      "Result": 112000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "26000025",
+      "Result": 108800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990190",
+      "Result": 104400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000262",
+      "Result": 81900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990183",
+      "Result": 64900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000140",
+      "Result": 58100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990113",
+      "Result": 49300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000080",
+      "Result": 46500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "16000035",
+      "Result": 41400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000277",
+      "Result": 36700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000255",
+      "Result": 34000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000022",
+      "Result": 32200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000287",
+      "Result": 22000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000212",
+      "Result": 18000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "16000040",
+      "Result": 11600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000208",
+      "Result": 5200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000192",
+      "Result": 1200
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "CARLOS",
+        "LastName": "HANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -3800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11000060",
+      "Result": -4200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990176",
+      "Result": -4300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000218",
+      "Result": -12800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990134",
+      "Result": -21200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010763",
+      "Result": -32500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "03000156",
+      "Result": -33600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000176",
+      "Result": -35800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "03000126",
+      "Result": -38300
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "10990072",
+      "Result": -40200
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "19000260",
+      "Result": -41000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "19000266",
+      "Result": -48300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "09990045",
+      "Result": -57000
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "19000261",
+      "Result": -60100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "03000051",
+      "Result": -64300
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "DAWID",
+        "LastName": "ZARYCINSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -91600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "19000225",
+      "Result": -104500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "11000089",
+      "Result": -105900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "11990134",
+      "Result": -123700
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "20000008",
+      "Result": -127800
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990234",
+      "Result": -132400
+    }
+  ]
+}

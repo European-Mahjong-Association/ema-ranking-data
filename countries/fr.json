@@ -1,0 +1,2429 @@
+{
+  "CountryCode": "fr",
+  "Country": "France",
+  "Players": [
+    {
+      "EmaNumber": "04010002",
+      "FirstName": "ROSELINE",
+      "LastName": "PARCOLLET-CHANE HONG"
+    },
+    {
+      "EmaNumber": "04010015",
+      "FirstName": "RENÉTA",
+      "LastName": "DIFERNAND"
+    },
+    {
+      "EmaNumber": "04010016",
+      "FirstName": "ERIC",
+      "LastName": "BONMALAIS"
+    },
+    {
+      "EmaNumber": "04010017",
+      "FirstName": "ERIC",
+      "LastName": "CHAN LAW"
+    },
+    {
+      "EmaNumber": "04010028",
+      "FirstName": "MARCEL",
+      "LastName": "TSONG CHIN CHUEN"
+    },
+    {
+      "EmaNumber": "04010039",
+      "FirstName": "PASCALE",
+      "LastName": "LARINIER"
+    },
+    {
+      "EmaNumber": "04010044",
+      "FirstName": "MARIE",
+      "LastName": "IRLE"
+    },
+    {
+      "EmaNumber": "04010054",
+      "FirstName": "PHILIPPE",
+      "LastName": "EBLE"
+    },
+    {
+      "EmaNumber": "04010055",
+      "FirstName": "CATHERINE",
+      "LastName": "EBLE"
+    },
+    {
+      "EmaNumber": "04010061",
+      "FirstName": "CHRISTINE",
+      "LastName": "TAYLOR"
+    },
+    {
+      "EmaNumber": "04010062",
+      "FirstName": "SUZANNE",
+      "LastName": "VAXELAIRE"
+    },
+    {
+      "EmaNumber": "04010065",
+      "FirstName": "SIMONE",
+      "LastName": "LEMAIRE"
+    },
+    {
+      "EmaNumber": "04010066",
+      "FirstName": "ANNICK",
+      "LastName": "PAUSE"
+    },
+    {
+      "EmaNumber": "04010067",
+      "FirstName": "JACQUES",
+      "LastName": "TSIMARIVO"
+    },
+    {
+      "EmaNumber": "04010076",
+      "FirstName": "JOHANNA",
+      "LastName": "CADI"
+    },
+    {
+      "EmaNumber": "04010080",
+      "FirstName": "MARYLÈNE",
+      "LastName": "CHANE-KUNE"
+    },
+    {
+      "EmaNumber": "04010086",
+      "FirstName": "JEAN NELLO",
+      "LastName": "ABSYTE"
+    },
+    {
+      "EmaNumber": "04010096",
+      "FirstName": "ANNABELLE",
+      "LastName": "PAUSE"
+    },
+    {
+      "EmaNumber": "04010097",
+      "FirstName": "OLIVIER",
+      "LastName": "BOVALO"
+    },
+    {
+      "EmaNumber": "04010099",
+      "FirstName": "CHANTAL",
+      "LastName": "SIENG-TI-WOANE"
+    },
+    {
+      "EmaNumber": "04010102",
+      "FirstName": "JEAN MICHEL",
+      "LastName": "JAVEGNY"
+    },
+    {
+      "EmaNumber": "04010103",
+      "FirstName": "Rosane",
+      "LastName": "NOURRY"
+    },
+    {
+      "EmaNumber": "04020007",
+      "FirstName": "THOMY",
+      "LastName": "FONTAINE"
+    },
+    {
+      "EmaNumber": "04030001",
+      "FirstName": "STÉPHANE",
+      "LastName": "BOYER"
+    },
+    {
+      "EmaNumber": "04030003",
+      "FirstName": "JEAN PASCAL",
+      "LastName": "AUBERVAL"
+    },
+    {
+      "EmaNumber": "04030004",
+      "FirstName": "EMMANUEL",
+      "LastName": "TAI LEUNG"
+    },
+    {
+      "EmaNumber": "04030005",
+      "FirstName": "DAVID GÉRARD",
+      "LastName": "AURE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2010-01-01",
+          "note": "Utrecht"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04030006",
+      "FirstName": "SUZY",
+      "LastName": "AURE"
+    },
+    {
+      "EmaNumber": "04030019",
+      "FirstName": "CLAUDIE",
+      "LastName": "MARCET"
+    },
+    {
+      "EmaNumber": "04030022",
+      "FirstName": "JEAN MICHEL",
+      "LastName": "MORISSE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2010-01-01",
+          "note": "Utrecht"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04030023",
+      "FirstName": "FRÉDÉRIQUE",
+      "LastName": "GRONDIN"
+    },
+    {
+      "EmaNumber": "04030028",
+      "FirstName": "MARIE-JOSÉE",
+      "LastName": "ORREGIA"
+    },
+    {
+      "EmaNumber": "04030045",
+      "FirstName": "REINE-MARIE",
+      "LastName": "DORIS"
+    },
+    {
+      "EmaNumber": "04030048",
+      "FirstName": "ANTOINE",
+      "LastName": "RODULFO"
+    },
+    {
+      "EmaNumber": "04030051",
+      "FirstName": "PIERRE",
+      "LastName": "YEUNG LET CHEONG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2011-01-01",
+          "note": "Réunion Island"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04030061",
+      "FirstName": "CATHERINE",
+      "LastName": "JOURDAIN"
+    },
+    {
+      "EmaNumber": "04030062",
+      "FirstName": "DAVID",
+      "LastName": "JOURDAIN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2011-01-01",
+          "note": "Réunion Island"
+        },
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04030067",
+      "FirstName": "MARIE-CLAIRE",
+      "LastName": "LAW-THO"
+    },
+    {
+      "EmaNumber": "04030068",
+      "FirstName": "MAGALY",
+      "LastName": "ELDIN"
+    },
+    {
+      "EmaNumber": "04030074",
+      "FirstName": "JEAN LOUIS",
+      "LastName": "BARBET"
+    },
+    {
+      "EmaNumber": "04030082",
+      "FirstName": "OLIVIER",
+      "LastName": "MARIMOUTOU"
+    },
+    {
+      "EmaNumber": "04030083",
+      "FirstName": "MARIE-EMMANUELLE",
+      "LastName": "LOCK-KOON"
+    },
+    {
+      "EmaNumber": "04030087",
+      "FirstName": "JONATHAN",
+      "LastName": "COSTEY",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04030091",
+      "FirstName": "WILSON NATHANAËL",
+      "LastName": "JANAC"
+    },
+    {
+      "EmaNumber": "04030092",
+      "FirstName": "FLORENT",
+      "LastName": "LOCK-KOON"
+    },
+    {
+      "EmaNumber": "04030093",
+      "FirstName": "JAMES",
+      "LastName": "MC DONALD"
+    },
+    {
+      "EmaNumber": "04030095",
+      "FirstName": "ALEXANDRE",
+      "LastName": "LOCK-KOON"
+    },
+    {
+      "EmaNumber": "04030100",
+      "FirstName": "VALÉRIE",
+      "LastName": "MORISSE"
+    },
+    {
+      "EmaNumber": "04030103",
+      "FirstName": "MICKAËL",
+      "LastName": "RIVIERE"
+    },
+    {
+      "EmaNumber": "04030109",
+      "FirstName": "JEAN-PHILIPPE",
+      "LastName": "FONTAINE"
+    },
+    {
+      "EmaNumber": "04030110",
+      "FirstName": "CHRISTOPHE",
+      "LastName": "ROBERT"
+    },
+    {
+      "EmaNumber": "04030124",
+      "FirstName": "CÉCILE",
+      "LastName": "BARRET"
+    },
+    {
+      "EmaNumber": "04030125",
+      "FirstName": "FABRICE",
+      "LastName": "BOYER"
+    },
+    {
+      "EmaNumber": "04030128",
+      "FirstName": "GABRIEL",
+      "LastName": "TOULCANON"
+    },
+    {
+      "EmaNumber": "04030130",
+      "FirstName": "EMILIE",
+      "LastName": "PERIANAYAGOM"
+    },
+    {
+      "EmaNumber": "04030141",
+      "FirstName": "DAVID",
+      "LastName": "MAILLOT"
+    },
+    {
+      "EmaNumber": "04030145",
+      "FirstName": "YVES",
+      "LastName": "LAMOINE"
+    },
+    {
+      "EmaNumber": "04030147",
+      "FirstName": "NEVINE",
+      "LastName": "NANDJI"
+    },
+    {
+      "EmaNumber": "04030150",
+      "FirstName": "FRANCOIS",
+      "LastName": "ARISTANGELE"
+    },
+    {
+      "EmaNumber": "04030151",
+      "FirstName": "DENIS",
+      "LastName": "LAM YAM"
+    },
+    {
+      "EmaNumber": "04030154",
+      "FirstName": "JEAN FABRICE",
+      "LastName": "AYE"
+    },
+    {
+      "EmaNumber": "04030163",
+      "FirstName": "Didier",
+      "LastName": "RIVET"
+    },
+    {
+      "EmaNumber": "04030173",
+      "FirstName": "Hugo",
+      "LastName": "DIEUDONNE"
+    },
+    {
+      "EmaNumber": "04030176",
+      "FirstName": "GUYLAINE",
+      "LastName": "TAFFOUREAU"
+    },
+    {
+      "EmaNumber": "04030182",
+      "FirstName": "PASCAL",
+      "LastName": "BOYER"
+    },
+    {
+      "EmaNumber": "04030185",
+      "FirstName": "LUCAS",
+      "LastName": "XITRA"
+    },
+    {
+      "EmaNumber": "04030188",
+      "FirstName": "JOCELYN",
+      "LastName": "SI MOUSSA"
+    },
+    {
+      "EmaNumber": "04030189",
+      "FirstName": "ÉVELYNE",
+      "LastName": "IVOULA"
+    },
+    {
+      "EmaNumber": "04030191",
+      "FirstName": "OLIVIER",
+      "LastName": "ARISTANGELE"
+    },
+    {
+      "EmaNumber": "04040010",
+      "FirstName": "OLIVIER",
+      "LastName": "BOIVIN"
+    },
+    {
+      "EmaNumber": "04040017",
+      "FirstName": "JÉROME",
+      "LastName": "SAHAL"
+    },
+    {
+      "EmaNumber": "04040026",
+      "FirstName": "BENOIT",
+      "LastName": "MESSI FOUDA"
+    },
+    {
+      "EmaNumber": "04040036",
+      "FirstName": "CHRISTIANE",
+      "LastName": "D ANGELO"
+    },
+    {
+      "EmaNumber": "04040047",
+      "FirstName": "SANDRA",
+      "LastName": "BONDOIN"
+    },
+    {
+      "EmaNumber": "04040048",
+      "FirstName": "JOE-CALBERSON",
+      "LastName": "HUYNH"
+    },
+    {
+      "EmaNumber": "04040053",
+      "FirstName": "ANNE",
+      "LastName": "CHOUX"
+    },
+    {
+      "EmaNumber": "04040057",
+      "FirstName": "JOËL",
+      "LastName": "RATSIMANDRESY",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Graz, Austria, 29 April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04040058",
+      "FirstName": "CHRISTOPHE",
+      "LastName": "LEFEBVRE"
+    },
+    {
+      "EmaNumber": "04040083",
+      "FirstName": "HUBERT",
+      "LastName": "VIGNAUD"
+    },
+    {
+      "EmaNumber": "04040102",
+      "FirstName": "OLIVIER",
+      "LastName": "AUBRUN"
+    },
+    {
+      "EmaNumber": "04040105",
+      "FirstName": "ANTHONY",
+      "LastName": "EA"
+    },
+    {
+      "EmaNumber": "04040110",
+      "FirstName": "THÉRÈSE",
+      "LastName": "ROBLIN NEUSCHULER"
+    },
+    {
+      "EmaNumber": "04040121",
+      "FirstName": "VADIM",
+      "LastName": "HORWAT"
+    },
+    {
+      "EmaNumber": "04040122",
+      "FirstName": "ELISE",
+      "LastName": "TAPONIER"
+    },
+    {
+      "EmaNumber": "04040170",
+      "FirstName": "JUDITH",
+      "LastName": "RAVEL"
+    },
+    {
+      "EmaNumber": "04040183",
+      "FirstName": "NGHIA-KHANG",
+      "LastName": "TRAN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04040187",
+      "FirstName": "JÉRÉMIE",
+      "LastName": "BARBET"
+    },
+    {
+      "EmaNumber": "04040189",
+      "FirstName": "FRÉDÉRIC",
+      "LastName": "PETIT"
+    },
+    {
+      "EmaNumber": "04040201",
+      "FirstName": "NGHIA-KHANG",
+      "LastName": "TRAN"
+    },
+    {
+      "EmaNumber": "04040205",
+      "FirstName": "JI LI",
+      "LastName": "PFEIFFER"
+    },
+    {
+      "EmaNumber": "04040214",
+      "FirstName": "CAMERON",
+      "LastName": "HOCHBERG"
+    },
+    {
+      "EmaNumber": "04040238",
+      "FirstName": "FABIEN",
+      "LastName": "GAUCHER"
+    },
+    {
+      "EmaNumber": "04040243",
+      "FirstName": "GÉRALD",
+      "LastName": "VLAMYNCK",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04040246",
+      "FirstName": "VINCENT",
+      "LastName": "TAN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04040281",
+      "FirstName": "WILLIAM",
+      "LastName": "NOUVEL"
+    },
+    {
+      "EmaNumber": "04040287",
+      "FirstName": "PIERRE",
+      "LastName": "VALAT",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Paris"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04040290",
+      "FirstName": "YOUNÈS",
+      "LastName": "KHENICHE"
+    },
+    {
+      "EmaNumber": "04040321",
+      "FirstName": "MANSOUR",
+      "LastName": "OMAR"
+    },
+    {
+      "EmaNumber": "04050002",
+      "FirstName": "MICHELINE",
+      "LastName": "VAÏTILINGOM"
+    },
+    {
+      "EmaNumber": "04050007",
+      "FirstName": "CAROLINE",
+      "LastName": "VILLEPOU"
+    },
+    {
+      "EmaNumber": "04050013",
+      "FirstName": "MERMOZ",
+      "LastName": "LANG TUNG"
+    },
+    {
+      "EmaNumber": "04050022",
+      "FirstName": "ANDRÉ",
+      "LastName": "BALAGOUROU",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2010-01-01",
+          "note": "Utrecht"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04050026",
+      "FirstName": "JODY",
+      "LastName": "LABEDAN"
+    },
+    {
+      "EmaNumber": "04050027",
+      "FirstName": "ANNE-SOPHIE",
+      "LastName": "GROSSET"
+    },
+    {
+      "EmaNumber": "04060014",
+      "FirstName": "CLAUDIA",
+      "LastName": "METRO"
+    },
+    {
+      "EmaNumber": "04060027",
+      "FirstName": "JACQUELINE",
+      "LastName": "LAFON"
+    },
+    {
+      "EmaNumber": "04060029",
+      "FirstName": "JOSEPH",
+      "LastName": "THIM SIONG"
+    },
+    {
+      "EmaNumber": "04060031",
+      "FirstName": "FABIENNE",
+      "LastName": "GAUTRON"
+    },
+    {
+      "EmaNumber": "04060033",
+      "FirstName": "FRANÇOISE",
+      "LastName": "GONTHIER"
+    },
+    {
+      "EmaNumber": "04060037",
+      "FirstName": "MICHELINE",
+      "LastName": "BAS"
+    },
+    {
+      "EmaNumber": "04060045",
+      "FirstName": "STEVE",
+      "LastName": "BEYRIES"
+    },
+    {
+      "EmaNumber": "04060046",
+      "FirstName": "NELLY",
+      "LastName": "AH FANE"
+    },
+    {
+      "EmaNumber": "04060050",
+      "FirstName": "SAADDYIA",
+      "LastName": "MAISTRY"
+    },
+    {
+      "EmaNumber": "04060051",
+      "FirstName": "CHRISTINE",
+      "LastName": "ROSTIN"
+    },
+    {
+      "EmaNumber": "04060052",
+      "FirstName": "ANNE-MARIE",
+      "LastName": "BOVALO"
+    },
+    {
+      "EmaNumber": "04060060",
+      "FirstName": "FRANÇOISE",
+      "LastName": "HOARAU"
+    },
+    {
+      "EmaNumber": "04060061",
+      "FirstName": "PATRICK",
+      "LastName": "BAUD"
+    },
+    {
+      "EmaNumber": "04060063",
+      "FirstName": "MARIE-NOËLLE",
+      "LastName": "PAYET"
+    },
+    {
+      "EmaNumber": "04060068",
+      "FirstName": "WILLIAM",
+      "LastName": "AH-FANE"
+    },
+    {
+      "EmaNumber": "04060071",
+      "FirstName": "DANIELLE",
+      "LastName": "ROCHEFEUILLE"
+    },
+    {
+      "EmaNumber": "04060074",
+      "FirstName": "MICHÈLE",
+      "LastName": "FREARD"
+    },
+    {
+      "EmaNumber": "04060076",
+      "FirstName": "SYLVIE",
+      "LastName": "BARET"
+    },
+    {
+      "EmaNumber": "04060077",
+      "FirstName": "VALÉRIE",
+      "LastName": "CHANE-NAM"
+    },
+    {
+      "EmaNumber": "04060078",
+      "FirstName": "Lina",
+      "LastName": "PRUGNIERES"
+    },
+    {
+      "EmaNumber": "04060080",
+      "FirstName": "SOLANGE",
+      "LastName": "SOUPRAYEN-MESTRY"
+    },
+    {
+      "EmaNumber": "04060081",
+      "FirstName": "LÉON",
+      "LastName": "THIM-SIONG"
+    },
+    {
+      "EmaNumber": "04060082",
+      "FirstName": "CÉLINE",
+      "LastName": "LAI ONG TEUNG"
+    },
+    {
+      "EmaNumber": "04080001",
+      "FirstName": "HÉLÈNE",
+      "LastName": "BOIDIN"
+    },
+    {
+      "EmaNumber": "04080002",
+      "FirstName": "PASCAL",
+      "LastName": "BALORIN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2011-01-01",
+          "note": "Réunion Island"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04080004",
+      "FirstName": "CHRISTIAN",
+      "LastName": "ENAULT"
+    },
+    {
+      "EmaNumber": "04080010",
+      "FirstName": "STÉPHANIE ALINE",
+      "LastName": "BOYER"
+    },
+    {
+      "EmaNumber": "04080018",
+      "FirstName": "SYLVIE",
+      "LastName": "GIGANT"
+    },
+    {
+      "EmaNumber": "04080019",
+      "FirstName": "MARIA",
+      "LastName": "BARRATAULT"
+    },
+    {
+      "EmaNumber": "04080021",
+      "FirstName": "SIMONE",
+      "LastName": "DUBOZ"
+    },
+    {
+      "EmaNumber": "04090008",
+      "FirstName": "SIMON BOUNKÉO",
+      "LastName": "FONGUE"
+    },
+    {
+      "EmaNumber": "04090016",
+      "FirstName": "AGNÈS",
+      "LastName": "RAK"
+    },
+    {
+      "EmaNumber": "04090024",
+      "FirstName": "ANNIE",
+      "LastName": "MANZO"
+    },
+    {
+      "EmaNumber": "04090025",
+      "FirstName": "BRUNO",
+      "LastName": "MANZO"
+    },
+    {
+      "EmaNumber": "04090026",
+      "FirstName": "CYRILLE",
+      "LastName": "RAK"
+    },
+    {
+      "EmaNumber": "04090035",
+      "FirstName": "APOLLINE",
+      "LastName": "OLIVIER"
+    },
+    {
+      "EmaNumber": "04090041",
+      "FirstName": "JOSIANNE",
+      "LastName": "DELBOS"
+    },
+    {
+      "EmaNumber": "04090055",
+      "FirstName": "MARION",
+      "LastName": "HOARAU",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04090059",
+      "FirstName": "MÉLANIE",
+      "LastName": "MOREAU"
+    },
+    {
+      "EmaNumber": "04090060",
+      "FirstName": "CAROLINE",
+      "LastName": "ARNAUD",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04090067",
+      "FirstName": "JENNIFER",
+      "LastName": "CRANSAC"
+    },
+    {
+      "EmaNumber": "04090071",
+      "FirstName": "PATRICK",
+      "LastName": "VENTURINI"
+    },
+    {
+      "EmaNumber": "04090075",
+      "FirstName": "MICHÈLE",
+      "LastName": "AUBRUN"
+    },
+    {
+      "EmaNumber": "04090078",
+      "FirstName": "GABRIEL",
+      "LastName": "DESTRIEUX"
+    },
+    {
+      "EmaNumber": "04090080",
+      "FirstName": "CÉDRIC",
+      "LastName": "AGUERRE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04090090",
+      "FirstName": "ANNE-SOPHIE",
+      "LastName": "BONNEAU"
+    },
+    {
+      "EmaNumber": "04090093",
+      "FirstName": "GUILLAUME",
+      "LastName": "GUERIN"
+    },
+    {
+      "EmaNumber": "04090098",
+      "FirstName": "ANNE",
+      "LastName": "ROYET"
+    },
+    {
+      "EmaNumber": "04090110",
+      "FirstName": "SAI MING",
+      "LastName": "FUNG"
+    },
+    {
+      "EmaNumber": "04090120",
+      "FirstName": "ANDRÉ",
+      "LastName": "GOUADON",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04090122",
+      "FirstName": "CAMILLE",
+      "LastName": "BENEFICE"
+    },
+    {
+      "EmaNumber": "04090132",
+      "FirstName": "ANAÏS",
+      "LastName": "FONTENEAU"
+    },
+    {
+      "EmaNumber": "04090134",
+      "FirstName": "JULIEN",
+      "LastName": "TALBOT"
+    },
+    {
+      "EmaNumber": "04090147",
+      "FirstName": "DIDIER",
+      "LastName": "LAW-HINE"
+    },
+    {
+      "EmaNumber": "04100004",
+      "FirstName": "JEAN MICHEL",
+      "LastName": "LUC"
+    },
+    {
+      "EmaNumber": "04100018",
+      "FirstName": "MARIE LUCIE",
+      "LastName": "GIRDARY"
+    },
+    {
+      "EmaNumber": "04100030",
+      "FirstName": "FRÉDÉRIC",
+      "LastName": "MADARASSOU"
+    },
+    {
+      "EmaNumber": "04100034",
+      "FirstName": "MARIE-JOËLLE",
+      "LastName": "JACQUENOT"
+    },
+    {
+      "EmaNumber": "04100036",
+      "FirstName": "FABRICE",
+      "LastName": "HOAREAU"
+    },
+    {
+      "EmaNumber": "04120026",
+      "FirstName": "NORBERT",
+      "LastName": "MOTHE"
+    },
+    {
+      "EmaNumber": "04120028",
+      "FirstName": "MATHIEU",
+      "LastName": "BESSOLES"
+    },
+    {
+      "EmaNumber": "04120040",
+      "FirstName": "STÉPHANE",
+      "LastName": "CANO"
+    },
+    {
+      "EmaNumber": "04120060",
+      "FirstName": "SHUYAO",
+      "LastName": "YOU-SEEN"
+    },
+    {
+      "EmaNumber": "04120070",
+      "FirstName": "FLORENT",
+      "LastName": "DESCAMPS",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04120072",
+      "FirstName": "ANH-VU",
+      "LastName": "TRAN"
+    },
+    {
+      "EmaNumber": "04120073",
+      "FirstName": "GABRIELA",
+      "LastName": "SCRIPCARU-TRAN"
+    },
+    {
+      "EmaNumber": "04120082",
+      "FirstName": "JÉRÉMY",
+      "LastName": "GUILLERMAND"
+    },
+    {
+      "EmaNumber": "04120084",
+      "FirstName": "HUY",
+      "LastName": "LA HOANG"
+    },
+    {
+      "EmaNumber": "04120092",
+      "FirstName": "CATHERINE",
+      "LastName": "BARTHE"
+    },
+    {
+      "EmaNumber": "04120093",
+      "FirstName": "CORALIE",
+      "LastName": "MODESTE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04120112",
+      "FirstName": "Virginie",
+      "LastName": "BON"
+    },
+    {
+      "EmaNumber": "04120113",
+      "FirstName": "CHRISTIAN",
+      "LastName": "MARTIN"
+    },
+    {
+      "EmaNumber": "04120115",
+      "FirstName": "SARAH",
+      "LastName": "BAROSSO"
+    },
+    {
+      "EmaNumber": "04120116",
+      "FirstName": "CLEMENT",
+      "LastName": "CUBAYNES"
+    },
+    {
+      "EmaNumber": "04120117",
+      "FirstName": "Faustin",
+      "LastName": "VOISIN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04130003",
+      "FirstName": "CLAIRE",
+      "LastName": "MATHERN"
+    },
+    {
+      "EmaNumber": "04130005",
+      "FirstName": "SYLVIE",
+      "LastName": "VALOGNES"
+    },
+    {
+      "EmaNumber": "04130015",
+      "FirstName": "KEVIN",
+      "LastName": "TOUSSAINT"
+    },
+    {
+      "EmaNumber": "04130026",
+      "FirstName": "FANETTE",
+      "LastName": "LAPLAGNE"
+    },
+    {
+      "EmaNumber": "04130027",
+      "FirstName": "ROMAIN",
+      "LastName": "HERDIER",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2014-01-01",
+          "note": "Strasbourg"
+        },
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04130032",
+      "FirstName": "CATHERINE",
+      "LastName": "XANTHOPOULOS"
+    },
+    {
+      "EmaNumber": "04130106",
+      "FirstName": "EVA",
+      "LastName": "DEMICHEL",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04130107",
+      "FirstName": "ELOISE",
+      "LastName": "HEINIS"
+    },
+    {
+      "EmaNumber": "04130121",
+      "FirstName": "JADE",
+      "LastName": "WAECHTER",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04130141",
+      "FirstName": "ISABELLE",
+      "LastName": "BARTHEZ"
+    },
+    {
+      "EmaNumber": "04130157",
+      "FirstName": "PAUL",
+      "LastName": "MICHELI"
+    },
+    {
+      "EmaNumber": "04140010",
+      "FirstName": "SAMUEL",
+      "LastName": "MARCHAL"
+    },
+    {
+      "EmaNumber": "04140029",
+      "FirstName": "DOMINIQUE",
+      "LastName": "MICHEL"
+    },
+    {
+      "EmaNumber": "04140030",
+      "FirstName": "YVONNE",
+      "LastName": "MICHEL"
+    },
+    {
+      "EmaNumber": "04140034",
+      "FirstName": "KONSTANTIN",
+      "LastName": "TCHERNYCHEV"
+    },
+    {
+      "EmaNumber": "04140040",
+      "FirstName": "SARAH",
+      "LastName": "HERMIER"
+    },
+    {
+      "EmaNumber": "04140057",
+      "FirstName": "MONIQUE",
+      "LastName": "MIALIN"
+    },
+    {
+      "EmaNumber": "04140071",
+      "FirstName": "VÉRA",
+      "LastName": "TCHERNYCHEV"
+    },
+    {
+      "EmaNumber": "04160015",
+      "FirstName": "ANTOINE",
+      "LastName": "ROSSARD"
+    },
+    {
+      "EmaNumber": "04160035",
+      "FirstName": "OLIVIER",
+      "LastName": "CAO"
+    },
+    {
+      "EmaNumber": "04160071",
+      "FirstName": "JÉRÉMIE",
+      "LastName": "PIERARD DE MAUJOUY"
+    },
+    {
+      "EmaNumber": "04160072",
+      "FirstName": "CÉZANNE",
+      "LastName": "IP"
+    },
+    {
+      "EmaNumber": "04160080",
+      "FirstName": "CHAOLEI",
+      "LastName": "CHEN"
+    },
+    {
+      "EmaNumber": "04160081",
+      "FirstName": "JULIEN",
+      "LastName": "FOUQUES"
+    },
+    {
+      "EmaNumber": "04160082",
+      "FirstName": "ALEXIS",
+      "LastName": "PETITJEAN"
+    },
+    {
+      "EmaNumber": "04160084",
+      "FirstName": "ZEYU",
+      "LastName": "SUN"
+    },
+    {
+      "EmaNumber": "04160087",
+      "FirstName": "DIDIER",
+      "LastName": "DONNAT"
+    },
+    {
+      "EmaNumber": "04160088",
+      "FirstName": "NEHUEN",
+      "LastName": "PENALOZA"
+    },
+    {
+      "EmaNumber": "04160090",
+      "FirstName": "KRENNEN",
+      "LastName": "MARTINEZ"
+    },
+    {
+      "EmaNumber": "04160092",
+      "FirstName": "MANUEL",
+      "LastName": "TERTRE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Marseilles, France, 22 June"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04160094",
+      "FirstName": "AURÉLIEN",
+      "LastName": "FLEURIOT"
+    },
+    {
+      "EmaNumber": "04160103",
+      "FirstName": "BENOIT",
+      "LastName": "DESSORT",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Paris"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04160108",
+      "FirstName": "ZAGEETH",
+      "LastName": "MANOKARAN"
+    },
+    {
+      "EmaNumber": "04160109",
+      "FirstName": "FREDRIK",
+      "LastName": "ANDERSSON"
+    },
+    {
+      "EmaNumber": "04160110",
+      "FirstName": "ALEX",
+      "LastName": "LEUNG"
+    },
+    {
+      "EmaNumber": "04160112",
+      "FirstName": "ARNAUD",
+      "LastName": "WOLF",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Paris"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04160114",
+      "FirstName": "JORDAN",
+      "LastName": "HEMMINGS"
+    },
+    {
+      "EmaNumber": "04160115",
+      "FirstName": "ELIAS",
+      "LastName": "BOUTALEB"
+    },
+    {
+      "EmaNumber": "04160118",
+      "FirstName": "ALFREDO",
+      "LastName": "GLIOTI"
+    },
+    {
+      "EmaNumber": "04160121",
+      "FirstName": "SATO",
+      "LastName": "MASAHIRO"
+    },
+    {
+      "EmaNumber": "04160124",
+      "FirstName": "JOVNNA",
+      "LastName": "DERÊME"
+    },
+    {
+      "EmaNumber": "04160130",
+      "FirstName": "ERIC",
+      "LastName": "ZHANG"
+    },
+    {
+      "EmaNumber": "04160134",
+      "FirstName": "NICOLAS",
+      "LastName": "AUGER"
+    },
+    {
+      "EmaNumber": "04160139",
+      "FirstName": "JEREMY",
+      "LastName": "MOLVAUT"
+    },
+    {
+      "EmaNumber": "04160140",
+      "FirstName": "HUGO",
+      "LastName": "PERRIN"
+    },
+    {
+      "EmaNumber": "04160141",
+      "FirstName": "LOWAN",
+      "LastName": "SEILLERY"
+    },
+    {
+      "EmaNumber": "04160151",
+      "FirstName": "Logan",
+      "LastName": "ARRIAS"
+    },
+    {
+      "EmaNumber": "04160159",
+      "FirstName": "CLAUDIA",
+      "LastName": "BAGNOLESI"
+    },
+    {
+      "EmaNumber": "04160162",
+      "FirstName": "JEAN-CHARLES",
+      "LastName": "ZAMBO"
+    },
+    {
+      "EmaNumber": "04160170",
+      "FirstName": "MAXIME",
+      "LastName": "ROUVREAU"
+    },
+    {
+      "EmaNumber": "04160171",
+      "FirstName": "OSAWA",
+      "LastName": "KOSUKE"
+    },
+    {
+      "EmaNumber": "04160181",
+      "FirstName": "FRANÇOIS",
+      "LastName": "ZHAO"
+    },
+    {
+      "EmaNumber": "04160183",
+      "FirstName": "TOMEOW",
+      "LastName": "LIU"
+    },
+    {
+      "EmaNumber": "04170032",
+      "FirstName": "ESTELLE",
+      "LastName": "TITO"
+    },
+    {
+      "EmaNumber": "04180001",
+      "FirstName": "JOËLLE",
+      "LastName": "HEDO"
+    },
+    {
+      "EmaNumber": "04180005",
+      "FirstName": "LUCILE",
+      "LastName": "CHEUNG-AH-SEUNG"
+    },
+    {
+      "EmaNumber": "04180009",
+      "FirstName": "DANIEL",
+      "LastName": "TECHER"
+    },
+    {
+      "EmaNumber": "04180011",
+      "FirstName": "MARIE-HÉLÉNE",
+      "LastName": "NATIVEL-CADET"
+    },
+    {
+      "EmaNumber": "04210010",
+      "FirstName": "JOCELYNE",
+      "LastName": "LAUNAIS"
+    },
+    {
+      "EmaNumber": "04210014",
+      "FirstName": "FRÉDÉRIC",
+      "LastName": "BITOT"
+    },
+    {
+      "EmaNumber": "04210015",
+      "FirstName": "OLIVIER",
+      "LastName": "ROY",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04210023",
+      "FirstName": "VÉRONIQUE",
+      "LastName": "BOISSON"
+    },
+    {
+      "EmaNumber": "04210027",
+      "FirstName": "Jean-Yves",
+      "LastName": "OPHELTES"
+    },
+    {
+      "EmaNumber": "04210032",
+      "FirstName": "VASILE",
+      "LastName": "GHERMAN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2025-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04210040",
+      "FirstName": "ANNA",
+      "LastName": "ZABOROWSKA"
+    },
+    {
+      "EmaNumber": "04210047",
+      "FirstName": "AMONY",
+      "LastName": "CASSANDRA"
+    },
+    {
+      "EmaNumber": "04210055",
+      "FirstName": "LILY",
+      "LastName": "RABESIAKA"
+    },
+    {
+      "EmaNumber": "04210056",
+      "FirstName": "LOUISE",
+      "LastName": "BOUCHET"
+    },
+    {
+      "EmaNumber": "04210057",
+      "FirstName": "LILIANE",
+      "LastName": "DEDRYVER"
+    },
+    {
+      "EmaNumber": "04210070",
+      "FirstName": "HASNA",
+      "LastName": "IDOUSKA"
+    },
+    {
+      "EmaNumber": "04230004",
+      "FirstName": "WILLIAM",
+      "LastName": "CHU-FUK-SHIAN"
+    },
+    {
+      "EmaNumber": "04230040",
+      "FirstName": "MAATI",
+      "LastName": "RAISSI"
+    },
+    {
+      "EmaNumber": "04230050",
+      "FirstName": "Guillaume",
+      "LastName": "CHAMBAS"
+    },
+    {
+      "EmaNumber": "04240013",
+      "FirstName": "VALÉRIE",
+      "LastName": "DOLLE"
+    },
+    {
+      "EmaNumber": "04240014",
+      "FirstName": "KÉVIN",
+      "LastName": "CHAU"
+    },
+    {
+      "EmaNumber": "04240017",
+      "FirstName": "FRÉDÉRIC",
+      "LastName": "LAY"
+    },
+    {
+      "EmaNumber": "04240027",
+      "FirstName": "RAPHAËL",
+      "LastName": "KAMMERER"
+    },
+    {
+      "EmaNumber": "04240032",
+      "FirstName": "RICHARD",
+      "LastName": "HARTMANN"
+    },
+    {
+      "EmaNumber": "04240048",
+      "FirstName": "Matthieu",
+      "LastName": "PETIT"
+    },
+    {
+      "EmaNumber": "04240051",
+      "FirstName": "GUILHEM",
+      "LastName": "GEROUILLE"
+    },
+    {
+      "EmaNumber": "04260038",
+      "FirstName": "SÉPHORA",
+      "LastName": "MABANDELA"
+    },
+    {
+      "EmaNumber": "04280001",
+      "FirstName": "OLIVIER",
+      "LastName": "TACHE"
+    },
+    {
+      "EmaNumber": "04280009",
+      "FirstName": "GAETAN",
+      "LastName": "STENGEL"
+    },
+    {
+      "EmaNumber": "04280015",
+      "FirstName": "THOMAS",
+      "LastName": "BOUTONNET",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04280017",
+      "FirstName": "ALEXANDRE",
+      "LastName": "SIVADON"
+    },
+    {
+      "EmaNumber": "04280019",
+      "FirstName": "GAËLLE",
+      "LastName": "GRAS"
+    },
+    {
+      "EmaNumber": "04280021",
+      "FirstName": "AGNÈS",
+      "LastName": "MEYER-BISCH"
+    },
+    {
+      "EmaNumber": "04280030",
+      "FirstName": "XAVIER",
+      "LastName": "MARCHAL"
+    },
+    {
+      "EmaNumber": "04280033",
+      "FirstName": "BRUNO",
+      "LastName": "DE AGUIAR",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04280050",
+      "FirstName": "PHILIPPE",
+      "LastName": "MATHIS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04280058",
+      "FirstName": "MAXENCE",
+      "LastName": "MEISTERTZHEIM"
+    },
+    {
+      "EmaNumber": "04290001",
+      "FirstName": "SANDRA",
+      "LastName": "BERTHOMMIER"
+    },
+    {
+      "EmaNumber": "04290006",
+      "FirstName": "EMMANUELLE",
+      "LastName": "HUGOT"
+    },
+    {
+      "EmaNumber": "04290008",
+      "FirstName": "JEAN-FRANÇOIS",
+      "LastName": "PARRIAUD",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04290021",
+      "FirstName": "LINA",
+      "LastName": "PICH"
+    },
+    {
+      "EmaNumber": "04290023",
+      "FirstName": "MANUEL",
+      "LastName": "SANTOS"
+    },
+    {
+      "EmaNumber": "04290026",
+      "FirstName": "ISABELLE",
+      "LastName": "SANTOS"
+    },
+    {
+      "EmaNumber": "04290029",
+      "FirstName": "PASCALE",
+      "LastName": "MARTINET"
+    },
+    {
+      "EmaNumber": "04290030",
+      "FirstName": "ERWAN",
+      "LastName": "DE KERGOMMEAUX",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04290031",
+      "FirstName": "LOIC",
+      "LastName": "DE KERGOMMEAUX",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04290037",
+      "FirstName": "XU",
+      "LastName": "ZHISHUN"
+    },
+    {
+      "EmaNumber": "04290038",
+      "FirstName": "EMILIE",
+      "LastName": "GODFRIN"
+    },
+    {
+      "EmaNumber": "04290052",
+      "FirstName": "OLIVIER",
+      "LastName": "DEPRAZ"
+    },
+    {
+      "EmaNumber": "04290053",
+      "FirstName": "ANNIE-CLAUDE",
+      "LastName": "BONNOT"
+    },
+    {
+      "EmaNumber": "04290056",
+      "FirstName": "MORGANE",
+      "LastName": "DE KERGOMMEAUX"
+    },
+    {
+      "EmaNumber": "04290075",
+      "FirstName": "ANTOINE",
+      "LastName": "MEUNIER"
+    },
+    {
+      "EmaNumber": "04300002",
+      "FirstName": "ALEXIS",
+      "LastName": "AZOULAI"
+    },
+    {
+      "EmaNumber": "04300006",
+      "FirstName": "CÉDRIC",
+      "LastName": "ROSTEIN"
+    },
+    {
+      "EmaNumber": "04300007",
+      "FirstName": "DAVID",
+      "LastName": "GIBON"
+    },
+    {
+      "EmaNumber": "04300018",
+      "FirstName": "NOLWENN",
+      "LastName": "GIRAUD"
+    },
+    {
+      "EmaNumber": "04300022",
+      "FirstName": "KAROLINA",
+      "LastName": "TREPINSKA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Paris"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04300025",
+      "FirstName": "MATHIS",
+      "LastName": "GENDRON"
+    },
+    {
+      "EmaNumber": "04300028",
+      "FirstName": "FLORIAN",
+      "LastName": "RANCON"
+    },
+    {
+      "EmaNumber": "04300030",
+      "FirstName": "EVAN",
+      "LastName": "CSONT"
+    },
+    {
+      "EmaNumber": "04300031",
+      "FirstName": "YOHANN",
+      "LastName": "NERAUD"
+    },
+    {
+      "EmaNumber": "04300033",
+      "FirstName": "JEANINE",
+      "LastName": "SUTTER"
+    },
+    {
+      "EmaNumber": "04300042",
+      "FirstName": "CLAIRE",
+      "LastName": "LAPRADE"
+    },
+    {
+      "EmaNumber": "04300046",
+      "FirstName": "ANTHONY",
+      "LastName": "SUONG"
+    },
+    {
+      "EmaNumber": "04310012",
+      "FirstName": "VALENTIN",
+      "LastName": "COURTOIS"
+    },
+    {
+      "EmaNumber": "04310040",
+      "FirstName": "PIERRIC",
+      "LastName": "WILLEMET"
+    },
+    {
+      "EmaNumber": "04310048",
+      "FirstName": "YULONG",
+      "LastName": "ZHAO",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Marseilles, France, 22 June"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04310050",
+      "FirstName": "MARIAN SANYA",
+      "LastName": "JONES"
+    },
+    {
+      "EmaNumber": "04310065",
+      "FirstName": "ANTOINE",
+      "LastName": "LEMIERE"
+    },
+    {
+      "EmaNumber": "04310069",
+      "FirstName": "ALAIN",
+      "LastName": "XIANG"
+    },
+    {
+      "EmaNumber": "04310079",
+      "FirstName": "CLAIRE",
+      "LastName": "WARIN"
+    },
+    {
+      "EmaNumber": "04310086",
+      "FirstName": "STEVEN",
+      "LastName": "HUE"
+    },
+    {
+      "EmaNumber": "04310087",
+      "FirstName": "DONOVAN",
+      "LastName": "TANGUIER"
+    },
+    {
+      "EmaNumber": "04310089",
+      "FirstName": "MORGAN",
+      "LastName": "WALMSLEY"
+    },
+    {
+      "EmaNumber": "04310094",
+      "FirstName": "SANTIAGO",
+      "LastName": "BAUTISTA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04320004",
+      "FirstName": "GUILLAUME",
+      "LastName": "COLOM"
+    },
+    {
+      "EmaNumber": "04320005",
+      "FirstName": "MINH TRI",
+      "LastName": "TRAN"
+    },
+    {
+      "EmaNumber": "04320006",
+      "FirstName": "CHANTAL",
+      "LastName": "TRAN"
+    },
+    {
+      "EmaNumber": "04320013",
+      "FirstName": "BRYAN",
+      "LastName": "MANCHEZ"
+    },
+    {
+      "EmaNumber": "04320014",
+      "FirstName": "CÉCILE",
+      "LastName": "BLANC"
+    },
+    {
+      "EmaNumber": "04320026",
+      "FirstName": "CLAUDE",
+      "LastName": "SESSIN"
+    },
+    {
+      "EmaNumber": "04320030",
+      "FirstName": "Sacha",
+      "LastName": "DUNAN"
+    },
+    {
+      "EmaNumber": "04320035",
+      "FirstName": "HANZHOU",
+      "LastName": "MAO"
+    },
+    {
+      "EmaNumber": "04320040",
+      "FirstName": "Victor",
+      "LastName": "COULAUD"
+    },
+    {
+      "EmaNumber": "04320041",
+      "FirstName": "Kyan",
+      "LastName": "MEETOO"
+    },
+    {
+      "EmaNumber": "04350014",
+      "FirstName": "FLORENT",
+      "LastName": "DEPREZ"
+    },
+    {
+      "EmaNumber": "04390001",
+      "FirstName": "SIMON",
+      "LastName": "FACONNIER"
+    },
+    {
+      "EmaNumber": "04390002",
+      "FirstName": "JACQUELINE",
+      "LastName": "FACONNIER"
+    },
+    {
+      "EmaNumber": "04390006",
+      "FirstName": "COLETTE",
+      "LastName": "HOARAU"
+    },
+    {
+      "EmaNumber": "04390008",
+      "FirstName": "JOËL",
+      "LastName": "DE PALMAS"
+    },
+    {
+      "EmaNumber": "04390010",
+      "FirstName": "LÉONUS",
+      "LastName": "HAYANO"
+    },
+    {
+      "EmaNumber": "04410013",
+      "FirstName": "LAURÈNE",
+      "LastName": "CLASERT"
+    },
+    {
+      "EmaNumber": "04410014",
+      "FirstName": "NICOLAS",
+      "LastName": "BAPTISTE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04410015",
+      "FirstName": "DAMIEN",
+      "LastName": "CHAREYRE"
+    },
+    {
+      "EmaNumber": "04410019",
+      "FirstName": "LAURENCE",
+      "LastName": "CAHAGNE"
+    },
+    {
+      "EmaNumber": "04420002",
+      "FirstName": "YVETTE",
+      "LastName": "NOUVEL"
+    },
+    {
+      "EmaNumber": "04420004",
+      "FirstName": "MONIKA",
+      "LastName": "LESUEUR"
+    },
+    {
+      "EmaNumber": "04420013",
+      "FirstName": "MARIE-THERESE",
+      "LastName": "REGUEME"
+    },
+    {
+      "EmaNumber": "04420016",
+      "FirstName": "CLAIRE",
+      "LastName": "LUCAS"
+    },
+    {
+      "EmaNumber": "04430020",
+      "FirstName": "PHILIPPE",
+      "LastName": "LEMAIRE"
+    },
+    {
+      "EmaNumber": "04430021",
+      "FirstName": "MARIE-FRANCE",
+      "LastName": "MEYER"
+    },
+    {
+      "EmaNumber": "04430029",
+      "FirstName": "CHRISTIAN",
+      "LastName": "GORKA"
+    },
+    {
+      "EmaNumber": "04430030",
+      "FirstName": "NACERA",
+      "LastName": "GUEBLI"
+    },
+    {
+      "EmaNumber": "04430036",
+      "FirstName": "JOELLE",
+      "LastName": "NICOLAS"
+    },
+    {
+      "EmaNumber": "04430039",
+      "FirstName": "KIM MAI",
+      "LastName": "LUU DUC"
+    },
+    {
+      "EmaNumber": "04440006",
+      "FirstName": "CÉCILE",
+      "LastName": "LASSAYS"
+    },
+    {
+      "EmaNumber": "04440017",
+      "FirstName": "JULIE",
+      "LastName": "BEAUSSART"
+    },
+    {
+      "EmaNumber": "04440018",
+      "FirstName": "STÉPHANE",
+      "LastName": "BEAUSSART"
+    },
+    {
+      "EmaNumber": "04440030",
+      "FirstName": "Maël",
+      "LastName": "GELSO RUIZ"
+    },
+    {
+      "EmaNumber": "04440033",
+      "FirstName": "VALERIE",
+      "LastName": "LONGERINAS"
+    },
+    {
+      "EmaNumber": "04460003",
+      "FirstName": "NATHALIE",
+      "LastName": "DUCROUX"
+    },
+    {
+      "EmaNumber": "04460016",
+      "FirstName": "THIERRY",
+      "LastName": "CHARVIN"
+    },
+    {
+      "EmaNumber": "04460017",
+      "FirstName": "PASCAL",
+      "LastName": "BALANDRAS"
+    },
+    {
+      "EmaNumber": "04460018",
+      "FirstName": "CATHERINE",
+      "LastName": "CHAPUY"
+    },
+    {
+      "EmaNumber": "04490001",
+      "FirstName": "MARIE CHRISTINE",
+      "LastName": "CAVANI"
+    },
+    {
+      "EmaNumber": "04490002",
+      "FirstName": "BRUNO",
+      "LastName": "CAVANI"
+    },
+    {
+      "EmaNumber": "04490021",
+      "FirstName": "JOCELYNE",
+      "LastName": "LANDIER"
+    },
+    {
+      "EmaNumber": "04490031",
+      "FirstName": "DIDIER",
+      "LastName": "LEPINE"
+    },
+    {
+      "EmaNumber": "04510004",
+      "FirstName": "MARIE THERESE",
+      "LastName": "LACAILLE"
+    },
+    {
+      "EmaNumber": "04520001",
+      "FirstName": "ADRIEN",
+      "LastName": "LEROY"
+    },
+    {
+      "EmaNumber": "04520002",
+      "FirstName": "FLORIAN",
+      "LastName": "RACZYNSKI"
+    },
+    {
+      "EmaNumber": "04520003",
+      "FirstName": "JIMIN",
+      "LastName": "YOON"
+    },
+    {
+      "EmaNumber": "04520004",
+      "FirstName": "Vincent",
+      "LastName": "VAN DE VELDE"
+    },
+    {
+      "EmaNumber": "04520005",
+      "FirstName": "FILIPP",
+      "LastName": "SPORYKHIN"
+    },
+    {
+      "EmaNumber": "04530001",
+      "FirstName": "MATTHIEU",
+      "LastName": "FONTAINE"
+    },
+    {
+      "EmaNumber": "04530002",
+      "FirstName": "ALEXANDRE",
+      "LastName": "DAURIAC"
+    },
+    {
+      "EmaNumber": "04530003",
+      "FirstName": "GUILLAUME",
+      "LastName": "AUBUT"
+    },
+    {
+      "EmaNumber": "04530004",
+      "FirstName": "Dario",
+      "LastName": "MOED"
+    },
+    {
+      "EmaNumber": "04530005",
+      "FirstName": "JULIEN",
+      "LastName": "DELAMARCHE"
+    },
+    {
+      "EmaNumber": "04530006",
+      "FirstName": "STELENA",
+      "LastName": "BENES"
+    },
+    {
+      "EmaNumber": "04530007",
+      "FirstName": "MAXENCE",
+      "LastName": "HO"
+    },
+    {
+      "EmaNumber": "04530008",
+      "FirstName": "KARTEN",
+      "LastName": "ZAJAC"
+    },
+    {
+      "EmaNumber": "04530009",
+      "FirstName": "NIKOLAS",
+      "LastName": "ZAJAC"
+    },
+    {
+      "EmaNumber": "04530010",
+      "FirstName": "Myrtille",
+      "LastName": "MATHIAS"
+    },
+    {
+      "EmaNumber": "04530011",
+      "FirstName": "ERWAN",
+      "LastName": "SAMMUT"
+    },
+    {
+      "EmaNumber": "04530013",
+      "FirstName": "LOUIS",
+      "LastName": "FARINA"
+    },
+    {
+      "EmaNumber": "04530015",
+      "FirstName": "SASHA",
+      "LastName": "FOURMAGE"
+    },
+    {
+      "EmaNumber": "04530016",
+      "FirstName": "HUGUES",
+      "LastName": "MOTTE"
+    },
+    {
+      "EmaNumber": "04530017",
+      "FirstName": "ANDY",
+      "LastName": "XU"
+    },
+    {
+      "EmaNumber": "04530018",
+      "FirstName": "JULIEN",
+      "LastName": "BORDERAS"
+    },
+    {
+      "EmaNumber": "04530021",
+      "FirstName": "FLORENT",
+      "LastName": "GUTH"
+    },
+    {
+      "EmaNumber": "04530025",
+      "FirstName": "Pierrick",
+      "LastName": "PILORGET"
+    },
+    {
+      "EmaNumber": "04530026",
+      "FirstName": "GUILLAUME",
+      "LastName": "VINCENT"
+    },
+    {
+      "EmaNumber": "04530030",
+      "FirstName": "Clément",
+      "LastName": "DEMAZURE"
+    },
+    {
+      "EmaNumber": "04540001",
+      "FirstName": "ELISABETH",
+      "LastName": "DUCRE"
+    },
+    {
+      "EmaNumber": "04540002",
+      "FirstName": "LUC",
+      "LastName": "BROUTIN"
+    },
+    {
+      "EmaNumber": "04540003",
+      "FirstName": "CHRISTINE",
+      "LastName": "BROUTIN"
+    },
+    {
+      "EmaNumber": "04550024",
+      "FirstName": "JACQUES",
+      "LastName": "CHÂTEAU"
+    },
+    {
+      "EmaNumber": "04560009",
+      "FirstName": "NICOLAS",
+      "LastName": "HOUSSET"
+    },
+    {
+      "EmaNumber": "04580007",
+      "FirstName": "Magali",
+      "LastName": "ROSSI"
+    },
+    {
+      "EmaNumber": "04580033",
+      "FirstName": "Loup",
+      "LastName": "FRANCINEAU"
+    },
+    {
+      "EmaNumber": "04580038",
+      "FirstName": "Mercure",
+      "LastName": "BIGOT"
+    },
+    {
+      "EmaNumber": "04590007",
+      "FirstName": "SYLVIE",
+      "LastName": "JORDY"
+    },
+    {
+      "EmaNumber": "04600002",
+      "FirstName": "ABDELAH",
+      "LastName": "EL FAHIM"
+    },
+    {
+      "EmaNumber": "04600003",
+      "FirstName": "ABDOULLAH",
+      "LastName": "ABID"
+    },
+    {
+      "EmaNumber": "04600009",
+      "FirstName": "ALEXANDRE",
+      "LastName": "PINCHARD"
+    },
+    {
+      "EmaNumber": "04600016",
+      "FirstName": "RAYEN",
+      "LastName": "HADDAD"
+    },
+    {
+      "EmaNumber": "04630001",
+      "FirstName": "THOMAS",
+      "LastName": "LIAGRE"
+    },
+    {
+      "EmaNumber": "04630023",
+      "FirstName": "Hugo",
+      "LastName": "BOULIER"
+    },
+    {
+      "EmaNumber": "04650001",
+      "FirstName": "PATRICK",
+      "LastName": "VEREECKE"
+    },
+    {
+      "EmaNumber": "04650003",
+      "FirstName": "CHRISTINE",
+      "LastName": "MAIGNAN"
+    },
+    {
+      "EmaNumber": "04650004",
+      "FirstName": "SOPHIE",
+      "LastName": "LALLEMENT"
+    },
+    {
+      "EmaNumber": "04650006",
+      "FirstName": "MURIEL",
+      "LastName": "ROGER"
+    },
+    {
+      "EmaNumber": "04670001",
+      "FirstName": "LILIAN",
+      "LastName": "BILLOD"
+    },
+    {
+      "EmaNumber": "04670004",
+      "FirstName": "Vianney",
+      "LastName": "HEIMBURGER"
+    },
+    {
+      "EmaNumber": "04670010",
+      "FirstName": "Gabriel",
+      "LastName": "MICOUD"
+    },
+    {
+      "EmaNumber": "04670012",
+      "FirstName": "Pierre-Nicolas",
+      "LastName": "SWITALSKI-RAULIN"
+    },
+    {
+      "EmaNumber": "04690001",
+      "FirstName": "SILÈNE",
+      "LastName": "YU"
+    },
+    {
+      "EmaNumber": "04690002",
+      "FirstName": "PAUL",
+      "LastName": "CHARRIER"
+    },
+    {
+      "EmaNumber": "04690004",
+      "FirstName": "CAITLIN",
+      "LastName": "SELTRECHT"
+    },
+    {
+      "EmaNumber": "04690007",
+      "FirstName": "Célian",
+      "LastName": "DELAUNAY"
+    },
+    {
+      "EmaNumber": "04690008",
+      "FirstName": "ANTHONY",
+      "LastName": "BARBIER"
+    },
+    {
+      "EmaNumber": "04690009",
+      "FirstName": "Selim",
+      "LastName": "TLATLI"
+    },
+    {
+      "EmaNumber": "04690010",
+      "FirstName": "MATTHIAS",
+      "LastName": "MOYON"
+    },
+    {
+      "EmaNumber": "04720002",
+      "FirstName": "LILOU",
+      "LastName": "PETITGENET"
+    },
+    {
+      "EmaNumber": "04990009",
+      "FirstName": "JEAN-MARC",
+      "LastName": "CAZARRE"
+    },
+    {
+      "EmaNumber": "04990015",
+      "FirstName": "THIERRY",
+      "LastName": "BESNARD"
+    },
+    {
+      "EmaNumber": "04990024",
+      "FirstName": "ANNABEL",
+      "LastName": "DI DOMENICO"
+    },
+    {
+      "EmaNumber": "04990025",
+      "FirstName": "CORINE",
+      "LastName": "DI DOMENICO"
+    },
+    {
+      "EmaNumber": "04990036",
+      "FirstName": "DANIEL",
+      "LastName": "AUBRUN"
+    },
+    {
+      "EmaNumber": "04990054",
+      "FirstName": "VINCENT",
+      "LastName": "YOU-SEEN"
+    },
+    {
+      "EmaNumber": "04990062",
+      "FirstName": "MATTHIEU",
+      "LastName": "PFEIFFER"
+    },
+    {
+      "EmaNumber": "04990093",
+      "FirstName": "LUC",
+      "LastName": "DEBRUN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2018-01-01",
+          "note": "Marseilles, France, 22 June"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04990103",
+      "FirstName": "STÉPHANE",
+      "LastName": "COMMANS"
+    },
+    {
+      "EmaNumber": "04990106",
+      "FirstName": "PAUL-ARTHUR",
+      "LastName": "VALET",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "04990107",
+      "FirstName": "BAPTISTE",
+      "LastName": "BARON"
+    },
+    {
+      "EmaNumber": "04990108",
+      "FirstName": "STEVEN",
+      "LastName": "PICARD"
+    },
+    {
+      "EmaNumber": "04990112",
+      "FirstName": "Alexandre",
+      "LastName": "PHONCHAREUN"
+    },
+    {
+      "EmaNumber": "04990118",
+      "FirstName": "FABIEN",
+      "LastName": "FRANCOIS"
+    },
+    {
+      "EmaNumber": "04990120",
+      "FirstName": "VIRGINE",
+      "LastName": "BON"
+    },
+    {
+      "EmaNumber": "04990121",
+      "FirstName": "Jérémy",
+      "LastName": "MASSE"
+    }
+  ]
+}

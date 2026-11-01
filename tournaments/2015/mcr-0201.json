@@ -1,0 +1,212 @@
+{
+  "Name": "HANNOVER OPEN 2015",
+  "Country": "de",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-04-12",
+  "ToDate": "2015-04-12",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100016",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 529
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100017",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 460
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 262
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100143",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 202
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 336
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05900002",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 171
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100058",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 138
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ELKE",
+        "LastName": "BRINKMEIER",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 64
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "CHEN",
+        "LastName": "CHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -12
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -129
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05900008",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 308
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100165",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 134
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100024",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 128
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "KE",
+        "LastName": "LI",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": 4
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100078",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -77
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ULLA",
+        "LastName": "EICKSCHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -90
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MINERVA",
+        "LastName": "KOLPACK",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -139
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05100033",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -83
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -151
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -247
+      }
+    }
+  ]
+}

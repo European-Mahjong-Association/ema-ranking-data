@@ -1,0 +1,148 @@
+{
+  "Name": "MARSEILLE OPEN 2016",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-04-16",
+  "ToDate": "2016-04-16",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 3,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04300002",
+      "Result": 64500
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "HENRY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 52500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04320004",
+      "Result": 42400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04320006",
+      "Result": 40200
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MATTHIEU",
+        "LastName": "GOUDEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 34900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "26000003",
+      "Result": 31200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160084",
+      "Result": 31200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04300022",
+      "Result": 24500
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ZHUOMING",
+        "LastName": "CHEN",
+        "RepresentingNationality": "cn"
+      },
+      "Result": 23800
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "AZIZ",
+        "LastName": "AZOUGAGH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 18000
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 10700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 7900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04320014",
+      "Result": -17500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "SEIKO",
+        "LastName": "HAYASE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -26300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04160080",
+      "Result": -27500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04040189",
+      "Result": -42100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04320013",
+      "Result": -48300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04290001",
+      "Result": -69700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04320005",
+      "Result": -75400
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ANTHONY",
+        "LastName": "HUSS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -115000
+    }
+  ]
+}

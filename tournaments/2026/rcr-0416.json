@@ -1,0 +1,224 @@
+{
+  "Name": "Green Dragon Cup 2026",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-23",
+  "ToDate": "2026-05-24",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "21000085",
+      "Result": 164600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "21000117",
+      "Result": 117500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "21000038",
+      "Result": 107600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000116",
+      "Result": 92600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000091",
+      "Result": 78600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "21000106",
+      "Result": 75400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000110",
+      "Result": 60600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000129",
+      "Result": 57100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000097",
+      "Result": 56400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000103",
+      "Result": 54600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000041",
+      "Result": 53300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000118",
+      "Result": 52600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "21000058",
+      "Result": 50500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "21000087",
+      "Result": 32500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000128",
+      "Result": 26500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "21000111",
+      "Result": 21500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "21000112",
+      "Result": 12300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000113",
+      "Result": 7100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000130",
+      "Result": 6400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "21000083",
+      "Result": 3000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "21000053",
+      "Result": -5600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "21000099",
+      "Result": -6200
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "21000082",
+      "Result": -14200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "21000127",
+      "Result": -19600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "21000072",
+      "Result": -20600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "21000109",
+      "Result": -22800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "21000119",
+      "Result": -24900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "21000101",
+      "Result": -25900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "21000126",
+      "Result": -33800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "21000037",
+      "Result": -54800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "21000088",
+      "Result": -67300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "21000120",
+      "Result": -77300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "21000121",
+      "Result": -87500
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "21000125",
+      "Result": -88300
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "21000124",
+      "Result": -97200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "21000123",
+      "Result": -100100
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "21000102",
+      "Result": -102100
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "21000122",
+      "Result": -142800
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Name": "Pantheres Riichi Open 2025 - Saint Pierre",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-10-19",
+  "ToDate": "2025-10-19",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Wilson",
+      "LastName": "JANAC"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04030100",
+      "Result": 102500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04080019",
+      "Result": 66700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04030147",
+      "Result": 64100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04080018",
+      "Result": 54500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04010076",
+      "Result": 26100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030087",
+      "Result": 22300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04060061",
+      "Result": 21400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04030189",
+      "Result": 21100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04030091",
+      "Result": 10200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030023",
+      "Result": 400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030083",
+      "Result": -14800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04030028",
+      "Result": -15600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04030093",
+      "Result": -27500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04180005",
+      "Result": -28200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030191",
+      "Result": -36500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04030045",
+      "Result": -41200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04030185",
+      "Result": -43400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04030150",
+      "Result": -46600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04030051",
+      "Result": -63400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04060045",
+      "Result": -92100
+    }
+  ]
+}

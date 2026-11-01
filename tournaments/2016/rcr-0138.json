@@ -1,0 +1,160 @@
+{
+  "Name": "Riichi Danish Championship 2016",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-10-01",
+  "ToDate": "2016-10-02",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 200000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000149",
+      "Result": 134000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000049",
+      "Result": 76600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000118",
+      "Result": 63800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000148",
+      "Result": 58400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000208",
+      "Result": 56100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000022",
+      "Result": 55800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04030100",
+      "Result": 29100
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 24200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000126",
+      "Result": 22900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000176",
+      "Result": -11700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000156",
+      "Result": -11800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04030022",
+      "Result": -21200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000140",
+      "Result": -22400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -24900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000003",
+      "Result": -28700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990024",
+      "Result": -41900
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -45900
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -48000
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010166",
+      "Result": -65100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -74800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05100153",
+      "Result": -85300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010728",
+      "Result": -121700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990045",
+      "Result": -137500
+    }
+  ]
+}

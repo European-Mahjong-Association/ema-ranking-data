@@ -1,0 +1,212 @@
+{
+  "Name": "RYANPIN RIICHI OPEN 2023",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-10-07",
+  "ToDate": "2023-10-08",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 9,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000155",
+      "Result": 173200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000148",
+      "Result": 148900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "25000001",
+      "Result": 122800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100168",
+      "Result": 104600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000149",
+      "Result": 103700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "HADOLT",
+        "RepresentingNationality": "at"
+      },
+      "Result": 81500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010436",
+      "Result": 78700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "06990035",
+      "Result": 74100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "25000002",
+      "Result": 65500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000113",
+      "Result": 55700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000131",
+      "Result": 52600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990009",
+      "Result": 50400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04160035",
+      "Result": 45800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "17990004",
+      "Result": 26200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000073",
+      "Result": 23700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000144",
+      "Result": 23000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000013",
+      "Result": 19300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000129",
+      "Result": 15400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "17990003",
+      "Result": 14300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "06990014",
+      "Result": -17900
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SCHURZ",
+        "RepresentingNationality": "at"
+      },
+      "Result": -21900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05000018",
+      "Result": -25300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "01000156",
+      "Result": -34100
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "JERNEJ",
+        "LastName": "PANGERC",
+        "RepresentingNationality": "si"
+      },
+      "Result": -35300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000053",
+      "Result": -56400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "01000125",
+      "Result": -60500
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "01000153",
+      "Result": -61600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "17990007",
+      "Result": -73500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "01000151",
+      "Result": -81700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "01000066",
+      "Result": -86400
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05100182",
+      "Result": -90900
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "01000154",
+      "Result": -106600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "01000146",
+      "Result": -112000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010737",
+      "Result": -142400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "01000147",
+      "Result": -157100
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "ZIGA",
+        "LastName": "ZIBELNIK",
+        "RepresentingNationality": "si"
+      },
+      "Result": -236800
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "Name": "Bologna Double Race 2024 - Riichi",
+  "Country": "it",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-06-29",
+  "ToDate": "2024-06-29",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Kenneth",
+      "LastName": "Chan"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "07000021",
+      "Result": 100700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05000050",
+      "Result": 83100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "07000018",
+      "Result": 56000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "07000093",
+      "Result": 17300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "07000131",
+      "Result": 11800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "07000107",
+      "Result": 8100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "07000109",
+      "Result": 3500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "07000170",
+      "Result": -2100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "07000155",
+      "Result": -6300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "07000206",
+      "Result": -18500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "07000177",
+      "Result": -23700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "07000164",
+      "Result": -25100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "07000104",
+      "Result": -26400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "07000011",
+      "Result": -40000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "07000080",
+      "Result": -76700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "07000175",
+      "Result": -81700
+    }
+  ]
+}

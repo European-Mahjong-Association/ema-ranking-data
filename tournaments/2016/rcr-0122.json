@@ -1,0 +1,202 @@
+{
+  "Name": "AACHEN TOURNAMENT 2016",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-04-02",
+  "ToDate": "2016-04-03",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Ans",
+      "LastName": "Hoogland"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04040048",
+      "Result": 220400
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "KÖHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 129600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100124",
+      "Result": 88200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": 78900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100157",
+      "Result": 56700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "SIMON",
+        "LastName": "NAARMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 51500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "LASSE",
+        "LastName": "GRIMMELT",
+        "RepresentingNationality": "de"
+      },
+      "Result": 46300
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010166",
+      "Result": 40300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04160015",
+      "Result": 27600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100138",
+      "Result": 21300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04160084",
+      "Result": 21200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100160",
+      "Result": 15000
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "STEFANIE",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 10500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100161",
+      "Result": 5400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100146",
+      "Result": -8100
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "HENRY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -12400
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -12900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010020",
+      "Result": -13700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04160035",
+      "Result": -25000
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100072",
+      "Result": -26600
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05100151",
+      "Result": -36300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010025",
+      "Result": -43700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010725",
+      "Result": -44700
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "MAXIM",
+        "LastName": "JOURENKO",
+        "RepresentingNationality": "de"
+      },
+      "Result": -77300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04160081",
+      "Result": -94200
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "BERTOLT",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "de"
+      },
+      "Result": -120400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010026",
+      "Result": -157600
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "RATH",
+        "RepresentingNationality": "de"
+      },
+      "Result": -220000
+    }
+  ]
+}

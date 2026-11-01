@@ -1,0 +1,180 @@
+{
+  "Name": "AUSTRIAN OPEN RIICHI TOURNAMENT",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2009-07-26",
+  "ToDate": "2009-07-26",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "KLÜPFEL",
+        "RepresentingNationality": "de"
+      },
+      "Result": 79200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "SCHRITTWIESER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 75500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000013",
+      "Result": 70500
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "CHANG",
+        "LastName": "XUE",
+        "RepresentingNationality": "at"
+      },
+      "Result": 68200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000053",
+      "Result": 33100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "NILS",
+        "LastName": "MAYERHOFER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 30200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 20900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "SJÖBLOM",
+        "RepresentingNationality": "se"
+      },
+      "Result": 10400
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "BOTOND",
+        "LastName": "KIS",
+        "RepresentingNationality": "at"
+      },
+      "Result": 5100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "PISTEK",
+        "RepresentingNationality": "de"
+      },
+      "Result": 4300
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "TARA",
+        "LastName": "STARNEGG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -13700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "STURM",
+        "RepresentingNationality": "at"
+      },
+      "Result": -14600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "GEORG",
+        "LastName": "RICHTER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -18800
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -32900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000066",
+      "Result": -34600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -38200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ROMAN",
+        "LastName": "KASZUBA",
+        "RepresentingNationality": "at"
+      },
+      "Result": -39300
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "EßBÜCHL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -43300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990006",
+      "Result": -45400
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -116600
+    }
+  ]
+}

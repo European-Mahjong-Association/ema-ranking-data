@@ -1,0 +1,152 @@
+{
+  "Name": "UK MCR OPEN 2022",
+  "Country": "gb",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-08-22",
+  "ToDate": "2022-08-22",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090060",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 587
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 256
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04090110",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 237
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11990016",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 207
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04090080",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 142
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990085",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -142
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990022",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 217
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "06010011",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -100
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "16000035",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": 34
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "NORMA",
+        "LastName": "TODD",
+        "RepresentingNationality": "gb"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -22
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040170",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -204
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100153",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -235
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11990004",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -299
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "11990005",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -258
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990020",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -633
+      }
+    }
+  ]
+}

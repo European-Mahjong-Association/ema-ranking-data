@@ -1,0 +1,876 @@
+{
+  "CountryCode": "se",
+  "Country": "Sweden",
+  "Players": [
+    {
+      "EmaNumber": "09990006",
+      "FirstName": "JONAS",
+      "LastName": "HAGERLID"
+    },
+    {
+      "EmaNumber": "09990008",
+      "FirstName": "MOA",
+      "LastName": "HENRIËT",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2019-01-01",
+          "note": "Villefranche-sur-Saône"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990009",
+      "FirstName": "ÖSTMAN",
+      "LastName": "EMELIE"
+    },
+    {
+      "EmaNumber": "09990011",
+      "FirstName": "THORÉN",
+      "LastName": "JONAS"
+    },
+    {
+      "EmaNumber": "09990044",
+      "FirstName": "PETTER",
+      "LastName": "RANEFALL",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990045",
+      "FirstName": "ANNIKA",
+      "LastName": "RIDELL",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Gdansk"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990047",
+      "FirstName": "JASPER",
+      "LastName": "GERMEYS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990049",
+      "FirstName": "STEFAN",
+      "LastName": "PERSSON",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990052",
+      "FirstName": "MARK",
+      "LastName": "LEMOINE"
+    },
+    {
+      "EmaNumber": "09990062",
+      "FirstName": "LINNEA",
+      "LastName": "LIIKAMAA"
+    },
+    {
+      "EmaNumber": "09990064",
+      "FirstName": "MATTIAS",
+      "LastName": "MIKKOLA"
+    },
+    {
+      "EmaNumber": "09990068",
+      "FirstName": "KARL-EDWARD",
+      "LastName": "EKEBLAD"
+    },
+    {
+      "EmaNumber": "09990073",
+      "FirstName": "ANDERS",
+      "LastName": "YE"
+    },
+    {
+      "EmaNumber": "09990088",
+      "FirstName": "EMMA",
+      "LastName": "FAHLSTRÖM",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2024-01-01",
+          "note": "Uppsala, Sweden, April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990090",
+      "FirstName": "ULF",
+      "LastName": "ÅSTRÖM"
+    },
+    {
+      "EmaNumber": "09990099",
+      "FirstName": "CHRISTOPHE",
+      "LastName": "AVENEL",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2024-01-01",
+          "note": "Uppsala, Sweden, April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990104",
+      "FirstName": "CAROLINE",
+      "LastName": "NORÉN"
+    },
+    {
+      "EmaNumber": "09990106",
+      "FirstName": "SARA",
+      "LastName": "LANDOLSI"
+    },
+    {
+      "EmaNumber": "09990107",
+      "FirstName": "FELIPE",
+      "LastName": "GABOARDI"
+    },
+    {
+      "EmaNumber": "09990110",
+      "FirstName": "NIKLAS",
+      "LastName": "JOHANSSON",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990112",
+      "FirstName": "BIBBI",
+      "LastName": "ZHANG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2024-01-01",
+          "note": "Uppsala, Sweden, April"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990114",
+      "FirstName": "KIM",
+      "LastName": "JOHANSSON",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2023-01-01",
+          "note": "Valencia"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990116",
+      "FirstName": "ÖZGÜN",
+      "LastName": "YILMAZOK"
+    },
+    {
+      "EmaNumber": "09990117",
+      "FirstName": "CHRISTOS",
+      "LastName": "CHARALAMPOUS"
+    },
+    {
+      "EmaNumber": "09990119",
+      "FirstName": "VIOLA",
+      "LastName": "CUI"
+    },
+    {
+      "EmaNumber": "09990120",
+      "FirstName": "SOFIA",
+      "LastName": "WERN"
+    },
+    {
+      "EmaNumber": "09990124",
+      "FirstName": "ANDY",
+      "LastName": "DANG"
+    },
+    {
+      "EmaNumber": "09990126",
+      "FirstName": "STEFAN",
+      "LastName": "SVAHN"
+    },
+    {
+      "EmaNumber": "09990127",
+      "FirstName": "KSENIA",
+      "LastName": "TRISHINA",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990128",
+      "FirstName": "JACOB",
+      "LastName": "SAMUELSSON"
+    },
+    {
+      "EmaNumber": "09990129",
+      "FirstName": "MARTIN",
+      "LastName": "EDVALL"
+    },
+    {
+      "EmaNumber": "09990130",
+      "FirstName": "LAVE",
+      "LastName": "WESTESSON"
+    },
+    {
+      "EmaNumber": "09990132",
+      "FirstName": "JESPER",
+      "LastName": "CARLSSON"
+    },
+    {
+      "EmaNumber": "09990133",
+      "FirstName": "JOEL M.",
+      "LastName": "MALMSTEN-GREN"
+    },
+    {
+      "EmaNumber": "09990134",
+      "FirstName": "FANG",
+      "LastName": "HE"
+    },
+    {
+      "EmaNumber": "09990137",
+      "FirstName": "ALEXANDRU",
+      "LastName": "GOLIC"
+    },
+    {
+      "EmaNumber": "09990138",
+      "FirstName": "ERIK",
+      "LastName": "FORSAEUS"
+    },
+    {
+      "EmaNumber": "09990139",
+      "FirstName": "ULRIKA",
+      "LastName": "BELFRAGE"
+    },
+    {
+      "EmaNumber": "09990141",
+      "FirstName": "MAX",
+      "LastName": "IHRÉN"
+    },
+    {
+      "EmaNumber": "09990142",
+      "FirstName": "MICHELE",
+      "LastName": "BUTKUS"
+    },
+    {
+      "EmaNumber": "09990145",
+      "FirstName": "PERHAM",
+      "LastName": "PANABECHI"
+    },
+    {
+      "EmaNumber": "09990146",
+      "FirstName": "TING",
+      "LastName": "MA"
+    },
+    {
+      "EmaNumber": "09990148",
+      "FirstName": "TORKEL",
+      "LastName": "KYLSTEN"
+    },
+    {
+      "EmaNumber": "09990149",
+      "FirstName": "PHILIP",
+      "LastName": "SHEVIN"
+    },
+    {
+      "EmaNumber": "09990150",
+      "FirstName": "ANTON F.",
+      "LastName": "FRIBERG"
+    },
+    {
+      "EmaNumber": "09990151",
+      "FirstName": "JOAKIM",
+      "LastName": "LINDHOLM"
+    },
+    {
+      "EmaNumber": "09990152",
+      "FirstName": "LARS",
+      "LastName": "JOHANSSON"
+    },
+    {
+      "EmaNumber": "09990153",
+      "FirstName": "FREDRIK",
+      "LastName": "NORDLUND"
+    },
+    {
+      "EmaNumber": "09990154",
+      "FirstName": "ALEEZA",
+      "LastName": "ARCANGEL"
+    },
+    {
+      "EmaNumber": "09990155",
+      "FirstName": "JUNXI",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "09990156",
+      "FirstName": "KEVIN",
+      "LastName": "YUSHARYAHYA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2026-01-01",
+          "note": "Espoo"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990157",
+      "FirstName": "KENNETH",
+      "LastName": "KULLBRANDT"
+    },
+    {
+      "EmaNumber": "09990158",
+      "FirstName": "ELENA",
+      "LastName": "TEN"
+    },
+    {
+      "EmaNumber": "09990159",
+      "FirstName": "Gustaf",
+      "LastName": "WILÉN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Uppsala, Sweden, February"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990160",
+      "FirstName": "Peter",
+      "LastName": "KARLSSON"
+    },
+    {
+      "EmaNumber": "09990161",
+      "FirstName": "Erik",
+      "LastName": "ROSSELBECK"
+    },
+    {
+      "EmaNumber": "09990162",
+      "FirstName": "Philip",
+      "LastName": "RIEDINGER"
+    },
+    {
+      "EmaNumber": "09990163",
+      "FirstName": "XIAOCHEN",
+      "LastName": "ZHU"
+    },
+    {
+      "EmaNumber": "09990164",
+      "FirstName": "JOSHUA",
+      "LastName": "BÄCKSTRÖM"
+    },
+    {
+      "EmaNumber": "09990165",
+      "FirstName": "INGRID-MARIA",
+      "LastName": "ERLANDSSON",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Uppsala, Sweden, February"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990166",
+      "FirstName": "MARTIN",
+      "LastName": "ERLANDSSON",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990167",
+      "FirstName": "JOHAN",
+      "LastName": "WIHLANDER"
+    },
+    {
+      "EmaNumber": "09990168",
+      "FirstName": "FIA",
+      "LastName": "OTREUS"
+    },
+    {
+      "EmaNumber": "09990169",
+      "FirstName": "Karin",
+      "LastName": "EKLUND",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Uppsala, Sweden, February"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990170",
+      "FirstName": "JOHAN",
+      "LastName": "EKLUND",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Uppsala, Sweden, February"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990171",
+      "FirstName": "SOFIA",
+      "LastName": "FARRAN-LEE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990172",
+      "FirstName": "DANNE",
+      "LastName": "MALMBERG"
+    },
+    {
+      "EmaNumber": "09990173",
+      "FirstName": "MARINA",
+      "LastName": "KLASSON"
+    },
+    {
+      "EmaNumber": "09990174",
+      "FirstName": "MARIE",
+      "LastName": "NORGREN"
+    },
+    {
+      "EmaNumber": "09990175",
+      "FirstName": "PAVEL",
+      "LastName": "GREBNEV"
+    },
+    {
+      "EmaNumber": "09990176",
+      "FirstName": "JESSICA",
+      "LastName": "WAN"
+    },
+    {
+      "EmaNumber": "09990177",
+      "FirstName": "ALMA",
+      "LastName": "KLASSON",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Uppsala, Sweden, February"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990179",
+      "FirstName": "NIKLAS",
+      "LastName": "FARRAN-LEE"
+    },
+    {
+      "EmaNumber": "09990180",
+      "FirstName": "SUSANNE",
+      "LastName": "NOLTMYR"
+    },
+    {
+      "EmaNumber": "09990183",
+      "FirstName": "Sheng-an",
+      "LastName": "YU"
+    },
+    {
+      "EmaNumber": "09990184",
+      "FirstName": "EMBER",
+      "LastName": "OTREUS"
+    },
+    {
+      "EmaNumber": "09990185",
+      "FirstName": "RAINBOW",
+      "LastName": "ANDIN"
+    },
+    {
+      "EmaNumber": "09990187",
+      "FirstName": "SHAHIN",
+      "LastName": "MOSTAJIR"
+    },
+    {
+      "EmaNumber": "09990188",
+      "FirstName": "NGUYEN",
+      "LastName": "VU TRAN"
+    },
+    {
+      "EmaNumber": "09990189",
+      "FirstName": "PONTUS",
+      "LastName": "LARDNER"
+    },
+    {
+      "EmaNumber": "09990190",
+      "FirstName": "JIE",
+      "LastName": "HONG"
+    },
+    {
+      "EmaNumber": "09990191",
+      "FirstName": "CHANGJIE",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "09990192",
+      "FirstName": "KARRO",
+      "LastName": "BENGTSSON"
+    },
+    {
+      "EmaNumber": "09990193",
+      "FirstName": "AGNETA",
+      "LastName": "JOHANSSON"
+    },
+    {
+      "EmaNumber": "09990195",
+      "FirstName": "DINY",
+      "LastName": "VAN DER VEEN"
+    },
+    {
+      "EmaNumber": "09990196",
+      "FirstName": "JOHN",
+      "LastName": "LARDEE"
+    },
+    {
+      "EmaNumber": "09990197",
+      "FirstName": "JOHAN S.",
+      "LastName": "STENSON ZERPE"
+    },
+    {
+      "EmaNumber": "09990198",
+      "FirstName": "LUKAS",
+      "LastName": "HAGG"
+    },
+    {
+      "EmaNumber": "09990199",
+      "FirstName": "JACOB",
+      "LastName": "JONSSON"
+    },
+    {
+      "EmaNumber": "09990200",
+      "FirstName": "JOAR",
+      "LastName": "WALLSTEDT"
+    },
+    {
+      "EmaNumber": "09990201",
+      "FirstName": "PER",
+      "LastName": "BERGLUND"
+    },
+    {
+      "EmaNumber": "09990202",
+      "FirstName": "VICKY",
+      "LastName": "MA"
+    },
+    {
+      "EmaNumber": "09990203",
+      "FirstName": "ANDERS",
+      "LastName": "BENGTSSON"
+    },
+    {
+      "EmaNumber": "09990204",
+      "FirstName": "PIA",
+      "LastName": "BERGSTRÖM"
+    },
+    {
+      "EmaNumber": "09990205",
+      "FirstName": "ANDREAS",
+      "LastName": "LAESTADIUS"
+    },
+    {
+      "EmaNumber": "09990206",
+      "FirstName": "ANN",
+      "LastName": "BJERKE"
+    },
+    {
+      "EmaNumber": "09990207",
+      "FirstName": "JOAKIM",
+      "LastName": "BJERKE"
+    },
+    {
+      "EmaNumber": "09990208",
+      "FirstName": "VIOLETTE",
+      "LastName": "ZHENGYUE GUO"
+    },
+    {
+      "EmaNumber": "09990209",
+      "FirstName": "NING",
+      "LastName": "JIANG"
+    },
+    {
+      "EmaNumber": "09990210",
+      "FirstName": "STINA",
+      "LastName": "NILSSON"
+    },
+    {
+      "EmaNumber": "09990211",
+      "FirstName": "ULRIKA",
+      "LastName": "BOHLIN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "09990212",
+      "FirstName": "MAX",
+      "LastName": "FRIDH"
+    },
+    {
+      "EmaNumber": "09990213",
+      "FirstName": "ANDREAS",
+      "LastName": "ERIKSSON"
+    },
+    {
+      "EmaNumber": "09990214",
+      "FirstName": "GWENAEL",
+      "LastName": "TRANVOUEZ"
+    },
+    {
+      "EmaNumber": "09990215",
+      "FirstName": "DANIEL",
+      "LastName": "SCHMITZ"
+    },
+    {
+      "EmaNumber": "09990216",
+      "FirstName": "FREDRIK",
+      "LastName": "HANSSON"
+    },
+    {
+      "EmaNumber": "09990218",
+      "FirstName": "BENJAMIN",
+      "LastName": "MATTÖ"
+    },
+    {
+      "EmaNumber": "09990220",
+      "FirstName": "ZHAOYUAN",
+      "LastName": "WAN"
+    },
+    {
+      "EmaNumber": "09990221",
+      "FirstName": "ALVIN",
+      "LastName": "SELANDER"
+    },
+    {
+      "EmaNumber": "09990222",
+      "FirstName": "ULF",
+      "LastName": "TYLESTRAND"
+    },
+    {
+      "EmaNumber": "09990225",
+      "FirstName": "LINA",
+      "LastName": "SAVNERT"
+    },
+    {
+      "EmaNumber": "09990226",
+      "FirstName": "Oskar",
+      "LastName": "ROBSARVE"
+    },
+    {
+      "EmaNumber": "09990227",
+      "FirstName": "Dimitri",
+      "LastName": "SERGEJEV"
+    },
+    {
+      "EmaNumber": "09990228",
+      "FirstName": "KEYAN",
+      "LastName": "HAN"
+    },
+    {
+      "EmaNumber": "09990229",
+      "FirstName": "Berke",
+      "LastName": "ZORLU"
+    },
+    {
+      "EmaNumber": "09990230",
+      "FirstName": "FELIX",
+      "LastName": "HUANG"
+    },
+    {
+      "EmaNumber": "09990231",
+      "FirstName": "MARIA",
+      "LastName": "HALLBERG"
+    },
+    {
+      "EmaNumber": "09990232",
+      "FirstName": "PIA",
+      "LastName": "LARSSON"
+    },
+    {
+      "EmaNumber": "09990233",
+      "FirstName": "Igor",
+      "LastName": "PERTOSO"
+    },
+    {
+      "EmaNumber": "09990234",
+      "FirstName": "Victor",
+      "LastName": "TIBERG"
+    },
+    {
+      "EmaNumber": "09990235",
+      "FirstName": "MAUD",
+      "LastName": "LANNE"
+    },
+    {
+      "EmaNumber": "09990236",
+      "FirstName": "MARIANNE",
+      "LastName": "ANDERSSON"
+    },
+    {
+      "EmaNumber": "09990237",
+      "FirstName": "Guanzhou",
+      "LastName": "XU"
+    },
+    {
+      "EmaNumber": "09990238",
+      "FirstName": "Hung",
+      "LastName": "SHENG SHIH"
+    },
+    {
+      "EmaNumber": "09990239",
+      "FirstName": "MONICA",
+      "LastName": "PERSSON"
+    },
+    {
+      "EmaNumber": "09990242",
+      "FirstName": "LILI",
+      "LastName": "LI"
+    },
+    {
+      "EmaNumber": "09990243",
+      "FirstName": "ULF",
+      "LastName": "JOHANSSON"
+    },
+    {
+      "EmaNumber": "09990246",
+      "FirstName": "JESSICA",
+      "LastName": "ANDERSSON"
+    },
+    {
+      "EmaNumber": "09990247",
+      "FirstName": "MARGARETA",
+      "LastName": "WILHELMSSON"
+    },
+    {
+      "EmaNumber": "09990253",
+      "FirstName": "MINGYU",
+      "LastName": "XIE"
+    },
+    {
+      "EmaNumber": "09990254",
+      "FirstName": "PIA",
+      "LastName": "EKELUND"
+    },
+    {
+      "EmaNumber": "09990256",
+      "FirstName": "YUEHAO",
+      "LastName": "SUI"
+    },
+    {
+      "EmaNumber": "09990257",
+      "FirstName": "DANIEL",
+      "LastName": "MARKLUND"
+    },
+    {
+      "EmaNumber": "09990258",
+      "FirstName": "TED",
+      "LastName": "YANG"
+    },
+    {
+      "EmaNumber": "09990259",
+      "FirstName": "MINGYU",
+      "LastName": "XIE"
+    },
+    {
+      "EmaNumber": "09990260",
+      "FirstName": "XINYING",
+      "LastName": "HUANG"
+    },
+    {
+      "EmaNumber": "09990261",
+      "FirstName": "ANDREAS",
+      "LastName": "WINGQVIST"
+    },
+    {
+      "EmaNumber": "09990262",
+      "FirstName": "LIHAN",
+      "LastName": "LI"
+    },
+    {
+      "EmaNumber": "09990263",
+      "FirstName": "OSCAR",
+      "LastName": "MÄKITAAVOLA"
+    },
+    {
+      "EmaNumber": "09990264",
+      "FirstName": "AXEL",
+      "LastName": "MUOTKA"
+    },
+    {
+      "EmaNumber": "09990265",
+      "FirstName": "NILS",
+      "LastName": "BLOMBERG"
+    },
+    {
+      "EmaNumber": "09990266",
+      "FirstName": "CHENGYU",
+      "LastName": "JIANG"
+    },
+    {
+      "EmaNumber": "09990267",
+      "FirstName": "VINCENT",
+      "LastName": "VAN RIJN"
+    },
+    {
+      "EmaNumber": "09990268",
+      "FirstName": "DONGLIN",
+      "LastName": "JIN"
+    },
+    {
+      "EmaNumber": "09990269",
+      "FirstName": "LANSLIE",
+      "LastName": "CAI"
+    }
+  ]
+}

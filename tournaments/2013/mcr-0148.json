@@ -1,0 +1,208 @@
+{
+  "Name": "AGUILAS TOURNAMENT",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-08-24",
+  "ToDate": "2013-08-24",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 375
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 310
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "NORBERT",
+        "LastName": "LUCKHARDT",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 287
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "KILIAN",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 314
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "STÖCKEMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 161
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 93
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 39
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 23
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JUAN JOSÉ",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -74
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "GALINA",
+        "LastName": "BELIAKOVA",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 62
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 43
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -10
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -19
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990023",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -106
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -156
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -235
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "CRISTOBAL",
+        "LastName": "MIRAS CANO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -346
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -500
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARIA ISABEL",
+        "LastName": "NORTES GALVEZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -474
+      }
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "Name": "TRI NITRO TOURNAMENT 2019 - 7TH DETONATION",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-10-18",
+  "ToDate": "2019-10-20",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Elena",
+      "LastName": "Goryacheva"
+    }
+  ],
+  "NrDays": 3,
+  "NrPlayers": 56,
+  "NrCountries": 14,
+  "MersWeight": 4.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04160084",
+      "Result": 56
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "HONG",
+        "LastName": "LI",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 55
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "MORENO",
+        "RepresentingNationality": "us"
+      },
+      "Result": 54
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 53
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "DMITRIY",
+        "LastName": "NOVIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 52
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 51
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "VLADISLAV",
+        "LastName": "PLYASUNOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 50
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "CHIFUMI",
+        "LastName": "YAMAWAKI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 49
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "WAI",
+        "LastName": "TAUR",
+        "RepresentingNationality": "us"
+      },
+      "Result": 48
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 47
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04320013",
+      "Result": 46
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11000002",
+      "Result": 45
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "24000004",
+      "Result": 44
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "SIROTKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 43
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "GORYACHEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 42
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04160071",
+      "Result": 41
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100153",
+      "Result": 40
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11990006",
+      "Result": 39
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04160035",
+      "Result": 38
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04310012",
+      "Result": 37
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "HIROE",
+        "LastName": "SUGAWARA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 36
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04990093",
+      "Result": 35
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ALEXEY",
+        "LastName": "LEONTIEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 34
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "11990060",
+      "Result": 33
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04040105",
+      "Result": 32
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 31
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "CLAIRE POZNIAK",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": 30
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04160092",
+      "Result": 29
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04160015",
+      "Result": 28
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010584",
+      "Result": 27
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": 26
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "EDWIN DIZON",
+        "LastName": null,
+        "RepresentingNationality": "us"
+      },
+      "Result": 25
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "03000176",
+      "Result": 24
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 23
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04160094",
+      "Result": 22
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11000001",
+      "Result": 21
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "11990057",
+      "Result": 20
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "LOGINOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 19
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "JESHIPIO",
+        "LastName": "YOON",
+        "RepresentingNationality": "us"
+      },
+      "Result": 18
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04300022",
+      "Result": 17
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "04230040",
+      "Result": 16
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "01000136",
+      "Result": 15
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "CHRISTOPHE",
+        "LastName": "DIVOUX",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 14
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "03000192",
+      "Result": 13
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "PHILIPPE",
+        "LastName": "CHEN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 12
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010436",
+      "Result": 11
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "05100166",
+      "Result": 10
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "GELKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 9
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04160103",
+      "Result": 8
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "16000029",
+      "Result": 7
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "KHROMOV",
+        "RepresentingNationality": "rs"
+      },
+      "Result": 6
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "YANA",
+        "LastName": "KOZLOVSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 5
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "05100167",
+      "Result": 4
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "04160087",
+      "Result": 3
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 2
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "PLAYER 2",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 1
+    }
+  ]
+}

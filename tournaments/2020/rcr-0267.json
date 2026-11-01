@@ -1,0 +1,182 @@
+{
+  "Name": "Riichi Copenhagen Open 2020",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-02-22",
+  "ToDate": "2020-02-22",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Petter",
+      "LastName": "Ranefall"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "16000007",
+      "Result": 99000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000140",
+      "Result": 92300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000051",
+      "Result": 76000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000126",
+      "Result": 72300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990110",
+      "Result": 65600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990107",
+      "Result": 42800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000228",
+      "Result": 37900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 36400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990044",
+      "Result": 33000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000208",
+      "Result": 27300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990049",
+      "Result": 17900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000022",
+      "Result": 11300
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "LAURITS",
+        "LastName": "FREDSGAARD LARSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 10400
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 8100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000192",
+      "Result": 300
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -5500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000156",
+      "Result": -10400
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "ASTRID",
+        "LastName": "DUBEDOUT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -12800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000003",
+      "Result": -13900
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000049",
+      "Result": -35900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990124",
+      "Result": -36500
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "03000149",
+      "Result": -49900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990088",
+      "Result": -56000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990045",
+      "Result": -69600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "03000176",
+      "Result": -72800
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "16000011",
+      "Result": -87300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990114",
+      "Result": -94900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990106",
+      "Result": -105100
+    }
+  ]
+}

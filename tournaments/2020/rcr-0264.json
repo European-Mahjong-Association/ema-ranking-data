@@ -1,0 +1,196 @@
+{
+  "Name": "SNOW DRAGON TOURNAMENT 2020",
+  "Country": "ru",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2020-01-04",
+  "ToDate": "2020-01-05",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ALYONA",
+        "LastName": "MATVEEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 117600
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "IRINA",
+        "LastName": "FALKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 67700
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ELENA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 60000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "KUZKOKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 58300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ALEXANDR",
+        "LastName": "KARPOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 53200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ANASTASIYA",
+        "LastName": "STOLBOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 43600
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "EVGENIYA",
+        "LastName": "GLOVATSKAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 31500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "VITALIY",
+        "LastName": "MESHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 3000
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "YULIYA",
+        "LastName": "ROMANOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -7600
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "VALERIYA",
+        "LastName": "KIM",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -10200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "POLINA",
+        "LastName": "KAZANTSEVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -19200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ROMAN",
+        "LastName": "SANZHAROV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -22500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ALEXANDR",
+        "LastName": "GONCHARENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -26000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -27400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "SOROKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -29600
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "SOFIYA",
+        "LastName": "KIM",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -46200
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MAXIM",
+        "LastName": "KISELEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -66600
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "VALENTIN",
+        "LastName": "TIMOFEEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -120100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "ZARUBIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -184900
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

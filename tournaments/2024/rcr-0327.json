@@ -1,0 +1,206 @@
+{
+  "Name": "Pregarten Riichi Open 2024",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-04-13",
+  "ToDate": "2024-04-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Cécile",
+      "LastName": "Barret"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 8,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000131",
+      "Result": 138800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000171",
+      "Result": 132900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000148",
+      "Result": 131500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000018",
+      "Result": 106700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "01000113",
+      "Result": 101700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000147",
+      "Result": 94300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04030124",
+      "Result": 83900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000144",
+      "Result": 71600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000013",
+      "Result": 57300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000125",
+      "Result": 51400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000073",
+      "Result": 50900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100168",
+      "Result": 49900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05000027",
+      "Result": 39200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04990093",
+      "Result": 22800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000141",
+      "Result": 20800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04030091",
+      "Result": 19000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04030045",
+      "Result": 15900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000053",
+      "Result": 15100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000127",
+      "Result": 12300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "21000055",
+      "Result": -25100
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "21000015",
+      "Result": -25600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "06990014",
+      "Result": -30800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000175",
+      "Result": -51500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "17990009",
+      "Result": -51700
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "01000136",
+      "Result": -54000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990086",
+      "Result": -64200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000202",
+      "Result": -64500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "01000149",
+      "Result": -66200
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "21000068",
+      "Result": -77600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "17990003",
+      "Result": -84500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04030128",
+      "Result": -84500
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "01000066",
+      "Result": -87500
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "01000154",
+      "Result": -115100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "19000140",
+      "Result": -156200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05000056",
+      "Result": -166200
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "Mustafa",
+        "LastName": "GÜL",
+        "RepresentingNationality": "de"
+      },
+      "Result": -170800
+    }
+  ]
+}

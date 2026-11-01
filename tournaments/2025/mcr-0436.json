@@ -1,0 +1,186 @@
+{
+  "Name": "Warsaw MCR OPEN 2025",
+  "Country": "pl",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-10-18",
+  "ToDate": "2025-10-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sérgio",
+      "LastName": "MATOS LIMA"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090026",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 213
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000215",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 536
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000073",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 335
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04090055",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 471
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000071",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 158
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "12990014",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 380
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04090016",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 279
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000232",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 28
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000080",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 47
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000157",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 37
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000231",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -98
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04160080",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 179
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000168",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -64
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000233",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000256",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -140
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000141",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -319
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000195",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -453
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000234",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -547
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000093",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -449
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -687
+      }
+    }
+  ]
+}

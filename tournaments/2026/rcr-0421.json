@@ -1,0 +1,454 @@
+{
+  "Name": "15th UK Riichi Open 2026",
+  "Country": "gb",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-08-01",
+  "ToDate": "2026-08-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Oliver",
+      "LastName": "HÖLSCHER"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 84,
+  "NrCountries": 12,
+  "MersWeight": 4.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "11990113",
+      "Result": 175300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990105",
+      "Result": 155200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "11000085",
+      "Result": 136000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11000068",
+      "Result": 131700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990178",
+      "Result": 123600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05000043",
+      "Result": 112600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990123",
+      "Result": 99400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11000035",
+      "Result": 97400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11000058",
+      "Result": 93100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "11000044",
+      "Result": 84100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "05000042",
+      "Result": 79100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04230050",
+      "Result": 70900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "11990085",
+      "Result": 69100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "16000029",
+      "Result": 66500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "11000110",
+      "Result": 65500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "16000071",
+      "Result": 63800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11000130",
+      "Result": 61700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "11000053",
+      "Result": 60300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11000087",
+      "Result": 56800
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "AKIO",
+        "LastName": "FUJIMURA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 53800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990143",
+      "Result": 53700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11000141",
+      "Result": 52000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "11000128",
+      "Result": 49300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "03000140",
+      "Result": 45400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "05000041",
+      "Result": 44000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "11000118",
+      "Result": 43200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000060",
+      "Result": 40700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "11000043",
+      "Result": 37900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "11000090",
+      "Result": 36300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "11990133",
+      "Result": 29700
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "26000004",
+      "Result": 28000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "11990084",
+      "Result": 26100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "11990072",
+      "Result": 25800
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05000094",
+      "Result": 23800
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "11990140",
+      "Result": 22000
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11990004",
+      "Result": 14500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "02000042",
+      "Result": 13800
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "11000017",
+      "Result": 13800
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "11000142",
+      "Result": 12500
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "11000027",
+      "Result": 7000
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "11000059",
+      "Result": 6600
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "11000057",
+      "Result": 5100
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "11000089",
+      "Result": 2100
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "11000098",
+      "Result": 700
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "11000096",
+      "Result": -1400
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "11990057",
+      "Result": -4900
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "11000148",
+      "Result": -6400
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "11000061",
+      "Result": -8300
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "11000101",
+      "Result": -11600
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "JAMES",
+        "LastName": "WANG",
+        "RepresentingNationality": "us"
+      },
+      "Result": -15400
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "11000045",
+      "Result": -15800
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "11990137",
+      "Result": -23200
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "11000019",
+      "Result": -23300
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "11990044",
+      "Result": -23900
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "11000140",
+      "Result": -25400
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "11000149",
+      "Result": -26100
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "11000050",
+      "Result": -26400
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "03000208",
+      "Result": -30000
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "11990011",
+      "Result": -30100
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "11990006",
+      "Result": -35100
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "11000023",
+      "Result": -35300
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "11990141",
+      "Result": -35500
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "11000150",
+      "Result": -45300
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "11000131",
+      "Result": -47000
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "11000137",
+      "Result": -50500
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "11000031",
+      "Result": -58100
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "11990081",
+      "Result": -59600
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "11990010",
+      "Result": -62500
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "11000139",
+      "Result": -62900
+    },
+    {
+      "Placement": 70,
+      "EmaNumber": "11990022",
+      "Result": -69700
+    },
+    {
+      "Placement": 71,
+      "EmaNumber": "11000006",
+      "Result": -81100
+    },
+    {
+      "Placement": 72,
+      "Player": {
+        "FirstName": "MIRJAM",
+        "LastName": "KANTOR",
+        "RepresentingNationality": "hu"
+      },
+      "Result": -100700
+    },
+    {
+      "Placement": 73,
+      "EmaNumber": "11000046",
+      "Result": -101200
+    },
+    {
+      "Placement": 74,
+      "EmaNumber": "11990005",
+      "Result": -107400
+    },
+    {
+      "Placement": 75,
+      "EmaNumber": "11000151",
+      "Result": -110200
+    },
+    {
+      "Placement": 76,
+      "EmaNumber": "11000063",
+      "Result": -112700
+    },
+    {
+      "Placement": 77,
+      "EmaNumber": "11000028",
+      "Result": -121700
+    },
+    {
+      "Placement": 78,
+      "EmaNumber": "11000152",
+      "Result": -124100
+    },
+    {
+      "Placement": 79,
+      "EmaNumber": "09990110",
+      "Result": -127100
+    },
+    {
+      "Placement": 80,
+      "EmaNumber": "11000145",
+      "Result": -153100
+    },
+    {
+      "Placement": 81,
+      "EmaNumber": "11000099",
+      "Result": -159200
+    },
+    {
+      "Placement": 82,
+      "EmaNumber": "11000030",
+      "Result": -169400
+    },
+    {
+      "Placement": 83,
+      "EmaNumber": "11000020",
+      "Result": -173800
+    },
+    {
+      "Placement": 84,
+      "EmaNumber": "11000153",
+      "Result": -206900
+    }
+  ]
+}

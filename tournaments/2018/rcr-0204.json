@@ -1,0 +1,192 @@
+{
+  "Name": "YAKUZA CUP 2018",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-10-06",
+  "ToDate": "2018-10-07",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "20000008",
+      "Result": 117700
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "CYRIL",
+        "LastName": "BOICHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 105500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "21000037",
+      "Result": 89900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000015",
+      "Result": 79300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "BORIS",
+        "LastName": "MOROZ",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 66900
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "OLEFIRENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 64300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "BOGOMOLOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 54700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000041",
+      "Result": 47400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000053",
+      "Result": 32000
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "CHERNENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 23200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000038",
+      "Result": 3200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "KRYVEZHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -12800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "21000024",
+      "Result": -15900
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "DIACHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -30300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "STANISLAV",
+        "LastName": "EFIMENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -32100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "21000043",
+      "Result": -33000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "21000023",
+      "Result": -40200
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "RIEPIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -41500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000055",
+      "Result": -44800
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MAKSYM",
+        "LastName": "BUGAKOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -61900
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "OLEKSII",
+        "LastName": "LOGVINOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -85100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "POLINA",
+        "LastName": "BROMBERG",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -107800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "VIKTOR",
+        "LastName": "BAL",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -118800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "RUSLAN",
+        "LastName": "GORIUCHKIN",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -119900
+    }
+  ]
+}

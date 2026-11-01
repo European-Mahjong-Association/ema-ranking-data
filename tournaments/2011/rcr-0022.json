@@ -1,0 +1,524 @@
+{
+  "Name": "PARIS OPEN 2011 - FRENCH CHAMPIONSHIP",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-03-19",
+  "ToDate": "2011-03-20",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 64,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "DEDIKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 134500
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "POILLEUX",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 113700
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "TOM",
+        "LastName": "MUSTONEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 109900
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "KOZLOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 105800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010026",
+      "Result": 79200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010052",
+      "Result": 78200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010020",
+      "Result": 64800
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "KONSTANTIN",
+        "LastName": "ERMAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 63900
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 63700
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "PIERRE-CYRIL",
+        "LastName": "KUTUKDJIAN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 62100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010025",
+      "Result": 58700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000148",
+      "Result": 54700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 53800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010166",
+      "Result": 51200
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "GARANCE",
+        "LastName": "KUTUKDJIAN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 50900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 47600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "VALÉRIAN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 42800
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "MAURICE",
+        "LastName": "DEMMER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 42200
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "SÉBASTIEN",
+        "LastName": "BERRET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 41750
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ALFONSO",
+        "LastName": "MADRUGA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 41200
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "HUGO",
+        "LastName": "DUPIERRIS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 35800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04090026",
+      "Result": 34300
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "MATTHIEU",
+        "LastName": "GOUDEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 29400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "TANELI",
+        "LastName": "PURSIAINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 23600
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010022",
+      "Result": 19500
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "CÉCILE",
+        "LastName": "POILLEUX-LAUDY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 16000
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "VANNET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 9800
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "JULIE",
+        "LastName": "GACSER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 9500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "11990016",
+      "Result": 6600
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ALEXIS",
+        "LastName": "TURQUOIS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 6400
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 4000
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "ALICE",
+        "LastName": "CAREY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 3800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "11990011",
+      "Result": 2400
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 1500
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "AUVO",
+        "LastName": "KUUSELA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 1000
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "SAURAT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 900
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "ETIENNE",
+        "LastName": "CASTANIE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -2300
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -2500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010047",
+      "Result": -6900
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "GEOFFROY",
+        "LastName": "POUGNAUD",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -9000
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "BINAND",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -10200
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04040057",
+      "Result": -16800
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "ANNE-CLAIRE",
+        "LastName": "ASSENS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -22200
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010083",
+      "Result": -23600
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "LISA",
+        "LastName": "KRENZENBECK",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -39700
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "11990005",
+      "Result": -40600
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "AZIZ",
+        "LastName": "AZOUGAGH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -41100
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -48600
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04040102",
+      "Result": -48700
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "MOHAMED",
+        "LastName": "BENCHAA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -54600
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "KAI",
+        "LastName": "KALLIOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -57300
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "PIERRE",
+        "LastName": "JOSSE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -61200
+    },
+    {
+      "Placement": 53,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "THAOKY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -62600
+    },
+    {
+      "Placement": 54,
+      "Player": {
+        "FirstName": "JULES",
+        "LastName": "CLÉMENT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -65700
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "FRATTINI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -79100
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "NATHALIE",
+        "LastName": "MAHÉ",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -79300
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "04040105",
+      "Result": -81800
+    },
+    {
+      "Placement": 58,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -85500
+    },
+    {
+      "Placement": 59,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "POCHIC",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -90050
+    },
+    {
+      "Placement": 60,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "STALLAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -96200
+    },
+    {
+      "Placement": 61,
+      "Player": {
+        "FirstName": "EMERICK",
+        "LastName": "MOUNOURY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -101200
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "11990010",
+      "Result": -110800
+    },
+    {
+      "Placement": 63,
+      "Player": {
+        "FirstName": "MARJAN",
+        "LastName": "DEMMER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -113200
+    },
+    {
+      "Placement": 64,
+      "Player": {
+        "FirstName": "ISABELLE",
+        "LastName": "CHANE PANE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -114400
+    }
+  ]
+}

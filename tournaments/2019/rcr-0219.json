@@ -1,0 +1,109 @@
+{
+  "Name": "Riichi Copenhagen Open 2019",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-02-02",
+  "ToDate": "2019-02-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Petter",
+      "LastName": "Ranefall"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000022",
+      "Result": 162800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990049",
+      "Result": 92300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000003",
+      "Result": 82900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000126",
+      "Result": 78900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000156",
+      "Result": 70400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000051",
+      "Result": 9400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 7900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000228",
+      "Result": 2000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990044",
+      "Result": 300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000192",
+      "Result": -34900
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MIKKEL",
+        "LastName": "ASKJæR-FRIIS",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -41700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000149",
+      "Result": -44200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000208",
+      "Result": -63200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -65900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000176",
+      "Result": -89500
+    }
+  ]
+}

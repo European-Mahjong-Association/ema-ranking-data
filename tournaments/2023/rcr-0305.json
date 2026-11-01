@@ -1,0 +1,224 @@
+{
+  "Name": "YAMA RY MAHJONG TOURNAMENT 2023",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-08-19",
+  "ToDate": "2023-08-20",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990131",
+      "Result": 171100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990024",
+      "Result": 159300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100182",
+      "Result": 111900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "14990079",
+      "Result": 110900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990047",
+      "Result": 103900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990104",
+      "Result": 97800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990112",
+      "Result": 94000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990120",
+      "Result": 80900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000140",
+      "Result": 76200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990121",
+      "Result": 63100
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "PAULI",
+        "LastName": "HEMMI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 62200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990113",
+      "Result": 58100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990033",
+      "Result": 57100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000073",
+      "Result": 39600
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990029",
+      "Result": 24900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990004",
+      "Result": 17800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990115",
+      "Result": 13200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990132",
+      "Result": -3000
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "NIKOLAS",
+        "LastName": "KIILI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -11700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990020",
+      "Result": -14400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990043",
+      "Result": -18800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990044",
+      "Result": -25000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "05100153",
+      "Result": -35400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990111",
+      "Result": -38300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "06990035",
+      "Result": -38900
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990040",
+      "Result": -48800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000129",
+      "Result": -51800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990127",
+      "Result": -56200
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990054",
+      "Result": -56400
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "19000144",
+      "Result": -69900
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990133",
+      "Result": -77300
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990083",
+      "Result": -82600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990134",
+      "Result": -83400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "14990012",
+      "Result": -87600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "14990050",
+      "Result": -87800
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990057",
+      "Result": -89300
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "14990110",
+      "Result": -90900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "14990011",
+      "Result": -105500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "14990135",
+      "Result": -122900
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04160035",
+      "Result": -131300
+    }
+  ]
+}

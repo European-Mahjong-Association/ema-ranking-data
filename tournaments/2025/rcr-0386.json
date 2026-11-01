@@ -1,0 +1,302 @@
+{
+  "Name": "Riichi Danish Championship 2025",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-09-27",
+  "ToDate": "2025-09-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Klaudia",
+      "LastName": "LENSU"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 14,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000208",
+      "Result": 136900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990072",
+      "Result": 133200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "DUSTIN",
+        "LastName": "FRIES",
+        "RepresentingNationality": "us"
+      },
+      "Result": 107500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000192",
+      "Result": 99300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000126",
+      "Result": 99100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000140",
+      "Result": 87200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000149",
+      "Result": 80700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05000008",
+      "Result": 75200
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000022",
+      "Result": 72100
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990183",
+      "Result": 62500
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "GLENN",
+        "LastName": "MORTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 56500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000139",
+      "Result": 52300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000277",
+      "Result": 52100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990024",
+      "Result": 50100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990103",
+      "Result": 48800
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000176",
+      "Result": 45900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11000065",
+      "Result": 45200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990110",
+      "Result": 44100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000255",
+      "Result": 41500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "03000252",
+      "Result": 40000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05000071",
+      "Result": 13600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990176",
+      "Result": 10100
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "DANNY",
+        "LastName": "S",
+        "RepresentingNationality": "se"
+      },
+      "Result": 9400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990190",
+      "Result": 6300
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000212",
+      "Result": 5200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "03000051",
+      "Result": 900
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990205",
+      "Result": -400
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "07000207",
+      "Result": -7100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990117",
+      "Result": -13800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990135",
+      "Result": -16300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990079",
+      "Result": -16900
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990133",
+      "Result": -20700
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "09990134",
+      "Result": -22600
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "11990113",
+      "Result": -23600
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "17990007",
+      "Result": -30200
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "01000147",
+      "Result": -31500
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "03000156",
+      "Result": -31900
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "19000237",
+      "Result": -40200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "24000005",
+      "Result": -47700
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "11000129",
+      "Result": -48100
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "08010021",
+      "Result": -55900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "09990146",
+      "Result": -59200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "05000060",
+      "Result": -60400
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "TED",
+        "LastName": "Y",
+        "RepresentingNationality": "se"
+      },
+      "Result": -65700
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "19000218",
+      "Result": -77100
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "03000279",
+      "Result": -107300
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "16000040",
+      "Result": -109500
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "14990134",
+      "Result": -114600
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "19000266",
+      "Result": -118000
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "19000225",
+      "Result": -126300
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "KASPER",
+        "LastName": "PEDERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -150800
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "08010777",
+      "Result": -199900
+    }
+  ]
+}

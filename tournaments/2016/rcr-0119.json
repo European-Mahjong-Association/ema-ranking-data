@@ -1,0 +1,142 @@
+{
+  "Name": "Riichi Copenhagen Open 2016",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-01-16",
+  "ToDate": "2016-01-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Annika",
+      "LastName": "Ridell"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000022",
+      "Result": 142100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11990006",
+      "Result": 140600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000051",
+      "Result": 134900
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 122500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04040057",
+      "Result": 112100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 111000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000149",
+      "Result": 47900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000208",
+      "Result": 19500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000049",
+      "Result": -1000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000118",
+      "Result": -5700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000192",
+      "Result": -27300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000126",
+      "Result": -35700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100153",
+      "Result": -44100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990045",
+      "Result": -49400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -71000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "03000156",
+      "Result": -73900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000003",
+      "Result": -85600
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -88400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000148",
+      "Result": -167500
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -181000
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "Name": "MARSEILLE OPEN 2017 - FRENCH CHAMPIONSHIP",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-06-17",
+  "ToDate": "2017-06-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Nicole",
+      "LastName": "Haasbroek"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 10,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04160084",
+      "Result": 127300
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 48200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MATHIEU",
+        "LastName": "CHAMBE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 27700
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MARTIJN",
+        "LastName": "KLAAR",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 14700
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 75100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04240014",
+      "Result": 74900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160080",
+      "Result": 67100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "12990014",
+      "Result": 63900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04320005",
+      "Result": 45900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04290001",
+      "Result": 33200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04160035",
+      "Result": 27100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11990057",
+      "Result": 25100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04320013",
+      "Result": 25000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990024",
+      "Result": 8300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "CHRISTOPHER",
+        "LastName": "ROWE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 6000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "26000003",
+      "Result": -900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "11990006",
+      "Result": -5400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04160088",
+      "Result": -6200
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04320004",
+      "Result": -10200
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -14700
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "SVEN-HENDRIK",
+        "LastName": "GUTSCHE",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -34800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "16000008",
+      "Result": -40400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04320014",
+      "Result": -50400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04040105",
+      "Result": -66200
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -66500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04320006",
+      "Result": -70100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "11990060",
+      "Result": -76900
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ZENGHUA",
+        "LastName": "HUANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -83300
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "HEINRICH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -104300
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160015",
+      "Result": -107900
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "ALEXIS",
+        "LastName": "GOUET",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -127500
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "ROMAIN",
+        "LastName": "DONSEY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -132200
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "Name": "Riichi Copenhagen Open 2008",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2008-10-04",
+  "ToDate": "2008-10-04",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 12,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000118",
+      "Result": 168900
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 146100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000022",
+      "Result": 65500
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "LENA",
+        "LastName": "SMITH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 24300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000003",
+      "Result": 10300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000049",
+      "Result": 1400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -13900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -21800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000005",
+      "Result": -43600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000126",
+      "Result": -91100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000148",
+      "Result": -118700
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "OLSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -127400
+    }
+  ]
+}

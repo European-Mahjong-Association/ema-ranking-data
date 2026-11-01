@@ -1,0 +1,128 @@
+{
+  "Name": "AUSTRIAN OPEN RIICHI TOURNAMENT 2015",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-03-21",
+  "ToDate": "2015-03-22",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000013",
+      "Result": 207200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "17990008",
+      "Result": 200400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "17990004",
+      "Result": 180200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990009",
+      "Result": 97700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "17990003",
+      "Result": 74500
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 38500
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 37600
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ANDREA",
+        "LastName": "BRUNNSTEINER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 7600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040048",
+      "Result": 7100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -16700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "17990007",
+      "Result": -23100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000113",
+      "Result": -61400
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "DOMINIK",
+        "LastName": "SCHEIRING VOGEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -101000
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -168200
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MICHELL",
+        "LastName": "MAIER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -203900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "WILHELM",
+        "LastName": "MESSNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -286500
+    }
+  ]
+}

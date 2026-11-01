@@ -1,0 +1,322 @@
+{
+  "Name": "ORANDA SAI KOU 2018",
+  "Country": "nl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-08-18",
+  "ToDate": "2018-08-18",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jos",
+      "LastName": "Dermout"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 52,
+  "NrCountries": 5,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010585",
+      "Result": 110500
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "REYLLY",
+        "LastName": "BRANDS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 102700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "08010412",
+      "Result": 92100
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010166",
+      "Result": 85800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010663",
+      "Result": 84400
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "DICKY",
+        "LastName": "REP",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 80000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010727",
+      "Result": 69000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010021",
+      "Result": 66500
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010173",
+      "Result": 62700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010411",
+      "Result": 57900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010730",
+      "Result": 53900
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 52700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010728",
+      "Result": 52100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010168",
+      "Result": 48500
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "JONAS",
+        "LastName": "FRINGS",
+        "RepresentingNationality": "de"
+      },
+      "Result": 44600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010025",
+      "Result": 42100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010580",
+      "Result": 41100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010039",
+      "Result": 33400
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "NICO",
+        "LastName": "COEVOETS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 30200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010020",
+      "Result": 28400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "02010043",
+      "Result": 23800
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "ANGELIQUE",
+        "LastName": "DELFSMA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 11400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010505",
+      "Result": 3100
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04300022",
+      "Result": 1900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010022",
+      "Result": -3400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "08010376",
+      "Result": -3600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010003",
+      "Result": -12800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "08010725",
+      "Result": -14000
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "05100166",
+      "Result": -22700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02010038",
+      "Result": -23000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010187",
+      "Result": -23100
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MATTHEU",
+        "LastName": "OORSOUW, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -30700
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "08010584",
+      "Result": -31000
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "25000001",
+      "Result": -33400
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "JOHN",
+        "LastName": "KUIJPERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -33700
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "08010486",
+      "Result": -35200
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "08010487",
+      "Result": -40700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "08010026",
+      "Result": -42800
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010028",
+      "Result": -42900
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010047",
+      "Result": -45800
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "08010295",
+      "Result": -48200
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "08010526",
+      "Result": -48600
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010171",
+      "Result": -49700
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "COR",
+        "LastName": "HOOGLAND",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -60200
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010052",
+      "Result": -65000
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010036",
+      "Result": -65600
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "08010415",
+      "Result": -70900
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "08010162",
+      "Result": -74900
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "25000002",
+      "Result": -77800
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -82100
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "05100170",
+      "Result": -103500
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "08010271",
+      "Result": -133500
+    }
+  ]
+}

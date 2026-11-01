@@ -1,0 +1,166 @@
+{
+  "Name": "MCR Copenhagen Open 2018",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-03-11",
+  "ToDate": "2018-03-11",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jasper",
+      "LastName": "GERMEYS"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 402
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 449
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 254
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 150
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MIKKEL",
+        "LastName": "ASKJæR-FRIIS",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 68
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000192",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 26
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -98
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 58
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000169",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000215",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -24
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -177
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -126
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -275
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -326
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990047",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -544
+      }
+    }
+  ]
+}

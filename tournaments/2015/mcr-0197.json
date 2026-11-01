@@ -1,0 +1,334 @@
+{
+  "Name": "Swedish MCR Championship 2015",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-03-14",
+  "ToDate": "2015-03-15",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jesper",
+      "LastName": "NØHR"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000176",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 507
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 832
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000192",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 552
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 704
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 383
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "MARIE",
+        "LastName": "NORÉN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 330
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MALIN",
+        "LastName": "FERMSTAD",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 237
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 358
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 278
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "LUC",
+        "LastName": "HUMBERT",
+        "RepresentingNationality": "ch"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 49
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 478
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 152
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "SONJA",
+        "LastName": "KARLSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 155
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "ERIK",
+        "LastName": "LEIJONMARCK",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 1
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -44
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "KAI",
+        "LastName": "NILSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -143
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -113
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "KARIN",
+        "LastName": "ANDERSON",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 140
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990062",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 107
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "16000011",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -12
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 16
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990011",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -22
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990088",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -321
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990090",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -238
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "EMMA",
+        "LastName": "VALLÉE",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -383
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "LISA",
+        "LastName": "GREN",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -386
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990006",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -237
+      }
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "RICHARD",
+        "LastName": "BRORSSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -332
+      }
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "LILLIEBORG",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -494
+      }
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "MIKAEL",
+        "LastName": "HJORT",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -645
+      }
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "OLA",
+        "LastName": "JENTZSCH",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -654
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "FREDRIK",
+        "LastName": "PETTERSON",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -1265
+      }
+    }
+  ]
+}

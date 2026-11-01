@@ -1,0 +1,388 @@
+{
+  "Name": "MANGANNEKEN PIS 2023",
+  "Country": "be",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-09-16",
+  "ToDate": "2023-09-17",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 72,
+  "NrCountries": 14,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100166",
+      "Result": 177500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "02010054",
+      "Result": 151100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05000018",
+      "Result": 125300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010750",
+      "Result": 124400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "24000003",
+      "Result": 107300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11990005",
+      "Result": 97000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "02010089",
+      "Result": 90100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04310012",
+      "Result": 85800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "02010086",
+      "Result": 71000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "02010039",
+      "Result": 67400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "11000010",
+      "Result": 64100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000053",
+      "Result": 62200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000102",
+      "Result": 57500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160071",
+      "Result": 54500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04160110",
+      "Result": 47500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010085",
+      "Result": 44300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04990103",
+      "Result": 42800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04160088",
+      "Result": 41100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02010058",
+      "Result": 40300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010737",
+      "Result": 40000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "21000068",
+      "Result": 31100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "12990014",
+      "Result": 29700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04320013",
+      "Result": 29500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04160092",
+      "Result": 21500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04040105",
+      "Result": 21000
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010074",
+      "Result": 20300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "17990004",
+      "Result": 18200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "19000003",
+      "Result": 16800
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "GUILLAUME",
+        "LastName": null,
+        "RepresentingNationality": "be"
+      },
+      "Result": 16700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160103",
+      "Result": 14800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010082",
+      "Result": 12800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "02000001",
+      "Result": 5800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "02010052",
+      "Result": 3200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "02010033",
+      "Result": 1100
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02010038",
+      "Result": -700
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "02010069",
+      "Result": -1100
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "19000080",
+      "Result": -1700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "25000002",
+      "Result": -2000
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04530002",
+      "Result": -3400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "04160035",
+      "Result": -7300
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "02010079",
+      "Result": -8200
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "04210023",
+      "Result": -8300
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "25000001",
+      "Result": -9400
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "19000071",
+      "Result": -11700
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "04160108",
+      "Result": -13900
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010081",
+      "Result": -17800
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "02010056",
+      "Result": -17900
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "02010073",
+      "Result": -23800
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "04160112",
+      "Result": -29400
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "10990082",
+      "Result": -34000
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "ZHI-WEI",
+        "LastName": "LU",
+        "RepresentingNationality": "be"
+      },
+      "Result": -39800
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "11000011",
+      "Result": -40900
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "21000005",
+      "Result": -44600
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "04160114",
+      "Result": -48800
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "05100182",
+      "Result": -49200
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "02010057",
+      "Result": -50400
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "02010036",
+      "Result": -51200
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "25000005",
+      "Result": -55200
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "02010084",
+      "Result": -57600
+    },
+    {
+      "Placement": 60,
+      "Player": {
+        "FirstName": "YAOBIN",
+        "LastName": "SHEN",
+        "RepresentingNationality": "be"
+      },
+      "Result": -61200
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "04160080",
+      "Result": -64500
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "04160081",
+      "Result": -74100
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "07000023",
+      "Result": -79800
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "02010088",
+      "Result": -83800
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "02010062",
+      "Result": -94700
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "11990004",
+      "Result": -94900
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "04530001",
+      "Result": -124000
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "17990008",
+      "Result": -132900
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "02010080",
+      "Result": -141500
+    },
+    {
+      "Placement": 70,
+      "EmaNumber": "05100181",
+      "Result": -150000
+    },
+    {
+      "Placement": 71,
+      "EmaNumber": "02000005",
+      "Result": -176700
+    },
+    {
+      "Placement": 72,
+      "EmaNumber": "02010061",
+      "Result": -203300
+    }
+  ]
+}

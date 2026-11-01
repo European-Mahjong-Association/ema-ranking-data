@@ -1,0 +1,2104 @@
+{
+  "Name": "World MCR Championship 2012 (3rd)",
+  "Country": "cn",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-10-28",
+  "ToDate": "2012-10-30",
+  "DateDescription": null,
+  "NrDays": 3,
+  "NrPlayers": 188,
+  "NrCountries": 13,
+  "MersWeight": 0.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "DUAN YANBIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 33.0,
+        "ContestPoints": 1570
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ZHANG ZHANGFEI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 30.0,
+        "ContestPoints": 732
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "LI CHANGJIAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 29.0,
+        "ContestPoints": 943
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ZHANG MING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 29.0,
+        "ContestPoints": 897
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "HUANG YIXUN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 28.0,
+        "ContestPoints": 760
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "REN YILIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 27.0,
+        "ContestPoints": 980
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "KIMITO KUGIMIYA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 27.0,
+        "ContestPoints": 835
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ZHANG FENGYING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 902
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04050022",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 556
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ZHANG BINGCHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 536
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "TIAN WEI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 529
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010158",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 508
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "TU SHAOBO",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 334
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000028",
+      "Result": {
+        "TablePoints": 26.0,
+        "ContestPoints": 577
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "XU YUBIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 843
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "YANG SHUNRONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 504
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 473
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010022",
+      "Result": {
+        "TablePoints": 25.0,
+        "ContestPoints": 399
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "EK KIAN",
+        "LastName": "PHUA",
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 790
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "CHN CHONGQING",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 770
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 729
+      }
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "CHN CHONGQING",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 510
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "MO AI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 509
+      }
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PENG FEI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 443
+      }
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "KATSUYUKI ONODERA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 438
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "LI HONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 292
+      }
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 24.0,
+        "ContestPoints": 177
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 698
+      }
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "SHI LIUQING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 485
+      }
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "ZHOU GUIJUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 443
+      }
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "XIAO DEZHAO",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 380
+      }
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "HOFFMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 370
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04990024",
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 368
+      }
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "YOSHIMOTO SHINGO",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 23.0,
+        "ContestPoints": 147
+      }
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "WU JIANCHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 1034
+      }
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "LIU YUNMIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 752
+      }
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "LIANG JIANGHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 458
+      }
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04030005",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 416
+      }
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "WANG CHUANYU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 358
+      }
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "SU YUHAI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 246
+      }
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "LI SHENGYUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 237
+      }
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "WU YUNMEI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 234
+      }
+    },
+    {
+      "Placement": 43,
+      "Player": {
+        "FirstName": "TAMAKOSHI KENZO",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 140
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 139
+      }
+    },
+    {
+      "Placement": 45,
+      "Player": {
+        "FirstName": "PANG SHUSHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 22.0,
+        "ContestPoints": 87
+      }
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 675
+      }
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "03000140",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 526
+      }
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "YAN WENYING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 500
+      }
+    },
+    {
+      "Placement": 49,
+      "Player": {
+        "FirstName": "ZHOU HONGWU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 482
+      }
+    },
+    {
+      "Placement": 50,
+      "Player": {
+        "FirstName": "HU ZHIWEI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 331
+      }
+    },
+    {
+      "Placement": 51,
+      "Player": {
+        "FirstName": "ZHU PINFANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 275
+      }
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 260
+      }
+    },
+    {
+      "Placement": 53,
+      "Player": {
+        "FirstName": "MIYAGAWA KYOKO",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 240
+      }
+    },
+    {
+      "Placement": 54,
+      "Player": {
+        "FirstName": "ASAWA NAOTAKA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 142
+      }
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "TIAN YING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 20
+      }
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "KOJIMA NAOTAKA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 100
+      }
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "08010021",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 564
+      }
+    },
+    {
+      "Placement": 58,
+      "Player": {
+        "FirstName": "TENG HONGLI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 514
+      }
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "07000018",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 426
+      }
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 293
+      }
+    },
+    {
+      "Placement": 61,
+      "Player": {
+        "FirstName": "WU XUYING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 292
+      }
+    },
+    {
+      "Placement": 62,
+      "Player": {
+        "FirstName": "CUI LIANZHEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 280
+      }
+    },
+    {
+      "Placement": 63,
+      "Player": {
+        "FirstName": "ZHAO CHENGHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 161
+      }
+    },
+    {
+      "Placement": 64,
+      "Player": {
+        "FirstName": "DUAN TINGXIU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 148
+      }
+    },
+    {
+      "Placement": 65,
+      "Player": {
+        "FirstName": "NATALYA",
+        "LastName": "CHICHIGINA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 135
+      }
+    },
+    {
+      "Placement": 66,
+      "Player": {
+        "FirstName": "LU WENDUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 117
+      }
+    },
+    {
+      "Placement": 67,
+      "Player": {
+        "FirstName": "GUAN SHUJUN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 15
+      }
+    },
+    {
+      "Placement": 68,
+      "Player": {
+        "FirstName": "WANG GUIZHEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": -137
+      }
+    },
+    {
+      "Placement": 69,
+      "Player": {
+        "FirstName": "DONG ANFEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": -163
+      }
+    },
+    {
+      "Placement": 70,
+      "Player": {
+        "FirstName": "YUKARI KUGIMIYA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 20.0,
+        "ContestPoints": 0
+      }
+    },
+    {
+      "Placement": 71,
+      "Player": {
+        "FirstName": "LI RONGGUANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 584
+      }
+    },
+    {
+      "Placement": 72,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 283
+      }
+    },
+    {
+      "Placement": 73,
+      "Player": {
+        "FirstName": "JIANG FENGQUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 201
+      }
+    },
+    {
+      "Placement": 74,
+      "Player": {
+        "FirstName": "LV FENGXIAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 200
+      }
+    },
+    {
+      "Placement": 75,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "ANOKHIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 139
+      }
+    },
+    {
+      "Placement": 76,
+      "Player": {
+        "FirstName": "HUANG DANXI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 76
+      }
+    },
+    {
+      "Placement": 77,
+      "EmaNumber": "04010016",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 70
+      }
+    },
+    {
+      "Placement": 78,
+      "Player": {
+        "FirstName": "JIN YAODONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 57
+      }
+    },
+    {
+      "Placement": 79,
+      "EmaNumber": "08010109",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 31
+      }
+    },
+    {
+      "Placement": 80,
+      "Player": {
+        "FirstName": "ALESSIA",
+        "LastName": "COSMO",
+        "RepresentingNationality": "it"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 81,
+      "Player": {
+        "FirstName": "KAU FU LEE",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -60
+      }
+    },
+    {
+      "Placement": 82,
+      "EmaNumber": "04030022",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -61
+      }
+    },
+    {
+      "Placement": 83,
+      "Player": {
+        "FirstName": "LIU DUANXIANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -72
+      }
+    },
+    {
+      "Placement": 84,
+      "Player": {
+        "FirstName": "ZHANG CHUNMAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": -185
+      }
+    },
+    {
+      "Placement": 85,
+      "Player": {
+        "FirstName": "LIANG YUELAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 281
+      }
+    },
+    {
+      "Placement": 86,
+      "Player": {
+        "FirstName": "HAN SHENGCAI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 233
+      }
+    },
+    {
+      "Placement": 87,
+      "Player": {
+        "FirstName": "KEE CHUNG LOW",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 197
+      }
+    },
+    {
+      "Placement": 88,
+      "Player": {
+        "FirstName": "HU FENGCHAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 81
+      }
+    },
+    {
+      "Placement": 89,
+      "Player": {
+        "FirstName": "PANG GUILIANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 75
+      }
+    },
+    {
+      "Placement": 90,
+      "Player": {
+        "FirstName": "LIAO ZUSHOU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 66
+      }
+    },
+    {
+      "Placement": 91,
+      "Player": {
+        "FirstName": "LI FU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 53
+      }
+    },
+    {
+      "Placement": 92,
+      "Player": {
+        "FirstName": "WAKABAYASHI NOBORU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 45
+      }
+    },
+    {
+      "Placement": 93,
+      "Player": {
+        "FirstName": "LI JUNMIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 36
+      }
+    },
+    {
+      "Placement": 94,
+      "EmaNumber": "07000024",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": -97
+      }
+    },
+    {
+      "Placement": 95,
+      "Player": {
+        "FirstName": "WANG YONGQIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": -122
+      }
+    },
+    {
+      "Placement": 96,
+      "Player": {
+        "FirstName": "LI FUKUN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": -422
+      }
+    },
+    {
+      "Placement": 97,
+      "Player": {
+        "FirstName": "LI NING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 413
+      }
+    },
+    {
+      "Placement": 98,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 250
+      }
+    },
+    {
+      "Placement": 99,
+      "EmaNumber": "07000008",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 198
+      }
+    },
+    {
+      "Placement": 100,
+      "Player": {
+        "FirstName": "LU YUNZHONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 152
+      }
+    },
+    {
+      "Placement": 101,
+      "Player": {
+        "FirstName": "RUI QUANBAO",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 124
+      }
+    },
+    {
+      "Placement": 102,
+      "Player": {
+        "FirstName": "MA XUEZHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 44
+      }
+    },
+    {
+      "Placement": 103,
+      "EmaNumber": "04010015",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 2
+      }
+    },
+    {
+      "Placement": 104,
+      "EmaNumber": "01000070",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -35
+      }
+    },
+    {
+      "Placement": 105,
+      "Player": {
+        "FirstName": "SU GAOGANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -69
+      }
+    },
+    {
+      "Placement": 106,
+      "Player": {
+        "FirstName": "WASHIRO YUJI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -177
+      }
+    },
+    {
+      "Placement": 107,
+      "Player": {
+        "FirstName": "SEOW ENG TAY",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -219
+      }
+    },
+    {
+      "Placement": 108,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -234
+      }
+    },
+    {
+      "Placement": 109,
+      "Player": {
+        "FirstName": "TSUKANO MASAKO",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": -331
+      }
+    },
+    {
+      "Placement": 110,
+      "Player": {
+        "FirstName": "NIE CHONGJIU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 182
+      }
+    },
+    {
+      "Placement": 111,
+      "Player": {
+        "FirstName": "WU SHOUYU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 303
+      }
+    },
+    {
+      "Placement": 112,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 249
+      }
+    },
+    {
+      "Placement": 113,
+      "Player": {
+        "FirstName": "YU HUITING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -29
+      }
+    },
+    {
+      "Placement": 114,
+      "Player": {
+        "FirstName": "LI JUN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -39
+      }
+    },
+    {
+      "Placement": 115,
+      "Player": {
+        "FirstName": "JIAO LINGHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -41
+      }
+    },
+    {
+      "Placement": 116,
+      "Player": {
+        "FirstName": "LI SHENYUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -116
+      }
+    },
+    {
+      "Placement": 117,
+      "Player": {
+        "FirstName": "ZHANG DEMIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -189
+      }
+    },
+    {
+      "Placement": 118,
+      "Player": {
+        "FirstName": "ZHU BAIJIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -199
+      }
+    },
+    {
+      "Placement": 119,
+      "Player": {
+        "FirstName": "HU YICHEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -207
+      }
+    },
+    {
+      "Placement": 120,
+      "Player": {
+        "FirstName": "XENIA",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -230
+      }
+    },
+    {
+      "Placement": 121,
+      "Player": {
+        "FirstName": "TATYANA",
+        "LastName": "GOPTAREVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": -251
+      }
+    },
+    {
+      "Placement": 122,
+      "Player": {
+        "FirstName": "ZHANG XIAOLI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 265
+      }
+    },
+    {
+      "Placement": 123,
+      "Player": {
+        "FirstName": "SU CHEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 91
+      }
+    },
+    {
+      "Placement": 124,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 71
+      }
+    },
+    {
+      "Placement": 125,
+      "Player": {
+        "FirstName": "FENG CHENZHANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 43
+      }
+    },
+    {
+      "Placement": 126,
+      "Player": {
+        "FirstName": "LI SHAOCAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 15
+      }
+    },
+    {
+      "Placement": 127,
+      "EmaNumber": "24888002",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -76
+      }
+    },
+    {
+      "Placement": 128,
+      "Player": {
+        "FirstName": "MONICA",
+        "LastName": "JENJAHN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -141
+      }
+    },
+    {
+      "Placement": 129,
+      "Player": {
+        "FirstName": "MING CHAO",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -167
+      }
+    },
+    {
+      "Placement": 130,
+      "Player": {
+        "FirstName": "PU ZHENGYUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -369
+      }
+    },
+    {
+      "Placement": 131,
+      "Player": {
+        "FirstName": "ERNEST",
+        "LastName": "GLASER",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -377
+      }
+    },
+    {
+      "Placement": 132,
+      "Player": {
+        "FirstName": "ZHAO TIANRONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -391
+      }
+    },
+    {
+      "Placement": 133,
+      "EmaNumber": "04080004",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -405
+      }
+    },
+    {
+      "Placement": 134,
+      "EmaNumber": "04030004",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": -411
+      }
+    },
+    {
+      "Placement": 135,
+      "Player": {
+        "FirstName": "JI BINGJIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -291
+      }
+    },
+    {
+      "Placement": 136,
+      "Player": {
+        "FirstName": "AXEL",
+        "LastName": "ESCHENBURG",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -125
+      }
+    },
+    {
+      "Placement": 137,
+      "Player": {
+        "FirstName": "CHEN ZAOFENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 138,
+      "Player": {
+        "FirstName": "ZHANG TAOYE",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -173
+      }
+    },
+    {
+      "Placement": 139,
+      "Player": {
+        "FirstName": "CAO LIHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -176
+      }
+    },
+    {
+      "Placement": 140,
+      "Player": {
+        "FirstName": "SHEN YANGSHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -278
+      }
+    },
+    {
+      "Placement": 141,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -344
+      }
+    },
+    {
+      "Placement": 142,
+      "Player": {
+        "FirstName": "OIKE MIDORI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -472
+      }
+    },
+    {
+      "Placement": 143,
+      "Player": {
+        "FirstName": "NICCOLO",
+        "LastName": "POULSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -500
+      }
+    },
+    {
+      "Placement": 144,
+      "Player": {
+        "FirstName": "WEN ZHENGXIANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -588
+      }
+    },
+    {
+      "Placement": 145,
+      "Player": {
+        "FirstName": "DI BAOGUI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": -673
+      }
+    },
+    {
+      "Placement": 146,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -180
+      }
+    },
+    {
+      "Placement": 147,
+      "Player": {
+        "FirstName": "NORBERT",
+        "LastName": "LUCKHARDT",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -232
+      }
+    },
+    {
+      "Placement": 148,
+      "EmaNumber": "08010121",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -246
+      }
+    },
+    {
+      "Placement": 149,
+      "Player": {
+        "FirstName": "YONG SING OH",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -321
+      }
+    },
+    {
+      "Placement": 150,
+      "Player": {
+        "FirstName": "SAITO NORIKO",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -348
+      }
+    },
+    {
+      "Placement": 151,
+      "Player": {
+        "FirstName": "YAO JIEMIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -350
+      }
+    },
+    {
+      "Placement": 152,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -557
+      }
+    },
+    {
+      "Placement": 153,
+      "Player": {
+        "FirstName": "LU GUIHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -370
+      }
+    },
+    {
+      "Placement": 154,
+      "Player": {
+        "FirstName": "JIA SUQIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 54
+      }
+    },
+    {
+      "Placement": 155,
+      "Player": {
+        "FirstName": "WEN ZHICAI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -207
+      }
+    },
+    {
+      "Placement": 156,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -233
+      }
+    },
+    {
+      "Placement": 157,
+      "EmaNumber": "04080002",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -244
+      }
+    },
+    {
+      "Placement": 158,
+      "Player": {
+        "FirstName": "LIN SHAOMIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -296
+      }
+    },
+    {
+      "Placement": 159,
+      "Player": {
+        "FirstName": "SUZUKI TETSUEI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -406
+      }
+    },
+    {
+      "Placement": 160,
+      "EmaNumber": "04010039",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -426
+      }
+    },
+    {
+      "Placement": 161,
+      "Player": {
+        "FirstName": "JIANG YANMI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -523
+      }
+    },
+    {
+      "Placement": 162,
+      "Player": {
+        "FirstName": "HE DUAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -247
+      }
+    },
+    {
+      "Placement": 163,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -369
+      }
+    },
+    {
+      "Placement": 164,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "CHICHIGIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -473
+      }
+    },
+    {
+      "Placement": 165,
+      "EmaNumber": "04030006",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -503
+      }
+    },
+    {
+      "Placement": 166,
+      "Player": {
+        "FirstName": "YANG LI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -528
+      }
+    },
+    {
+      "Placement": 167,
+      "Player": {
+        "FirstName": "ZHONG SHU",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -762
+      }
+    },
+    {
+      "Placement": 168,
+      "Player": {
+        "FirstName": "CHEN YUYING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -563
+      }
+    },
+    {
+      "Placement": 169,
+      "Player": {
+        "FirstName": "LIU JIANHUA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -448
+      }
+    },
+    {
+      "Placement": 170,
+      "Player": {
+        "FirstName": "WATANABE TAKARA",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -479
+      }
+    },
+    {
+      "Placement": 171,
+      "EmaNumber": "04040026",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -519
+      }
+    },
+    {
+      "Placement": 172,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -964
+      }
+    },
+    {
+      "Placement": 173,
+      "Player": {
+        "FirstName": "BI YALI",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -831
+      }
+    },
+    {
+      "Placement": 174,
+      "EmaNumber": "04030001",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -572
+      }
+    },
+    {
+      "Placement": 175,
+      "Player": {
+        "FirstName": "WU YANXIA",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -607
+      }
+    },
+    {
+      "Placement": 176,
+      "Player": {
+        "FirstName": "CHYE KWEE TEE",
+        "LastName": null,
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -847
+      }
+    },
+    {
+      "Placement": 177,
+      "EmaNumber": "07000109",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -1347
+      }
+    },
+    {
+      "Placement": 178,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -952
+      }
+    },
+    {
+      "Placement": 179,
+      "Player": {
+        "FirstName": "SHIRAISH TAKUJI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -854
+      }
+    },
+    {
+      "Placement": 180,
+      "Player": {
+        "FirstName": "HOU BIN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -935
+      }
+    },
+    {
+      "Placement": 181,
+      "Player": {
+        "FirstName": "ZENG XIAOMING",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -960
+      }
+    },
+    {
+      "Placement": 182,
+      "Player": {
+        "FirstName": "TAN LIHONG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -1028
+      }
+    },
+    {
+      "Placement": 183,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -688
+      }
+    },
+    {
+      "Placement": 184,
+      "Player": {
+        "FirstName": "DAN",
+        "LastName": "GLIMNE",
+        "RepresentingNationality": "se"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -981
+      }
+    },
+    {
+      "Placement": 185,
+      "Player": {
+        "FirstName": "GALINA",
+        "LastName": "BELIAKOVA",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -1034
+      }
+    },
+    {
+      "Placement": 186,
+      "Player": {
+        "FirstName": "TAN HONGGANG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -1209
+      }
+    },
+    {
+      "Placement": 187,
+      "Player": {
+        "FirstName": "CAI QINGWEN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -1485
+      }
+    },
+    {
+      "Placement": 188,
+      "Player": {
+        "FirstName": "KONG FANQIAN",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -1484
+      }
+    }
+  ]
+}

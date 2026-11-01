@@ -1,0 +1,150 @@
+{
+  "Name": "DOPPELTURNIER 2016 - RIICHI OPEN",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-10-29",
+  "ToDate": "2016-10-29",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Gerda",
+      "LastName": "van Oorschot"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "SIMON",
+        "LastName": "NAARMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 140700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010411",
+      "Result": 109300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100033",
+      "Result": 106600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100151",
+      "Result": 77600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": 60500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05100153",
+      "Result": 46400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 38900
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "BERTOLT",
+        "LastName": "HUYNH",
+        "RepresentingNationality": "de"
+      },
+      "Result": 29300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010020",
+      "Result": 24000
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 18500
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010412",
+      "Result": -25100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100124",
+      "Result": -35000
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010003",
+      "Result": -35300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000073",
+      "Result": -47500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100058",
+      "Result": -60700
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010028",
+      "Result": -78500
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DICKY",
+        "LastName": "REP",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -88000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05900008",
+      "Result": -92300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010526",
+      "Result": -92400
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARTIJN",
+        "LastName": "KLAAR",
+        "RepresentingNationality": "nl"
+      },
+      "Result": -97000
+    }
+  ]
+}

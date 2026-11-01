@@ -1,0 +1,378 @@
+{
+  "Name": "KRAKOW MERS OPEN 2022",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-10-08",
+  "ToDate": "2022-10-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Linxuan",
+      "LastName": "He"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 60,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000006",
+      "Result": 128400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "11000042",
+      "Result": 117500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "19000067",
+      "Result": 117400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "16000029",
+      "Result": 115700
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "EGOR",
+        "LastName": "EGOROV",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 101400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000102",
+      "Result": 91400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990138",
+      "Result": 89400
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "TOMASZEWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 85300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000087",
+      "Result": 84200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000136",
+      "Result": 80700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990072",
+      "Result": 75800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04160092",
+      "Result": 74800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 62900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000140",
+      "Result": 46700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000091",
+      "Result": 42900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000170",
+      "Result": 39600
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "12990014",
+      "Result": 37400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000055",
+      "Result": 34800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000042",
+      "Result": 34100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000085",
+      "Result": 32600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MICHAŁ",
+        "LastName": "HERDA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 29700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000141",
+      "Result": 28000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000139",
+      "Result": 24500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04160080",
+      "Result": 21400
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "JANUSZ",
+        "LastName": "KUREK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 16300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "20000019",
+      "Result": 15100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000003",
+      "Result": 5100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04160103",
+      "Result": 1100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04040048",
+      "Result": 100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "DAIICHIRO",
+        "LastName": "SEKIKAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -2000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "21000014",
+      "Result": -7200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000039",
+      "Result": -8900
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "21000043",
+      "Result": -23100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "19000073",
+      "Result": -27500
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "21000067",
+      "Result": -29600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "19000120",
+      "Result": -35000
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "19000101",
+      "Result": -36200
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "21000072",
+      "Result": -36500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "19000080",
+      "Result": -42300
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "DAWID",
+        "LastName": "BRONOWICKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -48000
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "19000144",
+      "Result": -49400
+    },
+    {
+      "Placement": 42,
+      "Player": {
+        "FirstName": "BARTOSZ",
+        "LastName": "KAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -50200
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "19000093",
+      "Result": -50800
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "19000071",
+      "Result": -51200
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "19000035",
+      "Result": -56900
+    },
+    {
+      "Placement": 46,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "MĄDRECKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -63200
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "04160081",
+      "Result": -65000
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "19000032",
+      "Result": -70100
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "09990047",
+      "Result": -70400
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "16000035",
+      "Result": -82600
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "19000111",
+      "Result": -84400
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "TAKAFUMI",
+        "LastName": "MIYANO",
+        "RepresentingNationality": "jp"
+      },
+      "Result": -87100
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "19000145",
+      "Result": -102400
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "19000066",
+      "Result": -105800
+    },
+    {
+      "Placement": 55,
+      "Player": {
+        "FirstName": "TOMEK",
+        "LastName": "DWOJACKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -106600
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "MARIUSZ",
+        "LastName": "STANASZEK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -108200
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "19000143",
+      "Result": -157900
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "19000041",
+      "Result": -169900
+    },
+    {
+      "Placement": 59,
+      "Player": {
+        "FirstName": "NIKITA",
+        "LastName": "DIACHENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -193300
+    },
+    {
+      "Placement": 60,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -210000
+    }
+  ]
+}

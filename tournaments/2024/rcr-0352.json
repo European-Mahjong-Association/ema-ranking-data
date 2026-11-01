@@ -1,0 +1,122 @@
+{
+  "Name": "Doublie Riichi Hajime 2024 - Saint Denis",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-10-27",
+  "ToDate": "2024-10-27",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Alexandre",
+      "LastName": "LOCK-KOON"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04060061",
+      "Result": 105700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04180005",
+      "Result": 67900
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04030083",
+      "Result": 64800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030023",
+      "Result": 56200
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030022",
+      "Result": 42200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04060045",
+      "Result": 36200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04080019",
+      "Result": 33700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04030045",
+      "Result": 13100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04030051",
+      "Result": -2700
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030100",
+      "Result": -9100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04050022",
+      "Result": -9900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04030095",
+      "Result": -19700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04010015",
+      "Result": -39600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04030006",
+      "Result": -41300
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030109",
+      "Result": -41300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04030004",
+      "Result": -50300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04010076",
+      "Result": -54900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04030128",
+      "Result": -66900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04080018",
+      "Result": -75800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04030147",
+      "Result": -128300
+    }
+  ]
+}

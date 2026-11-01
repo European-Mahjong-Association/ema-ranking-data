@@ -1,0 +1,206 @@
+{
+  "Name": "TENPAI CHAMPIONSHIP OPEN 2018",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-12-01",
+  "ToDate": "2018-12-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Jasper",
+      "LastName": "Germeys"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990024",
+      "Result": 287000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "HENRI",
+        "LastName": "VATAJA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 138800
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "TITOVA",
+        "RepresentingNationality": "se"
+      },
+      "Result": 110600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MIKKO",
+        "LastName": "AARNI",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 106500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ARTEM",
+        "LastName": "TITOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 88100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "14990054",
+      "Result": 74700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990047",
+      "Result": 70900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990094",
+      "Result": 53900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000014",
+      "Result": 50000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990083",
+      "Result": 48300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990057",
+      "Result": 40300
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "MAISA",
+        "LastName": "VIRTANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 33600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "IIRO",
+        "LastName": "KUMPULAINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 29600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990096",
+      "Result": 13800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990050",
+      "Result": -14100
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990040",
+      "Result": -20500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990047",
+      "Result": -28100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990049",
+      "Result": -32100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990076",
+      "Result": -56200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990053",
+      "Result": -61100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "OSSI",
+        "LastName": "HIRVOLA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -63500
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "YULIA",
+        "LastName": "LOGINOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -77900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990020",
+      "Result": -79300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "14990079",
+      "Result": -88500
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "SAKARI",
+        "LastName": "HELOKUNNAS",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -135100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990099",
+      "Result": -163500
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "KAIDO KALLIKORM",
+        "RepresentingNationality": "ee"
+      },
+      "Result": -182800
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "KHROMOV",
+        "RepresentingNationality": "rs"
+      },
+      "Result": -203400
+    }
+  ]
+}

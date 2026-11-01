@@ -1,0 +1,218 @@
+{
+  "Name": "NORWEGIAN OPEN RIICHI TOURNAMENT 2022",
+  "Country": "no",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-11-26",
+  "ToDate": "2022-11-27",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Timur",
+      "LastName": "Hahn"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 13,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000093",
+      "Result": 140200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000073",
+      "Result": 138500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990112",
+      "Result": 120200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000131",
+      "Result": 113600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990072",
+      "Result": 90500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990047",
+      "Result": 72000
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "SHUER",
+        "LastName": "YE",
+        "RepresentingNationality": "no"
+      },
+      "Result": 67200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000014",
+      "Result": 58200
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "STIAN",
+        "LastName": "BLAENES",
+        "RepresentingNationality": "no"
+      },
+      "Result": 49800
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990142",
+      "Result": 42400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "23000005",
+      "Result": 37400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "14990104",
+      "Result": 35800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "23000006",
+      "Result": 31800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990024",
+      "Result": 22900
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "HAVARD",
+        "LastName": "WILSGAARD",
+        "RepresentingNationality": "no"
+      },
+      "Result": 18400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "11990143",
+      "Result": 17200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04160103",
+      "Result": 12900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04310012",
+      "Result": 9900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "22000027",
+      "Result": 7000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "LOIC",
+        "LastName": "ZIESSEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -16500
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000176",
+      "Result": -21200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "14990079",
+      "Result": -49000
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000140",
+      "Result": -50300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "05100153",
+      "Result": -58200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990111",
+      "Result": -72900
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "KENT",
+        "LastName": "KROGSENG",
+        "RepresentingNationality": "no"
+      },
+      "Result": -75300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990099",
+      "Result": -96300
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "19000085",
+      "Result": -118500
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "VETLE",
+        "LastName": "NEUMANN",
+        "RepresentingNationality": "no"
+      },
+      "Result": -133000
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "JOAKIM",
+        "LastName": "GASOY",
+        "RepresentingNationality": "no"
+      },
+      "Result": -197600
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "GUSTAF",
+        "LastName": "FRÖHLANDER",
+        "RepresentingNationality": "no"
+      },
+      "Result": -229000
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

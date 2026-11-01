@@ -1,0 +1,310 @@
+{
+  "Name": "WARSAW MAHJONG TAIKAI 2017",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-11-18",
+  "ToDate": "2017-11-19",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Michael",
+      "LastName": "DONAGHY"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 5,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "SIARHEI",
+        "LastName": "TSYVINSKI",
+        "RepresentingNationality": "by"
+      },
+      "Result": 122400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000087",
+      "Result": 118700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "20000003",
+      "Result": 99800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000077",
+      "Result": 94500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000073",
+      "Result": 84400
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ROGER",
+        "LastName": "WASZKIEWICZ",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 83300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "OLEKSANDR",
+        "LastName": "CHERNENKO",
+        "RepresentingNationality": "ua"
+      },
+      "Result": 79600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "19000063",
+      "Result": 72600
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 71000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000066",
+      "Result": 69900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000032",
+      "Result": 69900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000071",
+      "Result": 63600
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "JULIA",
+        "LastName": "BUŁA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 62300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000031",
+      "Result": 50700
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "MĄDRECKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 40200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000006",
+      "Result": 32700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "19000003",
+      "Result": 29800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000082",
+      "Result": 29400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000042",
+      "Result": 17800
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 14600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 11000
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "DMYTRO",
+        "LastName": "LIENKO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 10900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000041",
+      "Result": 10300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000067",
+      "Result": -9500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000001",
+      "Result": -41600
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "DAWID",
+        "LastName": "GRANAT",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -44100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "OLIWIA",
+        "LastName": "WOLSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -45000
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ŁUKASZ",
+        "LastName": "DĄBROWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -53600
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "MARTYNA",
+        "LastName": "OBRĘBSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -74500
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "VEREBEI",
+        "RepresentingNationality": "by"
+      },
+      "Result": -80200
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "MARCIN",
+        "LastName": "KUBACKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -83600
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "KRZYSZTOF",
+        "LastName": "SZEREMETA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -84800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "19000091",
+      "Result": -86300
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "MAREK",
+        "LastName": "WAKULUK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -95200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "19000080",
+      "Result": -98200
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "OBRĘBSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -100800
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "ŁUKASZ",
+        "LastName": "WITKOWSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -101000
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "URSZULA",
+        "LastName": "ZAREMBA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -123900
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "DAIICHIRO",
+        "LastName": "SEKIKAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -142400
+    },
+    {
+      "Placement": 40,
+      "Player": {
+        "FirstName": "TOMEK",
+        "LastName": "DWOJACKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -174700
+    }
+  ]
+}

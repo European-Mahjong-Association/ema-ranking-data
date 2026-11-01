@@ -1,0 +1,184 @@
+{
+  "Name": "2ST TOURNAMENT - LOS 3 DRAGONES",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-12-13",
+  "ToDate": "2014-12-14",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04090008",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 642
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 409
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 492
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990022",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 286
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 150
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990024",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 284
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 129
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 175
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04090060",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": -108
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -53
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 37
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 99
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -36
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990025",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -273
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990026",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -202
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "DOMINGO",
+        "LastName": "GARCÍA GARCÍA",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -258
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "LLUÍS",
+        "LastName": "ROMERO CABRE",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -292
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -400
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -470
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -611
+      }
+    }
+  ]
+}

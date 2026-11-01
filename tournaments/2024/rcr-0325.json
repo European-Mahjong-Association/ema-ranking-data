@@ -1,0 +1,270 @@
+{
+  "Name": "Valencia Riichi 2024",
+  "Country": "es",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-03-30",
+  "ToDate": "2024-03-31",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Sophie",
+      "LastName": "DELAUCHE"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 10,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000140",
+      "Result": 169200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04990106",
+      "Result": 141200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04240014",
+      "Result": 129800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04160110",
+      "Result": 124900
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "11990140",
+      "Result": 83600
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "16000032",
+      "Result": 81600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11000023",
+      "Result": 77500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "12000003",
+      "Result": 75300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990087",
+      "Result": 67200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000175",
+      "Result": 64200
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990027",
+      "Result": 62400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990026",
+      "Result": 59100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990092",
+      "Result": 52200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "16000040",
+      "Result": 51000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990072",
+      "Result": 40200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "19000003",
+      "Result": 34200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04320014",
+      "Result": 31700
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000144",
+      "Result": 19900
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04160071",
+      "Result": 19400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "12000002",
+      "Result": 17200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990053",
+      "Result": 16300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990159",
+      "Result": 14100
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04040026",
+      "Result": 11400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02010084",
+      "Result": 9000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "10990082",
+      "Result": 7600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990094",
+      "Result": 2100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "LastName": null,
+        "RepresentingNationality": "ca"
+      },
+      "Result": -5000
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010038",
+      "Result": -6100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "19000171",
+      "Result": -12100
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "10990043",
+      "Result": -25600
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "19000080",
+      "Result": -27100
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "12000004",
+      "Result": -29300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "05000008",
+      "Result": -38300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "10990090",
+      "Result": -45700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "02010085",
+      "Result": -47500
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04310048",
+      "Result": -54200
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "10990093",
+      "Result": -57000
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "10990086",
+      "Result": -60000
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "04160112",
+      "Result": -60500
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "10990084",
+      "Result": -78300
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "19000102",
+      "Result": -80000
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "16000051",
+      "Result": -81800
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "10990057",
+      "Result": -90000
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "QINGSHUANG",
+        "LastName": "LU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -93600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "10990089",
+      "Result": -113200
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010039",
+      "Result": -119200
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "10990091",
+      "Result": -180500
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "10990074",
+      "Result": -185300
+    }
+  ]
+}

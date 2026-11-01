@@ -1,0 +1,128 @@
+{
+  "Name": "AUSTRIA OPEN RIICHI TOURNAMENT 2016",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-08-13",
+  "ToDate": "2016-08-14",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000107",
+      "Result": 96200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "17990004",
+      "Result": 86100
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "OXANA",
+        "LastName": "VYSHIVANNAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 72800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "17990008",
+      "Result": 58700
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 40700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ELMIRA",
+        "LastName": "MUSTAKIMOVA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 31800
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000053",
+      "Result": 29100
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 17300
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 12400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100153",
+      "Result": 7300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000013",
+      "Result": 5900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000127",
+      "Result": -41900
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "17990007",
+      "Result": -54200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "KIRILL",
+        "LastName": "NIKOLAEV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -91600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ANDREA",
+        "LastName": "BRUNNSTEINER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -136900
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -153700
+    }
+  ]
+}

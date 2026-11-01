@@ -1,0 +1,170 @@
+{
+  "Name": "AACHEN RIICHI OPEN 2017",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-08-05",
+  "ToDate": "2017-08-06",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Radka",
+      "LastName": "PERNICOVA"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04040048",
+      "Result": 152600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04160015",
+      "Result": 120600
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 104200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010028",
+      "Result": 98900
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "CLARKE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 84200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "11990006",
+      "Result": 80100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160035",
+      "Result": 75400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "22000004",
+      "Result": 43100
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010003",
+      "Result": 40600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010025",
+      "Result": 34900
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 15500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100166",
+      "Result": -5700
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100161",
+      "Result": -30500
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "JURAJ",
+        "LastName": "MÓZA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -30500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100157",
+      "Result": -39800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "STEFANIE",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -44800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05100153",
+      "Result": -57500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010026",
+      "Result": -61800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "22000016",
+      "Result": -64100
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MAXIMILIAN",
+        "LastName": "SCHMIDT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -90400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04160081",
+      "Result": -93000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010162",
+      "Result": -118800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "08010725",
+      "Result": -134800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "UWE",
+        "LastName": "PEKAU",
+        "RepresentingNationality": "de"
+      },
+      "Result": -158400
+    }
+  ]
+}

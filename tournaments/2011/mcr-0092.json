@@ -1,0 +1,264 @@
+{
+  "Name": "SPANISH OPEN 2011",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-05-21",
+  "ToDate": "2011-05-22",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010047",
+      "Result": {
+        "TablePoints": 18.0,
+        "ContestPoints": 663
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 304
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 281
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040057",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 765
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "LAURENT",
+        "LastName": "MAHÉ",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 575
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 380
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010021",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 366
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "EMMA",
+        "LastName": "GUENEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 342
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04040047",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 322
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 15
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "CHRISTEL",
+        "LastName": "BUCHER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 432
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04090035",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 306
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04040048",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 225
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010158",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 98
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030023",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 17
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ERIC",
+        "LastName": "PREAULT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -60
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ABEL",
+        "LastName": "SÁNCHEZ DÍAZ",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -73
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990018",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 1
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "ANTONIO",
+        "LastName": "GUILLAMÓN RUBIO",
+        "RepresentingNationality": "es"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -70
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04090059",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -268
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04990015",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -262
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990016",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -365
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04040036",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -357
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -556
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -573
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -816
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -657
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -1071
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "Name": "HAMbaiman Riichi Open 2025",
+  "Country": "de",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-11-08",
+  "ToDate": "2025-11-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Vasile",
+      "LastName": "GHERMAN"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 84,
+  "NrCountries": 13,
+  "MersWeight": 4.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05000060",
+      "Result": 183500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "07000207",
+      "Result": 180000
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05000008",
+      "Result": 138300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000062",
+      "Result": 135600
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000237",
+      "Result": 127100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000053",
+      "Result": 122500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000007",
+      "Result": 121400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05000041",
+      "Result": 109900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000149",
+      "Result": 106600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05000050",
+      "Result": 104300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990104",
+      "Result": 94200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100171",
+      "Result": 86400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990190",
+      "Result": 83200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "11000031",
+      "Result": 80000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05000044",
+      "Result": 78900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05900002",
+      "Result": 77300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000073",
+      "Result": 70000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010737",
+      "Result": 64400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "05000049",
+      "Result": 50100
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05100058",
+      "Result": 47400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990123",
+      "Result": 46600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05000006",
+      "Result": 45600
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "11000013",
+      "Result": 45300
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010752",
+      "Result": 41200
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08011151",
+      "Result": 40400
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "05000074",
+      "Result": 39600
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000001",
+      "Result": 37600
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "16000065",
+      "Result": 30900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "05900008",
+      "Result": 28500
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "05000002",
+      "Result": 24200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "05100151",
+      "Result": 23400
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "05100182",
+      "Result": 14900
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "03000140",
+      "Result": 12100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "05000054",
+      "Result": 10800
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05000075",
+      "Result": 10700
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "11000059",
+      "Result": 10000
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "05000003",
+      "Result": 8800
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "04210032",
+      "Result": 4000
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05000018",
+      "Result": 3400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "05000029",
+      "Result": 2800
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "10990103",
+      "Result": 900
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "08010727",
+      "Result": -2100
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "05000076",
+      "Result": -11900
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "DANNY",
+        "LastName": "S",
+        "RepresentingNationality": "se"
+      },
+      "Result": -14100
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "11990060",
+      "Result": -17900
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "05100077",
+      "Result": -19300
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "08010613",
+      "Result": -19500
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "05000043",
+      "Result": -21600
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "11000128",
+      "Result": -24300
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "08010526",
+      "Result": -27800
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "16000040",
+      "Result": -30900
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "05000070",
+      "Result": -31600
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "11000065",
+      "Result": -32000
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "09990183",
+      "Result": -36700
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "05000066",
+      "Result": -36900
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "05100124",
+      "Result": -40200
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "05100072",
+      "Result": -45600
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "01000154",
+      "Result": -46000
+    },
+    {
+      "Placement": 59,
+      "EmaNumber": "16000053",
+      "Result": -46000
+    },
+    {
+      "Placement": 60,
+      "EmaNumber": "05000077",
+      "Result": -50000
+    },
+    {
+      "Placement": 61,
+      "EmaNumber": "05100160",
+      "Result": -52200
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "01000148",
+      "Result": -61300
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "05100168",
+      "Result": -62500
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "05000071",
+      "Result": -62600
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "05000078",
+      "Result": -62600
+    },
+    {
+      "Placement": 66,
+      "EmaNumber": "09990156",
+      "Result": -69800
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "05000017",
+      "Result": -74500
+    },
+    {
+      "Placement": 68,
+      "EmaNumber": "05100161",
+      "Result": -79000
+    },
+    {
+      "Placement": 69,
+      "EmaNumber": "05000079",
+      "Result": -80000
+    },
+    {
+      "Placement": 70,
+      "EmaNumber": "05000032",
+      "Result": -84500
+    },
+    {
+      "Placement": 71,
+      "EmaNumber": "02010039",
+      "Result": -87700
+    },
+    {
+      "Placement": 72,
+      "EmaNumber": "05100016",
+      "Result": -89100
+    },
+    {
+      "Placement": 73,
+      "EmaNumber": "05000013",
+      "Result": -91300
+    },
+    {
+      "Placement": 74,
+      "EmaNumber": "05000053",
+      "Result": -98100
+    },
+    {
+      "Placement": 75,
+      "EmaNumber": "05000080",
+      "Result": -105500
+    },
+    {
+      "Placement": 76,
+      "EmaNumber": "05000081",
+      "Result": -105500
+    },
+    {
+      "Placement": 77,
+      "EmaNumber": "05100138",
+      "Result": -106900
+    },
+    {
+      "Placement": 78,
+      "EmaNumber": "05000082",
+      "Result": -108700
+    },
+    {
+      "Placement": 79,
+      "EmaNumber": "05000083",
+      "Result": -116500
+    },
+    {
+      "Placement": 80,
+      "EmaNumber": "05100078",
+      "Result": -130300
+    },
+    {
+      "Placement": 81,
+      "EmaNumber": "05000084",
+      "Result": -151200
+    },
+    {
+      "Placement": 82,
+      "EmaNumber": "05100033",
+      "Result": -154200
+    },
+    {
+      "Placement": 83,
+      "EmaNumber": "02010038",
+      "Result": -160200
+    },
+    {
+      "Placement": 84,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -270000
+    }
+  ]
+}

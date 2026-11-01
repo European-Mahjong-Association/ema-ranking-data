@@ -1,0 +1,310 @@
+{
+  "Name": "Great Wave 2025",
+  "Country": "fi",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-04-12",
+  "ToDate": "2025-04-13",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Timur",
+      "LastName": "Hahn"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 56,
+  "NrCountries": 11,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990020",
+      "Result": 159700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "14990040",
+      "Result": 143500
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "14990166",
+      "Result": 126400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "02010080",
+      "Result": 119700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "14990146",
+      "Result": 116700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "KEVIN",
+        "LastName": "KAIDO KALLIKORM",
+        "RepresentingNationality": "ee"
+      },
+      "Result": 113600
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "14990047",
+      "Result": 93500
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "14990142",
+      "Result": 87000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "14990053",
+      "Result": 85300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "14990168",
+      "Result": 83800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "14990057",
+      "Result": 80300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990103",
+      "Result": 72200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990162",
+      "Result": 67100
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "14990140",
+      "Result": 63000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "14990104",
+      "Result": 53500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "14990134",
+      "Result": 49100
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "14990169",
+      "Result": 47800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990170",
+      "Result": 42600
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990112",
+      "Result": 41700
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "05000060",
+      "Result": 40900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "14990154",
+      "Result": 36800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "05100153",
+      "Result": 34900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "14990156",
+      "Result": 33200
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "HUANG, HAOCHENG",
+        "LastName": null,
+        "RepresentingNationality": "cn"
+      },
+      "Result": 29400
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "14990115",
+      "Result": 26100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "14990131",
+      "Result": 22400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "14990024",
+      "Result": 18700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "14990135",
+      "Result": 15800
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990076",
+      "Result": 7900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "14990079",
+      "Result": 2000
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990171",
+      "Result": -11200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990155",
+      "Result": -19600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "14990132",
+      "Result": -27500
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "16000035",
+      "Result": -32400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "14990148",
+      "Result": -37000
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "14990158",
+      "Result": -40200
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "14990172",
+      "Result": -40200
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "14990033",
+      "Result": -45200
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "19000157",
+      "Result": -47700
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990190",
+      "Result": -51300
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "14990144",
+      "Result": -53700
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "14990054",
+      "Result": -54000
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "14990049",
+      "Result": -65200
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "14990152",
+      "Result": -67400
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "14990113",
+      "Result": -74300
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "14990151",
+      "Result": -78900
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "14990133",
+      "Result": -82600
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "14990150",
+      "Result": -95500
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "14990111",
+      "Result": -98300
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "14990164",
+      "Result": -103900
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "27000001",
+      "Result": -117000
+    },
+    {
+      "Placement": 52,
+      "EmaNumber": "14990160",
+      "Result": -123300
+    },
+    {
+      "Placement": 53,
+      "EmaNumber": "14990043",
+      "Result": -136500
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "21000057",
+      "Result": -152000
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "14990161",
+      "Result": -158200
+    },
+    {
+      "Placement": 56,
+      "EmaNumber": "14990167",
+      "Result": -159500
+    }
+  ]
+}

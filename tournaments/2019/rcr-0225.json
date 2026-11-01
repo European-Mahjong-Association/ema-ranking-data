@@ -1,0 +1,184 @@
+{
+  "Name": "2 ND BRNO RIICHI TOURNAMENT 2019",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2019-03-30",
+  "ToDate": "2019-03-31",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04990093",
+      "Result": 133700
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000073",
+      "Result": 114600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990072",
+      "Result": 114300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "22000004",
+      "Result": 97700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000087",
+      "Result": 62100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "17990004",
+      "Result": 60500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000091",
+      "Result": 59600
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "PETR",
+        "LastName": "BAJGAR",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 57300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000125",
+      "Result": 14300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990008",
+      "Result": 6400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "22000016",
+      "Result": 3400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990003",
+      "Result": -5600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000131",
+      "Result": -6000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "22000001",
+      "Result": -8800
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "LENKA",
+        "LastName": "RAKOVA",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -15900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990007",
+      "Result": -24900
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "POWĘZKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -29500
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000085",
+      "Result": -30800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "01000127",
+      "Result": -39600
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -52100
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "KAMIL",
+        "LastName": "SZCZELINA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -58000
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -61500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000105",
+      "Result": -68500
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "01000136",
+      "Result": -73800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000093",
+      "Result": -80100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04040048",
+      "Result": -84800
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "22000003",
+      "Result": -89300
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "LUKÁŠ",
+        "LastName": "BILEK",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -138700
+    }
+  ]
+}

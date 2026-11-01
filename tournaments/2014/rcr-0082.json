@@ -1,0 +1,218 @@
+{
+  "Name": "1. PRAGUE RYUU IISOU RIICHI TOURNAMENT",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-06-28",
+  "ToDate": "2014-06-29",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Alexander",
+      "LastName": "Doppelhofer"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 10,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "17990004",
+      "Result": 299900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05100146",
+      "Result": 144700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "17990003",
+      "Result": 120600
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040048",
+      "Result": 115100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000014",
+      "Result": 112200
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "19000011",
+      "Result": 111000
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 93500
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "ILINA",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 89600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "17990007",
+      "Result": 87900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000013",
+      "Result": 74200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 63300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000015",
+      "Result": 31600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000007",
+      "Result": 24600
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": 22900
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "BEDNÁŘ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 8500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -28400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "22000004",
+      "Result": -31200
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -33600
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "PETR",
+        "LastName": "BAJGAR",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -59800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "17990009",
+      "Result": -65600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MAŁGORZATA",
+        "LastName": "RUTKOWSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -66700
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "17990008",
+      "Result": -77000
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -80700
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "RATH",
+        "RepresentingNationality": "de"
+      },
+      "Result": -117400
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ROMAN",
+        "LastName": "KUSÁK",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -147700
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "CARRIE",
+        "LastName": "POWELL",
+        "RepresentingNationality": "us"
+      },
+      "Result": -214800
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MONIKA",
+        "LastName": "NOVÁKOVÁ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -229100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "22000001",
+      "Result": -246600
+    }
+  ]
+}

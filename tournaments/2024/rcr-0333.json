@@ -1,0 +1,124 @@
+{
+  "Name": "White Dragon Cup 2024",
+  "Country": "ua",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2024-05-25",
+  "ToDate": "2024-05-26",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "21000037",
+      "Result": 164000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "21000081",
+      "Result": 133400
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "21000082",
+      "Result": 89400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "21000083",
+      "Result": 64700
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "21000084",
+      "Result": 56100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "21000085",
+      "Result": 52400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "21000024",
+      "Result": 21600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000041",
+      "Result": 15300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "21000023",
+      "Result": 10500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000072",
+      "Result": 10000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000086",
+      "Result": 9000
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000087",
+      "Result": -28500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "Elvin Tahirov",
+        "LastName": null,
+        "RepresentingNationality": "vide"
+      },
+      "Result": -55600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "21000053",
+      "Result": -57500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000088",
+      "Result": -65000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "21000089",
+      "Result": -88700
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "21000090",
+      "Result": -101800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "21000091",
+      "Result": -131500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000092",
+      "Result": -156800
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

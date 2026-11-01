@@ -1,0 +1,162 @@
+{
+  "Name": "GRAZ RIICHI OPEN 2022",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2022-10-15",
+  "ToDate": "2022-10-16",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Manuel",
+      "LastName": "Kameda Schlich"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 6,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000127",
+      "Result": 120600
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 102100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000131",
+      "Result": 76300
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04160110",
+      "Result": 71400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100182",
+      "Result": 55300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000125",
+      "Result": 46900
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160103",
+      "Result": 36000
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000252",
+      "Result": 29800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000053",
+      "Result": 27100
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 21700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000073",
+      "Result": 7400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05000008",
+      "Result": 3400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000093",
+      "Result": -1400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100166",
+      "Result": -2400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "FLORIAN",
+        "LastName": "ZOUBEK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -5500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100168",
+      "Result": -9400
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000147",
+      "Result": -43900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000087",
+      "Result": -49800
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "SUSANNE",
+        "LastName": "SCHWARZ",
+        "RepresentingNationality": "at"
+      },
+      "Result": -86400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000113",
+      "Result": -101000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000085",
+      "Result": -108100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000146",
+      "Result": -120000
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "DENIZ",
+        "LastName": "ECKERT",
+        "RepresentingNationality": "de"
+      },
+      "Result": -129700
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

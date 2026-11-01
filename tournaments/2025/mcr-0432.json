@@ -1,0 +1,310 @@
+{
+  "Name": "Rode Lotus MCR 2025",
+  "Country": "be",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-09-06",
+  "ToDate": "2025-09-06",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Vasile",
+      "LastName": "GHERMAN"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 36,
+  "NrCountries": 6,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "02000040",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 377
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010003",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 618
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04160092",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 381
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "02010021",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 327
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04210032",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 231
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 203
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05000050",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 384
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 317
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 118
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010731",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 107
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010633",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 197
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 178
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 41
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010121",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 353
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "08010743",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -9
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010052",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 128
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "02000047",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -23
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "02010024",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -90
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -148
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010109",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -216
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010737",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 25
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010613",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 20
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "02000007",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "08010162",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -40
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010028",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -44
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "02010036",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -89
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "06990035",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -131
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04650001",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -168
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010023",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -242
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "02010041",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -262
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -133
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -195
+      }
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04650006",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -338
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990009",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -468
+      }
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04650004",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -549
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04650003",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -869
+      }
+    }
+  ]
+}

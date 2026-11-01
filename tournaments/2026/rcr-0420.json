@@ -1,0 +1,286 @@
+{
+  "Name": "Swedish Riichi Open 2026",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-07-11",
+  "ToDate": "2026-07-12",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Marieke",
+      "LastName": "VERHEYDEN"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 52,
+  "NrCountries": 8,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "14990194",
+      "Result": 172800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990237",
+      "Result": 167800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990229",
+      "Result": 153700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990110",
+      "Result": 115000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990073",
+      "Result": 109800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990183",
+      "Result": 95400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990262",
+      "Result": 85100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990168",
+      "Result": 82600
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990227",
+      "Result": 78300
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990045",
+      "Result": 64800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990268",
+      "Result": 62100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990258",
+      "Result": 61500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990112",
+      "Result": 59500
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990159",
+      "Result": 54900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990269",
+      "Result": 53300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990176",
+      "Result": 52900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990049",
+      "Result": 52000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "14990178",
+      "Result": 44300
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "14990162",
+      "Result": 31400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990261",
+      "Result": 29900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990163",
+      "Result": 26600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990260",
+      "Result": 21700
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990234",
+      "Result": 20800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02010033",
+      "Result": 11000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "09990267",
+      "Result": 4100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160092",
+      "Result": -4300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990124",
+      "Result": -9400
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990265",
+      "Result": -10700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "09990256",
+      "Result": -13100
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990190",
+      "Result": -15600
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "14990161",
+      "Result": -19000
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "14990024",
+      "Result": -19100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "09990214",
+      "Result": -26400
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990238",
+      "Result": -26800
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "09990199",
+      "Result": -31300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "09990226",
+      "Result": -32300
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "09990220",
+      "Result": -33300
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "21000057",
+      "Result": -33600
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "09990266",
+      "Result": -52000
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990044",
+      "Result": -59500
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "09990263",
+      "Result": -62500
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "27000004",
+      "Result": -65100
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "09990164",
+      "Result": -74000
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "09990064",
+      "Result": -78600
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "09990090",
+      "Result": -82000
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "09990156",
+      "Result": -108500
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "09990141",
+      "Result": -117700
+    },
+    {
+      "Placement": 48,
+      "EmaNumber": "09990259",
+      "Result": -126900
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "12990016",
+      "Result": -172400
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "09990257",
+      "Result": -203700
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "09990264",
+      "Result": -311900
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -270000
+    }
+  ]
+}

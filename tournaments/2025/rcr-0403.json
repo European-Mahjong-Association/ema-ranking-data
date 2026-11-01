@@ -1,0 +1,202 @@
+{
+  "Name": "ONE S MAHJONG RERS 2025",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-28",
+  "ToDate": "2025-12-28",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Zhaoyuan",
+      "LastName": "WAN"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 36,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04160071",
+      "Result": 134100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04040105",
+      "Result": 131200
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "12990014",
+      "Result": 93900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04160092",
+      "Result": 21400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04160080",
+      "Result": 93300
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990220",
+      "Result": 75300
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04160114",
+      "Result": 69100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04090078",
+      "Result": 65000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04210032",
+      "Result": 45000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "11000060",
+      "Result": 41300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04600009",
+      "Result": 30300
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040246",
+      "Result": 28800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04690010",
+      "Result": 23400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160162",
+      "Result": 13200
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04040281",
+      "Result": 13000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04160181",
+      "Result": 12500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04160171",
+      "Result": 7000
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04160015",
+      "Result": -4400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "02010084",
+      "Result": -8600
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04310048",
+      "Result": -8900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04290023",
+      "Result": -21800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04040287",
+      "Result": -23800
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04160081",
+      "Result": -26800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04090098",
+      "Result": -29100
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04690008",
+      "Result": -39600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04040321",
+      "Result": -45100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04530006",
+      "Result": -52800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04160134",
+      "Result": -55400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04090110",
+      "Result": -57000
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160090",
+      "Result": -63300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04160159",
+      "Result": -70200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04160072",
+      "Result": -72300
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04090060",
+      "Result": -85300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "04320035",
+      "Result": -86200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "04160035",
+      "Result": -112600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04210070",
+      "Result": -114600
+    }
+  ]
+}

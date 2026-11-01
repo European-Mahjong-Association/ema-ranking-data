@@ -1,0 +1,288 @@
+{
+  "Name": "TRI NITRO TOURNAMENT: THIRD DETONATION !",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-03-15",
+  "ToDate": "2014-03-16",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 8,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "BRESNICK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 219900
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010020",
+      "Result": 211700
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MASAHIKO TAKAHASHI",
+        "LastName": null,
+        "RepresentingNationality": "jp"
+      },
+      "Result": 157600
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "HUAN",
+        "LastName": "WU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 126100
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 126100
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "ANNA",
+        "LastName": "SHPILMAN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 122900
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 121200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990006",
+      "Result": 119000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "11990005",
+      "Result": 116400
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "TONY",
+        "LastName": "HALEY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 101900
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 100200
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "11990004",
+      "Result": 55300
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "JULIEN",
+        "LastName": "RATEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 53900
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990214",
+      "Result": 43400
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 37800
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ALEXANDRE",
+        "LastName": "ANNABI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 26600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "SEAN",
+        "LastName": "SHORTEN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 17900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04300002",
+      "Result": 9100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "11990044",
+      "Result": 7200
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "BOGACHKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 7000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "11990028",
+      "Result": -7300
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "11990016",
+      "Result": -12600
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "MAXIME",
+        "LastName": "ISONZO",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -16700
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DARIA",
+        "LastName": "ILINA",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -17100
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -21600
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160015",
+      "Result": -28200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "03000192",
+      "Result": -40500
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "VLADIMIR",
+        "LastName": "BOGDANOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -62700
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04040121",
+      "Result": -67900
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "STALLAN",
+        "RepresentingNationality": "gb"
+      },
+      "Result": -120400
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "DO THU KHOA",
+        "LastName": "TRINH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -122800
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "YANN",
+        "LastName": "SALMON",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -159800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "04160035",
+      "Result": -203800
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "ERWIN",
+        "LastName": "MALECKI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -291200
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "NADINE",
+        "LastName": "LANG",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -301300
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "AURÉLIEN",
+        "LastName": "GARBAY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -307300
+    }
+  ]
+}

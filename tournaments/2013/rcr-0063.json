@@ -1,0 +1,220 @@
+{
+  "Name": "LYON TOURNAMENT",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2013-10-19",
+  "ToDate": "2013-10-19",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04160035",
+      "Result": 177100
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "MAMY",
+        "LastName": "RAMINOSA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 149400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "QIANFAN",
+        "LastName": "MA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 85500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040189",
+      "Result": 85100
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "SEAN",
+        "LastName": "SHORTEN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 84400
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "NICOLAS",
+        "LastName": "CAMPINA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 72200
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 68100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04040121",
+      "Result": 39700
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "VALÉRIAN",
+        "LastName": "THOMAS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": 35700
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "GARANCE",
+        "LastName": "KUTUKDJIAN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -1200
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "JULIEN",
+        "LastName": "RATEAU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -4200
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "QUENTIN",
+        "LastName": "PORCHEROT",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -6400
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "AZIZ",
+        "LastName": "AZOUGAGH",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -7400
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TING TING",
+        "LastName": "LI",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -9600
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "JÉRÉMY",
+        "LastName": "LARREY",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -20700
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JÉREMIE",
+        "LastName": "DEFOUR",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -23500
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "DOULÈME",
+        "LastName": "DÉCOSTERD",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -27100
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "XAVIER",
+        "LastName": "LANCEL",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -59100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "JEAN-MARC",
+        "LastName": "DEDIEU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -59900
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "PIERRE",
+        "LastName": "HUTIN",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -72900
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "HUAN",
+        "LastName": "WU",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -88200
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MARION",
+        "LastName": "NOGUERA",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -110800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "SYLVAIN",
+        "LastName": "RESSIER",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -117000
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "YANNICK",
+        "LastName": "BETEMPS",
+        "RepresentingNationality": "fr"
+      },
+      "Result": -189200
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "CountryCode": "sk",
+  "Country": "Slovakia",
+  "Players": [
+    {
+      "EmaNumber": "17990002",
+      "FirstName": "ZUZANA",
+      "LastName": "RIHA"
+    },
+    {
+      "EmaNumber": "17990003",
+      "FirstName": "DANIEL",
+      "LastName": "ŠIRON",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2013-01-01",
+          "note": "Bad Vöslau, Austria, 18 September"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "17990004",
+      "FirstName": "JURAJ",
+      "LastName": "JERGUŠ"
+    },
+    {
+      "EmaNumber": "17990007",
+      "FirstName": "MATEJ",
+      "LastName": "LABAŠ"
+    },
+    {
+      "EmaNumber": "17990008",
+      "FirstName": "MICHAL",
+      "LastName": "MARKO"
+    },
+    {
+      "EmaNumber": "17990009",
+      "FirstName": "TOMÁŠ",
+      "LastName": "ŠIRON"
+    }
+  ]
+}

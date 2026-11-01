@@ -1,0 +1,210 @@
+{
+  "CountryCode": "hu",
+  "Country": "Hungary",
+  "Players": [
+    {
+      "EmaNumber": "06010001",
+      "FirstName": "ANGÉLA",
+      "LastName": "LAKOS"
+    },
+    {
+      "EmaNumber": "06010003",
+      "FirstName": "ANDRÁS",
+      "LastName": "BODA"
+    },
+    {
+      "EmaNumber": "06010008",
+      "FirstName": "MAGDOLNA",
+      "LastName": "B NAGY"
+    },
+    {
+      "EmaNumber": "06010011",
+      "FirstName": "ILDIKÓ",
+      "LastName": "HARGITAI"
+    },
+    {
+      "EmaNumber": "06010021",
+      "FirstName": "SÁNDOR",
+      "LastName": "TAKÁCS"
+    },
+    {
+      "EmaNumber": "06010025",
+      "FirstName": "ESZTER",
+      "LastName": "VÁRNAI"
+    },
+    {
+      "EmaNumber": "06010028",
+      "FirstName": "ZSOLT",
+      "LastName": "NYULASI JR"
+    },
+    {
+      "EmaNumber": "06010040",
+      "FirstName": "MIKLÓS",
+      "LastName": "IMRE"
+    },
+    {
+      "EmaNumber": "06010041",
+      "FirstName": "TIMEA",
+      "LastName": "IMRÉNÉ KOVÁCS"
+    },
+    {
+      "EmaNumber": "06020018",
+      "FirstName": "ÁGNES",
+      "LastName": "FERENCZI"
+    },
+    {
+      "EmaNumber": "06020021",
+      "FirstName": "ILONA",
+      "LastName": "FÓRIZS"
+    },
+    {
+      "EmaNumber": "06100002",
+      "FirstName": "LÁSZLÓ",
+      "LastName": "HORVÁTH"
+    },
+    {
+      "EmaNumber": "06990001",
+      "FirstName": "ETI",
+      "LastName": "PALCZER-ASCHENBRENNER"
+    },
+    {
+      "EmaNumber": "06990005",
+      "FirstName": "VIKTOR",
+      "LastName": "KÖNYVES"
+    },
+    {
+      "EmaNumber": "06990014",
+      "FirstName": "ZOLTAN",
+      "LastName": "DINYESI"
+    },
+    {
+      "EmaNumber": "06990025",
+      "FirstName": "FERENC",
+      "LastName": "VLADAR"
+    },
+    {
+      "EmaNumber": "06990030",
+      "FirstName": "PIROSKA",
+      "LastName": "NAGYNÉ BELÁZ"
+    },
+    {
+      "EmaNumber": "06990031",
+      "FirstName": "ESZTER",
+      "LastName": "HUSZAR"
+    },
+    {
+      "EmaNumber": "06990033",
+      "FirstName": "VIKTORIA",
+      "LastName": "CSEH"
+    },
+    {
+      "EmaNumber": "06990034",
+      "FirstName": "ZSUZSANNA",
+      "LastName": "HUSZAR"
+    },
+    {
+      "EmaNumber": "06990035",
+      "FirstName": "TAMAS",
+      "LastName": "ERDOS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2024-01-01",
+          "note": "Valencia, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "06990036",
+      "FirstName": "AMBROZY",
+      "LastName": "TAMAS"
+    },
+    {
+      "EmaNumber": "06990037",
+      "FirstName": "OLGA",
+      "LastName": "BALOG"
+    },
+    {
+      "EmaNumber": "06990038",
+      "FirstName": "ERIKA",
+      "LastName": "TOVOLGYI"
+    },
+    {
+      "EmaNumber": "06990039",
+      "FirstName": "ZSUZSANNA",
+      "LastName": "SZEKELY"
+    },
+    {
+      "EmaNumber": "06990040",
+      "FirstName": "EVA",
+      "LastName": "TAMASKOVICS"
+    },
+    {
+      "EmaNumber": "06990041",
+      "FirstName": "ESZTER",
+      "LastName": "LESKÓ"
+    },
+    {
+      "EmaNumber": "06990042",
+      "FirstName": "HENRICK ANDRAS",
+      "LastName": "ZSOHAR"
+    },
+    {
+      "EmaNumber": "06990043",
+      "FirstName": "PLETLI",
+      "LastName": "BALAZS"
+    },
+    {
+      "EmaNumber": "06990044",
+      "FirstName": "CSABA",
+      "LastName": "SZOKE",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2026-01-01",
+          "note": "Sweden, OEMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "06990045",
+      "FirstName": "BALOG",
+      "LastName": "OLGA SOPHIE"
+    },
+    {
+      "EmaNumber": "06990046",
+      "FirstName": "GELLÉRT",
+      "LastName": "RÁCZKÖVI"
+    },
+    {
+      "EmaNumber": "06990048",
+      "FirstName": "BLANKA",
+      "LastName": "SZENTKATOLNAI"
+    },
+    {
+      "EmaNumber": "06990049",
+      "FirstName": "PETER",
+      "LastName": "RACZ BENCE"
+    },
+    {
+      "EmaNumber": "06990050",
+      "FirstName": "BETTI",
+      "LastName": "SARKOZI"
+    },
+    {
+      "EmaNumber": "06990051",
+      "FirstName": "GABOR",
+      "LastName": "NAGY"
+    },
+    {
+      "EmaNumber": "06990052",
+      "FirstName": "ANNA",
+      "LastName": "RACZ"
+    },
+    {
+      "EmaNumber": "06990053",
+      "FirstName": "IVANYI",
+      "LastName": "SZABOLCS"
+    }
+  ]
+}

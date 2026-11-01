@@ -1,0 +1,160 @@
+{
+  "Name": "VERDEN OPEN 2014",
+  "Country": "de",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2014-09-20",
+  "ToDate": "2014-09-20",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100056",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 360
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "WOLFGANG",
+        "LastName": "FRANKE",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 222
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05100017",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 252
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05100024",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 174
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100124",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 53
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010187",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -33
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100165",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -99
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05100143",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 117
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "CORNELIA",
+        "LastName": "CAPITO",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 40
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "FRAUKE",
+        "LastName": "ROOS",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -32
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "ULLA",
+        "LastName": "EICKSCHEN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -51
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010271",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -127
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "05100078",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -75
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "05100033",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -86
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05900008",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -229
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "05100077",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -486
+      }
+    }
+  ]
+}

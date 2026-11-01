@@ -1,0 +1,228 @@
+{
+  "Name": "5TH PRAGUE OPEN RIICHI CHAMPIONSHIP 2018",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-06-15",
+  "ToDate": "2018-06-17",
+  "DateDescription": null,
+  "NrDays": 3,
+  "NrPlayers": 32,
+  "NrCountries": 12,
+  "MersWeight": 4.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "05100157",
+      "Result": 180700
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ILYA",
+        "LastName": "MONAKOV",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 122400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "MARTIN",
+        "RepresentingNationality": "de"
+      },
+      "Result": 72000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040048",
+      "Result": 70400
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ANDREY",
+        "LastName": "ELSHANKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 68500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000156",
+      "Result": 66700
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DONAGHY",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 56600
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04160081",
+      "Result": 56400
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "17990003",
+      "Result": 54900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "05100166",
+      "Result": 37100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "08010021",
+      "Result": 35700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "05100146",
+      "Result": 23500
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "SERGEY",
+        "LastName": "PETRUSHCHENKO",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 22600
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "DMITRY",
+        "LastName": "SIROTKIN",
+        "RepresentingNationality": "ru"
+      },
+      "Result": 21800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "22000004",
+      "Result": -5500
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "RENE",
+        "LastName": "KHEZAM",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -6500
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "17990004",
+      "Result": -8100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000208",
+      "Result": -8800
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000176",
+      "Result": -9000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "WALDEMAR",
+        "LastName": "LAUBE",
+        "RepresentingNationality": "de"
+      },
+      "Result": -11000
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "07000104",
+      "Result": -24300
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "OXANA",
+        "LastName": "VYSHIVANNAYA",
+        "RepresentingNationality": "ru"
+      },
+      "Result": -24500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "STEFANIE",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -37800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -81500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "17990009",
+      "Result": -82500
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "25000002",
+      "Result": -88100
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "CARRIE",
+        "LastName": "DIVIŠ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -90900
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "05100161",
+      "Result": -93000
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "22000001",
+      "Result": -94600
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "07000107",
+      "Result": -100700
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "22000016",
+      "Result": -101500
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -119000
+    }
+  ]
+}

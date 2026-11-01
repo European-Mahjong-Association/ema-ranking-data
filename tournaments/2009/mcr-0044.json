@@ -1,0 +1,216 @@
+{
+  "Name": "MCR Danish Championship 2009",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2009-01-17",
+  "ToDate": "2009-01-17",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 2,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 318
+      }
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 461
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 431
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000005",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 278
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 226
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "KORREMAN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 93
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 241
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000149",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -200
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -3
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -14
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -102
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 147
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -296
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "OLSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -73
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000148",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -177
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "CHEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -216
+      }
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "HANS",
+        "LastName": "VAN DER POEL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -505
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "03000156",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -126
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -153
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -340
+      }
+    }
+  ]
+}

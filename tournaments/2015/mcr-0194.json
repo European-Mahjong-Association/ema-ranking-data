@@ -1,0 +1,724 @@
+{
+  "Name": "VALENTINE TOURNAMENT 2015",
+  "Country": "nl",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-02-14",
+  "ToDate": "2015-02-14",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 76,
+  "NrCountries": 3,
+  "MersWeight": 1.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "08010158",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 428
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "08010052",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 478
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "JESSICA",
+        "LastName": "HEYLIGER",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 361
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "08010123",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 558
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "08010545",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 483
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010206",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 409
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "08010580",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 396
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "08010025",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 358
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ELLEN",
+        "LastName": "JAGER-KLANT",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 263
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "08010003",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 96
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "02010016",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 221
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "08010411",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 217
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "08010271",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 199
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "08010140",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 154
+      }
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "TON",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 127
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "08010164",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 47
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "08010173",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 130
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "08010295",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 10
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "08010137",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -20
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "08010168",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -27
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "08010328",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -32
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "08010412",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 164
+      }
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 101
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "02010039",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 91
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "08010526",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 49
+      }
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "BERRY",
+        "LastName": "HEIJN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -17
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "08010028",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -22
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "02010021",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -24
+      }
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "02010038",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -109
+      }
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "08010486",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": -151
+      }
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "08010219",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 192
+      }
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "08010187",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 86
+      }
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "JANINE",
+        "LastName": "WIJK, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -5
+      }
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "08010495",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "BIANCA",
+        "LastName": "RIETBERGEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -11
+      }
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "08010022",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -29
+      }
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "DEWI",
+        "LastName": "SATRIASAPUTRA",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -34
+      }
+    },
+    {
+      "Placement": 38,
+      "Player": {
+        "FirstName": "JANNIE",
+        "LastName": "NOLTEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -45
+      }
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "08010021",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -66
+      }
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "08010725",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -71
+      }
+    },
+    {
+      "Placement": 41,
+      "Player": {
+        "FirstName": "MARIAN",
+        "LastName": "PEERDEMAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -98
+      }
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "08010599",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 236
+      }
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "08010505",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 69
+      }
+    },
+    {
+      "Placement": 44,
+      "EmaNumber": "08010109",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 2
+      }
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "08010510",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -113
+      }
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "08010054",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -123
+      }
+    },
+    {
+      "Placement": 47,
+      "Player": {
+        "FirstName": "ARNAUD",
+        "LastName": "MORRENS",
+        "RepresentingNationality": "be"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -169
+      }
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "MIRJAM",
+        "LastName": "MUIJEN, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -246
+      }
+    },
+    {
+      "Placement": 49,
+      "EmaNumber": "02010023",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -42
+      }
+    },
+    {
+      "Placement": 50,
+      "EmaNumber": "08010598",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -12
+      }
+    },
+    {
+      "Placement": 51,
+      "EmaNumber": "08010564",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -16
+      }
+    },
+    {
+      "Placement": 52,
+      "Player": {
+        "FirstName": "EUGENIE",
+        "LastName": "TEUNISSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -27
+      }
+    },
+    {
+      "Placement": 53,
+      "Player": {
+        "FirstName": "KRISTIEN",
+        "LastName": "DERMOUT",
+        "RepresentingNationality": "be"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -45
+      }
+    },
+    {
+      "Placement": 54,
+      "EmaNumber": "08010166",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -71
+      }
+    },
+    {
+      "Placement": 55,
+      "EmaNumber": "02010024",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -77
+      }
+    },
+    {
+      "Placement": 56,
+      "Player": {
+        "FirstName": "FRANK",
+        "LastName": "ENGELEN, VAN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -106
+      }
+    },
+    {
+      "Placement": 57,
+      "EmaNumber": "02010001",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -130
+      }
+    },
+    {
+      "Placement": 58,
+      "EmaNumber": "08010026",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -207
+      }
+    },
+    {
+      "Placement": 59,
+      "Player": {
+        "FirstName": "ANJA",
+        "LastName": "BOOGAART, VAN DEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -213
+      }
+    },
+    {
+      "Placement": 60,
+      "Player": {
+        "FirstName": "LENY",
+        "LastName": "SCHAADERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -268
+      }
+    },
+    {
+      "Placement": 61,
+      "Player": {
+        "FirstName": "RUDY",
+        "LastName": "WONG-CHUNG",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -103
+      }
+    },
+    {
+      "Placement": 62,
+      "EmaNumber": "08010036",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -13
+      }
+    },
+    {
+      "Placement": 63,
+      "EmaNumber": "02010033",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -60
+      }
+    },
+    {
+      "Placement": 64,
+      "EmaNumber": "08010121",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -104
+      }
+    },
+    {
+      "Placement": 65,
+      "EmaNumber": "08010162",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -178
+      }
+    },
+    {
+      "Placement": 66,
+      "Player": {
+        "FirstName": "YVONNE",
+        "LastName": "HEEMSKERK",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -198
+      }
+    },
+    {
+      "Placement": 67,
+      "EmaNumber": "08010415",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -206
+      }
+    },
+    {
+      "Placement": 68,
+      "Player": {
+        "FirstName": "AGNES",
+        "LastName": "SCHAAPSMEERDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -243
+      }
+    },
+    {
+      "Placement": 69,
+      "Player": {
+        "FirstName": "ANDRÉ",
+        "LastName": "RIJNDERS",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -167
+      }
+    },
+    {
+      "Placement": 70,
+      "EmaNumber": "02010043",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -178
+      }
+    },
+    {
+      "Placement": 71,
+      "Player": {
+        "FirstName": "CHRIS",
+        "LastName": "JANSSEN",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -205
+      }
+    },
+    {
+      "Placement": 72,
+      "Player": {
+        "FirstName": "HEIKO",
+        "LastName": "DOMANN",
+        "RepresentingNationality": "de"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -251
+      }
+    },
+    {
+      "Placement": 73,
+      "EmaNumber": "08010049",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -292
+      }
+    },
+    {
+      "Placement": 74,
+      "Player": {
+        "FirstName": "JACK LIEN",
+        "LastName": "PILGRAM",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -306
+      }
+    },
+    {
+      "Placement": 75,
+      "Player": {
+        "FirstName": "DIANA",
+        "LastName": "WETERING, VAN DE",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -345
+      }
+    },
+    {
+      "Placement": 76,
+      "EmaNumber": "08010518",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -431
+      }
+    }
+  ]
+}

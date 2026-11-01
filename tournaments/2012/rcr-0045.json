@@ -1,0 +1,272 @@
+{
+  "Name": "Vienna Riichi Open 2012",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2012-10-07",
+  "ToDate": "2012-10-07",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 32,
+  "NrCountries": 4,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 166500
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000013",
+      "Result": 150800
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "SCHRITTWIESER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 144000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": 114300
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "LUKAS",
+        "LastName": "PUSCHMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": 86000
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 85900
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "CHANG",
+        "LastName": "XUE",
+        "RepresentingNationality": "at"
+      },
+      "Result": 74600
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 46800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 46400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "17990008",
+      "Result": 38700
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000053",
+      "Result": 34900
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "PETRUS",
+        "LastName": "VU",
+        "RepresentingNationality": "at"
+      },
+      "Result": 19700
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MATEJ",
+        "LastName": "KUČERA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": 17700
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "IKUMA",
+        "LastName": "SAKURAI",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 15100
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "KAMMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990004",
+      "Result": -3200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000066",
+      "Result": -5800
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JAROSLAV",
+        "LastName": "BROZINA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -6100
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "RAFAEL",
+        "LastName": "HOBBIGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -6500
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -13600
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "MARIÁN",
+        "LastName": "SEKERÁŠ",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -27100
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "PHILIPP",
+        "LastName": "TONCAR",
+        "RepresentingNationality": "at"
+      },
+      "Result": -30300
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "JENIFER",
+        "LastName": "KRAWARIK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -34900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "17990009",
+      "Result": -68700
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "HAMILTON",
+        "RepresentingNationality": "at"
+      },
+      "Result": -69200
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "BASILIO",
+        "RepresentingNationality": "at"
+      },
+      "Result": -74200
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DANGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -74800
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "17990003",
+      "Result": -89400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "17990007",
+      "Result": -98200
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "HORAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -108000
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "MARCO",
+        "LastName": "KRETSCHMER",
+        "RepresentingNationality": "de"
+      },
+      "Result": -111700
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MANUELA",
+        "LastName": "LEITGEB",
+        "RepresentingNationality": "at"
+      },
+      "Result": -219300
+    }
+  ]
+}

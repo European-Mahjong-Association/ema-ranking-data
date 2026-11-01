@@ -1,0 +1,186 @@
+{
+  "Name": "FURITEN YA 10TH ANNIVERSARY",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-11-04",
+  "ToDate": "2023-11-05",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Véronique",
+      "LastName": "BOISSON"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 32,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04310079",
+      "Result": 201300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04300002",
+      "Result": 123700
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04160092",
+      "Result": 104500
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "11000011",
+      "Result": 81800
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04090055",
+      "Result": 77500
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04040105",
+      "Result": 67100
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04320014",
+      "Result": 60900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04090080",
+      "Result": 59300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04300028",
+      "Result": 56600
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04300031",
+      "Result": 54900
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04310086",
+      "Result": 29800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990082",
+      "Result": 28100
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04040121",
+      "Result": 26200
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04160110",
+      "Result": 25700
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04530003",
+      "Result": 15900
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04160081",
+      "Result": 11900
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04160108",
+      "Result": 2200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04300030",
+      "Result": -16700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04300006",
+      "Result": -17400
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04300018",
+      "Result": -21100
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04530002",
+      "Result": -22800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04300025",
+      "Result": -40600
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "LastName": null,
+        "RepresentingNationality": "ca"
+      },
+      "Result": -40700
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "11000010",
+      "Result": -43000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04210023",
+      "Result": -56200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04160088",
+      "Result": -71900
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04300007",
+      "Result": -77700
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04300022",
+      "Result": -87100
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "04160124",
+      "Result": -97200
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160114",
+      "Result": -114500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "04300046",
+      "Result": -148200
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "04990107",
+      "Result": -250900
+    }
+  ]
+}

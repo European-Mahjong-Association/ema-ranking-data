@@ -1,0 +1,182 @@
+{
+  "Name": "SWEDISH OPEN RIICHI MAHJONG CHAMPIONSHIP 2017",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-04-08",
+  "ToDate": "2017-04-09",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Nicole",
+      "LastName": "Haasbroek"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 7,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990052",
+      "Result": 97200
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "CLARKE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 76200
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 67900
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "24888001",
+      "Result": 56300
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "24888002",
+      "Result": 55200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "NICOLE",
+        "LastName": "HAASBROEK",
+        "RepresentingNationality": "vide"
+      },
+      "Result": 51300
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "FRITIOFF",
+        "LastName": "OLSSEN",
+        "RepresentingNationality": "se"
+      },
+      "Result": 30900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "21000016",
+      "Result": 27500
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 23000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "03000003",
+      "Result": 20600
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "MARTIJN",
+        "LastName": "KLAAR",
+        "RepresentingNationality": "nl"
+      },
+      "Result": 18700
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000148",
+      "Result": 5800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000176",
+      "Result": 300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990049",
+      "Result": -9800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "21000014",
+      "Result": -10600
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990045",
+      "Result": -14500
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "MARYNA",
+        "LastName": "IHNATOVA",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -18800
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990090",
+      "Result": -45400
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "SERHII",
+        "LastName": "IHNATOV",
+        "RepresentingNationality": "ua"
+      },
+      "Result": -56200
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "11990006",
+      "Result": -67800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "03000208",
+      "Result": -69100
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "03000156",
+      "Result": -87500
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "SAM",
+        "LastName": "LOCKWOOD",
+        "RepresentingNationality": "se"
+      },
+      "Result": -145800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -210000
+    }
+  ]
+}

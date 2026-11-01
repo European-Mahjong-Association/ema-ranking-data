@@ -1,0 +1,162 @@
+{
+  "Name": "Mahjong Spirit RIICHI 2025",
+  "Country": "fr",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-14",
+  "ToDate": "2025-12-14",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Florent",
+      "LastName": "LOCK KOON"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "04030124",
+      "Result": 116000
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "04030173",
+      "Result": 90800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "04060014",
+      "Result": 72800
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04030191",
+      "Result": 63400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "04030147",
+      "Result": 51000
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04030092",
+      "Result": 36500
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04060045",
+      "Result": 34100
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "04080019",
+      "Result": 28700
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "04030022",
+      "Result": 28400
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "04030189",
+      "Result": 26600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "04030150",
+      "Result": 20100
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04080018",
+      "Result": 9400
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04030051",
+      "Result": 3400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04060071",
+      "Result": -8100
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "04030083",
+      "Result": -11500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "04030100",
+      "Result": -27000
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04030023",
+      "Result": -30100
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "04010076",
+      "Result": -31100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "04010015",
+      "Result": -34500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "04010061",
+      "Result": -37100
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "04030028",
+      "Result": -44400
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "04030185",
+      "Result": -45900
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "04030087",
+      "Result": -48000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04060061",
+      "Result": -48800
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "04180005",
+      "Result": -73700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "04030045",
+      "Result": -80100
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "04030188",
+      "Result": -81200
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "04060063",
+      "Result": -119700
+    }
+  ]
+}

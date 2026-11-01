@@ -1,0 +1,160 @@
+{
+  "Name": "STYRIAN OPEN 2018",
+  "Country": "at",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-10-13",
+  "ToDate": "2018-10-14",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 16,
+  "NrCountries": 1,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "01000038",
+      "Result": {
+        "TablePoints": 21.0,
+        "ContestPoints": 949
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "01000016",
+      "Result": {
+        "TablePoints": 19.0,
+        "ContestPoints": 292
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000069",
+      "Result": {
+        "TablePoints": 17.0,
+        "ContestPoints": 303
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "01000110",
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 320
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "TONI",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 16.0,
+        "ContestPoints": 96
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000013",
+      "Result": {
+        "TablePoints": 15.0,
+        "ContestPoints": 375
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000088",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": -38
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "FELIX",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 191
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "01000001",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": -73
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MARIA",
+        "LastName": "ALDRIAN",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -28
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -185
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000138",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": -254
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000105",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -176
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000009",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": -441
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000025",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -446
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ROMANA",
+        "LastName": "DIVJAK",
+        "RepresentingNationality": "at"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -885
+      }
+    }
+  ]
+}

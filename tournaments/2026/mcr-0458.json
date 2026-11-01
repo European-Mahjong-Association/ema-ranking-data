@@ -1,0 +1,250 @@
+{
+  "Name": "2nd FEMJ Cup 2026",
+  "Country": "es",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-30",
+  "ToDate": "2026-05-30",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Antonio",
+      "LastName": "Ayllón"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 28,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "10990043",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 698
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "10990020",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 550
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "10990023",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 520
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "10990007",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 428
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "10990099",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 215
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "10990037",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 274
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "10990027",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 76
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "10990070",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 360
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "10990017",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 215
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "10990063",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 72
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "10990082",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 149
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "10990028",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 86
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "10990133",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 52
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "10990051",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -87
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "10990030",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -139
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "TOMMY",
+        "LastName": "CHIA",
+        "RepresentingNationality": "sg"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -263
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "10990053",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 27
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "10990012",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -24
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "10990042",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -172
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "10990101",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -24
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "10990010",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -122
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "10990088",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -69
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "10990019",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -357
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "10990100",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -553
+      }
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "10990074",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -393
+      }
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "10990011",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -413
+      }
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "10990137",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -521
+      }
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "10990096",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -585
+      }
+    }
+  ]
+}

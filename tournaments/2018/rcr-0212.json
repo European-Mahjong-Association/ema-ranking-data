@@ -1,0 +1,304 @@
+{
+  "Name": "OSTRAVA RIICHI OPEN 2018",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-11-24",
+  "ToDate": "2018-11-24",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 40,
+  "NrCountries": 5,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "MĄDRECKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 107300
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000066",
+      "Result": 97400
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "LENKA",
+        "LastName": "RAKOVA",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 79100
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "DAIICHIRO",
+        "LastName": "SEKIKAWA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 73400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000001",
+      "Result": 64200
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "LUKÁŠ",
+        "LastName": "BILEK",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 45700
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "SIARHEI",
+        "LastName": "TSYVINSKI",
+        "RepresentingNationality": "by"
+      },
+      "Result": 40700
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 39800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "19000105",
+      "Result": 36800
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MARTYNA",
+        "LastName": "OBRĘBSKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 28600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "17990009",
+      "Result": 24800
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "ALEXANDRA",
+        "LastName": "PETÁKOVÁ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 23200
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000087",
+      "Result": 20200
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "TOMÁŠ",
+        "LastName": "LUBER",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 15000
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000091",
+      "Result": 10200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990004",
+      "Result": 10100
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "PIOTR",
+        "LastName": "OBRĘBSKI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": 9600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "19000093",
+      "Result": 4700
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "22000004",
+      "Result": 3300
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000085",
+      "Result": 3100
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "17990008",
+      "Result": 1600
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "22000016",
+      "Result": 300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000031",
+      "Result": -1400
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "ZIJAD",
+        "LastName": "DURAKOVIC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -1800
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "PETR",
+        "LastName": "BAJGAR",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -4800
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "17990003",
+      "Result": -9900
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "SHINICHI",
+        "LastName": "KIKUCHI",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -14100
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -17700
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "ANTON",
+        "LastName": "TRISCORNIA",
+        "RepresentingNationality": "it"
+      },
+      "Result": -23100
+    },
+    {
+      "Placement": 30,
+      "Player": {
+        "FirstName": "JAKUB",
+        "LastName": "POWĘZKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -24800
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "19000067",
+      "Result": -27500
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "PAVEL",
+        "LastName": "VEREBEI",
+        "RepresentingNationality": "by"
+      },
+      "Result": -43800
+    },
+    {
+      "Placement": 33,
+      "Player": {
+        "FirstName": "ALEKSANDRA",
+        "LastName": "LIBICH",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -49600
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "KAMIL",
+        "LastName": "SZCZELINA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -53200
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "22000001",
+      "Result": -63700
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "ADAM",
+        "LastName": "TKACZYK",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -64500
+    },
+    {
+      "Placement": 37,
+      "Player": {
+        "FirstName": "PU",
+        "LastName": "ZHAO",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -67600
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "19000039",
+      "Result": -90800
+    },
+    {
+      "Placement": 39,
+      "Player": {
+        "FirstName": "KACPER",
+        "LastName": "PALKA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -93600
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "22000021",
+      "Result": -107200
+    }
+  ]
+}

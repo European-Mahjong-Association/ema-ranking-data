@@ -1,0 +1,178 @@
+{
+  "Name": "Riichi Danish Championship 2017",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2017-09-16",
+  "ToDate": "2017-09-17",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Joël",
+      "LastName": "Ratsimandresy"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "TAKA",
+        "LastName": "TESHIMA",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 132800
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000156",
+      "Result": 127300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "03000149",
+      "Result": 121200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "03000176",
+      "Result": 118400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "03000126",
+      "Result": 94900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000148",
+      "Result": 66400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "04990024",
+      "Result": 48700
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05100153",
+      "Result": 37800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 32900
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "GLENN IVAR",
+        "LastName": "HUSOM",
+        "RepresentingNationality": "no"
+      },
+      "Result": 32300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "03000051",
+      "Result": 15000
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "CHRISTOPHER",
+        "LastName": "ROWE",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 13800
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "04040057",
+      "Result": 12800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000208",
+      "Result": -3900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000049",
+      "Result": -26700
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -29800
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000005",
+      "Result": -45900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990110",
+      "Result": -60000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000192",
+      "Result": -62800
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -69300
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990045",
+      "Result": -86300
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "CLAUS",
+        "LastName": "CHRISTENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -122800
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "KENT",
+        "LastName": "KROGSENG",
+        "RepresentingNationality": "no"
+      },
+      "Result": -141900
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "BJØRN KRISTIAN",
+        "LastName": "PEDERSEN",
+        "RepresentingNationality": "no"
+      },
+      "Result": -244900
+    }
+  ]
+}

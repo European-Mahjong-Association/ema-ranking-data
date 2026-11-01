@@ -1,0 +1,204 @@
+{
+  "Name": "Riichi Danish Championship 2011",
+  "Country": "dk",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2011-08-27",
+  "ToDate": "2011-08-28",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 24,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "TANELI",
+        "LastName": "PURSIAINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 235800
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "ANDERS",
+        "LastName": "LABICH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 121600
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 90300
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "ILPO",
+        "LastName": "AITTOKALLIO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 62100
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "FAARTOFT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 50800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000126",
+      "Result": 30600
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "AUVO",
+        "LastName": "KUUSELA",
+        "RepresentingNationality": "fi"
+      },
+      "Result": 25900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "03000051",
+      "Result": 15800
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "03000149",
+      "Result": 15200
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "NICCOLO",
+        "LastName": "POULSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 12600
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": 7800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "04040057",
+      "Result": 5800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "TOBIAS",
+        "LastName": "OLSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -18000
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "03000003",
+      "Result": -19400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000148",
+      "Result": -24400
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -26300
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "JESPER",
+        "LastName": "WILLEMOES HANSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -33100
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "KIM",
+        "LastName": "IVERSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -33100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "03000049",
+      "Result": -50700
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "TORBEN",
+        "LastName": "DALUM",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -61400
+    },
+    {
+      "Placement": 21,
+      "Player": {
+        "FirstName": "PERTTU",
+        "LastName": "VANTANEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -76000
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -83200
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "LI YAN",
+        "LastName": "NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": -102800
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "RUUT",
+        "LastName": "LUOTO",
+        "RepresentingNationality": "fi"
+      },
+      "Result": -145900
+    }
+  ]
+}

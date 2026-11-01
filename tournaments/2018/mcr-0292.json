@@ -1,0 +1,180 @@
+{
+  "Name": "DUNAUJVAROS OPEN 2018",
+  "Country": "hu",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2018-05-05",
+  "ToDate": "2018-05-05",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 16,
+  "NrCountries": 2,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "ZSOLT",
+        "LastName": "NYULASI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 495
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "06010008",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 430
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "06990001",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 671
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "06020021",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 372
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "ZSOLT IFJ.",
+        "LastName": "PALCZER",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 264
+      }
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "JÁNOSNÉ",
+        "LastName": "MÁTRAI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 115
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "ELEK",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -9
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "06010025",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -131
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "KLÁRA",
+        "LastName": "TAKÁCSNÉ LOWINGER",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -265
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "MÁRTA RÓZSA",
+        "LastName": "BERI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 61
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000080",
+      "Result": {
+        "TablePoints": 4.0,
+        "ContestPoints": -85
+      }
+    },
+    {
+      "Placement": 12,
+      "Player": {
+        "FirstName": "KÁROLY",
+        "LastName": "SPRECHER",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -218
+      }
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "EVA",
+        "LastName": "KALMAR",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -469
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "SZILVIA",
+        "LastName": "SZEPESVARI",
+        "RepresentingNationality": "hu"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -234
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "06020018",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -493
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "06990025",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -504
+      }
+    }
+  ]
+}

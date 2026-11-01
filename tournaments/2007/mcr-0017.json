@@ -1,0 +1,228 @@
+{
+  "Name": "MCR Danish Championship 2007",
+  "Country": "dk",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2007-01-27",
+  "ToDate": "2007-01-27",
+  "DateDescription": null,
+  "NrDays": 1,
+  "NrPlayers": 20,
+  "NrCountries": 3,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "03000022",
+      "Result": {
+        "TablePoints": 13.0,
+        "ContestPoints": 569
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "03000005",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 446
+      }
+    },
+    {
+      "Placement": 3,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "WEDEL JACOBSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 405
+      }
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "CLAES",
+        "LastName": "SCHÜTT",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 218
+      }
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "KORREMAN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 183
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "08010039",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 120
+      }
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "THOMAS",
+        "LastName": "KRAGH",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 103
+      }
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "RONNI",
+        "LastName": "LAURSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 71
+      }
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "ROBERT",
+        "LastName": "BONDE JENSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 148
+      }
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "HENRIK",
+        "LastName": "KROGH NIELSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 27
+      }
+    },
+    {
+      "Placement": 11,
+      "Player": {
+        "FirstName": "BRIAN",
+        "LastName": "KROG",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 72
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "03000003",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -9
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "03000051",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -49
+      }
+    },
+    {
+      "Placement": 14,
+      "Player": {
+        "FirstName": "HARRY",
+        "LastName": "KAL",
+        "RepresentingNationality": "nl"
+      },
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -148
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "03000049",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -170
+      }
+    },
+    {
+      "Placement": 16,
+      "Player": {
+        "FirstName": "SUNE",
+        "LastName": "GJEDING THOMSEN",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -374
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "03000126",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -499
+      }
+    },
+    {
+      "Placement": 18,
+      "Player": {
+        "FirstName": "JUHO",
+        "LastName": "PAKARINEN",
+        "RepresentingNationality": "fi"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -320
+      }
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "JAKOB",
+        "LastName": "SCHULTZ",
+        "RepresentingNationality": "dk"
+      },
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -335
+      }
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "DENI",
+        "LastName": "SEITZ",
+        "RepresentingNationality": "fi"
+      },
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -458
+      }
+    }
+  ]
+}

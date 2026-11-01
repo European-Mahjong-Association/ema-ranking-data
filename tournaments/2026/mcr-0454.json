@@ -1,0 +1,214 @@
+{
+  "Name": "East River MCR Open 2026",
+  "Country": "se",
+  "Ruleset": "MCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2026-05-02",
+  "ToDate": "2026-05-02",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Petter",
+      "LastName": "Ranefall"
+    }
+  ],
+  "NrDays": 1,
+  "NrPlayers": 24,
+  "NrCountries": 1,
+  "MersWeight": 1.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990045",
+      "Result": {
+        "TablePoints": 14.0,
+        "ContestPoints": 636
+      }
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990112",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 687
+      }
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990044",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 321
+      }
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990177",
+      "Result": {
+        "TablePoints": 12.0,
+        "ContestPoints": 209
+      }
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990211",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 370
+      }
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990166",
+      "Result": {
+        "TablePoints": 11.0,
+        "ContestPoints": 315
+      }
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "09990192",
+      "Result": {
+        "TablePoints": 10.0,
+        "ContestPoints": 274
+      }
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990127",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 519
+      }
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990104",
+      "Result": {
+        "TablePoints": 9.0,
+        "ContestPoints": 188
+      }
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990119",
+      "Result": {
+        "TablePoints": 8.0,
+        "ContestPoints": 190
+      }
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990171",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": 122
+      }
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "09990247",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -135
+      }
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "09990210",
+      "Result": {
+        "TablePoints": 7.0,
+        "ContestPoints": -187
+      }
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990170",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": 104
+      }
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990173",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -104
+      }
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990242",
+      "Result": {
+        "TablePoints": 6.0,
+        "ContestPoints": -115
+      }
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990193",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -132
+      }
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990235",
+      "Result": {
+        "TablePoints": 5.0,
+        "ContestPoints": -232
+      }
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990169",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -123
+      }
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "09990222",
+      "Result": {
+        "TablePoints": 3.0,
+        "ContestPoints": -510
+      }
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "09990239",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -407
+      }
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990172",
+      "Result": {
+        "TablePoints": 2.0,
+        "ContestPoints": -497
+      }
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "09990243",
+      "Result": {
+        "TablePoints": 1.0,
+        "ContestPoints": -730
+      }
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "09990179",
+      "Result": {
+        "TablePoints": 0.0,
+        "ContestPoints": -793
+      }
+    }
+  ]
+}

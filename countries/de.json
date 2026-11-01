@@ -1,0 +1,721 @@
+{
+  "CountryCode": "de",
+  "Country": "Germany",
+  "Players": [
+    {
+      "EmaNumber": "05000001",
+      "FirstName": "THOMAS",
+      "LastName": "KUHNEL"
+    },
+    {
+      "EmaNumber": "05000002",
+      "FirstName": "SONQING",
+      "LastName": "LIN"
+    },
+    {
+      "EmaNumber": "05000003",
+      "FirstName": "ZUOKAN",
+      "LastName": "HU"
+    },
+    {
+      "EmaNumber": "05000004",
+      "FirstName": "YUFAN",
+      "LastName": "DONG",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000006",
+      "FirstName": "JUNYU",
+      "LastName": "WANG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Germany"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000007",
+      "FirstName": "LANXIN",
+      "LastName": "ZHANG"
+    },
+    {
+      "EmaNumber": "05000008",
+      "FirstName": "BEN",
+      "LastName": "THOMAS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000009",
+      "FirstName": "CHRISTOPHER",
+      "LastName": "MIELKE"
+    },
+    {
+      "EmaNumber": "05000011",
+      "FirstName": "TIAN",
+      "LastName": "HANG",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Cologne"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000012",
+      "FirstName": "ZHEMING",
+      "LastName": "JIN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2025-01-01",
+          "note": "Cologne"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000013",
+      "FirstName": "MAXIMILIAN",
+      "LastName": "AXMANN"
+    },
+    {
+      "EmaNumber": "05000014",
+      "FirstName": "ALISA",
+      "LastName": "GLADCHENKO"
+    },
+    {
+      "EmaNumber": "05000015",
+      "FirstName": "ARTEM",
+      "LastName": "KARAMYSHEV"
+    },
+    {
+      "EmaNumber": "05000017",
+      "FirstName": "TRAN THAI",
+      "LastName": "LE"
+    },
+    {
+      "EmaNumber": "05000018",
+      "FirstName": "ROBERT",
+      "LastName": "MUNDEL"
+    },
+    {
+      "EmaNumber": "05000019",
+      "FirstName": "JINGHAN",
+      "LastName": "SHI"
+    },
+    {
+      "EmaNumber": "05000021",
+      "FirstName": "ZHUO",
+      "LastName": "CHEN"
+    },
+    {
+      "EmaNumber": "05000023",
+      "FirstName": "LEANDRO",
+      "LastName": "POBLET"
+    },
+    {
+      "EmaNumber": "05000026",
+      "FirstName": "PAUL",
+      "LastName": "BÄHRISCH"
+    },
+    {
+      "EmaNumber": "05000027",
+      "FirstName": "JONAS",
+      "LastName": "MÖNICKE"
+    },
+    {
+      "EmaNumber": "05000029",
+      "FirstName": "WENJIA",
+      "LastName": "ZHANG"
+    },
+    {
+      "EmaNumber": "05000030",
+      "FirstName": "SAMI",
+      "LastName": "KHARMA",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000032",
+      "FirstName": "ALEKSANDR",
+      "LastName": "KARIAKIN"
+    },
+    {
+      "EmaNumber": "05000033",
+      "FirstName": "KARIN",
+      "LastName": "PELKA"
+    },
+    {
+      "EmaNumber": "05000037",
+      "FirstName": "YANG",
+      "LastName": "ZHANG"
+    },
+    {
+      "EmaNumber": "05000038",
+      "FirstName": "WALDEMAR",
+      "LastName": "KOLDIAJEW"
+    },
+    {
+      "EmaNumber": "05000039",
+      "FirstName": "HUSSEIN",
+      "LastName": "DARI"
+    },
+    {
+      "EmaNumber": "05000040",
+      "FirstName": "CHRISTIAN",
+      "LastName": "SCHIDLER"
+    },
+    {
+      "EmaNumber": "05000041",
+      "FirstName": "OLIVER",
+      "LastName": "HÖLSCHER",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Germany"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2025-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000042",
+      "FirstName": "MIRKO",
+      "LastName": "BERNS-RELOTIC"
+    },
+    {
+      "EmaNumber": "05000043",
+      "FirstName": "NOAH",
+      "LastName": "SCHAAR",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2025-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000044",
+      "FirstName": "MALTE",
+      "LastName": "GRÜTZMACHER"
+    },
+    {
+      "EmaNumber": "05000045",
+      "FirstName": "QINGSHUANG",
+      "LastName": "LU"
+    },
+    {
+      "EmaNumber": "05000046",
+      "FirstName": "OU",
+      "LastName": "HUANG"
+    },
+    {
+      "EmaNumber": "05000047",
+      "FirstName": "XIN",
+      "LastName": "GAO"
+    },
+    {
+      "EmaNumber": "05000048",
+      "FirstName": "JOHANNES",
+      "LastName": "PAUL"
+    },
+    {
+      "EmaNumber": "05000049",
+      "FirstName": "CHRISTOPH",
+      "LastName": "AHLERS"
+    },
+    {
+      "EmaNumber": "05000050",
+      "FirstName": "KENNETH",
+      "LastName": "CHAN",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2025-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05000051",
+      "FirstName": "DUC",
+      "LastName": "NGUYEN"
+    },
+    {
+      "EmaNumber": "05000052",
+      "FirstName": "MERT",
+      "LastName": "GÜNDÜZ"
+    },
+    {
+      "EmaNumber": "05000053",
+      "FirstName": "ANDREA",
+      "LastName": "MEIßNER"
+    },
+    {
+      "EmaNumber": "05000054",
+      "FirstName": "TIM",
+      "LastName": "SCHMERR"
+    },
+    {
+      "EmaNumber": "05000055",
+      "FirstName": "ADRIAN",
+      "LastName": "SUSANTO"
+    },
+    {
+      "EmaNumber": "05000056",
+      "FirstName": "MAXIMILIAN",
+      "LastName": "HENNIG"
+    },
+    {
+      "EmaNumber": "05000057",
+      "FirstName": "PATRICK",
+      "LastName": "REITER"
+    },
+    {
+      "EmaNumber": "05000058",
+      "FirstName": "TOM",
+      "LastName": "HAUSCHKE"
+    },
+    {
+      "EmaNumber": "05000059",
+      "FirstName": "FABIAN",
+      "LastName": "WEBER"
+    },
+    {
+      "EmaNumber": "05000060",
+      "FirstName": "DEAN",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "05000061",
+      "FirstName": "MARK",
+      "LastName": "JOISTEN"
+    },
+    {
+      "EmaNumber": "05000062",
+      "FirstName": "TAIKI",
+      "LastName": "ANDO"
+    },
+    {
+      "EmaNumber": "05000063",
+      "FirstName": "RUTH",
+      "LastName": "BIRNER"
+    },
+    {
+      "EmaNumber": "05000064",
+      "FirstName": "MARK",
+      "LastName": "IPATOV"
+    },
+    {
+      "EmaNumber": "05000065",
+      "FirstName": "NATHAN",
+      "LastName": "SCHAAR"
+    },
+    {
+      "EmaNumber": "05000066",
+      "FirstName": "BIRGE SÜKRÜ",
+      "LastName": "TOK"
+    },
+    {
+      "EmaNumber": "05000067",
+      "FirstName": "LUKAS",
+      "LastName": "VOGLER"
+    },
+    {
+      "EmaNumber": "05000068",
+      "FirstName": "THEODOR",
+      "LastName": "DEMTSCHENKO"
+    },
+    {
+      "EmaNumber": "05000069",
+      "FirstName": "DANIEL",
+      "LastName": "ZACH"
+    },
+    {
+      "EmaNumber": "05000070",
+      "FirstName": "KSENIIA",
+      "LastName": "LYSANIUK"
+    },
+    {
+      "EmaNumber": "05000071",
+      "FirstName": "PEI",
+      "LastName": "TANG"
+    },
+    {
+      "EmaNumber": "05000073",
+      "FirstName": "Maike",
+      "LastName": "WILMS"
+    },
+    {
+      "EmaNumber": "05000074",
+      "FirstName": "Jens",
+      "LastName": "MÜLLER"
+    },
+    {
+      "EmaNumber": "05000075",
+      "FirstName": "Danila",
+      "LastName": "BIKTIMIROV"
+    },
+    {
+      "EmaNumber": "05000076",
+      "FirstName": "Jinghao",
+      "LastName": "ZHANG"
+    },
+    {
+      "EmaNumber": "05000077",
+      "FirstName": "Michael",
+      "LastName": "SCHÄFER"
+    },
+    {
+      "EmaNumber": "05000078",
+      "FirstName": "Marvin",
+      "LastName": "BRÄCK"
+    },
+    {
+      "EmaNumber": "05000079",
+      "FirstName": "Orla",
+      "LastName": "PAZDZIOR"
+    },
+    {
+      "EmaNumber": "05000080",
+      "FirstName": "Nikita",
+      "LastName": "PANIUKHIN"
+    },
+    {
+      "EmaNumber": "05000081",
+      "FirstName": "Pascal",
+      "LastName": "FINK"
+    },
+    {
+      "EmaNumber": "05000082",
+      "FirstName": "Johannes",
+      "LastName": "BETTINGER"
+    },
+    {
+      "EmaNumber": "05000083",
+      "FirstName": "James",
+      "LastName": "WANG"
+    },
+    {
+      "EmaNumber": "05000084",
+      "FirstName": "HORST",
+      "LastName": "OSTENDORF"
+    },
+    {
+      "EmaNumber": "05000086",
+      "FirstName": "MACIEJ",
+      "LastName": "DERWICH"
+    },
+    {
+      "EmaNumber": "05000087",
+      "FirstName": "ISABEL",
+      "LastName": "HOESE"
+    },
+    {
+      "EmaNumber": "05000088",
+      "FirstName": "NIKLAS",
+      "LastName": "SPRENGEL"
+    },
+    {
+      "EmaNumber": "05000089",
+      "FirstName": "ROBIN",
+      "LastName": "WOLF"
+    },
+    {
+      "EmaNumber": "05000090",
+      "FirstName": "THANH LONG",
+      "LastName": "NGUYEN"
+    },
+    {
+      "EmaNumber": "05000091",
+      "FirstName": "MU",
+      "LastName": "HE"
+    },
+    {
+      "EmaNumber": "05000092",
+      "FirstName": "YUQIAO",
+      "LastName": "WEI"
+    },
+    {
+      "EmaNumber": "05000093",
+      "FirstName": "JAN",
+      "LastName": "BRAKE"
+    },
+    {
+      "EmaNumber": "05000094",
+      "FirstName": "VIOLA",
+      "LastName": "HARPERATH"
+    },
+    {
+      "EmaNumber": "05100016",
+      "FirstName": "MONIKA",
+      "LastName": "JENJAHN"
+    },
+    {
+      "EmaNumber": "05100017",
+      "FirstName": "ERIKA",
+      "LastName": "GERDES"
+    },
+    {
+      "EmaNumber": "05100018",
+      "FirstName": "ELKE",
+      "LastName": "PÜNJER"
+    },
+    {
+      "EmaNumber": "05100024",
+      "FirstName": "FRIEDRICH",
+      "LastName": "GERDES"
+    },
+    {
+      "EmaNumber": "05100033",
+      "FirstName": "STEFANIE",
+      "LastName": "DUHME"
+    },
+    {
+      "EmaNumber": "05100056",
+      "FirstName": "HEIKE",
+      "LastName": "SCHÄFER"
+    },
+    {
+      "EmaNumber": "05100057",
+      "FirstName": "ANNE",
+      "LastName": "SCHÄFER"
+    },
+    {
+      "EmaNumber": "05100058",
+      "FirstName": "DAGMAR",
+      "LastName": "FISHER"
+    },
+    {
+      "EmaNumber": "05100072",
+      "FirstName": "ILKA",
+      "LastName": "STUMMEYER"
+    },
+    {
+      "EmaNumber": "05100077",
+      "FirstName": "HEIDI",
+      "LastName": "LUDWIG"
+    },
+    {
+      "EmaNumber": "05100078",
+      "FirstName": "HEINZ",
+      "LastName": "LUDWIG"
+    },
+    {
+      "EmaNumber": "05100100",
+      "FirstName": "SABINE",
+      "LastName": "MANTEN"
+    },
+    {
+      "EmaNumber": "05100124",
+      "FirstName": "PETER",
+      "LastName": "BEESE"
+    },
+    {
+      "EmaNumber": "05100138",
+      "FirstName": "JULIA",
+      "LastName": "KILLISCH"
+    },
+    {
+      "EmaNumber": "05100143",
+      "FirstName": "WEI",
+      "LastName": "CHEN"
+    },
+    {
+      "EmaNumber": "05100146",
+      "FirstName": "MARKUS",
+      "LastName": "KRUSE"
+    },
+    {
+      "EmaNumber": "05100151",
+      "FirstName": "JULIAN",
+      "LastName": "PAPE-LANGE"
+    },
+    {
+      "EmaNumber": "05100153",
+      "FirstName": "TIMUR",
+      "LastName": "HAHN",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2017-01-01",
+          "note": "Póvoa de Varzim"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2016-01-01",
+          "note": "Farnham, Surrey, United Kingdom, 6 October"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05100157",
+      "FirstName": "MARCUS",
+      "LastName": "VÖLKER",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2019-01-01",
+          "note": "Rosmalen, The Netherlands, ERMC"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05100160",
+      "FirstName": "PIA",
+      "LastName": "LEDWIG"
+    },
+    {
+      "EmaNumber": "05100161",
+      "FirstName": "MARCO",
+      "LastName": "RAPPE"
+    },
+    {
+      "EmaNumber": "05100165",
+      "FirstName": "JÜRGEN",
+      "LastName": "SCHNIER"
+    },
+    {
+      "EmaNumber": "05100166",
+      "FirstName": "MANUEL",
+      "LastName": "SCHLICH",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2017-01-01",
+          "note": "Riichi, IJsselstein, The Netherlands, 20 May"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05100167",
+      "FirstName": "FRANK",
+      "LastName": "TOBIAS"
+    },
+    {
+      "EmaNumber": "05100168",
+      "FirstName": "THERESA",
+      "LastName": "GÖSER"
+    },
+    {
+      "EmaNumber": "05100170",
+      "FirstName": "THAI",
+      "LastName": "CHUNG"
+    },
+    {
+      "EmaNumber": "05100171",
+      "FirstName": "JULIAN",
+      "LastName": "NOWAKOWSKI",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2025-01-01",
+          "note": "Germany"
+        },
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Berlin"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05100175",
+      "FirstName": "SVEN",
+      "LastName": "MAMARIL"
+    },
+    {
+      "EmaNumber": "05100180",
+      "FirstName": "SERHII",
+      "LastName": "VASYLCHENKO"
+    },
+    {
+      "EmaNumber": "05100181",
+      "FirstName": "HIROSHI",
+      "LastName": "KAMEDA"
+    },
+    {
+      "EmaNumber": "05100182",
+      "FirstName": "KEN NICO",
+      "LastName": "SCHULTHEISS",
+      "Events": [
+        {
+          "Type": "RefereeRCR",
+          "Date": "2023-01-01",
+          "note": "Cologne"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05100183",
+      "FirstName": "DENNIS",
+      "LastName": "BARTSCHAT"
+    },
+    {
+      "EmaNumber": "05100184",
+      "FirstName": "DICLE",
+      "LastName": "YALCIN"
+    },
+    {
+      "EmaNumber": "05100193",
+      "FirstName": "ALFONS",
+      "LastName": "BIRNER"
+    },
+    {
+      "EmaNumber": "05100196",
+      "FirstName": "Qingshuang",
+      "LastName": "LU"
+    },
+    {
+      "EmaNumber": "05100214",
+      "FirstName": "NIKE",
+      "LastName": "MANTEN"
+    },
+    {
+      "EmaNumber": "05900002",
+      "FirstName": "NADINE",
+      "LastName": "KÖNIG",
+      "Events": [
+        {
+          "Type": "RefereeMCR",
+          "Date": "2010-01-01",
+          "note": "Utrecht"
+        }
+      ]
+    },
+    {
+      "EmaNumber": "05900008",
+      "FirstName": "SILKE",
+      "LastName": "BANSEMER"
+    }
+  ]
+}

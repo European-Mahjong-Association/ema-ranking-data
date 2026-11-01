@@ -1,0 +1,210 @@
+{
+  "Name": "Vienna Riichi Open 2025",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-12-06",
+  "ToDate": "2025-12-07",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "",
+      "LastName": "TAMAS ERDOS"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 11,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "21000068",
+      "Result": 215100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "05000018",
+      "Result": 149600
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "02010084",
+      "Result": 100200
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "05000041",
+      "Result": 68100
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "05100168",
+      "Result": 65100
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "01000113",
+      "Result": 63700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "01000129",
+      "Result": 54800
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "01000131",
+      "Result": 53000
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "MASAMOTO",
+        "LastName": "TOYODA",
+        "RepresentingNationality": "jp"
+      },
+      "Result": 49000
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "01000151",
+      "Result": 46800
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "24000005",
+      "Result": 46600
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "01000013",
+      "Result": 41500
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "01000149",
+      "Result": 29600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000146",
+      "Result": 24500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000125",
+      "Result": 24000
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "01000127",
+      "Result": 22300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "01000147",
+      "Result": 12900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000154",
+      "Result": 10000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "05000056",
+      "Result": 4800
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "01000162",
+      "Result": 4700
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05000071",
+      "Result": 1800
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000053",
+      "Result": -5300
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "01000148",
+      "Result": -28000
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "04990093",
+      "Result": -35500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "17990007",
+      "Result": -54200
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "06990035",
+      "Result": -56300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000069",
+      "Result": -60100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "01000165",
+      "Result": -60500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "03000192",
+      "Result": -77900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "17990009",
+      "Result": -88500
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "01000066",
+      "Result": -100700
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "17990004",
+      "Result": -112700
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "05000074",
+      "Result": -116200
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "17990003",
+      "Result": -170000
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05000067",
+      "Result": -192100
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -270000
+    }
+  ]
+}

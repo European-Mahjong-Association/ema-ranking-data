@@ -1,0 +1,212 @@
+{
+  "Name": "GRAZ OPEN RIICHI TOURNAMENT 2016",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2016-05-21",
+  "ToDate": "2016-05-22",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 28,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 151000
+    },
+    {
+      "Placement": 2,
+      "Player": {
+        "FirstName": "JENIFER",
+        "LastName": "KRAWARIK",
+        "RepresentingNationality": "at"
+      },
+      "Result": 125100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000053",
+      "Result": 125000
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DANGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 83600
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 79900
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "03000022",
+      "Result": 79000
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "11990044",
+      "Result": 77200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "DAINA",
+        "LastName": "CHIBA",
+        "RepresentingNationality": "gb"
+      },
+      "Result": 49400
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "LUKAS",
+        "LastName": "PUSCHMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": 36800
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "HAMILTON",
+        "RepresentingNationality": "at"
+      },
+      "Result": 32300
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000013",
+      "Result": 26500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "17990004",
+      "Result": 21800
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 17800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000125",
+      "Result": 16500
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "01000113",
+      "Result": 16400
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "17990007",
+      "Result": -1700
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -39200
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "01000107",
+      "Result": -46500
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "17990003",
+      "Result": -50000
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "ANDREA",
+        "LastName": "BRUNNSTEINER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -53900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "17990008",
+      "Result": -55000
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "01000127",
+      "Result": -57000
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "SELINA",
+        "LastName": "BRUNNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -82200
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "01000066",
+      "Result": -93900
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "MARCO",
+        "LastName": "KRETSCHMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -100900
+    },
+    {
+      "Placement": 26,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -106200
+    },
+    {
+      "Placement": 27,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "STEININGER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -156100
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "17990009",
+      "Result": -175700
+    }
+  ]
+}

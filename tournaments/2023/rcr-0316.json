@@ -1,0 +1,222 @@
+{
+  "Name": "SWEDISH OPEN RIICHI CHAMPIONSHIP 2023",
+  "Country": "se",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-11-18",
+  "ToDate": "2023-11-19",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Vilhelmiina",
+      "LastName": "Viinikka"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 40,
+  "NrCountries": 6,
+  "MersWeight": 2.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "09990117",
+      "Result": 135400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "09990156",
+      "Result": 121100
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "09990124",
+      "Result": 119000
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "09990110",
+      "Result": 107000
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "09990088",
+      "Result": 95800
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "09990134",
+      "Result": 95700
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000003",
+      "Result": 87200
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "09990146",
+      "Result": 68300
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "09990127",
+      "Result": 64200
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "09990137",
+      "Result": 51100
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "09990152",
+      "Result": 41900
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000014",
+      "Result": 36300
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "14990099",
+      "Result": 35400
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "09990130",
+      "Result": 34900
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "09990133",
+      "Result": 23500
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "09990155",
+      "Result": 21300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "09990011",
+      "Result": 16400
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "09990141",
+      "Result": 11400
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "09990128",
+      "Result": 8500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "14990079",
+      "Result": 400
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000102",
+      "Result": -6200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "09990148",
+      "Result": -6500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "16000007",
+      "Result": -8800
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "11000011",
+      "Result": -22500
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "09990044",
+      "Result": -23300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "09990138",
+      "Result": -23400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "09990052",
+      "Result": -36000
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "09990157",
+      "Result": -36500
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "14990104",
+      "Result": -44800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "09990129",
+      "Result": -49300
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990154",
+      "Result": -74500
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "09990153",
+      "Result": -75500
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "09990158",
+      "Result": -90700
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "09990132",
+      "Result": -98700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "09990142",
+      "Result": -99300
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "09990047",
+      "Result": -101300
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "09990045",
+      "Result": -101700
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "09990150",
+      "Result": -132500
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "09990149",
+      "Result": -139700
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "09990139",
+      "Result": -194600
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "Name": "Thorn Taikai 2025",
+  "Country": "pl",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2025-05-03",
+  "ToDate": "2025-05-04",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Thibaut",
+      "LastName": "ARNOLD"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 44,
+  "NrCountries": 7,
+  "MersWeight": 3.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000170",
+      "Result": 134100
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000102",
+      "Result": 118300
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "05000006",
+      "Result": 115400
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "19000223",
+      "Result": 98400
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "19000003",
+      "Result": 87700
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "05000060",
+      "Result": 77200
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "19000241",
+      "Result": 73900
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "11990085",
+      "Result": 71900
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "05100171",
+      "Result": 60500
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "19000217",
+      "Result": 59000
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "19000039",
+      "Result": 54800
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "19000214",
+      "Result": 48600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000224",
+      "Result": 35600
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "19000237",
+      "Result": 31400
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "19000006",
+      "Result": 27300
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "16000035",
+      "Result": 27200
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "05000043",
+      "Result": 25900
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "20000019",
+      "Result": 22000
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "19000066",
+      "Result": 11500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "19000189",
+      "Result": 9900
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "19000139",
+      "Result": 7900
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "19000242",
+      "Result": 7400
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000194",
+      "Result": -8900
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "11990016",
+      "Result": -16900
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "20000003",
+      "Result": -17300
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000193",
+      "Result": -23200
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "19000243",
+      "Result": -23500
+    },
+    {
+      "Placement": 28,
+      "EmaNumber": "19000244",
+      "Result": -27900
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "05000007",
+      "Result": -31800
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "19000201",
+      "Result": -37200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "19000245",
+      "Result": -38800
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "19000120",
+      "Result": -46100
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "19000246",
+      "Result": -54100
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "19000227",
+      "Result": -56400
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "05100193",
+      "Result": -63800
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "19000247",
+      "Result": -64600
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "19000248",
+      "Result": -76000
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "19000101",
+      "Result": -89400
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "05100182",
+      "Result": -93500
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "24000005",
+      "Result": -105900
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "19000228",
+      "Result": -111200
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "11990005",
+      "Result": -117000
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "19000213",
+      "Result": -163200
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "PLAYER",
+        "LastName": "SUBSTITUT",
+        "RepresentingNationality": "vide"
+      },
+      "Result": -240000
+    }
+  ]
+}

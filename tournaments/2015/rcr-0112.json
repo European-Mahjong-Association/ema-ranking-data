@@ -1,0 +1,294 @@
+{
+  "Name": "Vienna Riichi Open 2015",
+  "Country": "at",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2015-10-10",
+  "ToDate": "2015-10-11",
+  "DateDescription": null,
+  "Observer": [
+    {
+      "FirstName": "Vojtech",
+      "LastName": "TRMAL"
+    }
+  ],
+  "NrDays": 2,
+  "NrPlayers": 36,
+  "NrCountries": 4,
+  "MersWeight": 2.0,
+  "Results": [
+    {
+      "Placement": 1,
+      "Player": {
+        "FirstName": "CARRIE",
+        "LastName": "DIVIŠ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 272200
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "17990004",
+      "Result": 240800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "01000053",
+      "Result": 111200
+    },
+    {
+      "Placement": 4,
+      "Player": {
+        "FirstName": "TANJA",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 102500
+    },
+    {
+      "Placement": 5,
+      "Player": {
+        "FirstName": "MARTIN",
+        "LastName": "MEISCHEL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 90700
+    },
+    {
+      "Placement": 6,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "HAMILTON",
+        "RepresentingNationality": "at"
+      },
+      "Result": 89400
+    },
+    {
+      "Placement": 7,
+      "Player": {
+        "FirstName": "MICHAEL",
+        "LastName": "DANGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": 88200
+    },
+    {
+      "Placement": 8,
+      "Player": {
+        "FirstName": "MARCO",
+        "LastName": "KRETSCHMER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 84800
+    },
+    {
+      "Placement": 9,
+      "Player": {
+        "FirstName": "PETER",
+        "LastName": "BASILIO",
+        "RepresentingNationality": "at"
+      },
+      "Result": 67900
+    },
+    {
+      "Placement": 10,
+      "Player": {
+        "FirstName": "LUKAS",
+        "LastName": "PUSCHMANN",
+        "RepresentingNationality": "at"
+      },
+      "Result": 59400
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "01000066",
+      "Result": 56500
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "22000004",
+      "Result": 54200
+    },
+    {
+      "Placement": 13,
+      "Player": {
+        "FirstName": "DANIEL",
+        "LastName": "GAHLER",
+        "RepresentingNationality": "de"
+      },
+      "Result": 50800
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "01000013",
+      "Result": 48300
+    },
+    {
+      "Placement": 15,
+      "Player": {
+        "FirstName": "ANDREJ",
+        "LastName": "TRAUNER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 48200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "22000016",
+      "Result": 25600
+    },
+    {
+      "Placement": 17,
+      "Player": {
+        "FirstName": "ANDREAS",
+        "LastName": "SCHRITTWIESER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 24600
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "22000003",
+      "Result": 24300
+    },
+    {
+      "Placement": 19,
+      "Player": {
+        "FirstName": "EUGEN",
+        "LastName": "LÖSCHNAUER",
+        "RepresentingNationality": "at"
+      },
+      "Result": 19500
+    },
+    {
+      "Placement": 20,
+      "EmaNumber": "17990007",
+      "Result": 17800
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "22000001",
+      "Result": -7800
+    },
+    {
+      "Placement": 22,
+      "Player": {
+        "FirstName": "MANUEL",
+        "LastName": "TOMISSER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -11900
+    },
+    {
+      "Placement": 23,
+      "Player": {
+        "FirstName": "VERENA",
+        "LastName": "BERG",
+        "RepresentingNationality": "at"
+      },
+      "Result": -14600
+    },
+    {
+      "Placement": 24,
+      "Player": {
+        "FirstName": "DOMINIK",
+        "LastName": "FANGL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -54600
+    },
+    {
+      "Placement": 25,
+      "Player": {
+        "FirstName": "ALEXANDER",
+        "LastName": "WANKMÜLLER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -57700
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "01000113",
+      "Result": -59300
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05100153",
+      "Result": -63500
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "JOSUA",
+        "LastName": "BÄCHLE",
+        "RepresentingNationality": "at"
+      },
+      "Result": -64500
+    },
+    {
+      "Placement": 29,
+      "Player": {
+        "FirstName": "JENIFER",
+        "LastName": "KRAWARIK",
+        "RepresentingNationality": "at"
+      },
+      "Result": -80700
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "01000107",
+      "Result": -93300
+    },
+    {
+      "Placement": 31,
+      "Player": {
+        "FirstName": "ONDREJ",
+        "LastName": "BELLAY",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -99200
+    },
+    {
+      "Placement": 32,
+      "Player": {
+        "FirstName": "MATTHIAS",
+        "LastName": "TRINKL",
+        "RepresentingNationality": "at"
+      },
+      "Result": -135600
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "17990003",
+      "Result": -141000
+    },
+    {
+      "Placement": 34,
+      "Player": {
+        "FirstName": "MATEJ",
+        "LastName": "KUČERA",
+        "RepresentingNationality": "sk"
+      },
+      "Result": -144200
+    },
+    {
+      "Placement": 35,
+      "Player": {
+        "FirstName": "DARJA",
+        "LastName": "DUJMOVIC",
+        "RepresentingNationality": "at"
+      },
+      "Result": -174100
+    },
+    {
+      "Placement": 36,
+      "Player": {
+        "FirstName": "ANJA",
+        "LastName": "BAUER",
+        "RepresentingNationality": "at"
+      },
+      "Result": -374900
+    }
+  ]
+}

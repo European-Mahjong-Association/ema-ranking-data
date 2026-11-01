@@ -1,0 +1,272 @@
+{
+  "Name": "7TH PRAGUE RIICHI RYUU IISOU 2023",
+  "Country": "cz",
+  "Ruleset": "RCR",
+  "Url": null,
+  "Place": "",
+  "Date": "2023-06-17",
+  "ToDate": "2023-06-18",
+  "DateDescription": null,
+  "NrDays": 2,
+  "NrPlayers": 48,
+  "NrCountries": 12,
+  "MersWeight": 3.5,
+  "Results": [
+    {
+      "Placement": 1,
+      "EmaNumber": "19000144",
+      "Result": 174400
+    },
+    {
+      "Placement": 2,
+      "EmaNumber": "19000093",
+      "Result": 171800
+    },
+    {
+      "Placement": 3,
+      "EmaNumber": "12990014",
+      "Result": 133700
+    },
+    {
+      "Placement": 4,
+      "EmaNumber": "04040048",
+      "Result": 126500
+    },
+    {
+      "Placement": 5,
+      "EmaNumber": "22000027",
+      "Result": 111400
+    },
+    {
+      "Placement": 6,
+      "EmaNumber": "04530001",
+      "Result": 107400
+    },
+    {
+      "Placement": 7,
+      "EmaNumber": "05100146",
+      "Result": 75400
+    },
+    {
+      "Placement": 8,
+      "EmaNumber": "05000015",
+      "Result": 68000
+    },
+    {
+      "Placement": 9,
+      "EmaNumber": "22000003",
+      "Result": 60900
+    },
+    {
+      "Placement": 10,
+      "EmaNumber": "21000043",
+      "Result": 51600
+    },
+    {
+      "Placement": 11,
+      "EmaNumber": "21000015",
+      "Result": 47400
+    },
+    {
+      "Placement": 12,
+      "EmaNumber": "21000067",
+      "Result": 39600
+    },
+    {
+      "Placement": 13,
+      "EmaNumber": "19000003",
+      "Result": 38300
+    },
+    {
+      "Placement": 14,
+      "EmaNumber": "04310012",
+      "Result": 34800
+    },
+    {
+      "Placement": 15,
+      "EmaNumber": "05100161",
+      "Result": 30200
+    },
+    {
+      "Placement": 16,
+      "EmaNumber": "02010085",
+      "Result": 29300
+    },
+    {
+      "Placement": 17,
+      "EmaNumber": "04320013",
+      "Result": 25300
+    },
+    {
+      "Placement": 18,
+      "EmaNumber": "05000032",
+      "Result": 22100
+    },
+    {
+      "Placement": 19,
+      "EmaNumber": "21000055",
+      "Result": 21200
+    },
+    {
+      "Placement": 20,
+      "Player": {
+        "FirstName": "CARRIE",
+        "LastName": "DIVIŠ",
+        "RepresentingNationality": "cz"
+      },
+      "Result": 16200
+    },
+    {
+      "Placement": 21,
+      "EmaNumber": "05000006",
+      "Result": 13200
+    },
+    {
+      "Placement": 22,
+      "EmaNumber": "21000014",
+      "Result": 12500
+    },
+    {
+      "Placement": 23,
+      "EmaNumber": "19000085",
+      "Result": 9400
+    },
+    {
+      "Placement": 24,
+      "EmaNumber": "19000067",
+      "Result": 3000
+    },
+    {
+      "Placement": 25,
+      "EmaNumber": "19000087",
+      "Result": -3100
+    },
+    {
+      "Placement": 26,
+      "EmaNumber": "19000073",
+      "Result": -9400
+    },
+    {
+      "Placement": 27,
+      "EmaNumber": "05000018",
+      "Result": -11400
+    },
+    {
+      "Placement": 28,
+      "Player": {
+        "FirstName": "ITARU",
+        "LastName": "SOGA",
+        "RepresentingNationality": "pl"
+      },
+      "Result": -12400
+    },
+    {
+      "Placement": 29,
+      "EmaNumber": "19000102",
+      "Result": -14900
+    },
+    {
+      "Placement": 30,
+      "EmaNumber": "04160081",
+      "Result": -21200
+    },
+    {
+      "Placement": 31,
+      "EmaNumber": "09990047",
+      "Result": -21600
+    },
+    {
+      "Placement": 32,
+      "EmaNumber": "11990141",
+      "Result": -26800
+    },
+    {
+      "Placement": 33,
+      "EmaNumber": "19000066",
+      "Result": -29300
+    },
+    {
+      "Placement": 34,
+      "EmaNumber": "11000006",
+      "Result": -32700
+    },
+    {
+      "Placement": 35,
+      "EmaNumber": "19000071",
+      "Result": -38600
+    },
+    {
+      "Placement": 36,
+      "EmaNumber": "04530002",
+      "Result": -63900
+    },
+    {
+      "Placement": 37,
+      "EmaNumber": "17990009",
+      "Result": -74100
+    },
+    {
+      "Placement": 38,
+      "EmaNumber": "05000004",
+      "Result": -76600
+    },
+    {
+      "Placement": 39,
+      "EmaNumber": "17990007",
+      "Result": -83400
+    },
+    {
+      "Placement": 40,
+      "EmaNumber": "17990003",
+      "Result": -94200
+    },
+    {
+      "Placement": 41,
+      "EmaNumber": "17990004",
+      "Result": -97100
+    },
+    {
+      "Placement": 42,
+      "EmaNumber": "10990082",
+      "Result": -98300
+    },
+    {
+      "Placement": 43,
+      "EmaNumber": "05000007",
+      "Result": -100600
+    },
+    {
+      "Placement": 44,
+      "Player": {
+        "FirstName": "DAVID",
+        "LastName": "HOSKOVEC",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -103500
+    },
+    {
+      "Placement": 45,
+      "EmaNumber": "05100171",
+      "Result": -114800
+    },
+    {
+      "Placement": 46,
+      "EmaNumber": "02010084",
+      "Result": -118300
+    },
+    {
+      "Placement": 47,
+      "EmaNumber": "01000147",
+      "Result": -152000
+    },
+    {
+      "Placement": 48,
+      "Player": {
+        "FirstName": "LUKÁŠ",
+        "LastName": "BILEK",
+        "RepresentingNationality": "cz"
+      },
+      "Result": -173400
+    }
+  ]
+}
