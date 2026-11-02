@@ -7,10 +7,15 @@
   "Date": "2018-03-10",
   "ToDate": "2018-03-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000049"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jasper",
-      "LastName": "GERMEYS"
+      "LastName": "Germeys"
     }
   ],
   "NrDays": 1,
@@ -26,7 +31,7 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },
@@ -55,8 +60,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "CLAUS",
-        "LastName": "CHRISTENSEN",
+        "FirstName": "Claus",
+        "LastName": "Christensen",
         "RepresentingNationality": "dk"
       },
       "Result": 18200
@@ -69,8 +74,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "TAKA",
-        "LastName": "TESHIMA",
+        "FirstName": "Taka",
+        "LastName": "Teshima",
         "RepresentingNationality": "dk"
       },
       "Result": 3700
@@ -83,8 +88,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "WEDEL JACOBSEN",
+        "FirstName": "Martin",
+        "LastName": "Wedel Jacobsen",
         "RepresentingNationality": "dk"
       },
       "Result": -19600
@@ -112,8 +117,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "SUNE",
-        "LastName": "GJEDING THOMSEN",
+        "FirstName": "Sune",
+        "LastName": "Gjeding Thomsen",
         "RepresentingNationality": "dk"
       },
       "Result": -41200
@@ -121,8 +126,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": -42900

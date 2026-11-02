@@ -7,6 +7,11 @@
   "Date": "2015-12-12",
   "ToDate": "2015-12-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Chris",
@@ -37,8 +42,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "LAURENT",
-        "LastName": "CLAUDEL",
+        "FirstName": "Laurent",
+        "LastName": "Claudel",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -65,8 +70,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "NORBERT",
-        "LastName": "LUCKHARDT",
+        "FirstName": "Norbert",
+        "LastName": "Luckhardt",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -205,8 +210,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "DOMINGO",
-        "LastName": "GARCÍA GARCÍA",
+        "FirstName": "Domingo",
+        "LastName": "García García",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -329,8 +334,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "MARTA",
-        "LastName": "SORIA CASTELLANO",
+        "FirstName": "Marta",
+        "LastName": "Soria Castellano",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -349,8 +354,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "CHRIS",
-        "LastName": "JANSSEN",
+        "FirstName": "Chris",
+        "LastName": "Janssen",
         "RepresentingNationality": "nl"
       },
       "Result": {

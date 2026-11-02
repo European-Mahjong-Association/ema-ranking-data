@@ -7,6 +7,11 @@
   "Date": "2020-02-22",
   "ToDate": "2020-02-23",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04130027"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "marco",
@@ -37,8 +42,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "LIONEL",
-        "LastName": "LEGAIE",
+        "FirstName": "Lionel",
+        "LastName": "Legaie",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -49,8 +54,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "VALENTIN",
-        "LastName": "FARESE",
+        "FirstName": "Valentin",
+        "LastName": "Farese",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -141,8 +146,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "AZIZ",
-        "LastName": "AZOUGAGH",
+        "FirstName": "Aziz",
+        "LastName": "Azougagh",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -201,8 +206,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "MIKIKO",
-        "LastName": "SUZUKI",
+        "FirstName": "Mikiko",
+        "LastName": "Suzuki",
         "RepresentingNationality": "jp"
       },
       "Result": {
@@ -397,8 +402,8 @@
     {
       "Placement": 46,
       "Player": {
-        "FirstName": "FLORA",
-        "LastName": "GIAQUINTO",
+        "FirstName": "Flora",
+        "LastName": "Giaquinto",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -625,8 +630,8 @@
     {
       "Placement": 74,
       "Player": {
-        "FirstName": "DEMETRIO",
-        "LastName": "MARINO",
+        "FirstName": "Demetrio",
+        "LastName": "Marino",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -677,8 +682,8 @@
     {
       "Placement": 80,
       "Player": {
-        "FirstName": "CHRISTOPHE",
-        "LastName": "PELLETIER",
+        "FirstName": "Christophe",
+        "LastName": "Pelletier",
         "RepresentingNationality": "fr"
       },
       "Result": {

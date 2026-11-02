@@ -7,6 +7,14 @@
   "Date": "2026-05-15",
   "ToDate": "2026-05-17",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000005"
+    },
+    {
+      "Ema": "03000192"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Katarzyna",
@@ -149,8 +157,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "BERNARD",
-        "LastName": "ANG",
+        "FirstName": "Bernard",
+        "LastName": "Ang",
         "RepresentingNationality": "sg"
       },
       "Result": {
@@ -225,8 +233,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -333,8 +341,8 @@
     {
       "Placement": 39,
       "Player": {
-        "FirstName": "CHIEW LIAN",
-        "LastName": "CHING",
+        "FirstName": "Chiew Lian",
+        "LastName": "Ching",
         "RepresentingNationality": "sg"
       },
       "Result": {
@@ -417,8 +425,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "ANNE",
-        "LastName": "SIM",
+        "FirstName": "Anne",
+        "LastName": "Sim",
         "RepresentingNationality": "sg"
       },
       "Result": {

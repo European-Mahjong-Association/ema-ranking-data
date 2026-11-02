@@ -7,6 +7,11 @@
   "Date": "2019-02-03",
   "ToDate": "2019-02-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000022"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Petter",
@@ -85,8 +90,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -121,8 +126,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "ASTRID",
-        "LastName": "DUBEDOUT",
+        "FirstName": "Astrid",
+        "LastName": "Dubedout",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -133,8 +138,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "BRIAN",
-        "LastName": "KROG",
+        "FirstName": "Brian",
+        "LastName": "Krog",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -153,7 +158,7 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },

@@ -7,6 +7,12 @@
   "Date": "2019-04-06",
   "ToDate": "2019-04-06",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Jose",
+      "LastName": "Manuel Merino"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Rudi",
@@ -101,8 +107,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "JONAS",
-        "LastName": "FRINGS",
+        "FirstName": "Jonas",
+        "LastName": "Frings",
         "RepresentingNationality": "de"
       },
       "Result": 19800
@@ -130,8 +136,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "REYLLY",
-        "LastName": "BRANDS",
+        "FirstName": "Reylly",
+        "LastName": "Brands",
         "RepresentingNationality": "nl"
       },
       "Result": 2500
@@ -224,8 +230,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "JANINE",
-        "LastName": "WIJK, VAN",
+        "FirstName": "Janine",
+        "LastName": "Wijk, van",
         "RepresentingNationality": "nl"
       },
       "Result": -51900

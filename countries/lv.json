@@ -1,11 +1,12 @@
 {
   "CountryCode": "lv",
   "Country": "Latvia",
+  "Website": "https://riichi.lv",
   "Players": [
     {
       "EmaNumber": "27000001",
-      "FirstName": "OĻEGS",
-      "LastName": "OŠMJANS",
+      "FirstName": "Oļegs",
+      "LastName": "Ošmjans",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -16,13 +17,13 @@
     },
     {
       "EmaNumber": "27000002",
-      "FirstName": "YULIIA",
-      "LastName": "ILINA"
+      "FirstName": "Yuliia",
+      "LastName": "Ilina"
     },
     {
       "EmaNumber": "27000003",
-      "FirstName": "LYNXA",
-      "LastName": "ILVES",
+      "FirstName": "Lynxa",
+      "LastName": "Ilves",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -33,8 +34,8 @@
     },
     {
       "EmaNumber": "27000004",
-      "FirstName": "DMITRII",
-      "LastName": "BELASH"
+      "FirstName": "Dmitrii",
+      "LastName": "Belash"
     }
   ]
 }

@@ -7,10 +7,21 @@
   "Date": "2024-11-02",
   "ToDate": "2024-11-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010056"
+    },
+    {
+      "Ema": "02010057"
+    },
+    {
+      "Ema": "02010061"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Diogo",
-      "LastName": "AMORES"
+      "LastName": "Amores"
     }
   ],
   "NrDays": 2,
@@ -31,8 +42,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "JOE-CALBERSON",
-        "LastName": "HUYNH",
+        "FirstName": "Joe-Calberson",
+        "LastName": "Huynh",
         "RepresentingNationality": "fr"
       },
       "Result": 132500
@@ -319,8 +330,8 @@
     {
       "Placement": 59,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

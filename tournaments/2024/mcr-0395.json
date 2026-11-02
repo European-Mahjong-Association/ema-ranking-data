@@ -7,10 +7,15 @@
   "Date": "2024-05-10",
   "ToDate": "2024-05-12",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000049"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Erwan de",
-      "LastName": "KERGOMMEAUX"
+      "LastName": "Kergommeaux"
     }
   ],
   "NrDays": 3,
@@ -94,7 +99,7 @@
       "Placement": 10,
       "Player": {
         "FirstName": "Yong",
-        "LastName": "FAI",
+        "LastName": "Fai",
         "RepresentingNationality": "sg"
       },
       "Result": {
@@ -129,7 +134,7 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "BERNARD - ANG",
+        "FirstName": "Bernard - Ang",
         "LastName": null,
         "RepresentingNationality": "sg"
       },

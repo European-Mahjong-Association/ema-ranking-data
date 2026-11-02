@@ -7,6 +7,12 @@
   "Date": "2019-04-13",
   "ToDate": "2019-04-14",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Shaun",
+      "LastName": "Drury"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Timur",
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "RUSSELL",
-        "LastName": "CHAN",
+        "FirstName": "Russell",
+        "LastName": "Chan",
         "RepresentingNationality": "gb"
       },
       "Result": 133300
@@ -30,8 +36,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "CLARKE",
+        "FirstName": "David",
+        "LastName": "Clarke",
         "RepresentingNationality": "gb"
       },
       "Result": 111700
@@ -44,8 +50,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "THOM",
-        "LastName": "DIMENT",
+        "FirstName": "Thom",
+        "LastName": "Diment",
         "RepresentingNationality": "gb"
       },
       "Result": 78300
@@ -63,8 +69,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "CARL GEORG",
-        "LastName": "HEISE",
+        "FirstName": "Carl Georg",
+        "LastName": "Heise",
         "RepresentingNationality": "gb"
       },
       "Result": 65000
@@ -112,8 +118,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "MARK",
-        "LastName": "JENKING-REES",
+        "FirstName": "Mark",
+        "LastName": "Jenking-Rees",
         "RepresentingNationality": "gb"
       },
       "Result": 21200
@@ -121,8 +127,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "MARIA",
-        "LastName": "LOWE",
+        "FirstName": "Maria",
+        "LastName": "Lowe",
         "RepresentingNationality": "gb"
       },
       "Result": 20300
@@ -130,8 +136,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "JASON",
-        "LastName": "HE",
+        "FirstName": "Jason",
+        "LastName": "He",
         "RepresentingNationality": "gb"
       },
       "Result": 18100
@@ -169,8 +175,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "DEXTER",
-        "LastName": "LOWE",
+        "FirstName": "Dexter",
+        "LastName": "Lowe",
         "RepresentingNationality": "gb"
       },
       "Result": -56800
@@ -183,8 +189,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "OLIVER",
-        "LastName": "BURROWS",
+        "FirstName": "Oliver",
+        "LastName": "Burrows",
         "RepresentingNationality": "gb"
       },
       "Result": -70700
@@ -212,8 +218,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "SELINA",
-        "LastName": "STECK",
+        "FirstName": "Selina",
+        "LastName": "Steck",
         "RepresentingNationality": "ch"
       },
       "Result": -233600

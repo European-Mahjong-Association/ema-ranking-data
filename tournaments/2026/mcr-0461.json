@@ -7,6 +7,11 @@
   "Date": "2026-06-20",
   "ToDate": "2026-06-21",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010526"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ksenia",
@@ -373,8 +378,8 @@
     {
       "Placement": 45,
       "Player": {
-        "FirstName": "SUSANNE",
-        "LastName": "BRINKMEYER",
+        "FirstName": "Susanne",
+        "LastName": "Brinkmeyer",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -561,8 +566,8 @@
     {
       "Placement": 68,
       "Player": {
-        "FirstName": "ULRIKE",
-        "LastName": "WITTMAACK",
+        "FirstName": "Ulrike",
+        "LastName": "Wittmaack",
         "RepresentingNationality": "de"
       },
       "Result": {

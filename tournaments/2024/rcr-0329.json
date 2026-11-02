@@ -7,6 +7,14 @@
   "Date": "2024-04-27",
   "ToDate": "2024-04-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010055"
+    },
+    {
+      "Ema": "02010056"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ivar",
@@ -22,7 +30,7 @@
       "Placement": 1,
       "Player": {
         "FirstName": "Yu",
-        "LastName": "KAWANASHI",
+        "LastName": "Kawanashi",
         "RepresentingNationality": "jp"
       },
       "Result": 169200
@@ -251,7 +259,7 @@
       "Placement": 46,
       "Player": {
         "FirstName": "Sora",
-        "LastName": "TOGO",
+        "LastName": "Togo",
         "RepresentingNationality": "jp"
       },
       "Result": -160000

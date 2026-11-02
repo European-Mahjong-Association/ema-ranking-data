@@ -7,10 +7,15 @@
   "Date": "2023-03-05",
   "ToDate": "2023-03-05",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000164"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Massimo",
-      "LastName": "CRIVARO"
+      "LastName": "Crivaro"
     }
   ],
   "NrDays": 1,
@@ -21,8 +26,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": 102200
@@ -95,8 +100,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "GIANLUCA",
-        "LastName": "DEBIDDA",
+        "FirstName": "Gianluca",
+        "LastName": "Debidda",
         "RepresentingNationality": "it"
       },
       "Result": -54600
@@ -104,8 +109,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "MARCO",
-        "LastName": "CAULI",
+        "FirstName": "Marco",
+        "LastName": "Cauli",
         "RepresentingNationality": "it"
       },
       "Result": -55400
@@ -113,8 +118,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "ALESSANDRO",
-        "LastName": "CIPRO",
+        "FirstName": "Alessandro",
+        "LastName": "Cipro",
         "RepresentingNationality": "it"
       },
       "Result": -58900
@@ -127,8 +132,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "LETIZIA",
-        "LastName": "DELLA CASA",
+        "FirstName": "Letizia",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": -82700

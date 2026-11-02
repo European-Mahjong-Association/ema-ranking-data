@@ -7,6 +7,12 @@
   "Date": "2018-12-01",
   "ToDate": "2018-12-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Luc",
+      "LastName": "Humbert"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Petter",
@@ -61,8 +67,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "SVEN-HENDRIK",
-        "LastName": "GUTSCHE",
+        "FirstName": "Sven-Hendrik",
+        "LastName": "Gutsche",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -321,8 +327,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "BRIGITTE",
-        "LastName": "WACHSMUTH",
+        "FirstName": "Brigitte",
+        "LastName": "Wachsmuth",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -373,8 +379,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "QUENTIN",
-        "LastName": "JAQUIER",
+        "FirstName": "Quentin",
+        "LastName": "Jaquier",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -401,8 +407,8 @@
     {
       "Placement": 47,
       "Player": {
-        "FirstName": "AURORITA",
-        "LastName": "HUNZIKER",
+        "FirstName": "Aurorita",
+        "LastName": "Hunziker",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -413,8 +419,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "TIM",
-        "LastName": "HILGER",
+        "FirstName": "Tim",
+        "LastName": "Hilger",
         "RepresentingNationality": "de"
       },
       "Result": {

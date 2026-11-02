@@ -7,6 +7,11 @@
   "Date": "2024-09-21",
   "ToDate": "2024-09-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000241"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Gherman",
@@ -191,8 +196,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "ESPEN",
-        "LastName": "NIELSEN",
+        "FirstName": "Espen",
+        "LastName": "Nielsen",
         "RepresentingNationality": "dk"
       },
       "Result": -19500

@@ -7,6 +7,18 @@
   "Date": "2023-10-21",
   "ToDate": "2023-10-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Sylvain",
+      "LastName": "Malbec"
+    },
+    {
+      "Ema": "04310048"
+    },
+    {
+      "Ema": "04160092"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Szymon",
@@ -271,7 +283,7 @@
     {
       "Placement": 51,
       "Player": {
-        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "FirstName": "Victor Savard-Arseneault",
         "LastName": null,
         "RepresentingNationality": "ca"
       },
@@ -400,8 +412,8 @@
     {
       "Placement": 76,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -405000

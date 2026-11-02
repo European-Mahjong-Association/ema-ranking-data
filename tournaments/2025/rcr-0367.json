@@ -7,10 +7,18 @@
   "Date": "2025-03-22",
   "ToDate": "2025-03-23",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000018"
+    },
+    {
+      "Ema": "16000035"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Yulong",
-      "LastName": "ZHAO"
+      "LastName": "Zhao"
     }
   ],
   "NrDays": 2,

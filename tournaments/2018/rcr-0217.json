@@ -7,10 +7,15 @@
   "Date": "2018-12-16",
   "ToDate": "2018-12-16",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04040057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Alan",
-      "LastName": "COLI"
+      "LastName": "Coli"
     }
   ],
   "NrDays": 1,
@@ -41,8 +46,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": 39900
@@ -75,8 +80,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "PARIDE",
-        "LastName": "BENINI",
+        "FirstName": "Paride",
+        "LastName": "Benini",
         "RepresentingNationality": "it"
       },
       "Result": -10700
@@ -84,8 +89,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "DONAGHY",
+        "FirstName": "Michael",
+        "LastName": "Donaghy",
         "RepresentingNationality": "gb"
       },
       "Result": -14900
@@ -108,8 +113,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "RAMANPREET",
-        "LastName": "SINGH",
+        "FirstName": "Ramanpreet",
+        "LastName": "Singh",
         "RepresentingNationality": "it"
       },
       "Result": -45100
@@ -122,8 +127,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -55300

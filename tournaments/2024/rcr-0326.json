@@ -7,6 +7,14 @@
   "Date": "2024-04-06",
   "ToDate": "2024-04-07",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05100166"
+    },
+    {
+      "Ema": "05100182"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Nathan",
@@ -146,8 +154,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "BENJAMIN",
-        "LastName": "SAVOY",
+        "FirstName": "Benjamin",
+        "LastName": "Savoy",
         "RepresentingNationality": "gb"
       },
       "Result": 28800
@@ -375,8 +383,8 @@
     {
       "Placement": 71,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

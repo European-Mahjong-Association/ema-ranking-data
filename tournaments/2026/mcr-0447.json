@@ -7,10 +7,15 @@
   "Date": "2026-02-21",
   "ToDate": "2026-02-21",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010727"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Michel",
-      "LastName": "VAN DAMME"
+      "LastName": "Van Damme"
     }
   ],
   "NrDays": 1,
@@ -517,8 +522,8 @@
     {
       "Placement": 63,
       "Player": {
-        "FirstName": "HANS",
-        "LastName": "VAN DER POEL",
+        "FirstName": "Hans",
+        "LastName": "Van der Poel",
         "RepresentingNationality": "nl"
       },
       "Result": {

@@ -7,6 +7,11 @@
   "Date": "2026-05-15",
   "ToDate": "2026-05-17",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010436"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Lies",
@@ -66,8 +71,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "SRNA",
+        "FirstName": "Martin",
+        "LastName": "Srna",
         "RepresentingNationality": "cz"
       },
       "Result": 110400
@@ -140,8 +145,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "ALEXANDRE",
-        "LastName": "SANCHEZ FALCON",
+        "FirstName": "Alexandre",
+        "LastName": "Sanchez Falcon",
         "RepresentingNationality": "be"
       },
       "Result": 47100
@@ -319,8 +324,8 @@
     {
       "Placement": 59,
       "Player": {
-        "FirstName": "KAZUYA",
-        "LastName": "CHIHARA",
+        "FirstName": "Kazuya",
+        "LastName": "Chihara",
         "RepresentingNationality": "jp"
       },
       "Result": -46100

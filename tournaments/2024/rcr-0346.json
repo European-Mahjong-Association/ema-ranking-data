@@ -7,6 +7,18 @@
   "Date": "2024-09-14",
   "ToDate": "2024-09-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    },
+    {
+      "FirstName": "Sergio",
+      "LastName": "Matos Lima"
+    },
+    {
+      "Ema": "19000011"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Raúl",
@@ -424,8 +436,8 @@
     {
       "Placement": 80,
       "Player": {
-        "FirstName": "KUNYAN",
-        "LastName": "ZHAO",
+        "FirstName": "Kunyan",
+        "LastName": "Zhao",
         "RepresentingNationality": "at"
       },
       "Result": -138400

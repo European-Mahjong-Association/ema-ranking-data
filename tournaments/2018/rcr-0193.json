@@ -7,10 +7,18 @@
   "Date": "2018-06-10",
   "ToDate": "2018-06-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04040057"
+    },
+    {
+      "Ema": "07000114"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Cédric",
-      "LastName": "AGUERRE"
+      "LastName": "Aguerre"
     }
   ],
   "NrDays": 1,
@@ -26,8 +34,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "LORENZO",
-        "LastName": "DELLA CASA",
+        "FirstName": "Lorenzo",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": 122600
@@ -60,8 +68,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "MINGXI",
-        "LastName": "LIANG",
+        "FirstName": "Mingxi",
+        "LastName": "Liang",
         "RepresentingNationality": "fr"
       },
       "Result": 22800
@@ -94,8 +102,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "PARIDE",
-        "LastName": "BENINI",
+        "FirstName": "Paride",
+        "LastName": "Benini",
         "RepresentingNationality": "it"
       },
       "Result": -10700
@@ -128,8 +136,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -39100
@@ -137,8 +145,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "IVAN",
-        "LastName": "COLI",
+        "FirstName": "Ivan",
+        "LastName": "Coli",
         "RepresentingNationality": "it"
       },
       "Result": -41100
@@ -161,8 +169,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -61800
@@ -170,8 +178,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "LETIZIA",
-        "LastName": "DELLA CASA",
+        "FirstName": "Letizia",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": -66800

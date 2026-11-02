@@ -7,6 +7,11 @@
   "Date": "2019-07-26",
   "ToDate": "2019-07-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05100153"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Dimphy",
@@ -61,8 +66,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "RUSSELL",
-        "LastName": "CHAN",
+        "FirstName": "Russell",
+        "LastName": "Chan",
         "RepresentingNationality": "gb"
       },
       "Result": {
@@ -145,8 +150,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "TONY",
-        "LastName": "HALEY",
+        "FirstName": "Tony",
+        "LastName": "Haley",
         "RepresentingNationality": "gb"
       },
       "Result": {
@@ -197,8 +202,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "BAPTISTE",
-        "LastName": "EREAU",
+        "FirstName": "Baptiste",
+        "LastName": "Ereau",
         "RepresentingNationality": "fr"
       },
       "Result": {

@@ -7,6 +7,11 @@
   "Date": "2026-02-14",
   "ToDate": "2026-02-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000066"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ivar",
@@ -326,8 +331,8 @@
     {
       "Placement": 62,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000
@@ -335,8 +340,8 @@
     {
       "Placement": 63,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

@@ -7,10 +7,15 @@
   "Date": "2023-11-05",
   "ToDate": "2023-11-05",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04030125"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "William",
-      "LastName": "CHU-FUK-SHIAN"
+      "LastName": "Chu-Fuk-Shian"
     }
   ],
   "NrDays": 1,

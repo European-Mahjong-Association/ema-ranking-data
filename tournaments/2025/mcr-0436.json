@@ -7,10 +7,15 @@
   "Date": "2025-10-18",
   "ToDate": "2025-10-18",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04090055"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sérgio",
-      "LastName": "MATOS LIMA"
+      "LastName": "Matos Lima"
     }
   ],
   "NrDays": 1,
@@ -173,8 +178,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

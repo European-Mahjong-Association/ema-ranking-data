@@ -7,10 +7,21 @@
   "Date": "2026-06-06",
   "ToDate": "2026-06-07",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05100171"
+    },
+    {
+      "Ema": "05000004"
+    },
+    {
+      "Ema": "04160092"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anthony",
-      "LastName": "BARBIER"
+      "LastName": "Barbier"
     }
   ],
   "NrDays": 2,
@@ -136,8 +147,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "LONG",
-        "LastName": "QIAN",
+        "FirstName": "Long",
+        "LastName": "Qian",
         "RepresentingNationality": "de"
       },
       "Result": 46100
@@ -170,8 +181,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "ALEXANDRE",
-        "LastName": "KNIHAR",
+        "FirstName": "Alexandre",
+        "LastName": "Knihar",
         "RepresentingNationality": "de"
       },
       "Result": 34900
@@ -204,8 +215,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "VANESSA",
-        "LastName": "RAKOWSKI",
+        "FirstName": "Vanessa",
+        "LastName": "Rakowski",
         "RepresentingNationality": "de"
       },
       "Result": 19500
@@ -323,8 +334,8 @@
     {
       "Placement": 59,
       "Player": {
-        "FirstName": "JUMPEI",
-        "LastName": "TAKAHASHI",
+        "FirstName": "Jumpei",
+        "LastName": "Takahashi",
         "RepresentingNationality": "de"
       },
       "Result": -31500
@@ -342,8 +353,8 @@
     {
       "Placement": 62,
       "Player": {
-        "FirstName": "KEVIN",
-        "LastName": "TRAN",
+        "FirstName": "Kevin",
+        "LastName": "Tran",
         "RepresentingNationality": "gb"
       },
       "Result": -35100
@@ -366,8 +377,8 @@
     {
       "Placement": 66,
       "Player": {
-        "FirstName": "FREDERIC",
-        "LastName": "FAULKNER",
+        "FirstName": "Frederic",
+        "LastName": "Faulkner",
         "RepresentingNationality": "us"
       },
       "Result": -49400
@@ -465,8 +476,8 @@
     {
       "Placement": 85,
       "Player": {
-        "FirstName": "HEMALI",
-        "LastName": "PARMAR",
+        "FirstName": "Hemali",
+        "LastName": "Parmar",
         "RepresentingNationality": "de"
       },
       "Result": -120000
@@ -504,8 +515,8 @@
     {
       "Placement": 92,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

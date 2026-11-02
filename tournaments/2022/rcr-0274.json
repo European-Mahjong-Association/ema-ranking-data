@@ -7,6 +7,17 @@
   "Date": "2022-10-15",
   "ToDate": "2022-10-16",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000125"
+    },
+    {
+      "Ema": "01000127"
+    },
+    {
+      "Ema": "01000053"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Manuel",
@@ -66,8 +77,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "ITARU",
-        "LastName": "SOGA",
+        "FirstName": "Itaru",
+        "LastName": "Soga",
         "RepresentingNationality": "pl"
       },
       "Result": 21700
@@ -95,8 +106,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "ZOUBEK",
+        "FirstName": "Florian",
+        "LastName": "Zoubek",
         "RepresentingNationality": "at"
       },
       "Result": -5500
@@ -119,8 +130,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "SUSANNE",
-        "LastName": "SCHWARZ",
+        "FirstName": "Susanne",
+        "LastName": "Schwarz",
         "RepresentingNationality": "at"
       },
       "Result": -86400
@@ -143,8 +154,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "DENIZ",
-        "LastName": "ECKERT",
+        "FirstName": "Deniz",
+        "LastName": "Eckert",
         "RepresentingNationality": "de"
       },
       "Result": -129700
@@ -152,8 +163,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

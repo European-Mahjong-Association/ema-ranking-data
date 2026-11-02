@@ -7,6 +7,14 @@
   "Date": "2026-05-08",
   "ToDate": "2026-05-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04030022"
+    },
+    {
+      "Ema": "04030124"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Joke",
@@ -573,8 +581,8 @@
     {
       "Placement": 70,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -585,8 +593,8 @@
     {
       "Placement": 71,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -597,8 +605,8 @@
     {
       "Placement": 72,
       "Player": {
-        "FirstName": "PLAYER 3",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 3",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

@@ -7,6 +7,15 @@
   "Date": "2012-09-15",
   "ToDate": "2012-09-16",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990011"
+    },
+    {
+      "FirstName": "Kai",
+      "LastName": "Nilsson"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Tina",
@@ -21,8 +30,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "FAARTOFT",
+        "FirstName": "Martin",
+        "LastName": "Faartoft",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -33,8 +42,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "ERIK",
-        "LastName": "LEIJONMARCK",
+        "FirstName": "Erik",
+        "LastName": "Leijonmarck",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -93,8 +102,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "PER",
-        "LastName": "STARBÄCK",
+        "FirstName": "Per",
+        "LastName": "Starbäck",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -105,8 +114,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "HANS",
-        "LastName": "WIKSTRÖM",
+        "FirstName": "Hans",
+        "LastName": "Wikström",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -125,8 +134,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "JAKOB",
-        "LastName": "DAHLSTRÖM",
+        "FirstName": "Jakob",
+        "LastName": "Dahlström",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -137,8 +146,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "MARIE",
-        "LastName": "NORÉN",
+        "FirstName": "Marie",
+        "LastName": "Norén",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -149,8 +158,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "THOMAS",
-        "LastName": "KRAGH",
+        "FirstName": "Thomas",
+        "LastName": "Kragh",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -161,8 +170,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "HENRIK",
-        "LastName": "AUGUSTSSON",
+        "FirstName": "Henrik",
+        "LastName": "Augustsson",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -181,8 +190,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "JOHANNA",
-        "LastName": "TILLBERG",
+        "FirstName": "Johanna",
+        "LastName": "Tillberg",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -193,8 +202,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "SAM",
-        "LastName": "WENELL",
+        "FirstName": "Sam",
+        "LastName": "Wenell",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -205,8 +214,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "SOFIA",
-        "LastName": "ZETTERMARK",
+        "FirstName": "Sofia",
+        "LastName": "Zettermark",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -217,8 +226,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "MALIN",
-        "LastName": "FERMSTAD",
+        "FirstName": "Malin",
+        "LastName": "Fermstad",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -229,8 +238,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "JON",
-        "LastName": "HENRIKSSON",
+        "FirstName": "Jon",
+        "LastName": "Henriksson",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -249,8 +258,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "EMIL",
-        "LastName": "SVENSSON",
+        "FirstName": "Emil",
+        "LastName": "Svensson",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -261,8 +270,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "MAGNUS",
-        "LastName": "CONRADI",
+        "FirstName": "Magnus",
+        "LastName": "Conradi",
         "RepresentingNationality": "se"
       },
       "Result": {

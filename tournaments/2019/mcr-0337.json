@@ -7,10 +7,18 @@
   "Date": "2019-09-21",
   "ToDate": "2019-09-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000009"
+    },
+    {
+      "Ema": "04040057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Christiane D",
-      "LastName": "ANGELO"
+      "LastName": "Angelo"
     }
   ],
   "NrDays": 2,
@@ -61,8 +69,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "ROMANA",
-        "LastName": "DIVJAK",
+        "FirstName": "Romana",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -89,8 +97,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "PÁL",
-        "LastName": "HALÁSZ",
+        "FirstName": "Pál",
+        "LastName": "Halász",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -221,8 +229,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "KLÁRA",
-        "LastName": "TAKÁCSNÉ LOWINGER",
+        "FirstName": "Klára",
+        "LastName": "Takácsné Lowinger",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -249,7 +257,7 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "CHEN WANG",
+        "FirstName": "Chen Wang",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -277,8 +285,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "DORIS",
-        "LastName": "SALLMUTTER",
+        "FirstName": "Doris",
+        "LastName": "Sallmutter",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -297,8 +305,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "MÁRTA RÓZSA",
-        "LastName": "BERI",
+        "FirstName": "Márta Rózsa",
+        "LastName": "Beri",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -365,8 +373,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "TONI",
-        "LastName": "ALDRIAN",
+        "FirstName": "Toni",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -385,8 +393,8 @@
     {
       "Placement": 43,
       "Player": {
-        "FirstName": "FELIX",
-        "LastName": "DIVJAK",
+        "FirstName": "Felix",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -405,8 +413,8 @@
     {
       "Placement": 45,
       "Player": {
-        "FirstName": "ATTILA",
-        "LastName": "NEMETH",
+        "FirstName": "Attila",
+        "LastName": "Nemeth",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -433,8 +441,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "MARIA",
-        "LastName": "ALDRIAN",
+        "FirstName": "Maria",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {

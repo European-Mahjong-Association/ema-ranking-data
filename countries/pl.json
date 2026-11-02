@@ -1,11 +1,13 @@
 {
   "CountryCode": "pl",
   "Country": "Poland",
+  "Organisation": "Polska Liga Mahjonga",
+  "Website": "http://mahjong.waw.pl/",
   "Players": [
     {
       "EmaNumber": "19000001",
-      "FirstName": "DOMINIK",
-      "LastName": "KOLENDA",
+      "FirstName": "Dominik",
+      "LastName": "Kolenda",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -16,18 +18,18 @@
     },
     {
       "EmaNumber": "19000003",
-      "FirstName": "MATEUSZ",
-      "LastName": "WOŹNIAK"
+      "FirstName": "Mateusz",
+      "LastName": "Woźniak"
     },
     {
       "EmaNumber": "19000006",
-      "FirstName": "BARTOSZ",
-      "LastName": "ŻUK"
+      "FirstName": "Bartosz",
+      "LastName": "Żuk"
     },
     {
       "EmaNumber": "19000007",
-      "FirstName": "MARIA",
-      "LastName": "BARANOWSKA",
+      "FirstName": "Maria",
+      "LastName": "Baranowska",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -38,8 +40,8 @@
     },
     {
       "EmaNumber": "19000011",
-      "FirstName": "SZYMON",
-      "LastName": "LASOTA",
+      "FirstName": "Szymon",
+      "LastName": "Lasota",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -50,23 +52,23 @@
     },
     {
       "EmaNumber": "19000031",
-      "FirstName": "JUSTYNA",
-      "LastName": "KOLENDA"
+      "FirstName": "Justyna",
+      "LastName": "Kolenda"
     },
     {
       "EmaNumber": "19000032",
-      "FirstName": "JACEK",
-      "LastName": "BORYSIAK"
+      "FirstName": "Jacek",
+      "LastName": "Borysiak"
     },
     {
       "EmaNumber": "19000035",
-      "FirstName": "DOMINIK",
-      "LastName": "JARNO"
+      "FirstName": "Dominik",
+      "LastName": "Jarno"
     },
     {
       "EmaNumber": "19000039",
-      "FirstName": "ARTUR",
-      "LastName": "LIBICH",
+      "FirstName": "Artur",
+      "LastName": "Libich",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -77,8 +79,8 @@
     },
     {
       "EmaNumber": "19000041",
-      "FirstName": "PAWEŁ",
-      "LastName": "POLAŃSKI",
+      "FirstName": "Paweł",
+      "LastName": "Polański",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -89,28 +91,28 @@
     },
     {
       "EmaNumber": "19000042",
-      "FirstName": "SONIA",
-      "LastName": "ROSA"
+      "FirstName": "Sonia",
+      "LastName": "Rosa"
     },
     {
       "EmaNumber": "19000049",
-      "FirstName": "MIROSŁAW",
-      "LastName": "MAJER"
+      "FirstName": "Mirosław",
+      "LastName": "Majer"
     },
     {
       "EmaNumber": "19000062",
-      "FirstName": "JOANNA",
-      "LastName": "PATALON"
+      "FirstName": "Joanna",
+      "LastName": "Patalon"
     },
     {
       "EmaNumber": "19000063",
-      "FirstName": "JUSTYNA",
-      "LastName": "RAK"
+      "FirstName": "Justyna",
+      "LastName": "Rak"
     },
     {
       "EmaNumber": "19000066",
-      "FirstName": "JAKUB",
-      "LastName": "BACIC",
+      "FirstName": "Jakub",
+      "LastName": "Bacic",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -121,13 +123,13 @@
     },
     {
       "EmaNumber": "19000067",
-      "FirstName": "MARTA",
-      "LastName": "BACIC"
+      "FirstName": "Marta",
+      "LastName": "Bacic"
     },
     {
       "EmaNumber": "19000071",
-      "FirstName": "NINA",
-      "LastName": "POPŁAWSKA-LIMA",
+      "FirstName": "Nina",
+      "LastName": "Popławska-Lima",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -138,8 +140,8 @@
     },
     {
       "EmaNumber": "19000073",
-      "FirstName": "ŁUKASZ",
-      "LastName": "GRZYBOWSKI",
+      "FirstName": "Łukasz",
+      "LastName": "Grzybowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -150,8 +152,8 @@
     },
     {
       "EmaNumber": "19000077",
-      "FirstName": "MIŁOSZ",
-      "LastName": "MELLER",
+      "FirstName": "Miłosz",
+      "LastName": "Meller",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -162,18 +164,18 @@
     },
     {
       "EmaNumber": "19000080",
-      "FirstName": "KATARZYNA",
-      "LastName": "CHABELSKA"
+      "FirstName": "Katarzyna",
+      "LastName": "Chabelska"
     },
     {
       "EmaNumber": "19000082",
-      "FirstName": "MARCIN",
-      "LastName": "WITKOWSKI"
+      "FirstName": "Marcin",
+      "LastName": "Witkowski"
     },
     {
       "EmaNumber": "19000085",
-      "FirstName": "TOMASZ",
-      "LastName": "POWĘZKA",
+      "FirstName": "Tomasz",
+      "LastName": "Powęzka",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -184,8 +186,8 @@
     },
     {
       "EmaNumber": "19000087",
-      "FirstName": "OLGA",
-      "LastName": "IGARASHI",
+      "FirstName": "Olga",
+      "LastName": "Igarashi",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -196,68 +198,68 @@
     },
     {
       "EmaNumber": "19000091",
-      "FirstName": "TATSUYA",
-      "LastName": "IGARASHI"
+      "FirstName": "Tatsuya",
+      "LastName": "Igarashi"
     },
     {
       "EmaNumber": "19000092",
-      "FirstName": "RADOSŁAW",
-      "LastName": "JANGAS"
+      "FirstName": "Radosław",
+      "LastName": "Jangas"
     },
     {
       "EmaNumber": "19000093",
-      "FirstName": "ROMAN",
-      "LastName": "POWĘZKA"
+      "FirstName": "Roman",
+      "LastName": "Powęzka"
     },
     {
       "EmaNumber": "19000101",
-      "FirstName": "JOLANTA",
-      "LastName": "LIBERSKA-ADAMCZEWSKA"
+      "FirstName": "Jolanta",
+      "LastName": "Liberska-Adamczewska"
     },
     {
       "EmaNumber": "19000102",
-      "FirstName": "MARTYNA",
-      "LastName": "JĘDRYCZKA"
+      "FirstName": "Martyna",
+      "LastName": "Jędryczka"
     },
     {
       "EmaNumber": "19000105",
-      "FirstName": "BARTOSZ",
-      "LastName": "TOTA"
+      "FirstName": "Bartosz",
+      "LastName": "Tota"
     },
     {
       "EmaNumber": "19000111",
-      "FirstName": "PAWEŁ",
-      "LastName": "KRUK"
+      "FirstName": "Paweł",
+      "LastName": "Kruk"
     },
     {
       "EmaNumber": "19000112",
-      "FirstName": "JĘDRZEJ",
-      "LastName": "ADAMCZEWSKI"
+      "FirstName": "Jędrzej",
+      "LastName": "Adamczewski"
     },
     {
       "EmaNumber": "19000113",
-      "FirstName": "KOSMA",
-      "LastName": "KOTSCHMARÓW"
+      "FirstName": "Kosma",
+      "LastName": "Kotschmarów"
     },
     {
       "EmaNumber": "19000120",
-      "FirstName": "ADRIAN",
-      "LastName": "FORNALIK"
+      "FirstName": "Adrian",
+      "LastName": "Fornalik"
     },
     {
       "EmaNumber": "19000122",
-      "FirstName": "TADEUSZ",
-      "LastName": "MAKUCH"
+      "FirstName": "Tadeusz",
+      "LastName": "Makuch"
     },
     {
       "EmaNumber": "19000124",
-      "FirstName": "BARTŁOMIEJ",
-      "LastName": "ŻOK"
+      "FirstName": "Bartłomiej",
+      "LastName": "Żok"
     },
     {
       "EmaNumber": "19000129",
-      "FirstName": "MATEUSZ",
-      "LastName": "MAĆKOWSKI",
+      "FirstName": "Mateusz",
+      "LastName": "Maćkowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -268,13 +270,13 @@
     },
     {
       "EmaNumber": "19000130",
-      "FirstName": "RAFAŁ",
-      "LastName": "BURCZYŃSKI"
+      "FirstName": "Rafał",
+      "LastName": "Burczyński"
     },
     {
       "EmaNumber": "19000136",
-      "FirstName": "ŁUKASZ",
-      "LastName": "GOSK",
+      "FirstName": "Łukasz",
+      "LastName": "Gosk",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -285,13 +287,13 @@
     },
     {
       "EmaNumber": "19000139",
-      "FirstName": "MAREK",
-      "LastName": "MINIAS"
+      "FirstName": "Marek",
+      "LastName": "Minias"
     },
     {
       "EmaNumber": "19000140",
-      "FirstName": "SZYMON",
-      "LastName": "NOWICZ",
+      "FirstName": "Szymon",
+      "LastName": "Nowicz",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -302,8 +304,8 @@
     },
     {
       "EmaNumber": "19000141",
-      "FirstName": "JACEK",
-      "LastName": "SPYCHAŁA",
+      "FirstName": "Jacek",
+      "LastName": "Spychała",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -314,18 +316,18 @@
     },
     {
       "EmaNumber": "19000143",
-      "FirstName": "LUNA",
-      "LastName": "ŚWIĄTEK"
+      "FirstName": "Luna",
+      "LastName": "Świątek"
     },
     {
       "EmaNumber": "19000144",
-      "FirstName": "URSZULA",
-      "LastName": "SZUDLICH"
+      "FirstName": "Urszula",
+      "LastName": "Szudlich"
     },
     {
       "EmaNumber": "19000145",
-      "FirstName": "JAKUB",
-      "LastName": "TITOW",
+      "FirstName": "Jakub",
+      "LastName": "Titow",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -336,8 +338,8 @@
     },
     {
       "EmaNumber": "19000149",
-      "FirstName": "KONRAD",
-      "LastName": "GÓRKA",
+      "FirstName": "Konrad",
+      "LastName": "Górka",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -348,8 +350,8 @@
     },
     {
       "EmaNumber": "19000152",
-      "FirstName": "JAKUB",
-      "LastName": "CZARKOWSKI",
+      "FirstName": "Jakub",
+      "LastName": "Czarkowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -360,18 +362,18 @@
     },
     {
       "EmaNumber": "19000153",
-      "FirstName": "KONRAD",
-      "LastName": "OSTROWSKI"
+      "FirstName": "Konrad",
+      "LastName": "Ostrowski"
     },
     {
       "EmaNumber": "19000154",
-      "FirstName": "BARTOSZ",
-      "LastName": "GAŁECKI"
+      "FirstName": "Bartosz",
+      "LastName": "Gałecki"
     },
     {
       "EmaNumber": "19000155",
-      "FirstName": "FABIEN",
-      "LastName": "SACHA",
+      "FirstName": "Fabien",
+      "LastName": "Sacha",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -382,13 +384,13 @@
     },
     {
       "EmaNumber": "19000156",
-      "FirstName": "JAKUB",
-      "LastName": "ROGALA"
+      "FirstName": "Jakub",
+      "LastName": "Rogala"
     },
     {
       "EmaNumber": "19000157",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "DĄBROWSKI",
+      "FirstName": "Krzysztof",
+      "LastName": "Dąbrowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -399,38 +401,38 @@
     },
     {
       "EmaNumber": "19000160",
-      "FirstName": "RADOSŁAW",
-      "LastName": "BORZYM"
+      "FirstName": "Radosław",
+      "LastName": "Borzym"
     },
     {
       "EmaNumber": "19000162",
-      "FirstName": "JAKUB",
-      "LastName": "CIEŚLIK"
+      "FirstName": "Jakub",
+      "LastName": "Cieślik"
     },
     {
       "EmaNumber": "19000167",
-      "FirstName": "PAVEL",
-      "LastName": "DRUZHNIN"
+      "FirstName": "Pavel",
+      "LastName": "Druzhnin"
     },
     {
       "EmaNumber": "19000168",
-      "FirstName": "MICHAŁ",
-      "LastName": "TKACZYK"
+      "FirstName": "Michał",
+      "LastName": "Tkaczyk"
     },
     {
       "EmaNumber": "19000169",
-      "FirstName": "KENJI",
-      "LastName": "ISAKA"
+      "FirstName": "Kenji",
+      "LastName": "Isaka"
     },
     {
       "EmaNumber": "19000170",
-      "FirstName": "SHU",
-      "LastName": "HASEGAWA"
+      "FirstName": "Shu",
+      "LastName": "Hasegawa"
     },
     {
       "EmaNumber": "19000171",
-      "FirstName": "MICHAŁ",
-      "LastName": "WALISZEWSKI",
+      "FirstName": "Michał",
+      "LastName": "Waliszewski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -441,13 +443,13 @@
     },
     {
       "EmaNumber": "19000174",
-      "FirstName": "KONRAD",
-      "LastName": "MARCINIAK"
+      "FirstName": "Konrad",
+      "LastName": "Marciniak"
     },
     {
       "EmaNumber": "19000175",
-      "FirstName": "ALEKSANDER",
-      "LastName": "ORLIKOWSKI",
+      "FirstName": "Aleksander",
+      "LastName": "Orlikowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -458,158 +460,158 @@
     },
     {
       "EmaNumber": "19000179",
-      "FirstName": "DOMINIK",
-      "LastName": "PAWELEC"
+      "FirstName": "Dominik",
+      "LastName": "Pawelec"
     },
     {
       "EmaNumber": "19000180",
-      "FirstName": "JAKUB",
-      "LastName": "SIEJAK"
+      "FirstName": "Jakub",
+      "LastName": "Siejak"
     },
     {
       "EmaNumber": "19000181",
-      "FirstName": "JULIA",
-      "LastName": "MUSIALSKA"
+      "FirstName": "Julia",
+      "LastName": "Musialska"
     },
     {
       "EmaNumber": "19000182",
-      "FirstName": "MACIEJ",
-      "LastName": "SZOSTAK"
+      "FirstName": "Maciej",
+      "LastName": "Szostak"
     },
     {
       "EmaNumber": "19000184",
-      "FirstName": "MARTA",
-      "LastName": "KOCHAŃSKA"
+      "FirstName": "Marta",
+      "LastName": "Kochańska"
     },
     {
       "EmaNumber": "19000185",
-      "FirstName": "TOMASZ",
-      "LastName": "NAPIERAŁA"
+      "FirstName": "Tomasz",
+      "LastName": "Napierała"
     },
     {
       "EmaNumber": "19000186",
-      "FirstName": "JULIA",
-      "LastName": "JAROMIN"
+      "FirstName": "Julia",
+      "LastName": "Jaromin"
     },
     {
       "EmaNumber": "19000187",
-      "FirstName": "ANKA",
-      "LastName": "SZATAN"
+      "FirstName": "Anka",
+      "LastName": "Szatan"
     },
     {
       "EmaNumber": "19000189",
-      "FirstName": "MONIKA",
-      "LastName": "NOWAK"
+      "FirstName": "Monika",
+      "LastName": "Nowak"
     },
     {
       "EmaNumber": "19000190",
-      "FirstName": "MICHAŁ",
-      "LastName": "ANDRZEJEWSKI"
+      "FirstName": "Michał",
+      "LastName": "Andrzejewski"
     },
     {
       "EmaNumber": "19000191",
-      "FirstName": "MATEUSZ",
-      "LastName": "WIECZOREK"
+      "FirstName": "Mateusz",
+      "LastName": "Wieczorek"
     },
     {
       "EmaNumber": "19000192",
-      "FirstName": "JACEK",
-      "LastName": "KOSMA"
+      "FirstName": "Jacek",
+      "LastName": "Kosma"
     },
     {
       "EmaNumber": "19000193",
-      "FirstName": "KAROLINA",
-      "LastName": "HORBACZEWSKA"
+      "FirstName": "Karolina",
+      "LastName": "Horbaczewska"
     },
     {
       "EmaNumber": "19000194",
-      "FirstName": "DAWID",
-      "LastName": "KAMIŃSKI"
+      "FirstName": "Dawid",
+      "LastName": "Kamiński"
     },
     {
       "EmaNumber": "19000195",
-      "FirstName": "IWONA",
-      "LastName": "BOBREK"
+      "FirstName": "Iwona",
+      "LastName": "Bobrek"
     },
     {
       "EmaNumber": "19000196",
-      "FirstName": "MATEUSZ",
-      "LastName": "KAMIŃSKI"
+      "FirstName": "Mateusz",
+      "LastName": "Kamiński"
     },
     {
       "EmaNumber": "19000197",
-      "FirstName": "RAFAŁ",
-      "LastName": "KINDZIERSKI"
+      "FirstName": "Rafał",
+      "LastName": "Kindzierski"
     },
     {
       "EmaNumber": "19000198",
-      "FirstName": "ALEX",
-      "LastName": "GRAD"
+      "FirstName": "Alex",
+      "LastName": "Grad"
     },
     {
       "EmaNumber": "19000199",
-      "FirstName": "ALEKSANDRA",
-      "LastName": "MALARZ"
+      "FirstName": "Aleksandra",
+      "LastName": "Malarz"
     },
     {
       "EmaNumber": "19000200",
-      "FirstName": "PAULINA",
-      "LastName": "KAKUBA"
+      "FirstName": "Paulina",
+      "LastName": "Kakuba"
     },
     {
       "EmaNumber": "19000201",
-      "FirstName": "TOMASZ",
-      "LastName": "DĄBSKI"
+      "FirstName": "Tomasz",
+      "LastName": "Dąbski"
     },
     {
       "EmaNumber": "19000202",
-      "FirstName": "JAKUB",
-      "LastName": "SZPYRA"
+      "FirstName": "Jakub",
+      "LastName": "Szpyra"
     },
     {
       "EmaNumber": "19000203",
-      "FirstName": "MACIEJ",
-      "LastName": "WRZEŚNIEWSKI"
+      "FirstName": "Maciej",
+      "LastName": "Wrześniewski"
     },
     {
       "EmaNumber": "19000204",
-      "FirstName": "GRZEGORZ",
-      "LastName": "TKACZYK"
+      "FirstName": "Grzegorz",
+      "LastName": "Tkaczyk"
     },
     {
       "EmaNumber": "19000206",
-      "FirstName": "MARIUSZ",
-      "LastName": "KRAUSE"
+      "FirstName": "Mariusz",
+      "LastName": "Krause"
     },
     {
       "EmaNumber": "19000207",
-      "FirstName": "MARTA",
-      "LastName": "GRAJKOWSKA"
+      "FirstName": "Marta",
+      "LastName": "Grajkowska"
     },
     {
       "EmaNumber": "19000208",
-      "FirstName": "HUBERT",
-      "LastName": "ŻMURKO"
+      "FirstName": "Hubert",
+      "LastName": "Żmurko"
     },
     {
       "EmaNumber": "19000209",
-      "FirstName": "MARCIN",
-      "LastName": "KUREK"
+      "FirstName": "Marcin",
+      "LastName": "Kurek"
     },
     {
       "EmaNumber": "19000210",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "BARTKOWIAK"
+      "FirstName": "Krzysztof",
+      "LastName": "Bartkowiak"
     },
     {
       "EmaNumber": "19000211",
-      "FirstName": "JAKUB",
-      "LastName": "GIECKO"
+      "FirstName": "Jakub",
+      "LastName": "Giecko"
     },
     {
       "EmaNumber": "19000212",
-      "FirstName": "MACIEJ",
-      "LastName": "HUDY",
+      "FirstName": "Maciej",
+      "LastName": "Hudy",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -620,18 +622,18 @@
     },
     {
       "EmaNumber": "19000213",
-      "FirstName": "ŁUKASZ",
-      "LastName": "KAMIŃSKI"
+      "FirstName": "Łukasz",
+      "LastName": "Kamiński"
     },
     {
       "EmaNumber": "19000214",
-      "FirstName": "RAFAŁ",
-      "LastName": "KOSTECKI"
+      "FirstName": "Rafał",
+      "LastName": "Kostecki"
     },
     {
       "EmaNumber": "19000215",
-      "FirstName": "MICHAŁ",
-      "LastName": "ŁEPIK",
+      "FirstName": "Michał",
+      "LastName": "Łepik",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -642,208 +644,208 @@
     },
     {
       "EmaNumber": "19000216",
-      "FirstName": "FILIP",
-      "LastName": "MUSIAŁ"
+      "FirstName": "Filip",
+      "LastName": "Musiał"
     },
     {
       "EmaNumber": "19000217",
-      "FirstName": "WIKTOR",
-      "LastName": "PATKOWSKI"
+      "FirstName": "Wiktor",
+      "LastName": "Patkowski"
     },
     {
       "EmaNumber": "19000218",
-      "FirstName": "SEBASTIAN",
-      "LastName": "SZTABA"
+      "FirstName": "Sebastian",
+      "LastName": "Sztaba"
     },
     {
       "EmaNumber": "19000219",
-      "FirstName": "NINA",
-      "LastName": "WOŹNIAK"
+      "FirstName": "Nina",
+      "LastName": "Woźniak"
     },
     {
       "EmaNumber": "19000220",
-      "FirstName": "KAROLINA",
-      "LastName": "BAJOR"
+      "FirstName": "Karolina",
+      "LastName": "Bajor"
     },
     {
       "EmaNumber": "19000221",
       "FirstName": "Kacper",
-      "LastName": "KULA"
+      "LastName": "Kula"
     },
     {
       "EmaNumber": "19000222",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "LEWANDOWSKI"
+      "FirstName": "Krzysztof",
+      "LastName": "Lewandowski"
     },
     {
       "EmaNumber": "19000223",
-      "FirstName": "YASUHIRO",
-      "LastName": "ASHITANI"
+      "FirstName": "Yasuhiro",
+      "LastName": "Ashitani"
     },
     {
       "EmaNumber": "19000224",
-      "FirstName": "BARTOSZ",
-      "LastName": "NIEDZWIEDZKI"
+      "FirstName": "Bartosz",
+      "LastName": "Niedzwiedzki"
     },
     {
       "EmaNumber": "19000225",
-      "FirstName": "JAN",
-      "LastName": "KRASOWSKI"
+      "FirstName": "Jan",
+      "LastName": "Krasowski"
     },
     {
       "EmaNumber": "19000226",
-      "FirstName": "RYOSUKE",
-      "LastName": "KONDO"
+      "FirstName": "Ryosuke",
+      "LastName": "Kondo"
     },
     {
       "EmaNumber": "19000227",
-      "FirstName": "WOJCIECH",
-      "LastName": "STANKOWSKI"
+      "FirstName": "Wojciech",
+      "LastName": "Stankowski"
     },
     {
       "EmaNumber": "19000228",
-      "FirstName": "MATEUSZ",
-      "LastName": "BARTKOWIAK"
+      "FirstName": "Mateusz",
+      "LastName": "Bartkowiak"
     },
     {
       "EmaNumber": "19000229",
-      "FirstName": "WIKTORIA",
-      "LastName": "TOMASZEK"
+      "FirstName": "Wiktoria",
+      "LastName": "Tomaszek"
     },
     {
       "EmaNumber": "19000230",
-      "FirstName": "MARZENA",
-      "LastName": "BRAWATA"
+      "FirstName": "Marzena",
+      "LastName": "Brawata"
     },
     {
       "EmaNumber": "19000231",
-      "FirstName": "KATARZYNA",
-      "LastName": "PRZYSUCHA"
+      "FirstName": "Katarzyna",
+      "LastName": "Przysucha"
     },
     {
       "EmaNumber": "19000232",
-      "FirstName": "MALGORZATA",
-      "LastName": "WERNER"
+      "FirstName": "Malgorzata",
+      "LastName": "Werner"
     },
     {
       "EmaNumber": "19000233",
-      "FirstName": "ANNA",
-      "LastName": "SZUMICKA"
+      "FirstName": "Anna",
+      "LastName": "Szumicka"
     },
     {
       "EmaNumber": "19000234",
-      "FirstName": "GABRIELA",
-      "LastName": "STARZYNSKA"
+      "FirstName": "Gabriela",
+      "LastName": "Starzynska"
     },
     {
       "EmaNumber": "19000235",
-      "FirstName": "PRZEMYSŁAW",
-      "LastName": "PICHETA"
+      "FirstName": "Przemysław",
+      "LastName": "Picheta"
     },
     {
       "EmaNumber": "19000236",
-      "FirstName": "ALBERT",
-      "LastName": "SLUSAREK"
+      "FirstName": "Albert",
+      "LastName": "Slusarek"
     },
     {
       "EmaNumber": "19000237",
-      "FirstName": "MAKIO",
-      "LastName": "HAYASHI"
+      "FirstName": "Makio",
+      "LastName": "Hayashi"
     },
     {
       "EmaNumber": "19000238",
-      "FirstName": "KENTO",
-      "LastName": "OSAKI"
+      "FirstName": "Kento",
+      "LastName": "Osaki"
     },
     {
       "EmaNumber": "19000239",
-      "FirstName": "JULIAN",
-      "LastName": "LESNIAK"
+      "FirstName": "Julian",
+      "LastName": "Lesniak"
     },
     {
       "EmaNumber": "19000240",
-      "FirstName": "ALEKSANDER",
-      "LastName": "SIBILSKI"
+      "FirstName": "Aleksander",
+      "LastName": "Sibilski"
     },
     {
       "EmaNumber": "19000241",
-      "FirstName": "PAWEŁ",
-      "LastName": "KLONECKI"
+      "FirstName": "Paweł",
+      "LastName": "Klonecki"
     },
     {
       "EmaNumber": "19000242",
-      "FirstName": "KAMIL",
-      "LastName": "ORCZYK"
+      "FirstName": "Kamil",
+      "LastName": "Orczyk"
     },
     {
       "EmaNumber": "19000243",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "PERDEK"
+      "FirstName": "Krzysztof",
+      "LastName": "Perdek"
     },
     {
       "EmaNumber": "19000244",
-      "FirstName": "MICHAŁ",
-      "LastName": "TOPOLEWSKI"
+      "FirstName": "Michał",
+      "LastName": "Topolewski"
     },
     {
       "EmaNumber": "19000245",
-      "FirstName": "ARKADIUSZ",
-      "LastName": "SĄDOWICZ"
+      "FirstName": "Arkadiusz",
+      "LastName": "Sądowicz"
     },
     {
       "EmaNumber": "19000246",
-      "FirstName": "PAWEŁ",
-      "LastName": "MITROSZ"
+      "FirstName": "Paweł",
+      "LastName": "Mitrosz"
     },
     {
       "EmaNumber": "19000247",
-      "FirstName": "PIOTR",
-      "LastName": "KIERZEK"
+      "FirstName": "Piotr",
+      "LastName": "Kierzek"
     },
     {
       "EmaNumber": "19000248",
-      "FirstName": "MIKA",
-      "LastName": "WOŹNIEWICZ"
+      "FirstName": "Mika",
+      "LastName": "Woźniewicz"
     },
     {
       "EmaNumber": "19000249",
-      "FirstName": "ALEKSANDRA",
-      "LastName": "HOBOT"
+      "FirstName": "Aleksandra",
+      "LastName": "Hobot"
     },
     {
       "EmaNumber": "19000250",
-      "FirstName": "JADWIGA",
-      "LastName": "GAŁACH"
+      "FirstName": "Jadwiga",
+      "LastName": "Gałach"
     },
     {
       "EmaNumber": "19000251",
-      "FirstName": "MARTA",
-      "LastName": "SITEK"
+      "FirstName": "Marta",
+      "LastName": "Sitek"
     },
     {
       "EmaNumber": "19000252",
-      "FirstName": "RADOSŁAW",
-      "LastName": "MARKIEWICZ"
+      "FirstName": "Radosław",
+      "LastName": "Markiewicz"
     },
     {
       "EmaNumber": "19000253",
-      "FirstName": "ALICJA",
-      "LastName": "PAWŁOWSKA"
+      "FirstName": "Alicja",
+      "LastName": "Pawłowska"
     },
     {
       "EmaNumber": "19000254",
-      "FirstName": "JAN",
-      "LastName": "SOYKA-DRAS"
+      "FirstName": "Jan",
+      "LastName": "Soyka-Dras"
     },
     {
       "EmaNumber": "19000255",
-      "FirstName": "ADRIANNA",
-      "LastName": "SLISKA"
+      "FirstName": "Adrianna",
+      "LastName": "Sliska"
     },
     {
       "EmaNumber": "19000256",
-      "FirstName": "NICHOLAS",
-      "LastName": "LU",
+      "FirstName": "Nicholas",
+      "LastName": "Lu",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -854,13 +856,13 @@
     },
     {
       "EmaNumber": "19000257",
-      "FirstName": "RAFAŁ",
-      "LastName": "FRĄCZEK"
+      "FirstName": "Rafał",
+      "LastName": "Frączek"
     },
     {
       "EmaNumber": "19000258",
-      "FirstName": "ALICJA",
-      "LastName": "JASTRZĘBSKA",
+      "FirstName": "Alicja",
+      "LastName": "Jastrzębska",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -871,13 +873,13 @@
     },
     {
       "EmaNumber": "19000259",
-      "FirstName": "MIKOŁAJ",
-      "LastName": "JASKULSKI"
+      "FirstName": "Mikołaj",
+      "LastName": "Jaskulski"
     },
     {
       "EmaNumber": "19000260",
-      "FirstName": "WIKTOR",
-      "LastName": "NAPIÓRKOWSKI",
+      "FirstName": "Wiktor",
+      "LastName": "Napiórkowski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -888,8 +890,8 @@
     },
     {
       "EmaNumber": "19000261",
-      "FirstName": "WIKTOR",
-      "LastName": "WIECZOREK",
+      "FirstName": "Wiktor",
+      "LastName": "Wieczorek",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -900,8 +902,8 @@
     },
     {
       "EmaNumber": "19000262",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "KULPINSKI",
+      "FirstName": "Krzysztof",
+      "LastName": "Kulpinski",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -912,23 +914,98 @@
     },
     {
       "EmaNumber": "19000263",
-      "FirstName": "KAROL",
-      "LastName": "KLUCZNIK"
+      "FirstName": "Karol",
+      "LastName": "Klucznik"
     },
     {
       "EmaNumber": "19000264",
-      "FirstName": "STANISŁAW",
-      "LastName": "BIEGOWSKI"
+      "FirstName": "Stanisław",
+      "LastName": "Biegowski"
     },
     {
       "EmaNumber": "19000265",
-      "FirstName": "OLIWIA",
-      "LastName": "CHOJECKA"
+      "FirstName": "Oliwia",
+      "LastName": "Chojecka"
     },
     {
       "EmaNumber": "19000266",
-      "FirstName": "KAROLINA",
-      "LastName": "BARZOWSKA"
+      "FirstName": "Karolina",
+      "LastName": "Barzowska"
+    },
+    {
+      "EmaNumber": "19000270",
+      "FirstName": "Dawid",
+      "LastName": "Zaryciński"
+    },
+    {
+      "EmaNumber": "19000271",
+      "FirstName": "Grzegorz",
+      "LastName": "Borowik"
+    },
+    {
+      "EmaNumber": "19000272",
+      "FirstName": "Honorata",
+      "LastName": "Goleń"
+    },
+    {
+      "EmaNumber": "19000273",
+      "FirstName": "Aleksandra",
+      "LastName": "Krynicka"
+    },
+    {
+      "EmaNumber": "19000274",
+      "FirstName": "Jakub",
+      "LastName": "Kowalski"
+    },
+    {
+      "EmaNumber": "19000275",
+      "FirstName": "Kamila",
+      "LastName": "Jacewicz"
+    },
+    {
+      "EmaNumber": "19000276",
+      "FirstName": "Adam",
+      "LastName": "Zembrzuski"
+    },
+    {
+      "EmaNumber": "19000277",
+      "FirstName": "Szymon",
+      "LastName": "Szmigielski"
+    },
+    {
+      "EmaNumber": "19000278",
+      "FirstName": "Michał",
+      "LastName": "Zalewski"
+    },
+    {
+      "EmaNumber": "19000279",
+      "FirstName": "Kuzma",
+      "LastName": "Dobrovolskyi"
+    },
+    {
+      "EmaNumber": "19000280",
+      "FirstName": "Adrian",
+      "LastName": "Szczechowicz"
+    },
+    {
+      "EmaNumber": "19000281",
+      "FirstName": "Makary",
+      "LastName": "Schmiegel"
+    },
+    {
+      "EmaNumber": "19000282",
+      "FirstName": "Stanisław",
+      "LastName": "Lesner"
+    },
+    {
+      "EmaNumber": "19000283",
+      "FirstName": "Wojciech",
+      "LastName": "Durka"
+    },
+    {
+      "EmaNumber": "19000284",
+      "FirstName": "Krzysztof",
+      "LastName": "Kleszcz"
     }
   ]
 }

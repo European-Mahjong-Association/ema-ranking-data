@@ -7,10 +7,15 @@
   "Date": "2024-11-30",
   "ToDate": "2024-11-01",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04290031"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Thibaut",
-      "LastName": "ARNOLD"
+      "LastName": "Arnold"
     }
   ],
   "NrDays": -28,
@@ -189,8 +194,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {

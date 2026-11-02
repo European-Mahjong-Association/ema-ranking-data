@@ -7,6 +7,18 @@
   "Date": "2025-10-25",
   "ToDate": "2025-10-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990141"
+    },
+    {
+      "FirstName": "James",
+      "LastName": "Johns"
+    },
+    {
+      "Ema": "11990044"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Linxuan",
@@ -411,8 +423,8 @@
     {
       "Placement": 79,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000
@@ -420,8 +432,8 @@
     {
       "Placement": 80,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

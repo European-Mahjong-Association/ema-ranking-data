@@ -7,6 +7,11 @@
   "Date": "2017-09-30",
   "ToDate": "2017-09-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010025"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ad",
@@ -109,8 +114,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "CAROLINE",
-        "LastName": "KOPMANIS",
+        "FirstName": "Caroline",
+        "LastName": "Kopmanis",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -177,8 +182,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "BERRY",
-        "LastName": "HEIJN",
+        "FirstName": "Berry",
+        "LastName": "Heijn",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -205,8 +210,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "MATTHEU",
-        "LastName": "OORSOUW, VAN",
+        "FirstName": "Mattheu",
+        "LastName": "Oorsouw, van",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -265,8 +270,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "MARLEEN",
-        "LastName": "DEWOLF",
+        "FirstName": "Marleen",
+        "LastName": "Dewolf",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -317,8 +322,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "JOKE",
-        "LastName": "MAES",
+        "FirstName": "Joke",
+        "LastName": "Maes",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -337,8 +342,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "YVONNE",
-        "LastName": "SCHOLTEN",
+        "FirstName": "Yvonne",
+        "LastName": "Scholten",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -357,8 +362,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "ANITA",
-        "LastName": "VAN HOOF",
+        "FirstName": "Anita",
+        "LastName": "Van Hoof",
         "RepresentingNationality": "be"
       },
       "Result": {

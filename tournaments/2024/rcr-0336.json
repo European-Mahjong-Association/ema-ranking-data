@@ -7,10 +7,15 @@
   "Date": "2024-06-08",
   "ToDate": "2024-06-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jérémie",
-      "LastName": "PIERARD DE MAUJOUY"
+      "LastName": "Pierard de Maujouy"
     }
   ],
   "NrDays": 2,
@@ -111,7 +116,7 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "FirstName": "Victor Savard-Arseneault",
         "LastName": null,
         "RepresentingNationality": "ca"
       },

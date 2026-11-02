@@ -7,10 +7,18 @@
   "Date": "2025-05-17",
   "ToDate": "2025-05-18",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000053"
+    },
+    {
+      "Ema": "01000125"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Justin",
-      "LastName": "KOH"
+      "LastName": "Koh"
     }
   ],
   "NrDays": 2,

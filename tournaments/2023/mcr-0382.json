@@ -7,6 +7,14 @@
   "Date": "2023-11-11",
   "ToDate": "2023-11-12",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000114"
+    },
+    {
+      "Ema": "16000035"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Raúl",
@@ -637,8 +645,8 @@
     {
       "Placement": 78,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {

@@ -7,6 +7,11 @@
   "Date": "2023-06-03",
   "ToDate": "2023-06-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990110"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anton",
@@ -36,8 +41,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "THOMAS",
-        "LastName": "LI",
+        "FirstName": "Thomas",
+        "LastName": "Li",
         "RepresentingNationality": "se"
       },
       "Result": 79300
@@ -70,8 +75,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "GUSTAF",
-        "LastName": "FRÖHLANDER",
+        "FirstName": "Gustaf",
+        "LastName": "Fröhlander",
         "RepresentingNationality": "no"
       },
       "Result": 17800
@@ -129,8 +134,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "NIKKI",
-        "LastName": "KRAUSE",
+        "FirstName": "Nikki",
+        "LastName": "Krause",
         "RepresentingNationality": "se"
       },
       "Result": -115400
@@ -148,8 +153,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "SINDRI",
-        "LastName": "STEINGRIMSSON",
+        "FirstName": "Sindri",
+        "LastName": "Steingrimsson",
         "RepresentingNationality": "se"
       },
       "Result": -154500

@@ -7,10 +7,16 @@
   "Date": "2025-09-13",
   "ToDate": "2025-09-14",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Joël",
+      "LastName": "Linh Van Leuven"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Stéphane",
-      "LastName": "COMMANS"
+      "LastName": "Commans"
     }
   ],
   "NrDays": 2,
@@ -171,8 +177,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "ALEXANDRE",
-        "LastName": "SANCHEZ FALCON",
+        "FirstName": "Alexandre",
+        "LastName": "Sanchez Falcon",
         "RepresentingNationality": "be"
       },
       "Result": -88600

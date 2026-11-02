@@ -7,6 +7,20 @@
   "Date": "2024-11-09",
   "ToDate": "2024-11-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990016"
+    },
+    {
+      "Ema": "11990044"
+    },
+    {
+      "Ema": "04040057"
+    },
+    {
+      "Ema": "26000003"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Joaquín",
@@ -81,7 +95,7 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "SATORU",
+        "FirstName": "Satoru",
         "LastName": "S.",
         "RepresentingNationality": "jp"
       },
@@ -125,8 +139,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "AKIO",
-        "LastName": "FUJIMURA",
+        "FirstName": "Akio",
+        "LastName": "Fujimura",
         "RepresentingNationality": "jp"
       },
       "Result": 27800
@@ -144,8 +158,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "KACPER",
-        "LastName": "MAKOWSKI",
+        "FirstName": "Kacper",
+        "LastName": "Makowski",
         "RepresentingNationality": "pl"
       },
       "Result": 23400
@@ -178,8 +192,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "CHRIS",
-        "LastName": "CHEUNG",
+        "FirstName": "Chris",
+        "LastName": "Cheung",
         "RepresentingNationality": "hk"
       },
       "Result": -20400
@@ -302,8 +316,8 @@
     {
       "Placement": 54,
       "Player": {
-        "FirstName": "JACINTHE",
-        "LastName": "SAVOY",
+        "FirstName": "Jacinthe",
+        "LastName": "Savoy",
         "RepresentingNationality": "ch"
       },
       "Result": -169400
@@ -311,8 +325,8 @@
     {
       "Placement": 55,
       "Player": {
-        "FirstName": "TO HEI",
-        "LastName": "WAN",
+        "FirstName": "To Hei",
+        "LastName": "Wan",
         "RepresentingNationality": "hk"
       },
       "Result": -170600

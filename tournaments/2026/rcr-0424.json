@@ -7,10 +7,19 @@
   "Date": "2026-09-12",
   "ToDate": "2026-09-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010057"
+    },
+    {
+      "FirstName": "Joël",
+      "LastName": "Linh Van Leuven"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Stéphane",
-      "LastName": "COMMANS"
+      "LastName": "Commans"
     }
   ],
   "NrDays": 2,
@@ -256,8 +265,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -300000

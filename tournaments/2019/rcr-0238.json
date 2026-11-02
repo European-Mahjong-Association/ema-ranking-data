@@ -7,6 +7,11 @@
   "Date": "2019-06-15",
   "ToDate": "2019-06-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04040057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Annie",
@@ -46,8 +51,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "LORENZO",
-        "LastName": "DELLA CASA",
+        "FirstName": "Lorenzo",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": 24000
@@ -95,8 +100,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -15300
@@ -104,8 +109,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -21400

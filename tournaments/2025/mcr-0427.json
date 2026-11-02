@@ -7,6 +7,11 @@
   "Date": "2025-06-08",
   "ToDate": "2025-06-08",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990088"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Tina",
@@ -253,8 +258,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

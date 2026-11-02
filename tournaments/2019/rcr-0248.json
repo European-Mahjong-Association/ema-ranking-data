@@ -7,6 +7,11 @@
   "Date": "2019-08-24",
   "ToDate": "2019-08-24",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010166"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Manuel",
@@ -126,8 +131,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "COR",
-        "LastName": "HOOGLAND",
+        "FirstName": "Cor",
+        "LastName": "Hoogland",
         "RepresentingNationality": "nl"
       },
       "Result": -40800
@@ -155,8 +160,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "ANGELIQUE",
-        "LastName": "DELFSMA",
+        "FirstName": "Angelique",
+        "LastName": "Delfsma",
         "RepresentingNationality": "nl"
       },
       "Result": -57300
@@ -179,8 +184,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "REGINA",
-        "LastName": "SNEL",
+        "FirstName": "Regina",
+        "LastName": "Snel",
         "RepresentingNationality": "nl"
       },
       "Result": -112400
@@ -188,8 +193,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "NICO",
-        "LastName": "LINNEMANN",
+        "FirstName": "Nico",
+        "LastName": "Linnemann",
         "RepresentingNationality": "nl"
       },
       "Result": -154900

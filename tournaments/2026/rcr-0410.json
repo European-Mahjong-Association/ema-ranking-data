@@ -7,6 +7,11 @@
   "Date": "2026-04-11",
   "ToDate": "2026-04-12",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "14990050"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Tom",
@@ -57,7 +62,7 @@
       "Placement": 8,
       "Player": {
         "FirstName": "Yuki",
-        "LastName": "SHIBUYA",
+        "LastName": "Shibuya",
         "RepresentingNationality": "jp"
       },
       "Result": 100400
@@ -140,8 +145,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "RAJAMETS",
+        "FirstName": "Matthias",
+        "LastName": "Rajamets",
         "RepresentingNationality": "ee"
       },
       "Result": 41100

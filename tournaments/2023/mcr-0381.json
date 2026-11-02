@@ -7,6 +7,11 @@
   "Date": "2023-10-29",
   "ToDate": "2023-10-29",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05900002"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Eveline",
@@ -93,8 +98,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "GERDA",
-        "LastName": "CLOBUS",
+        "FirstName": "Gerda",
+        "LastName": "Clobus",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -153,8 +158,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "LIESBETH",
-        "LastName": "VAN SCHALKWIJK",
+        "FirstName": "Liesbeth",
+        "LastName": "Van Schalkwijk",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -269,8 +274,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -281,8 +286,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

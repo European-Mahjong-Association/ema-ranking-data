@@ -7,6 +7,11 @@
   "Date": "2025-12-13",
   "ToDate": "2025-12-14",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Zongbo",
@@ -201,8 +206,8 @@
     {
       "Placement": 37,
       "Player": {
-        "FirstName": "STHEFANI",
-        "LastName": "DEMEDICI",
+        "FirstName": "Sthefani",
+        "LastName": "Demedici",
         "RepresentingNationality": "uy"
       },
       "Result": -134900

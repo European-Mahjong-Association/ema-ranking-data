@@ -7,10 +7,26 @@
   "Date": "2023-10-13",
   "ToDate": "2023-10-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Astrid",
+      "LastName": "Dubedout"
+    },
+    {
+      "FirstName": "Thierry",
+      "LastName": "Claudel"
+    },
+    {
+      "Ema": "10990026"
+    },
+    {
+      "Ema": "04410014"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Caroline",
-      "LastName": "ARNAUD"
+      "LastName": "Arnaud"
     }
   ],
   "NrDays": 3,
@@ -29,7 +45,7 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "KEE - CHUNG LOW",
+        "FirstName": "Kee - Chung Low",
         "LastName": null,
         "RepresentingNationality": "sg"
       },
@@ -73,7 +89,7 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "KIMITO - KUGIMIYA",
+        "FirstName": "Kimito - Kugimiya",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -93,7 +109,7 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "KOHICHI - MIYAKE",
+        "FirstName": "Kohichi - Miyake",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -361,7 +377,7 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "TAKAKO - OURA",
+        "FirstName": "Takako - Oura",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -389,7 +405,7 @@
     {
       "Placement": 45,
       "Player": {
-        "FirstName": "YU-TZU - CHANG",
+        "FirstName": "Yu-Tzu - Chang",
         "LastName": null,
         "RepresentingNationality": "vide"
       },
@@ -417,7 +433,7 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "YUKARI - KUGIMIYA",
+        "FirstName": "Yukari - Kugimiya",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -485,7 +501,7 @@
     {
       "Placement": 56,
       "Player": {
-        "FirstName": "YUNLONG - LU",
+        "FirstName": "Yunlong - Lu",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -537,7 +553,7 @@
     {
       "Placement": 62,
       "Player": {
-        "FirstName": "YOSHIHIRO  - SUZUKI",
+        "FirstName": "Yoshihiro  - Suzuki",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -669,7 +685,7 @@
     {
       "Placement": 78,
       "Player": {
-        "FirstName": "LIN-FENG - JI",
+        "FirstName": "Lin-Feng - Ji",
         "LastName": null,
         "RepresentingNationality": "vide"
       },
@@ -681,7 +697,7 @@
     {
       "Placement": 79,
       "Player": {
-        "FirstName": "KAZUTOSHI - MIYAKE",
+        "FirstName": "Kazutoshi - Miyake",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -765,7 +781,7 @@
     {
       "Placement": 89,
       "Player": {
-        "FirstName": "SHUJI - OKUTANI",
+        "FirstName": "Shuji - Okutani",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -841,7 +857,7 @@
     {
       "Placement": 98,
       "Player": {
-        "FirstName": "RUI - WANG",
+        "FirstName": "Rui - Wang",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -885,7 +901,7 @@
     {
       "Placement": 103,
       "Player": {
-        "FirstName": "MIYAKO - IBA",
+        "FirstName": "Miyako - Iba",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -913,7 +929,7 @@
     {
       "Placement": 106,
       "Player": {
-        "FirstName": "MUN - SENG BOEY",
+        "FirstName": "Mun - Seng Boey",
         "LastName": null,
         "RepresentingNationality": "sg"
       },
@@ -949,7 +965,7 @@
     {
       "Placement": 110,
       "Player": {
-        "FirstName": "AKIRA - ISHIMOTO",
+        "FirstName": "Akira - Ishimoto",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -1017,7 +1033,7 @@
     {
       "Placement": 118,
       "Player": {
-        "FirstName": "WENXIN - LI",
+        "FirstName": "Wenxin - Li",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -1029,7 +1045,7 @@
     {
       "Placement": 119,
       "Player": {
-        "FirstName": "BERNARD - ANG",
+        "FirstName": "Bernard - Ang",
         "LastName": null,
         "RepresentingNationality": "sg"
       },
@@ -1041,7 +1057,7 @@
     {
       "Placement": 120,
       "Player": {
-        "FirstName": "YANXIA  - WU",
+        "FirstName": "Yanxia  - Wu",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -1205,7 +1221,7 @@
     {
       "Placement": 140,
       "Player": {
-        "FirstName": "MIKIO - AOKI",
+        "FirstName": "Mikio - Aoki",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -1385,7 +1401,7 @@
     {
       "Placement": 162,
       "Player": {
-        "FirstName": "UTAKO - AOYAGI",
+        "FirstName": "Utako - Aoyagi",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -1405,7 +1421,7 @@
     {
       "Placement": 164,
       "Player": {
-        "FirstName": "YASUKO - HIYAMA",
+        "FirstName": "Yasuko - Hiyama",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -1425,7 +1441,7 @@
     {
       "Placement": 166,
       "Player": {
-        "FirstName": "ATSUO - OTSUKI",
+        "FirstName": "Atsuo - Otsuki",
         "LastName": null,
         "RepresentingNationality": "jp"
       },
@@ -1445,7 +1461,7 @@
     {
       "Placement": 168,
       "Player": {
-        "FirstName": "HISANO - NAKAMOTO",
+        "FirstName": "Hisano - Nakamoto",
         "LastName": null,
         "RepresentingNationality": "jp"
       },

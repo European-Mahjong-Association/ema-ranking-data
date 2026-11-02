@@ -7,10 +7,21 @@
   "Date": "2024-05-18",
   "ToDate": "2024-05-19",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990016"
+    },
+    {
+      "Ema": "04160103"
+    },
+    {
+      "Ema": "04160112"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Andrew",
-      "LastName": "Z.P. SMITH"
+      "LastName": "Z.P. Smith"
     }
   ],
   "NrDays": 2,
@@ -26,8 +37,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "BENJAMIN",
-        "LastName": "SAVOY",
+        "FirstName": "Benjamin",
+        "LastName": "Savoy",
         "RepresentingNationality": "gb"
       },
       "Result": 111200
@@ -210,8 +221,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "WILSON",
-        "LastName": "LU",
+        "FirstName": "Wilson",
+        "LastName": "Lu",
         "RepresentingNationality": "cn"
       },
       "Result": -29400
@@ -229,8 +240,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "CHRISTY",
-        "LastName": "CHAN",
+        "FirstName": "Christy",
+        "LastName": "Chan",
         "RepresentingNationality": "hk"
       },
       "Result": -41900
@@ -308,8 +319,8 @@
     {
       "Placement": 56,
       "Player": {
-        "FirstName": "JACINTHE",
-        "LastName": "SAVOY",
+        "FirstName": "Jacinthe",
+        "LastName": "Savoy",
         "RepresentingNationality": "ch"
       },
       "Result": -99000
@@ -317,8 +328,8 @@
     {
       "Placement": 57,
       "Player": {
-        "FirstName": "FILIPE",
-        "LastName": "REIS",
+        "FirstName": "Filipe",
+        "LastName": "Reis",
         "RepresentingNationality": "pt"
       },
       "Result": -117100

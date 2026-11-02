@@ -7,6 +7,11 @@
   "Date": "2024-10-26",
   "ToDate": "2024-10-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05000006"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marjoleine",
@@ -181,8 +186,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "JAN",
-        "LastName": "MOSES",
+        "FirstName": "Jan",
+        "LastName": "Moses",
         "RepresentingNationality": "de"
       },
       "Result": -67000

@@ -7,10 +7,18 @@
   "Date": "2019-06-01",
   "ToDate": "2019-06-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000007"
+    },
+    {
+      "Ema": "19000066"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Daniel",
-      "LastName": "GAHLER"
+      "LastName": "Gahler"
     }
   ],
   "NrDays": 2,
@@ -21,8 +29,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "DAIICHIRO",
-        "LastName": "SEKIKAWA",
+        "FirstName": "Daiichiro",
+        "LastName": "Sekikawa",
         "RepresentingNationality": "pl"
       },
       "Result": 147800
@@ -35,8 +43,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "SHU-WEN",
-        "LastName": "KUO",
+        "FirstName": "Shu-Wen",
+        "LastName": "Kuo",
         "RepresentingNationality": "es"
       },
       "Result": 104100
@@ -54,8 +62,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "KRZYSZTOF",
-        "LastName": "SZEREMETA",
+        "FirstName": "Krzysztof",
+        "LastName": "Szeremeta",
         "RepresentingNationality": "pl"
       },
       "Result": 60000
@@ -63,8 +71,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "PU",
-        "LastName": "ZHAO",
+        "FirstName": "Pu",
+        "LastName": "Zhao",
         "RepresentingNationality": "pl"
       },
       "Result": 47400
@@ -72,8 +80,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "DANIEL",
-        "LastName": "GAHLER",
+        "FirstName": "Daniel",
+        "LastName": "Gahler",
         "RepresentingNationality": "de"
       },
       "Result": 46300
@@ -81,8 +89,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "DMYTRO",
-        "LastName": "LIENKO",
+        "FirstName": "Dmytro",
+        "LastName": "Lienko",
         "RepresentingNationality": "pl"
       },
       "Result": 19700
@@ -95,8 +103,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "DMYTRO",
-        "LastName": "SAKHNO",
+        "FirstName": "Dmytro",
+        "LastName": "Sakhno",
         "RepresentingNationality": "pl"
       },
       "Result": 3600
@@ -104,8 +112,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "NATALIA",
-        "LastName": "BUŁA",
+        "FirstName": "Natalia",
+        "LastName": "Buła",
         "RepresentingNationality": "pl"
       },
       "Result": 3100
@@ -148,8 +156,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "ŁUKASZ",
-        "LastName": "CICHOŃ",
+        "FirstName": "Łukasz",
+        "LastName": "Cichoń",
         "RepresentingNationality": "pl"
       },
       "Result": -21000
@@ -162,8 +170,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "ALEKSANDRA",
-        "LastName": "LIBICH",
+        "FirstName": "Aleksandra",
+        "LastName": "Libich",
         "RepresentingNationality": "pl"
       },
       "Result": -34100
@@ -176,8 +184,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "VIKTOR",
-        "LastName": "BAL",
+        "FirstName": "Viktor",
+        "LastName": "Bal",
         "RepresentingNationality": "ua"
       },
       "Result": -70900
@@ -185,8 +193,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "ŁUKASZ",
-        "LastName": "CZARNECKI",
+        "FirstName": "Łukasz",
+        "LastName": "Czarnecki",
         "RepresentingNationality": "pl"
       },
       "Result": -118400
@@ -204,8 +212,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

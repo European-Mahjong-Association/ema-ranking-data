@@ -7,10 +7,24 @@
   "Date": "2024-07-20",
   "ToDate": "2024-07-21",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05900002"
+    },
+    {
+      "Ema": "05100153"
+    },
+    {
+      "Ema": "08010039"
+    },
+    {
+      "Ema": "04290031"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marion",
-      "LastName": "HOARAU"
+      "LastName": "Hoarau"
     }
   ],
   "NrDays": 2,

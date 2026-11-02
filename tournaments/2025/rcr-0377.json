@@ -10,7 +10,7 @@
   "Observer": [
     {
       "FirstName": "Krzysztof",
-      "LastName": "DABROWSKI"
+      "LastName": "Dabrowski"
     }
   ],
   "NrDays": 2,
@@ -211,8 +211,8 @@
     {
       "Placement": 39,
       "Player": {
-        "FirstName": "FREDERIC",
-        "LastName": "FAULKNER",
+        "FirstName": "Frederic",
+        "LastName": "Faulkner",
         "RepresentingNationality": "us"
       },
       "Result": -2900
@@ -390,8 +390,8 @@
     {
       "Placement": 74,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000
@@ -399,8 +399,8 @@
     {
       "Placement": 75,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000
@@ -408,8 +408,8 @@
     {
       "Placement": 76,
       "Player": {
-        "FirstName": "ASAF",
-        "LastName": "COHEN",
+        "FirstName": "Asaf",
+        "LastName": "Cohen",
         "RepresentingNationality": "vide"
       },
       "Result": -289400

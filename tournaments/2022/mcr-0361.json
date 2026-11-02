@@ -7,6 +7,11 @@
   "Date": "2022-10-08",
   "ToDate": "2022-10-08",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010727"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Nadine",
@@ -165,8 +170,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ANNECHIEN",
-        "LastName": "DEURLOO",
+        "FirstName": "Annechien",
+        "LastName": "Deurloo",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -193,8 +198,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "HERMA",
-        "LastName": "MOURIK, VAN",
+        "FirstName": "Herma",
+        "LastName": "Mourik, van",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -357,8 +362,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "STIENEKE",
-        "LastName": "KOPPEL",
+        "FirstName": "Stieneke",
+        "LastName": "Koppel",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -377,8 +382,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "MARLIES",
-        "LastName": "LEEUWEN, VAN",
+        "FirstName": "Marlies",
+        "LastName": "Leeuwen, van",
         "RepresentingNationality": "nl"
       },
       "Result": {

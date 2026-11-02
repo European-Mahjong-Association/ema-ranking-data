@@ -7,10 +7,24 @@
   "Date": "2024-08-10",
   "ToDate": "2024-08-11",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "21000015"
+    },
+    {
+      "Ema": "08010727"
+    },
+    {
+      "Ema": "11990044"
+    },
+    {
+      "Ema": "05000008"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Krzysztof",
-      "LastName": "DABROWSKI"
+      "LastName": "Dabrowski"
     }
   ],
   "NrDays": 2,

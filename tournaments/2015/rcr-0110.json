@@ -7,10 +7,16 @@
   "Date": "2015-09-19",
   "ToDate": "2015-09-20",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Boris",
+      "LastName": "Moros"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Maksym",
-      "LastName": "IVANOV"
+      "LastName": "Ivanov"
     }
   ],
   "NrDays": 2,
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "MAKSYM",
-        "LastName": "BUGAKOV",
+        "FirstName": "Maksym",
+        "LastName": "Bugakov",
         "RepresentingNationality": "ua"
       },
       "Result": 166500
@@ -30,8 +36,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "SERHII",
-        "LastName": "IHNATOV",
+        "FirstName": "Serhii",
+        "LastName": "Ihnatov",
         "RepresentingNationality": "ua"
       },
       "Result": 155300
@@ -39,8 +45,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "DMITRIY",
-        "LastName": "VARCHENKO",
+        "FirstName": "Dmitriy",
+        "LastName": "Varchenko",
         "RepresentingNationality": "ua"
       },
       "Result": 151100
@@ -58,8 +64,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "OLEKSANDR",
-        "LastName": "CHERNENKO",
+        "FirstName": "Oleksandr",
+        "LastName": "Chernenko",
         "RepresentingNationality": "ua"
       },
       "Result": 86700
@@ -67,8 +73,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "VYACHESLAV",
-        "LastName": "KULINICH",
+        "FirstName": "Vyacheslav",
+        "LastName": "Kulinich",
         "RepresentingNationality": "ua"
       },
       "Result": 68300
@@ -76,8 +82,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "MARYNA",
-        "LastName": "IHNATOVA",
+        "FirstName": "Maryna",
+        "LastName": "Ihnatova",
         "RepresentingNationality": "ua"
       },
       "Result": 39600
@@ -85,8 +91,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "CYRIL",
-        "LastName": "BOICHENKO",
+        "FirstName": "Cyril",
+        "LastName": "Boichenko",
         "RepresentingNationality": "ua"
       },
       "Result": 35000
@@ -94,8 +100,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "ARTEM",
-        "LastName": "KRYVEZHENKO",
+        "FirstName": "Artem",
+        "LastName": "Kryvezhenko",
         "RepresentingNationality": "ua"
       },
       "Result": 28100
@@ -113,8 +119,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "RUSLAN",
-        "LastName": "GORIUCHKIN",
+        "FirstName": "Ruslan",
+        "LastName": "Goriuchkin",
         "RepresentingNationality": "ua"
       },
       "Result": -7500
@@ -132,8 +138,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "MARINA",
-        "LastName": "VASILEYKO",
+        "FirstName": "Marina",
+        "LastName": "Vasileyko",
         "RepresentingNationality": "ua"
       },
       "Result": -59600
@@ -151,8 +157,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "YULIIA",
-        "LastName": "MARCHUK",
+        "FirstName": "Yuliia",
+        "LastName": "Marchuk",
         "RepresentingNationality": "ua"
       },
       "Result": -82900
@@ -160,8 +166,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "BORIS",
-        "LastName": "MOROZ",
+        "FirstName": "Boris",
+        "LastName": "Moroz",
         "RepresentingNationality": "ua"
       },
       "Result": -147600
@@ -174,8 +180,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "ANDRII",
-        "LastName": "BOIKO",
+        "FirstName": "Andrii",
+        "LastName": "Boiko",
         "RepresentingNationality": "ua"
       },
       "Result": -159500
@@ -183,8 +189,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "OLGA",
-        "LastName": "PROSKURIAKOVA",
+        "FirstName": "Olga",
+        "LastName": "Proskuriakova",
         "RepresentingNationality": "ru"
       },
       "Result": -167800

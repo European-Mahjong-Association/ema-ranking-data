@@ -7,10 +7,15 @@
   "Date": "2024-07-27",
   "ToDate": "2024-07-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990016"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Martin",
-      "LastName": "RYDLAND"
+      "LastName": "Rydland"
     }
   ],
   "NrDays": 2,
@@ -77,7 +82,7 @@
       "Placement": 12,
       "Player": {
         "FirstName": "Coelestin",
-        "LastName": "AL-SHAMERY",
+        "LastName": "Al-Shamery",
         "RepresentingNationality": "de"
       },
       "Result": 63900
@@ -205,8 +210,8 @@
     {
       "Placement": 37,
       "Player": {
-        "FirstName": "JACINTHE",
-        "LastName": "SAVOY",
+        "FirstName": "Jacinthe",
+        "LastName": "Savoy",
         "RepresentingNationality": "ch"
       },
       "Result": -20500
@@ -309,8 +314,8 @@
     {
       "Placement": 57,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -120500

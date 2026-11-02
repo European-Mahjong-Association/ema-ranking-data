@@ -7,6 +7,11 @@
   "Date": "2020-02-22",
   "ToDate": "2020-02-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000051"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Petter",
@@ -56,8 +61,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "CLAUS",
-        "LastName": "CHRISTENSEN",
+        "FirstName": "Claus",
+        "LastName": "Christensen",
         "RepresentingNationality": "dk"
       },
       "Result": 36400
@@ -85,8 +90,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "LAURITS",
-        "LastName": "FREDSGAARD LARSEN",
+        "FirstName": "Laurits",
+        "LastName": "Fredsgaard Larsen",
         "RepresentingNationality": "dk"
       },
       "Result": 10400
@@ -94,8 +99,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "ROBERT",
-        "LastName": "BONDE JENSEN",
+        "FirstName": "Robert",
+        "LastName": "Bonde Jensen",
         "RepresentingNationality": "dk"
       },
       "Result": 8100
@@ -108,8 +113,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": -5500
@@ -122,8 +127,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "ASTRID",
-        "LastName": "DUBEDOUT",
+        "FirstName": "Astrid",
+        "LastName": "Dubedout",
         "RepresentingNationality": "fr"
       },
       "Result": -12800

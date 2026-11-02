@@ -7,10 +7,15 @@
   "Date": "2024-01-27",
   "ToDate": "2024-01-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "16000007"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marion",
-      "LastName": "HOARAU"
+      "LastName": "Hoarau"
     }
   ],
   "NrDays": 2,
@@ -197,8 +202,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {

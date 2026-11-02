@@ -7,6 +7,12 @@
   "Date": "2016-04-02",
   "ToDate": "2016-04-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Waldemar",
+      "LastName": "Laube"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ans",
@@ -26,8 +32,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "KÖHLER",
+        "FirstName": "Matthias",
+        "LastName": "Köhler",
         "RepresentingNationality": "de"
       },
       "Result": 129600
@@ -40,8 +46,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "AXEL",
-        "LastName": "ESCHENBURG",
+        "FirstName": "Axel",
+        "LastName": "Eschenburg",
         "RepresentingNationality": "de"
       },
       "Result": 78900
@@ -54,8 +60,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "SIMON",
-        "LastName": "NAARMANN",
+        "FirstName": "Simon",
+        "LastName": "Naarmann",
         "RepresentingNationality": "de"
       },
       "Result": 51500
@@ -63,8 +69,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "LASSE",
-        "LastName": "GRIMMELT",
+        "FirstName": "Lasse",
+        "LastName": "Grimmelt",
         "RepresentingNationality": "de"
       },
       "Result": 46300
@@ -97,8 +103,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "STEFANIE",
-        "LastName": "KAMMER",
+        "FirstName": "Stefanie",
+        "LastName": "Kammer",
         "RepresentingNationality": "de"
       },
       "Result": 10500
@@ -116,8 +122,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "JESSICA",
-        "LastName": "HENRY",
+        "FirstName": "Jessica",
+        "LastName": "Henry",
         "RepresentingNationality": "fr"
       },
       "Result": -12400
@@ -125,8 +131,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "COR",
-        "LastName": "HOOGLAND",
+        "FirstName": "Cor",
+        "LastName": "Hoogland",
         "RepresentingNationality": "nl"
       },
       "Result": -12900
@@ -164,8 +170,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "MAXIM",
-        "LastName": "JOURENKO",
+        "FirstName": "Maxim",
+        "LastName": "Jourenko",
         "RepresentingNationality": "de"
       },
       "Result": -77300
@@ -178,8 +184,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "BERTOLT",
-        "LastName": "HUYNH",
+        "FirstName": "Bertolt",
+        "LastName": "Huynh",
         "RepresentingNationality": "de"
       },
       "Result": -120400
@@ -192,8 +198,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "FELIX",
-        "LastName": "RATH",
+        "FirstName": "Felix",
+        "LastName": "Rath",
         "RepresentingNationality": "de"
       },
       "Result": -220000

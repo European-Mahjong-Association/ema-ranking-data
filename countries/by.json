@@ -1,41 +1,47 @@
 {
   "CountryCode": "by",
   "Country": "Belarus",
+  "Organisation": "Belarus Mahjong",
   "Players": [
     {
+      "EmaNumber": "20000002",
+      "FirstName": "Pavel",
+      "LastName": "Verebei"
+    },
+    {
       "EmaNumber": "20000003",
-      "FirstName": "ULADZIMIR",
-      "LastName": "TANANUSHKA"
+      "FirstName": "Uladzimir",
+      "LastName": "Tananushka"
     },
     {
       "EmaNumber": "20000006",
-      "FirstName": "MAKSIM",
-      "LastName": "AMELEVICH"
+      "FirstName": "Maksim",
+      "LastName": "Amelevich"
     },
     {
       "EmaNumber": "20000007",
-      "FirstName": "TATSIANA",
-      "LastName": "MIKHALCHENIA"
+      "FirstName": "Tatsiana",
+      "LastName": "Mikhalchenia"
     },
     {
       "EmaNumber": "20000008",
-      "FirstName": "ELENA",
-      "LastName": "KOLPAKHCAN"
+      "FirstName": "Elena",
+      "LastName": "Kolpakhcan"
     },
     {
       "EmaNumber": "20000012",
-      "FirstName": "RAZIYA",
-      "LastName": "BIZHANOVA"
+      "FirstName": "Raziya",
+      "LastName": "Bizhanova"
     },
     {
       "EmaNumber": "20000019",
-      "FirstName": "VARVARA",
-      "LastName": "KULHAYEVA"
+      "FirstName": "Varvara",
+      "LastName": "Kulhayeva"
     },
     {
       "EmaNumber": "20000030",
-      "FirstName": "ALIAKSEI",
-      "LastName": "YURECHKA"
+      "FirstName": "Aliaksei",
+      "LastName": "Yurechka"
     }
   ]
 }

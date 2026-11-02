@@ -7,6 +7,12 @@
   "Date": "2023-07-01",
   "ToDate": "2023-07-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Peter",
+      "LastName": "Hamilton"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Lukasz",
@@ -101,8 +107,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "TOBIAS",
-        "LastName": "GUT",
+        "FirstName": "Tobias",
+        "LastName": "Gut",
         "RepresentingNationality": "at"
       },
       "Result": 28600
@@ -130,8 +136,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "HADOLT",
+        "FirstName": "Matthias",
+        "LastName": "Hadolt",
         "RepresentingNationality": "at"
       },
       "Result": 18600
@@ -224,8 +230,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "SCHURZ",
+        "FirstName": "Martin",
+        "LastName": "Schurz",
         "RepresentingNationality": "at"
       },
       "Result": -48400
@@ -273,8 +279,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "ZOUBEK",
+        "FirstName": "Florian",
+        "LastName": "Zoubek",
         "RepresentingNationality": "at"
       },
       "Result": -141000
@@ -287,8 +293,8 @@
     {
       "Placement": 51,
       "Player": {
-        "FirstName": "LEONIE",
-        "LastName": "KLEINEICK",
+        "FirstName": "Leonie",
+        "LastName": "Kleineick",
         "RepresentingNationality": "de"
       },
       "Result": -160500

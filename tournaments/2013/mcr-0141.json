@@ -7,6 +7,11 @@
   "Date": "2013-06-01",
   "ToDate": "2013-06-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000005"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anne",
@@ -61,8 +66,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "HENRIK",
-        "LastName": "KROGH NIELSEN",
+        "FirstName": "Henrik",
+        "LastName": "Krogh Nielsen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -73,8 +78,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "YONG SING",
-        "LastName": "OH",
+        "FirstName": "Yong Sing",
+        "LastName": "Oh",
         "RepresentingNationality": "sg"
       },
       "Result": {
@@ -93,8 +98,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "HEIKO",
-        "LastName": "DOMANN",
+        "FirstName": "Heiko",
+        "LastName": "Domann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -185,8 +190,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "BRIAN",
-        "LastName": "THUBORG MADSEN",
+        "FirstName": "Brian",
+        "LastName": "Thuborg Madsen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -197,8 +202,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "WEDEL JACOBSEN",
+        "FirstName": "Martin",
+        "LastName": "Wedel Jacobsen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -209,8 +214,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "NICOLA",
-        "LastName": "PASCELUPO",
+        "FirstName": "Nicola",
+        "LastName": "Pascelupo",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -229,8 +234,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -257,8 +262,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "BRIAN",
-        "LastName": "KROG",
+        "FirstName": "Brian",
+        "LastName": "Krog",
         "RepresentingNationality": "dk"
       },
       "Result": {

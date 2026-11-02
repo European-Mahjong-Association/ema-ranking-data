@@ -7,10 +7,15 @@
   "Date": "2024-06-30",
   "ToDate": "2024-06-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04030022"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Mariannick",
-      "LastName": "BARRATAULT"
+      "LastName": "Barratault"
     }
   ],
   "NrDays": 1,

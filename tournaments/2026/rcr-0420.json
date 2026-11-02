@@ -7,10 +7,18 @@
   "Date": "2026-07-11",
   "ToDate": "2026-07-12",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "21000014"
+    },
+    {
+      "Ema": "09990047"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marieke",
-      "LastName": "VERHEYDEN"
+      "LastName": "Verheyden"
     }
   ],
   "NrDays": 2,
@@ -276,8 +284,8 @@
     {
       "Placement": 52,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

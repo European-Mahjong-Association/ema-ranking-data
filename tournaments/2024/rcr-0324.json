@@ -7,6 +7,14 @@
   "Date": "2024-02-18",
   "ToDate": "2024-02-19",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000155"
+    },
+    {
+      "Ema": "19000140"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Michael",
@@ -166,7 +174,7 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "FirstName": "Victor Savard-Arseneault",
         "LastName": null,
         "RepresentingNationality": "ca"
       },
@@ -205,8 +213,8 @@
     {
       "Placement": 37,
       "Player": {
-        "FirstName": "KUNYAN",
-        "LastName": "ZHAO",
+        "FirstName": "Kunyan",
+        "LastName": "Zhao",
         "RepresentingNationality": "at"
       },
       "Result": 5000

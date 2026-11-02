@@ -7,10 +7,27 @@
   "Date": "2026-08-01",
   "ToDate": "2026-08-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990016"
+    },
+    {
+      "Ema": "11990057"
+    },
+    {
+      "Ema": "11990044"
+    },
+    {
+      "Ema": "11990006"
+    },
+    {
+      "Ema": "11990141"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Oliver",
-      "LastName": "HÖLSCHER"
+      "LastName": "Hölscher"
     }
   ],
   "NrDays": 2,
@@ -116,8 +133,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "AKIO",
-        "LastName": "FUJIMURA",
+        "FirstName": "Akio",
+        "LastName": "Fujimura",
         "RepresentingNationality": "jp"
       },
       "Result": 53800
@@ -270,8 +287,8 @@
     {
       "Placement": 50,
       "Player": {
-        "FirstName": "JAMES",
-        "LastName": "WANG",
+        "FirstName": "James",
+        "LastName": "Wang",
         "RepresentingNationality": "us"
       },
       "Result": -15400
@@ -384,8 +401,8 @@
     {
       "Placement": 72,
       "Player": {
-        "FirstName": "MIRJAM",
-        "LastName": "KANTOR",
+        "FirstName": "Mirjam",
+        "LastName": "Kantor",
         "RepresentingNationality": "hu"
       },
       "Result": -100700

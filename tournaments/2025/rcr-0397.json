@@ -7,10 +7,18 @@
   "Date": "2025-11-29",
   "ToDate": "2025-11-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010171"
+    },
+    {
+      "Ema": "08010727"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Kai",
-      "LastName": "VAN GOMPEL"
+      "LastName": "Van Gompel"
     }
   ],
   "NrDays": 2,
@@ -111,8 +119,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "MARCO",
-        "LastName": "VAN EERDEN",
+        "FirstName": "Marco",
+        "LastName": "Van Eerden",
         "RepresentingNationality": "vide"
       },
       "Result": -13400

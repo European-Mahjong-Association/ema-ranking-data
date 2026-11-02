@@ -7,6 +7,14 @@
   "Date": "2013-06-22",
   "ToDate": "2013-06-23",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010022"
+    },
+    {
+      "Ema": "08010025"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Janco",
@@ -117,8 +125,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "RICK",
-        "LastName": "LINDEN, VAN DER",
+        "FirstName": "Rick",
+        "LastName": "Linden, van der",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -129,8 +137,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "DOMINGO",
-        "LastName": "GARCÍA GARCÍA",
+        "FirstName": "Domingo",
+        "LastName": "García García",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -173,8 +181,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ERNEST",
-        "LastName": "GLASER",
+        "FirstName": "Ernest",
+        "LastName": "Glaser",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -193,8 +201,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "EMMA",
-        "LastName": "GUENEL",
+        "FirstName": "Emma",
+        "LastName": "Guenel",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -245,8 +253,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "GERDA",
-        "LastName": "LUBKEMAN",
+        "FirstName": "Gerda",
+        "LastName": "Lubkeman",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -273,8 +281,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "FRANCISCO",
-        "LastName": "MACHADO",
+        "FirstName": "Francisco",
+        "LastName": "Machado",
         "RepresentingNationality": "pt"
       },
       "Result": {
@@ -285,8 +293,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "MARJON",
-        "LastName": "POEL, VAN DER",
+        "FirstName": "Marjon",
+        "LastName": "Poel, van der",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -297,8 +305,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "ISABELLE",
-        "LastName": "SIEGLER",
+        "FirstName": "Isabelle",
+        "LastName": "Siegler",
         "RepresentingNationality": "fr"
       },
       "Result": {

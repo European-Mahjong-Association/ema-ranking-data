@@ -7,6 +7,17 @@
   "Date": "2022-11-05",
   "ToDate": "2022-11-06",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010436"
+    },
+    {
+      "Ema": "08010166"
+    },
+    {
+      "Ema": "08010728"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ian",
@@ -261,8 +272,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "DENIZ",
-        "LastName": "ECKERT",
+        "FirstName": "Deniz",
+        "LastName": "Eckert",
         "RepresentingNationality": "de"
       },
       "Result": -45200

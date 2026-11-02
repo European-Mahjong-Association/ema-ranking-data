@@ -7,6 +7,14 @@
   "Date": "2017-09-23",
   "ToDate": "2017-09-24",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990017"
+    },
+    {
+      "Ema": "07000114"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Rui",
@@ -61,8 +69,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "DENIS",
-        "LastName": "LUGANNIKOV",
+        "FirstName": "Denis",
+        "LastName": "Lugannikov",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -345,8 +353,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "EZEQUIEL",
-        "LastName": "HERMOSIN",
+        "FirstName": "Ezequiel",
+        "LastName": "Hermosin",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -453,8 +461,8 @@
     {
       "Placement": 54,
       "Player": {
-        "FirstName": "JORGE",
-        "LastName": "OSUNA OLALLA",
+        "FirstName": "Jorge",
+        "LastName": "Osuna Olalla",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -529,8 +537,8 @@
     {
       "Placement": 63,
       "Player": {
-        "FirstName": "JOSÉ MANUEL",
-        "LastName": "MORENO PESQUERA",
+        "FirstName": "José Manuel",
+        "LastName": "Moreno Pesquera",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -573,8 +581,8 @@
     {
       "Placement": 68,
       "Player": {
-        "FirstName": "CHRIS",
-        "LastName": "JANSSEN",
+        "FirstName": "Chris",
+        "LastName": "Janssen",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -593,8 +601,8 @@
     {
       "Placement": 70,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "CIUDAD GÓMEZ",
+        "FirstName": "David",
+        "LastName": "Ciudad Gómez",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -605,8 +613,8 @@
     {
       "Placement": 71,
       "Player": {
-        "FirstName": "MARCO",
-        "LastName": "CIVAROLI",
+        "FirstName": "Marco",
+        "LastName": "Civaroli",
         "RepresentingNationality": "it"
       },
       "Result": {

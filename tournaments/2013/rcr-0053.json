@@ -7,6 +7,14 @@
   "Date": "2013-04-06",
   "ToDate": "2013-04-06",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990005"
+    },
+    {
+      "Ema": "11990044"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Peter",
@@ -36,8 +44,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "TONY",
-        "LastName": "HALEY",
+        "FirstName": "Tony",
+        "LastName": "Haley",
         "RepresentingNationality": "gb"
       },
       "Result": 100500
@@ -45,8 +53,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "ROBIN",
-        "LastName": "NEATHERWAY",
+        "FirstName": "Robin",
+        "LastName": "Neatherway",
         "RepresentingNationality": "gb"
       },
       "Result": 73200
@@ -54,8 +62,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "GRIFFIN",
+        "FirstName": "Michael",
+        "LastName": "Griffin",
         "RepresentingNationality": "gb"
       },
       "Result": 65300
@@ -63,8 +71,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "PAUL",
-        "LastName": "BROADBRIDGE",
+        "FirstName": "Paul",
+        "LastName": "Broadbridge",
         "RepresentingNationality": "gb"
       },
       "Result": 53500
@@ -72,8 +80,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "TAKASHI",
-        "LastName": "FUJII",
+        "FirstName": "Takashi",
+        "LastName": "Fujii",
         "RepresentingNationality": "gb"
       },
       "Result": 34700
@@ -86,8 +94,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "CLARKE",
+        "FirstName": "David",
+        "LastName": "Clarke",
         "RepresentingNationality": "gb"
       },
       "Result": 29800
@@ -95,8 +103,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "SHAUN",
-        "LastName": "DRURY",
+        "FirstName": "Shaun",
+        "LastName": "Drury",
         "RepresentingNationality": "gb"
       },
       "Result": 25500
@@ -109,8 +117,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "GRAEME",
-        "LastName": "ROBINSON",
+        "FirstName": "Graeme",
+        "LastName": "Robinson",
         "RepresentingNationality": "gb"
       },
       "Result": -14000
@@ -123,8 +131,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "ESTHER",
-        "LastName": "JAP",
+        "FirstName": "Esther",
+        "LastName": "Jap",
         "RepresentingNationality": "gb"
       },
       "Result": -24500
@@ -137,7 +145,7 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "TING",
+        "FirstName": "Ting",
         "LastName": null,
         "RepresentingNationality": "gb"
       },
@@ -166,8 +174,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "DONAGHY",
+        "FirstName": "Michael",
+        "LastName": "Donaghy",
         "RepresentingNationality": "gb"
       },
       "Result": -109300
@@ -175,8 +183,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "ALEX",
-        "LastName": "MARCH",
+        "FirstName": "Alex",
+        "LastName": "March",
         "RepresentingNationality": "gb"
       },
       "Result": -130100
@@ -184,8 +192,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "DEXTER",
-        "LastName": "GRIFFITHS",
+        "FirstName": "Dexter",
+        "LastName": "Griffiths",
         "RepresentingNationality": "gb"
       },
       "Result": -166000

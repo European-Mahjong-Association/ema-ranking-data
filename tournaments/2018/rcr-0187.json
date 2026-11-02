@@ -7,10 +7,16 @@
   "Date": "2018-04-21",
   "ToDate": "2018-04-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Radka",
+      "LastName": "Pernicova"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Lukasz",
-      "LastName": "GRZYBOWSKI"
+      "LastName": "Grzybowski"
     }
   ],
   "NrDays": 2,
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "SIARHEI",
-        "LastName": "TSYVINSKI",
+        "FirstName": "Siarhei",
+        "LastName": "Tsyvinski",
         "RepresentingNationality": "by"
       },
       "Result": 212900
@@ -70,8 +76,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "ALEXEY",
-        "LastName": "BELOVS",
+        "FirstName": "Alexey",
+        "LastName": "Belovs",
         "RepresentingNationality": "gb"
       },
       "Result": 41800
@@ -99,8 +105,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "PU",
-        "LastName": "ZHAO",
+        "FirstName": "Pu",
+        "LastName": "Zhao",
         "RepresentingNationality": "pl"
       },
       "Result": 200
@@ -118,8 +124,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "HOSKOVEC",
+        "FirstName": "David",
+        "LastName": "Hoskovec",
         "RepresentingNationality": "cz"
       },
       "Result": -14600
@@ -127,8 +133,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ROMAN",
-        "LastName": "KUSÁK",
+        "FirstName": "Roman",
+        "LastName": "Kusák",
         "RepresentingNationality": "cz"
       },
       "Result": -15700
@@ -166,8 +172,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "TRINKL",
+        "FirstName": "Matthias",
+        "LastName": "Trinkl",
         "RepresentingNationality": "at"
       },
       "Result": -63200
@@ -175,8 +181,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "ZIJAD",
-        "LastName": "DURAKOVIC",
+        "FirstName": "Zijad",
+        "LastName": "Durakovic",
         "RepresentingNationality": "cz"
       },
       "Result": -75300
@@ -184,8 +190,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "DAIICHIRO",
-        "LastName": "SEKIKAWA",
+        "FirstName": "Daiichiro",
+        "LastName": "Sekikawa",
         "RepresentingNationality": "pl"
       },
       "Result": -86800
@@ -203,8 +209,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "CARRIE",
-        "LastName": "DIVIŠ",
+        "FirstName": "Carrie",
+        "LastName": "Diviš",
         "RepresentingNationality": "cz"
       },
       "Result": -140300
@@ -212,8 +218,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "LUKÁŠ",
-        "LastName": "BILEK",
+        "FirstName": "Lukáš",
+        "LastName": "Bilek",
         "RepresentingNationality": "cz"
       },
       "Result": -202400

@@ -7,6 +7,11 @@
   "Date": "2014-05-03",
   "ToDate": "2014-05-04",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010173"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Joël",
@@ -29,8 +34,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "KARST",
-        "LastName": "WESTRA",
+        "FirstName": "Karst",
+        "LastName": "Westra",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -49,8 +54,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "ZAHRADNIK",
+        "FirstName": "Michael",
+        "LastName": "Zahradnik",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -101,8 +106,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "HARRY",
-        "LastName": "KAL",
+        "FirstName": "Harry",
+        "LastName": "Kal",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -121,8 +126,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "ALESSIA",
-        "LastName": "COSMO",
+        "FirstName": "Alessia",
+        "LastName": "Cosmo",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -197,8 +202,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "EUGENIE",
-        "LastName": "TEUNISSEN",
+        "FirstName": "Eugenie",
+        "LastName": "Teunissen",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -249,8 +254,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "JANNIE",
-        "LastName": "NOLTEN",
+        "FirstName": "Jannie",
+        "LastName": "Nolten",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -277,8 +282,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "MIRJAM",
-        "LastName": "MUIJEN, VAN",
+        "FirstName": "Mirjam",
+        "LastName": "Muijen, van",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -297,8 +302,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "RUDY",
-        "LastName": "WONG-CHUNG",
+        "FirstName": "Rudy",
+        "LastName": "Wong-Chung",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -309,8 +314,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "CHRIS",
-        "LastName": "JANSSEN",
+        "FirstName": "Chris",
+        "LastName": "Janssen",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -345,8 +350,8 @@
     {
       "Placement": 37,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -357,8 +362,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "MARIAN",
-        "LastName": "PEERDEMAN",
+        "FirstName": "Marian",
+        "LastName": "Peerdeman",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -377,8 +382,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "ROBERT",
-        "LastName": "MÜLLER",
+        "FirstName": "Robert",
+        "LastName": "Müller",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -397,8 +402,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "JANINE",
-        "LastName": "WIJK, VAN",
+        "FirstName": "Janine",
+        "LastName": "Wijk, van",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -417,8 +422,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "CORNELIA",
-        "LastName": "CAPITO",
+        "FirstName": "Cornelia",
+        "LastName": "Capito",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -429,8 +434,8 @@
     {
       "Placement": 45,
       "Player": {
-        "FirstName": "LENY",
-        "LastName": "SCHAADERS",
+        "FirstName": "Leny",
+        "LastName": "Schaaders",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -473,8 +478,8 @@
     {
       "Placement": 50,
       "Player": {
-        "FirstName": "MARLEEN",
-        "LastName": "DEWOLF",
+        "FirstName": "Marleen",
+        "LastName": "Dewolf",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -541,8 +546,8 @@
     {
       "Placement": 58,
       "Player": {
-        "FirstName": "PAULA",
-        "LastName": "RIJNDERS",
+        "FirstName": "Paula",
+        "LastName": "Rijnders",
         "RepresentingNationality": "pt"
       },
       "Result": {
@@ -601,8 +606,8 @@
     {
       "Placement": 65,
       "Player": {
-        "FirstName": "TING TING",
-        "LastName": "LI",
+        "FirstName": "Ting Ting",
+        "LastName": "Li",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -637,8 +642,8 @@
     {
       "Placement": 69,
       "Player": {
-        "FirstName": "DEWI",
-        "LastName": "SATRIASAPUTRA",
+        "FirstName": "Dewi",
+        "LastName": "Satriasaputra",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -649,8 +654,8 @@
     {
       "Placement": 70,
       "Player": {
-        "FirstName": "JACK LIEN",
-        "LastName": "PILGRAM",
+        "FirstName": "Jack Lien",
+        "LastName": "Pilgram",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -693,8 +698,8 @@
     {
       "Placement": 75,
       "Player": {
-        "FirstName": "ELKE",
-        "LastName": "BRINKMEIER",
+        "FirstName": "Elke",
+        "LastName": "Brinkmeier",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -745,8 +750,8 @@
     {
       "Placement": 81,
       "Player": {
-        "FirstName": "ANDRÉ",
-        "LastName": "RIJNDERS",
+        "FirstName": "André",
+        "LastName": "Rijnders",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -757,8 +762,8 @@
     {
       "Placement": 82,
       "Player": {
-        "FirstName": "FATIHA",
-        "LastName": "BENELKADI",
+        "FirstName": "Fatiha",
+        "LastName": "Benelkadi",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -769,8 +774,8 @@
     {
       "Placement": 83,
       "Player": {
-        "FirstName": "TON",
-        "LastName": "RIJNDERS",
+        "FirstName": "Ton",
+        "LastName": "Rijnders",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -781,8 +786,8 @@
     {
       "Placement": 84,
       "Player": {
-        "FirstName": "JEAN-YVES",
-        "LastName": "PERRIER",
+        "FirstName": "Jean-Yves",
+        "LastName": "Perrier",
         "RepresentingNationality": "ch"
       },
       "Result": {

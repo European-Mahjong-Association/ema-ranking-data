@@ -7,6 +7,11 @@
   "Date": "2020-02-23",
   "ToDate": "2020-02-23",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000051"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Petter",
@@ -77,8 +82,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "ASTRID",
-        "LastName": "DUBEDOUT",
+        "FirstName": "Astrid",
+        "LastName": "Dubedout",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -97,7 +102,7 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },
@@ -141,8 +146,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "EJE",
-        "LastName": "NORMAN",
+        "FirstName": "Eje",
+        "LastName": "Norman",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -161,8 +166,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -173,8 +178,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "CLAES",
-        "LastName": "SCHÜTT",
+        "FirstName": "Claes",
+        "LastName": "Schütt",
         "RepresentingNationality": "dk"
       },
       "Result": {

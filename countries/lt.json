@@ -1,0 +1,27 @@
+{
+  "CountryCode": "lt",
+  "Country": "Lithuania",
+  "Organisation": "LRMA",
+  "Players": [
+    {
+      "EmaNumber": "32000001",
+      "FirstName": "Vakaris",
+      "LastName": "Vaitkevičius"
+    },
+    {
+      "EmaNumber": "32000002",
+      "FirstName": "Paulius",
+      "LastName": "Puidokas"
+    },
+    {
+      "EmaNumber": "32000003",
+      "FirstName": "Vytautas",
+      "LastName": "Niaura"
+    },
+    {
+      "EmaNumber": "32000004",
+      "FirstName": "Girius",
+      "LastName": "Frankonis"
+    }
+  ]
+}

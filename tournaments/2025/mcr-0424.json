@@ -7,6 +7,15 @@
   "Date": "2025-04-12",
   "ToDate": "2025-04-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Astrid",
+      "LastName": "Dubedout"
+    },
+    {
+      "Ema": "04120070"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Raúl",
@@ -429,8 +438,8 @@
     {
       "Placement": 52,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -633,8 +642,8 @@
     {
       "Placement": 77,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -701,8 +710,8 @@
     {
       "Placement": 85,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

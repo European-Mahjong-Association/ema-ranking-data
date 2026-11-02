@@ -7,6 +7,12 @@
   "Date": "2017-10-21",
   "ToDate": "2017-10-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Luc",
+      "LastName": "Humbert"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marco",
@@ -213,8 +219,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "SÉBASTIEN",
-        "LastName": "DELACRETAZ",
+        "FirstName": "Sébastien",
+        "LastName": "Delacretaz",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -225,8 +231,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "MARIE-HÉLÈNE",
-        "LastName": "GROUX",
+        "FirstName": "Marie-Hélène",
+        "LastName": "Groux",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -237,8 +243,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "AURORITA",
-        "LastName": "HUNZIKER",
+        "FirstName": "Aurorita",
+        "LastName": "Hunziker",
         "RepresentingNationality": "ch"
       },
       "Result": {

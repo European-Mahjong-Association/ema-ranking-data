@@ -7,6 +7,17 @@
   "Date": "2022-11-26",
   "ToDate": "2022-11-27",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04090080"
+    },
+    {
+      "Ema": "07000114"
+    },
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anna",
@@ -165,8 +176,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "PARIDE",
-        "LastName": "BENINI",
+        "FirstName": "Paride",
+        "LastName": "Benini",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -321,8 +332,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "DEMETRIO",
-        "LastName": "MARINO",
+        "FirstName": "Demetrio",
+        "LastName": "Marino",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -541,8 +552,8 @@
     {
       "Placement": 65,
       "Player": {
-        "FirstName": "LAURA",
-        "LastName": "MAMONE",
+        "FirstName": "Laura",
+        "LastName": "Mamone",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -569,8 +580,8 @@
     {
       "Placement": 68,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "KUNTSOVA",
+        "FirstName": "Anna",
+        "LastName": "Kuntsova",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -653,8 +664,8 @@
     {
       "Placement": 78,
       "Player": {
-        "FirstName": "GIANLUCA",
-        "LastName": "BERTOLOTTI",
+        "FirstName": "Gianluca",
+        "LastName": "Bertolotti",
         "RepresentingNationality": "it"
       },
       "Result": {

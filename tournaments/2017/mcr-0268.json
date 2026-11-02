@@ -7,6 +7,11 @@
   "Date": "2017-07-15",
   "ToDate": "2017-07-16",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990017"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Iván",
@@ -37,8 +42,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "DOMINGO",
-        "LastName": "GARCÍA GARCÍA",
+        "FirstName": "Domingo",
+        "LastName": "García García",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -137,8 +142,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "EZEQUIEL",
-        "LastName": "HERMOSIN",
+        "FirstName": "Ezequiel",
+        "LastName": "Hermosin",
         "RepresentingNationality": "es"
       },
       "Result": {

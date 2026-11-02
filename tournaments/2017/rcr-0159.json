@@ -7,10 +7,16 @@
   "Date": "2017-08-05",
   "ToDate": "2017-08-06",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Waldemar",
+      "LastName": "Laube"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Radka",
-      "LastName": "PERNICOVA"
+      "LastName": "Pernicova"
     }
   ],
   "NrDays": 2,
@@ -31,8 +37,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "NICOLE",
-        "LastName": "HAASBROEK",
+        "FirstName": "Nicole",
+        "LastName": "Haasbroek",
         "RepresentingNationality": "vide"
       },
       "Result": 104200
@@ -45,8 +51,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "CLARKE",
+        "FirstName": "David",
+        "LastName": "Clarke",
         "RepresentingNationality": "gb"
       },
       "Result": 84200
@@ -79,8 +85,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "ONDREJ",
-        "LastName": "BELLAY",
+        "FirstName": "Ondrej",
+        "LastName": "Bellay",
         "RepresentingNationality": "sk"
       },
       "Result": 15500
@@ -98,8 +104,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "JURAJ",
-        "LastName": "MÓZA",
+        "FirstName": "Juraj",
+        "LastName": "Móza",
         "RepresentingNationality": "sk"
       },
       "Result": -30500
@@ -112,8 +118,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "STEFANIE",
-        "LastName": "KAMMER",
+        "FirstName": "Stefanie",
+        "LastName": "Kammer",
         "RepresentingNationality": "de"
       },
       "Result": -44800
@@ -136,8 +142,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "MAXIMILIAN",
-        "LastName": "SCHMIDT",
+        "FirstName": "Maximilian",
+        "LastName": "Schmidt",
         "RepresentingNationality": "de"
       },
       "Result": -90400
@@ -160,8 +166,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": -158400

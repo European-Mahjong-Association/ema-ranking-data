@@ -7,10 +7,15 @@
   "Date": "2026-04-25",
   "ToDate": "2026-04-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05100166"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sophie",
-      "LastName": "DELAUCHE"
+      "LastName": "Delauche"
     }
   ],
   "NrDays": 2,
@@ -226,8 +231,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "PASCAL",
-        "LastName": "FINK",
+        "FirstName": "Pascal",
+        "LastName": "Fink",
         "RepresentingNationality": "de"
       },
       "Result": -17300
@@ -380,8 +385,8 @@
     {
       "Placement": 72,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

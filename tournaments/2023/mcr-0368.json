@@ -7,10 +7,15 @@
   "Date": "2023-04-29",
   "ToDate": "2023-04-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04030022"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Caroline",
-      "LastName": "ARNAUD"
+      "LastName": "Arnaud"
     }
   ],
   "NrDays": 2,
@@ -237,8 +242,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "STELLA",
-        "LastName": "THIEFIN",
+        "FirstName": "Stella",
+        "LastName": "Thiefin",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -401,8 +406,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "ALFRED",
-        "LastName": "LAM WAN SHUM",
+        "FirstName": "Alfred",
+        "LastName": "Lam Wan Shum",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -469,8 +474,8 @@
     {
       "Placement": 56,
       "Player": {
-        "FirstName": "VALÉRIE",
-        "LastName": "CHANE NAME",
+        "FirstName": "Valérie",
+        "LastName": "Chane Name",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -481,8 +486,8 @@
     {
       "Placement": 57,
       "Player": {
-        "FirstName": "JEAN-LUC",
-        "LastName": "CHAMPENOIS",
+        "FirstName": "Jean-Luc",
+        "LastName": "Champenois",
         "RepresentingNationality": "fr"
       },
       "Result": {

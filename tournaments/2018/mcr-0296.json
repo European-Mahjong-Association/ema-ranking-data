@@ -7,10 +7,22 @@
   "Date": "2018-06-16",
   "ToDate": "2018-06-17",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990044"
+    },
+    {
+      "Ema": "09990045"
+    },
+    {
+      "FirstName": "Astrid",
+      "LastName": "Dubedout"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Gérard",
-      "LastName": "HECHE"
+      "LastName": "Heche"
     }
   ],
   "NrDays": 2,
@@ -37,8 +49,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "ASTRID",
-        "LastName": "DUBEDOUT",
+        "FirstName": "Astrid",
+        "LastName": "Dubedout",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -97,8 +109,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "JACOB",
-        "LastName": "PETERSEN",
+        "FirstName": "Jacob",
+        "LastName": "Petersen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -149,8 +161,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "TING",
-        "LastName": "SUN",
+        "FirstName": "Ting",
+        "LastName": "Sun",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -169,8 +181,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "MARIE",
-        "LastName": "NORÉN",
+        "FirstName": "Marie",
+        "LastName": "Norén",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -213,8 +225,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "OTTO",
-        "LastName": "WEFER",
+        "FirstName": "Otto",
+        "LastName": "Wefer",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -241,8 +253,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "MIKAEL",
-        "LastName": "HJORT",
+        "FirstName": "Mikael",
+        "LastName": "Hjort",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -253,8 +265,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -297,8 +309,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "LEIF",
-        "LastName": "JOHANSSON",
+        "FirstName": "Leif",
+        "LastName": "Johansson",
         "RepresentingNationality": "se"
       },
       "Result": {

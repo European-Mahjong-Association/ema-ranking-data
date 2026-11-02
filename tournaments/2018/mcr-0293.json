@@ -7,6 +7,15 @@
   "Date": "2018-05-11",
   "ToDate": "2018-05-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000051"
+    },
+    {
+      "FirstName": "Anders",
+      "LastName": "Labich"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Timur",
@@ -21,8 +30,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "ALEKSEI",
-        "LastName": "SHPILMAN",
+        "FirstName": "Aleksei",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -49,8 +58,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "WEDEL JACOBSEN",
+        "FirstName": "Martin",
+        "LastName": "Wedel Jacobsen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -69,8 +78,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -81,8 +90,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -285,8 +294,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "ASTRID",
-        "LastName": "DUBEDOUT",
+        "FirstName": "Astrid",
+        "LastName": "Dubedout",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -305,8 +314,8 @@
     {
       "Placement": 34,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -365,8 +374,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "DENIS",
-        "LastName": "LUGANNIKOV",
+        "FirstName": "Denis",
+        "LastName": "Lugannikov",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -417,7 +426,7 @@
     {
       "Placement": 47,
       "Player": {
-        "FirstName": "MYSHA EILIYAH RASHAD",
+        "FirstName": "Mysha Eiliyah Rashad",
         "LastName": null,
         "RepresentingNationality": "sg"
       },
@@ -469,8 +478,8 @@
     {
       "Placement": 53,
       "Player": {
-        "FirstName": "ELKE",
-        "LastName": "BRINKMEIER",
+        "FirstName": "Elke",
+        "LastName": "Brinkmeier",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -497,8 +506,8 @@
     {
       "Placement": 56,
       "Player": {
-        "FirstName": "NATALIA",
-        "LastName": "GOLIKOVA",
+        "FirstName": "Natalia",
+        "LastName": "Golikova",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -517,7 +526,7 @@
     {
       "Placement": 58,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },
@@ -545,8 +554,8 @@
     {
       "Placement": 61,
       "Player": {
-        "FirstName": "JACOB",
-        "LastName": "PETERSEN",
+        "FirstName": "Jacob",
+        "LastName": "Petersen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -565,8 +574,8 @@
     {
       "Placement": 63,
       "Player": {
-        "FirstName": "ROBERT",
-        "LastName": "MÜLLER",
+        "FirstName": "Robert",
+        "LastName": "Müller",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -585,8 +594,8 @@
     {
       "Placement": 65,
       "Player": {
-        "FirstName": "ESBEN",
-        "LastName": "ANDERSEN",
+        "FirstName": "Esben",
+        "LastName": "Andersen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -645,8 +654,8 @@
     {
       "Placement": 72,
       "Player": {
-        "FirstName": "EMMA",
-        "LastName": "VALLÉE",
+        "FirstName": "Emma",
+        "LastName": "Vallée",
         "RepresentingNationality": "se"
       },
       "Result": {

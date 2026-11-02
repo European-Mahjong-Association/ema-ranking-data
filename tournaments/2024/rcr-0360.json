@@ -7,6 +7,14 @@
   "Date": "2024-11-23",
   "ToDate": "2024-11-24",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010436"
+    },
+    {
+      "Ema": "08010737"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Dagmar",
@@ -151,8 +159,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "JOE-CALBERSON",
-        "LastName": "HUYNH",
+        "FirstName": "Joe-Calberson",
+        "LastName": "Huynh",
         "RepresentingNationality": "fr"
       },
       "Result": 13100

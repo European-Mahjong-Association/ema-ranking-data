@@ -7,6 +7,14 @@
   "Date": "2024-06-15",
   "ToDate": "2024-06-16",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000114"
+    },
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Gerda",
@@ -421,8 +429,8 @@
     {
       "Placement": 51,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

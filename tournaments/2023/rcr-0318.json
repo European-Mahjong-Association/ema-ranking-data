@@ -7,10 +7,15 @@
   "Date": "2023-11-25",
   "ToDate": "2023-11-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "25000002"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Julien",
-      "LastName": "FOUQUES"
+      "LastName": "Fouques"
     }
   ],
   "NrDays": 2,
@@ -176,8 +181,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

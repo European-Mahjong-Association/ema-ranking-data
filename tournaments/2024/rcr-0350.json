@@ -7,6 +7,21 @@
   "Date": "2024-10-10",
   "ToDate": "2024-10-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Sylvain",
+      "LastName": "Malbec"
+    },
+    {
+      "Ema": "04310048"
+    },
+    {
+      "Ema": "04160092"
+    },
+    {
+      "Ema": "04040287"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Lukasz",
@@ -22,7 +37,7 @@
       "Placement": 1,
       "Player": {
         "FirstName": "Hiroshi",
-        "LastName": "YAMAI",
+        "LastName": "Yamai",
         "RepresentingNationality": "jp"
       },
       "Result": 52900
@@ -41,7 +56,7 @@
       "Placement": 4,
       "Player": {
         "FirstName": "Michael",
-        "LastName": "HERNANDEZ",
+        "LastName": "Hernandez",
         "RepresentingNationality": "ca"
       },
       "Result": -64900
@@ -70,7 +85,7 @@
       "Placement": 9,
       "Player": {
         "FirstName": "Keijun",
-        "LastName": "NARA",
+        "LastName": "Nara",
         "RepresentingNationality": "jp"
       },
       "Result": 237400
@@ -144,7 +159,7 @@
       "Placement": 23,
       "Player": {
         "FirstName": "Neil",
-        "LastName": "CHEN",
+        "LastName": "Chen",
         "RepresentingNationality": "us"
       },
       "Result": 81200
@@ -178,7 +193,7 @@
       "Placement": 29,
       "Player": {
         "FirstName": "AngZheng",
-        "LastName": "YAO",
+        "LastName": "Yao",
         "RepresentingNationality": "sg"
       },
       "Result": 58600
@@ -202,7 +217,7 @@
       "Placement": 33,
       "Player": {
         "FirstName": "Edwin",
-        "LastName": "DIZON",
+        "LastName": "Dizon",
         "RepresentingNationality": "us"
       },
       "Result": 41200
@@ -231,7 +246,7 @@
       "Placement": 38,
       "Player": {
         "FirstName": "Dennis",
-        "LastName": "KWOK",
+        "LastName": "Kwok",
         "RepresentingNationality": "ca"
       },
       "Result": 29200
@@ -245,7 +260,7 @@
       "Placement": 40,
       "Player": {
         "FirstName": "Michael",
-        "LastName": "MCLEOD",
+        "LastName": "Mcleod",
         "RepresentingNationality": "ca"
       },
       "Result": 21000
@@ -289,7 +304,7 @@
       "Placement": 48,
       "Player": {
         "FirstName": "Yuri",
-        "LastName": "MIKOSHIBA",
+        "LastName": "Mikoshiba",
         "RepresentingNationality": "jp"
       },
       "Result": 4800
@@ -342,8 +357,8 @@
     {
       "Placement": 58,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "BRESNICK",
+        "FirstName": "David",
+        "LastName": "Bresnick",
         "RepresentingNationality": "us"
       },
       "Result": -19800
@@ -407,7 +422,7 @@
       "Placement": 70,
       "Player": {
         "FirstName": "Claire",
-        "LastName": "POZNIAK",
+        "LastName": "Pozniak",
         "RepresentingNationality": "us"
       },
       "Result": -49600
@@ -470,8 +485,8 @@
     {
       "Placement": 82,
       "Player": {
-        "FirstName": "YURIKA",
-        "LastName": "AOI",
+        "FirstName": "Yurika",
+        "LastName": "Aoi",
         "RepresentingNationality": "jp"
       },
       "Result": -80900
@@ -530,7 +545,7 @@
       "Placement": 93,
       "Player": {
         "FirstName": "Jai",
-        "LastName": "SRIVASTAV",
+        "LastName": "Srivastav",
         "RepresentingNationality": "us"
       },
       "Result": -118500

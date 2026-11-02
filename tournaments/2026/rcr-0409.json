@@ -7,6 +7,14 @@
   "Date": "2026-04-18",
   "ToDate": "2026-04-19",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "06990035"
+    },
+    {
+      "Ema": "04990093"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Rene",
@@ -86,8 +94,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "OLEKSANDR",
-        "LastName": "GATSA",
+        "FirstName": "Oleksandr",
+        "LastName": "Gatsa",
         "RepresentingNationality": "pl"
       },
       "Result": 45500

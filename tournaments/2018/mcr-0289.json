@@ -7,10 +7,15 @@
   "Date": "2018-03-11",
   "ToDate": "2018-03-11",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000051"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jasper",
-      "LastName": "GERMEYS"
+      "LastName": "Germeys"
     }
   ],
   "NrDays": 1,
@@ -45,8 +50,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "BRIAN",
-        "LastName": "KROG",
+        "FirstName": "Brian",
+        "LastName": "Krog",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -57,7 +62,7 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },
@@ -133,8 +138,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -145,8 +150,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "SUNE",
-        "LastName": "GJEDING THOMSEN",
+        "FirstName": "Sune",
+        "LastName": "Gjeding Thomsen",
         "RepresentingNationality": "dk"
       },
       "Result": {

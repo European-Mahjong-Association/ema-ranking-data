@@ -7,6 +7,11 @@
   "Date": "2022-11-19",
   "ToDate": "2022-11-20",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990047"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jesper",
@@ -141,8 +146,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "THOMAS",
-        "LastName": "LI",
+        "FirstName": "Thomas",
+        "LastName": "Li",
         "RepresentingNationality": "se"
       },
       "Result": -33900
@@ -160,8 +165,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "GUSTAF",
-        "LastName": "FRÖHLANDER",
+        "FirstName": "Gustaf",
+        "LastName": "Fröhlander",
         "RepresentingNationality": "no"
       },
       "Result": -59600
@@ -169,8 +174,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "HANNES",
-        "LastName": "SÖRENSSON",
+        "FirstName": "Hannes",
+        "LastName": "Sörensson",
         "RepresentingNationality": "se"
       },
       "Result": -64300
@@ -193,8 +198,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "JOHAN",
-        "LastName": "FRÖHLANDER",
+        "FirstName": "Johan",
+        "LastName": "Fröhlander",
         "RepresentingNationality": "se"
       },
       "Result": -106800
@@ -212,8 +217,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

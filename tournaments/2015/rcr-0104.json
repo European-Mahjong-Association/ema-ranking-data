@@ -7,6 +7,18 @@
   "Date": "2015-07-25",
   "ToDate": "2015-07-25",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000011"
+    },
+    {
+      "Ema": "19000001"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Tomaszewski"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marek",
@@ -41,8 +53,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "JAKUB",
-        "LastName": "TOMASZEWSKI",
+        "FirstName": "Jakub",
+        "LastName": "Tomaszewski",
         "RepresentingNationality": "pl"
       },
       "Result": 40200
@@ -65,8 +77,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "POWAŁOWSKI",
+        "FirstName": "Piotr",
+        "LastName": "Powałowski",
         "RepresentingNationality": "pl"
       },
       "Result": 6900
@@ -84,8 +96,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "MAŁGORZATA",
-        "LastName": "RUTKOWSKA",
+        "FirstName": "Małgorzata",
+        "LastName": "Rutkowska",
         "RepresentingNationality": "pl"
       },
       "Result": -41400
@@ -93,8 +105,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "OLIWIA",
-        "LastName": "WOLSKA",
+        "FirstName": "Oliwia",
+        "LastName": "Wolska",
         "RepresentingNationality": "pl"
       },
       "Result": -48800
@@ -102,8 +114,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "NATALIA",
-        "LastName": "OLBIŃSKA",
+        "FirstName": "Natalia",
+        "LastName": "Olbińska",
         "RepresentingNationality": "pl"
       },
       "Result": -69700
@@ -111,8 +123,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MAGDALENA",
-        "LastName": "JANICKA",
+        "FirstName": "Magdalena",
+        "LastName": "Janicka",
         "RepresentingNationality": "pl"
       },
       "Result": -133200
@@ -120,8 +132,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "PAWEŁ",
-        "LastName": "RYMAROWICZ",
+        "FirstName": "Paweł",
+        "LastName": "Rymarowicz",
         "RepresentingNationality": "pl"
       },
       "Result": -163900

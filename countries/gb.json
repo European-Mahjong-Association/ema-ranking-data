@@ -1,656 +1,658 @@
 {
   "CountryCode": "gb",
   "Country": "United Kingdom",
+  "Organisation": "United Kingdom Mahjong Association",
+  "Website": "https://ukmahjong.co.uk/",
   "Players": [
     {
       "EmaNumber": "11000001",
-      "FirstName": "PAVEL",
-      "LastName": "BOGACHEV"
+      "FirstName": "Pavel",
+      "LastName": "Bogachev"
     },
     {
       "EmaNumber": "11000002",
-      "FirstName": "DARIA",
-      "LastName": "ILINA"
+      "FirstName": "Daria",
+      "LastName": "Ilina"
     },
     {
       "EmaNumber": "11000003",
-      "FirstName": "ELVINAS",
-      "LastName": "ANCUTA"
+      "FirstName": "Elvinas",
+      "LastName": "Ancuta"
     },
     {
       "EmaNumber": "11000006",
-      "FirstName": "JOSEPH",
-      "LastName": "JAMES"
+      "FirstName": "Joseph",
+      "LastName": "James"
     },
     {
       "EmaNumber": "11000008",
-      "FirstName": "DOMINIC",
-      "LastName": "SAXTON"
+      "FirstName": "Dominic",
+      "LastName": "Saxton"
     },
     {
       "EmaNumber": "11000010",
-      "FirstName": "ARISA",
-      "LastName": "TURNER"
+      "FirstName": "Arisa",
+      "LastName": "Turner"
     },
     {
       "EmaNumber": "11000011",
-      "FirstName": "MICHIKO",
-      "LastName": "GREEN"
+      "FirstName": "Michiko",
+      "LastName": "Green"
     },
     {
       "EmaNumber": "11000012",
-      "FirstName": "NATHAN",
-      "LastName": "BRENTON"
+      "FirstName": "Nathan",
+      "LastName": "Brenton"
     },
     {
       "EmaNumber": "11000013",
-      "FirstName": "DANNY",
-      "LastName": "CHAN"
+      "FirstName": "Danny",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000014",
-      "FirstName": "NIGEL",
-      "LastName": "CLARKE"
+      "FirstName": "Nigel",
+      "LastName": "Clarke"
     },
     {
       "EmaNumber": "11000015",
-      "FirstName": "CONOR",
-      "LastName": "ELPHICK"
+      "FirstName": "Conor",
+      "LastName": "Elphick"
     },
     {
       "EmaNumber": "11000016",
-      "FirstName": "SAMMY",
-      "LastName": "HE"
+      "FirstName": "Sammy",
+      "LastName": "He"
     },
     {
       "EmaNumber": "11000017",
-      "FirstName": "SIMON",
-      "LastName": "HO"
+      "FirstName": "Simon",
+      "LastName": "Ho"
     },
     {
       "EmaNumber": "11000018",
-      "FirstName": "ROSE",
-      "LastName": "JOHNS"
+      "FirstName": "Rose",
+      "LastName": "Johns"
     },
     {
       "EmaNumber": "11000019",
-      "FirstName": "ADAM",
-      "LastName": "LINDLEY"
+      "FirstName": "Adam",
+      "LastName": "Lindley"
     },
     {
       "EmaNumber": "11000020",
-      "FirstName": "JAI",
-      "LastName": "SHARMA"
+      "FirstName": "Jai",
+      "LastName": "Sharma"
     },
     {
       "EmaNumber": "11000021",
-      "FirstName": "KRZYSZTOF",
-      "LastName": "SOSNICKI"
+      "FirstName": "Krzysztof",
+      "LastName": "Sosnicki"
     },
     {
       "EmaNumber": "11000022",
-      "FirstName": "UCHAIN",
-      "LastName": "SUN"
+      "FirstName": "Uchain",
+      "LastName": "Sun"
     },
     {
       "EmaNumber": "11000023",
-      "FirstName": "MARK",
-      "LastName": "WU"
+      "FirstName": "Mark",
+      "LastName": "Wu"
     },
     {
       "EmaNumber": "11000027",
-      "FirstName": "JOEL",
-      "LastName": "ABRAHAM"
+      "FirstName": "Joel",
+      "LastName": "Abraham"
     },
     {
       "EmaNumber": "11000028",
-      "FirstName": "LORAINE",
-      "LastName": "GRAY"
+      "FirstName": "Loraine",
+      "LastName": "Gray"
     },
     {
       "EmaNumber": "11000030",
-      "FirstName": "VIVIENNE",
-      "LastName": "CAMERON"
+      "FirstName": "Vivienne",
+      "LastName": "Cameron"
     },
     {
       "EmaNumber": "11000031",
-      "FirstName": "MARCO",
-      "LastName": "CHAN"
+      "FirstName": "Marco",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000032",
-      "FirstName": "BARRY",
-      "LastName": "CRILLEY"
+      "FirstName": "Barry",
+      "LastName": "Crilley"
     },
     {
       "EmaNumber": "11000033",
-      "FirstName": "JANOS",
-      "LastName": "FARKAS"
+      "FirstName": "Janos",
+      "LastName": "Farkas"
     },
     {
       "EmaNumber": "11000034",
-      "FirstName": "JOKUBAS",
-      "LastName": "MARKEVICIUS"
+      "FirstName": "Jokubas",
+      "LastName": "Markevicius"
     },
     {
       "EmaNumber": "11000035",
-      "FirstName": "ADELINO",
-      "LastName": "SANTOS"
+      "FirstName": "Adelino",
+      "LastName": "Santos"
     },
     {
       "EmaNumber": "11000036",
-      "FirstName": "SAM",
-      "LastName": "SLEIGHT"
+      "FirstName": "Sam",
+      "LastName": "Sleight"
     },
     {
       "EmaNumber": "11000037",
-      "FirstName": "ELLIOT",
-      "LastName": "TONG"
+      "FirstName": "Elliot",
+      "LastName": "Tong"
     },
     {
       "EmaNumber": "11000038",
-      "FirstName": "JONATHAN",
-      "LastName": "ASHBY"
+      "FirstName": "Jonathan",
+      "LastName": "Ashby"
     },
     {
       "EmaNumber": "11000039",
-      "FirstName": "PAUL",
-      "LastName": "BELLCHAMBERS"
+      "FirstName": "Paul",
+      "LastName": "Bellchambers"
     },
     {
       "EmaNumber": "11000040",
-      "FirstName": "SAMUEL",
-      "LastName": "BROWN"
+      "FirstName": "Samuel",
+      "LastName": "Brown"
     },
     {
       "EmaNumber": "11000042",
-      "FirstName": "VALENTIN",
-      "LastName": "VINOGRADOV"
+      "FirstName": "Valentin",
+      "LastName": "Vinogradov"
     },
     {
       "EmaNumber": "11000043",
-      "FirstName": "GORDON",
-      "LastName": "CHAN"
+      "FirstName": "Gordon",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000044",
-      "FirstName": "DENNIS",
-      "LastName": "CHAU"
+      "FirstName": "Dennis",
+      "LastName": "Chau"
     },
     {
       "EmaNumber": "11000045",
-      "FirstName": "MICHAEL",
-      "LastName": "TSANG"
+      "FirstName": "Michael",
+      "LastName": "Tsang"
     },
     {
       "EmaNumber": "11000046",
-      "FirstName": "KARMAN",
-      "LastName": "WONG"
+      "FirstName": "Karman",
+      "LastName": "Wong"
     },
     {
       "EmaNumber": "11000047",
       "FirstName": "Elvia",
-      "LastName": "EDISON"
+      "LastName": "Edison"
     },
     {
       "EmaNumber": "11000048",
       "FirstName": "Niall",
-      "LastName": "KENNEDY"
+      "LastName": "Kennedy"
     },
     {
       "EmaNumber": "11000049",
       "FirstName": "Minchang",
-      "LastName": "LYU"
+      "LastName": "Lyu"
     },
     {
       "EmaNumber": "11000050",
-      "FirstName": "ROBERT",
-      "LastName": "MASON"
+      "FirstName": "Robert",
+      "LastName": "Mason"
     },
     {
       "EmaNumber": "11000051",
       "FirstName": "Jude",
-      "LastName": "EDISON"
+      "LastName": "Edison"
     },
     {
       "EmaNumber": "11000052",
       "FirstName": "Mami",
-      "LastName": "UMEMURA"
+      "LastName": "Umemura"
     },
     {
       "EmaNumber": "11000053",
-      "FirstName": "MING",
-      "LastName": "YING"
+      "FirstName": "Ming",
+      "LastName": "Ying"
     },
     {
       "EmaNumber": "11000054",
       "FirstName": "Dean",
-      "LastName": "MCCAFFREY"
+      "LastName": "Mccaffrey"
     },
     {
       "EmaNumber": "11000057",
-      "FirstName": "HITOSHI",
-      "LastName": "KURATA"
+      "FirstName": "Hitoshi",
+      "LastName": "Kurata"
     },
     {
       "EmaNumber": "11000058",
-      "FirstName": "DEREK",
-      "LastName": "CHOI"
+      "FirstName": "Derek",
+      "LastName": "Choi"
     },
     {
       "EmaNumber": "11000059",
-      "FirstName": "LILIA",
-      "LastName": "BOGDAN"
+      "FirstName": "Lilia",
+      "LastName": "Bogdan"
     },
     {
       "EmaNumber": "11000060",
-      "FirstName": "SIO I",
-      "LastName": "LIANG"
+      "FirstName": "Sio I",
+      "LastName": "Liang"
     },
     {
       "EmaNumber": "11000061",
-      "FirstName": "RYAN MICHAEL",
-      "LastName": "GAUNT"
+      "FirstName": "Ryan Michael",
+      "LastName": "Gaunt"
     },
     {
       "EmaNumber": "11000062",
-      "FirstName": "ANTONY",
-      "LastName": "TSE"
+      "FirstName": "Antony",
+      "LastName": "Tse"
     },
     {
       "EmaNumber": "11000063",
-      "FirstName": "SAM",
-      "LastName": "BENTHAM"
+      "FirstName": "Sam",
+      "LastName": "Bentham"
     },
     {
       "EmaNumber": "11000064",
-      "FirstName": "AMELIA",
-      "LastName": "ELTON"
+      "FirstName": "Amelia",
+      "LastName": "Elton"
     },
     {
       "EmaNumber": "11000065",
-      "FirstName": "SHUANG",
-      "LastName": "LIANG"
+      "FirstName": "Shuang",
+      "LastName": "Liang"
     },
     {
       "EmaNumber": "11000066",
-      "FirstName": "JASPER",
-      "LastName": "KAN"
+      "FirstName": "Jasper",
+      "LastName": "Kan"
     },
     {
       "EmaNumber": "11000067",
-      "FirstName": "ROBERT",
-      "LastName": "BLAKEMAN"
+      "FirstName": "Robert",
+      "LastName": "Blakeman"
     },
     {
       "EmaNumber": "11000068",
-      "FirstName": "VINCENT",
-      "LastName": "WONG"
+      "FirstName": "Vincent",
+      "LastName": "Wong"
     },
     {
       "EmaNumber": "11000085",
       "FirstName": "Frank",
-      "LastName": "LEE"
+      "LastName": "Lee"
     },
     {
       "EmaNumber": "11000086",
       "FirstName": "Vnay",
-      "LastName": "LAD"
+      "LastName": "Lad"
     },
     {
       "EmaNumber": "11000087",
       "FirstName": "Jake",
-      "LastName": "RABAU"
+      "LastName": "Rabau"
     },
     {
       "EmaNumber": "11000088",
       "FirstName": "Chloe",
-      "LastName": "RUSHTON"
+      "LastName": "Rushton"
     },
     {
       "EmaNumber": "11000089",
       "FirstName": "Quinn",
-      "LastName": "CHAN"
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000090",
-      "FirstName": "HO MING",
-      "LastName": "CHAN"
+      "FirstName": "Ho Ming",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000091",
       "FirstName": "Max",
-      "LastName": "GARNETT"
+      "LastName": "Garnett"
     },
     {
       "EmaNumber": "11000093",
       "FirstName": "Luke",
-      "LastName": "RAMSDEN"
+      "LastName": "Ramsden"
     },
     {
       "EmaNumber": "11000094",
       "FirstName": "Chris",
-      "LastName": "CHEUNG"
+      "LastName": "Cheung"
     },
     {
       "EmaNumber": "11000095",
       "FirstName": "Shuang",
-      "LastName": "LIANG"
+      "LastName": "Liang"
     },
     {
       "EmaNumber": "11000096",
       "FirstName": "Paul",
-      "LastName": "YEARWOOD"
+      "LastName": "Yearwood"
     },
     {
       "EmaNumber": "11000097",
       "FirstName": "Lucy",
-      "LastName": "WILLIAMS"
+      "LastName": "Williams"
     },
     {
       "EmaNumber": "11000098",
       "FirstName": "Xander",
-      "LastName": "CLINTON"
+      "LastName": "Clinton"
     },
     {
       "EmaNumber": "11000099",
       "FirstName": "Jayne",
-      "LastName": "WUNDERLICH"
+      "LastName": "Wunderlich"
     },
     {
       "EmaNumber": "11000100",
       "FirstName": "April",
-      "LastName": "SIMMONS"
+      "LastName": "Simmons"
     },
     {
       "EmaNumber": "11000101",
       "FirstName": "Owen",
-      "LastName": "CORKIN"
+      "LastName": "Corkin"
     },
     {
       "EmaNumber": "11000102",
       "FirstName": "Tom",
-      "LastName": "DOWNES"
+      "LastName": "Downes"
     },
     {
       "EmaNumber": "11000103",
       "FirstName": "Phyllis",
-      "LastName": "BRIDGE"
+      "LastName": "Bridge"
     },
     {
       "EmaNumber": "11000104",
-      "FirstName": "MIOU",
-      "LastName": "LUO"
+      "FirstName": "Miou",
+      "LastName": "Luo"
     },
     {
       "EmaNumber": "11000105",
-      "FirstName": "ULADZIMIR",
-      "LastName": "MIRANOVICH"
+      "FirstName": "Uladzimir",
+      "LastName": "Miranovich"
     },
     {
       "EmaNumber": "11000106",
-      "FirstName": "TOMMY",
-      "LastName": "LEE"
+      "FirstName": "Tommy",
+      "LastName": "Lee"
     },
     {
       "EmaNumber": "11000107",
-      "FirstName": "KIT YU",
-      "LastName": "LAM"
+      "FirstName": "Kit Yu",
+      "LastName": "Lam"
     },
     {
       "EmaNumber": "11000108",
-      "FirstName": "SANDRA",
-      "LastName": "FERNANDEZ"
+      "FirstName": "Sandra",
+      "LastName": "Fernandez"
     },
     {
       "EmaNumber": "11000109",
-      "FirstName": "STEVEN",
-      "LastName": "CHEUNG"
+      "FirstName": "Steven",
+      "LastName": "Cheung"
     },
     {
       "EmaNumber": "11000110",
-      "FirstName": "REBECCA",
-      "LastName": "YU"
+      "FirstName": "Rebecca",
+      "LastName": "Yu"
     },
     {
       "EmaNumber": "11000111",
-      "FirstName": "AKIO",
-      "LastName": "FUJIMURA"
+      "FirstName": "Akio",
+      "LastName": "Fujimura"
     },
     {
       "EmaNumber": "11000112",
-      "FirstName": "TO HEI",
-      "LastName": "WAN"
+      "FirstName": "To Hei",
+      "LastName": "Wan"
     },
     {
       "EmaNumber": "11000113",
-      "FirstName": "KYLIE",
-      "LastName": "LEE"
+      "FirstName": "Kylie",
+      "LastName": "Lee"
     },
     {
       "EmaNumber": "11000114",
-      "FirstName": "AMY",
-      "LastName": "LOK"
+      "FirstName": "Amy",
+      "LastName": "Lok"
     },
     {
       "EmaNumber": "11000115",
-      "FirstName": "MAURIN",
-      "LastName": "MOLLE"
+      "FirstName": "Maurin",
+      "LastName": "Molle"
     },
     {
       "EmaNumber": "11000116",
-      "FirstName": "EWEN",
-      "LastName": "MACLEOD"
+      "FirstName": "Ewen",
+      "LastName": "Macleod"
     },
     {
       "EmaNumber": "11000117",
-      "FirstName": "PERRAN",
-      "LastName": "ARCHBOLD"
+      "FirstName": "Perran",
+      "LastName": "Archbold"
     },
     {
       "EmaNumber": "11000118",
-      "FirstName": "JOHN",
-      "LastName": "COOKE"
+      "FirstName": "John",
+      "LastName": "Cooke"
     },
     {
       "EmaNumber": "11000119",
-      "FirstName": "JESSIE",
-      "LastName": "YING"
+      "FirstName": "Jessie",
+      "LastName": "Ying"
     },
     {
       "EmaNumber": "11000120",
-      "FirstName": "ALAN",
-      "LastName": "LAM"
+      "FirstName": "Alan",
+      "LastName": "Lam"
     },
     {
       "EmaNumber": "11000121",
-      "FirstName": "KEN",
-      "LastName": "BURGESS"
+      "FirstName": "Ken",
+      "LastName": "Burgess"
     },
     {
       "EmaNumber": "11000122",
-      "FirstName": "PETER",
-      "LastName": "UNDERWOOD"
+      "FirstName": "Peter",
+      "LastName": "Underwood"
     },
     {
       "EmaNumber": "11000124",
-      "FirstName": "JAMES",
-      "LastName": "LAVERACK"
+      "FirstName": "James",
+      "LastName": "Laverack"
     },
     {
       "EmaNumber": "11000125",
-      "FirstName": "PETER",
-      "LastName": "MUNN"
+      "FirstName": "Peter",
+      "LastName": "Munn"
     },
     {
       "EmaNumber": "11000126",
-      "FirstName": "LEWIS",
-      "LastName": "WHITE"
+      "FirstName": "Lewis",
+      "LastName": "White"
     },
     {
       "EmaNumber": "11000127",
-      "FirstName": "SAMUEL",
-      "LastName": "LO"
+      "FirstName": "Samuel",
+      "LastName": "Lo"
     },
     {
       "EmaNumber": "11000128",
       "FirstName": "Milli",
-      "LastName": "AYLING"
+      "LastName": "Ayling"
     },
     {
       "EmaNumber": "11000129",
-      "FirstName": "TESSA",
-      "LastName": "VAN VEEN"
+      "FirstName": "Tessa",
+      "LastName": "Van Veen"
     },
     {
       "EmaNumber": "11000130",
-      "FirstName": "JACK",
-      "LastName": "MURPHY"
+      "FirstName": "Jack",
+      "LastName": "Murphy"
     },
     {
       "EmaNumber": "11000131",
-      "FirstName": "CYRUS",
-      "LastName": "CHAN"
+      "FirstName": "Cyrus",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000132",
-      "FirstName": "IVAN",
-      "LastName": "SHUM"
+      "FirstName": "Ivan",
+      "LastName": "Shum"
     },
     {
       "EmaNumber": "11000133",
-      "FirstName": "LU",
-      "LastName": "MEI-DAN"
+      "FirstName": "Lu",
+      "LastName": "Mei-Dan"
     },
     {
       "EmaNumber": "11000134",
-      "FirstName": "HOI HONG",
-      "LastName": "CHAN"
+      "FirstName": "Hoi Hong",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "11000135",
-      "FirstName": "WINSTON",
-      "LastName": "YANG"
+      "FirstName": "Winston",
+      "LastName": "Yang"
     },
     {
       "EmaNumber": "11000136",
-      "FirstName": "MICHAL",
-      "LastName": "GAGALA"
+      "FirstName": "Michal",
+      "LastName": "Gagala"
     },
     {
       "EmaNumber": "11000137",
-      "FirstName": "VLAD-DANIEL",
-      "LastName": "STANCIU"
+      "FirstName": "Vlad-Daniel",
+      "LastName": "Stanciu"
     },
     {
       "EmaNumber": "11000138",
-      "FirstName": "MATTHEW",
-      "LastName": "KWOK"
+      "FirstName": "Matthew",
+      "LastName": "Kwok"
     },
     {
       "EmaNumber": "11000139",
-      "FirstName": "ISRA",
-      "LastName": "QURESHI"
+      "FirstName": "Isra",
+      "LastName": "Qureshi"
     },
     {
       "EmaNumber": "11000140",
-      "FirstName": "YAT HANG",
-      "LastName": "LEE"
+      "FirstName": "Yat Hang",
+      "LastName": "Lee"
     },
     {
       "EmaNumber": "11000141",
-      "FirstName": "HANQING",
-      "LastName": "ZHAO"
+      "FirstName": "Hanqing",
+      "LastName": "Zhao"
     },
     {
       "EmaNumber": "11000142",
-      "FirstName": "EN",
-      "LastName": "SATTAUR"
+      "FirstName": "En",
+      "LastName": "Sattaur"
     },
     {
       "EmaNumber": "11000143",
-      "FirstName": "PATRICK",
-      "LastName": "WONG"
+      "FirstName": "Patrick",
+      "LastName": "Wong"
     },
     {
       "EmaNumber": "11000144",
-      "FirstName": "ELIAS",
-      "LastName": "GODFREY"
+      "FirstName": "Elias",
+      "LastName": "Godfrey"
     },
     {
       "EmaNumber": "11000145",
-      "FirstName": "DYLAN",
-      "LastName": "DRESCHER"
+      "FirstName": "Dylan",
+      "LastName": "Drescher"
     },
     {
       "EmaNumber": "11000146",
-      "FirstName": "SARAH",
-      "LastName": "FORD"
+      "FirstName": "Sarah",
+      "LastName": "Ford"
     },
     {
       "EmaNumber": "11000147",
-      "FirstName": "CADE",
-      "LastName": "WEBB"
+      "FirstName": "Cade",
+      "LastName": "Webb"
     },
     {
       "EmaNumber": "11000148",
-      "FirstName": "DANNY",
-      "LastName": "SERLIN"
+      "FirstName": "Danny",
+      "LastName": "Serlin"
     },
     {
       "EmaNumber": "11000149",
-      "FirstName": "LYNDSAY",
-      "LastName": "SAWLER"
+      "FirstName": "Lyndsay",
+      "LastName": "Sawler"
     },
     {
       "EmaNumber": "11000150",
-      "FirstName": "PAUL",
-      "LastName": "BERDUGO"
+      "FirstName": "Paul",
+      "LastName": "Berdugo"
     },
     {
       "EmaNumber": "11000151",
-      "FirstName": "VIRGINIA",
-      "LastName": "BERDUGO"
+      "FirstName": "Virginia",
+      "LastName": "Berdugo"
     },
     {
       "EmaNumber": "11000152",
-      "FirstName": "GRAEME",
-      "LastName": "PHILLIPS"
+      "FirstName": "Graeme",
+      "LastName": "Phillips"
     },
     {
       "EmaNumber": "11000153",
-      "FirstName": "SAM",
-      "LastName": "ROBINSON"
+      "FirstName": "Sam",
+      "LastName": "Robinson"
     },
     {
       "EmaNumber": "11990004",
-      "FirstName": "PETER",
-      "LastName": "LANGFORD"
+      "FirstName": "Peter",
+      "LastName": "Langford"
     },
     {
       "EmaNumber": "11990005",
-      "FirstName": "IAN",
-      "LastName": "FRASER"
+      "FirstName": "Ian",
+      "LastName": "Fraser"
     },
     {
       "EmaNumber": "11990006",
-      "FirstName": "GEMMA",
-      "LastName": "SAKAMOTO"
+      "FirstName": "Gemma",
+      "LastName": "Sakamoto"
     },
     {
       "EmaNumber": "11990010",
-      "FirstName": "PAOLA",
-      "LastName": "BUNGARO"
+      "FirstName": "Paola",
+      "LastName": "Bungaro"
     },
     {
       "EmaNumber": "11990011",
-      "FirstName": "NICK",
-      "LastName": "DYER"
+      "FirstName": "Nick",
+      "LastName": "Dyer"
     },
     {
       "EmaNumber": "11990016",
-      "FirstName": "JOHN",
-      "LastName": "DUCKWORTH",
+      "FirstName": "John",
+      "LastName": "Duckworth",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -666,28 +668,28 @@
     },
     {
       "EmaNumber": "11990020",
-      "FirstName": "RICHARD",
-      "LastName": "LANGTRY"
+      "FirstName": "Richard",
+      "LastName": "Langtry"
     },
     {
       "EmaNumber": "11990022",
-      "FirstName": "ANDY",
-      "LastName": "MATHEW"
+      "FirstName": "Andy",
+      "LastName": "Mathew"
     },
     {
       "EmaNumber": "11990028",
-      "FirstName": "AIDAN",
-      "LastName": "ROBISON"
+      "FirstName": "Aidan",
+      "LastName": "Robison"
     },
     {
       "EmaNumber": "11990035",
-      "FirstName": "BENJAMIN",
-      "LastName": "WICKS"
+      "FirstName": "Benjamin",
+      "LastName": "Wicks"
     },
     {
       "EmaNumber": "11990044",
-      "FirstName": "MARTIN",
-      "LastName": "LESTER",
+      "FirstName": "Martin",
+      "LastName": "Lester",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -698,13 +700,13 @@
     },
     {
       "EmaNumber": "11990054",
-      "FirstName": "TIM",
-      "LastName": "RICHARDSON"
+      "FirstName": "Tim",
+      "LastName": "Richardson"
     },
     {
       "EmaNumber": "11990057",
-      "FirstName": "PHILIP",
-      "LastName": "BIELBY",
+      "FirstName": "Philip",
+      "LastName": "Bielby",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -715,88 +717,88 @@
     },
     {
       "EmaNumber": "11990060",
-      "FirstName": "CHRIS",
-      "LastName": "ENDICOTT"
+      "FirstName": "Chris",
+      "LastName": "Endicott"
     },
     {
       "EmaNumber": "11990062",
-      "FirstName": "JAMES",
-      "LastName": "GREEN"
+      "FirstName": "James",
+      "LastName": "Green"
     },
     {
       "EmaNumber": "11990072",
-      "FirstName": "BEN",
-      "LastName": "WILTON"
+      "FirstName": "Ben",
+      "LastName": "Wilton"
     },
     {
       "EmaNumber": "11990074",
-      "FirstName": "MAX",
-      "LastName": "BOWSHER"
+      "FirstName": "Max",
+      "LastName": "Bowsher"
     },
     {
       "EmaNumber": "11990081",
-      "FirstName": "SONIA",
-      "LastName": "YAGI"
+      "FirstName": "Sonia",
+      "LastName": "Yagi"
     },
     {
       "EmaNumber": "11990084",
-      "FirstName": "JEM",
-      "LastName": "SHORT"
+      "FirstName": "Jem",
+      "LastName": "Short"
     },
     {
       "EmaNumber": "11990085",
-      "FirstName": "MIKE",
-      "LastName": "SHORT"
+      "FirstName": "Mike",
+      "LastName": "Short"
     },
     {
       "EmaNumber": "11990105",
-      "FirstName": "JAY",
-      "LastName": "LI"
+      "FirstName": "Jay",
+      "LastName": "Li"
     },
     {
       "EmaNumber": "11990113",
-      "FirstName": "ELIOT",
-      "LastName": "HOLLIER"
+      "FirstName": "Eliot",
+      "LastName": "Hollier"
     },
     {
       "EmaNumber": "11990120",
-      "FirstName": "KIM",
-      "LastName": "WRIGHT"
+      "FirstName": "Kim",
+      "LastName": "Wright"
     },
     {
       "EmaNumber": "11990123",
-      "FirstName": "DUY",
-      "LastName": "LE"
+      "FirstName": "Duy",
+      "LastName": "Le"
     },
     {
       "EmaNumber": "11990133",
-      "FirstName": "ANTON",
-      "LastName": "CHEKANOV"
+      "FirstName": "Anton",
+      "LastName": "Chekanov"
     },
     {
       "EmaNumber": "11990134",
-      "FirstName": "GEORGE",
-      "LastName": "TWIGG"
+      "FirstName": "George",
+      "LastName": "Twigg"
     },
     {
       "EmaNumber": "11990137",
-      "FirstName": "LAURYN",
-      "LastName": "LEWIS"
+      "FirstName": "Lauryn",
+      "LastName": "Lewis"
     },
     {
       "EmaNumber": "11990138",
-      "FirstName": "NATALIA",
-      "LastName": "MECNER"
+      "FirstName": "Natalia",
+      "LastName": "Mecner"
     },
     {
       "EmaNumber": "11990140",
-      "FirstName": "RONAN",
-      "LastName": "WHITE"
+      "FirstName": "Ronan",
+      "LastName": "White"
     },
     {
       "EmaNumber": "11990141",
-      "FirstName": "TOM",
-      "LastName": "PEARSON",
+      "FirstName": "Tom",
+      "LastName": "Pearson",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -807,13 +809,13 @@
     },
     {
       "EmaNumber": "11990142",
-      "FirstName": "YANGDONG",
-      "LastName": "XIAO"
+      "FirstName": "Yangdong",
+      "LastName": "Xiao"
     },
     {
       "EmaNumber": "11990143",
-      "FirstName": "JUSTIN",
-      "LastName": "KOH"
+      "FirstName": "Justin",
+      "LastName": "Koh"
     }
   ]
 }

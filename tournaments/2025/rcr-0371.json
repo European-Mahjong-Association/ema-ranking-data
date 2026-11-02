@@ -7,10 +7,24 @@
   "Date": "2025-05-03",
   "ToDate": "2025-05-04",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000067"
+    },
+    {
+      "Ema": "05100182"
+    },
+    {
+      "Ema": "19000039"
+    },
+    {
+      "Ema": "19000066"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Thibaut",
-      "LastName": "ARNOLD"
+      "LastName": "Arnold"
     }
   ],
   "NrDays": 2,
@@ -236,8 +250,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

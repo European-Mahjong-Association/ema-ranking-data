@@ -7,10 +7,19 @@
   "Date": "2022-11-12",
   "ToDate": "2022-11-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000067"
+    },
+    {
+      "FirstName": "Dmytro",
+      "LastName": "Sakhno"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jouni",
-      "LastName": "KUITUNEN"
+      "LastName": "Kuitunen"
     }
   ],
   "NrDays": 2,
@@ -21,8 +30,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "ITARU",
-        "LastName": "SOGA",
+        "FirstName": "Itaru",
+        "LastName": "Soga",
         "RepresentingNationality": "pl"
       },
       "Result": 180700
@@ -35,8 +44,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "MAXIM",
-        "LastName": "SHAPARAU",
+        "FirstName": "Maxim",
+        "LastName": "Shaparau",
         "RepresentingNationality": "pl"
       },
       "Result": 129400
@@ -49,8 +58,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "MĄDRECKI",
+        "FirstName": "Piotr",
+        "LastName": "Mądrecki",
         "RepresentingNationality": "pl"
       },
       "Result": 110000
@@ -118,8 +127,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "RAFAŁ",
-        "LastName": "STRADOMSKI",
+        "FirstName": "Rafał",
+        "LastName": "Stradomski",
         "RepresentingNationality": "pl"
       },
       "Result": 20300
@@ -132,8 +141,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "DAIICHIRO",
-        "LastName": "SEKIKAWA",
+        "FirstName": "Daiichiro",
+        "LastName": "Sekikawa",
         "RepresentingNationality": "pl"
       },
       "Result": 18600
@@ -256,8 +265,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "CHABELSKI",
+        "FirstName": "Piotr",
+        "LastName": "Chabelski",
         "RepresentingNationality": "pl"
       },
       "Result": -111500
@@ -275,8 +284,8 @@
     {
       "Placement": 47,
       "Player": {
-        "FirstName": "DMYTRO",
-        "LastName": "LIENKO",
+        "FirstName": "Dmytro",
+        "LastName": "Lienko",
         "RepresentingNationality": "pl"
       },
       "Result": -160800

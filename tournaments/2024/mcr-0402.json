@@ -7,10 +7,15 @@
   "Date": "2024-09-07",
   "ToDate": "2024-09-08",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990027"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Vincent",
-      "LastName": "TAN"
+      "LastName": "Tan"
     }
   ],
   "NrDays": 2,
@@ -69,8 +74,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "NATALYA",
-        "LastName": "SAVELYEVA",
+        "FirstName": "Natalya",
+        "LastName": "Savelyeva",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -249,8 +254,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "VLADISLAV",
-        "LastName": "SAVELYEV",
+        "FirstName": "Vladislav",
+        "LastName": "Savelyev",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -517,8 +522,8 @@
     {
       "Placement": 62,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {

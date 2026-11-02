@@ -7,10 +7,15 @@
   "Date": "2025-08-23",
   "ToDate": "2025-08-24",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "21000015"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Benoit",
-      "LastName": "DESSORT"
+      "LastName": "Dessort"
     }
   ],
   "NrDays": 2,
@@ -81,8 +86,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "KATHY",
-        "LastName": "HORTON",
+        "FirstName": "Kathy",
+        "LastName": "Horton",
         "RepresentingNationality": "us"
       },
       "Result": 43100
@@ -195,8 +200,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "SETH",
-        "LastName": "CAMARA",
+        "FirstName": "Seth",
+        "LastName": "Camara",
         "RepresentingNationality": "us"
       },
       "Result": -174100

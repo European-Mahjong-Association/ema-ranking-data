@@ -7,6 +7,11 @@
   "Date": "2025-01-18",
   "ToDate": "2025-01-19",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "16000035"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ksenia",
@@ -413,8 +418,8 @@
     {
       "Placement": 50,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -433,8 +438,8 @@
     {
       "Placement": 52,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

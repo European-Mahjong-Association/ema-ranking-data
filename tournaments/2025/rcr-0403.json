@@ -7,10 +7,25 @@
   "Date": "2025-12-28",
   "ToDate": "2025-12-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    },
+    {
+      "Ema": "04040287"
+    },
+    {
+      "Ema": "04160092"
+    },
+    {
+      "FirstName": "Sérgio",
+      "LastName": "Matos Lima"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Zhaoyuan",
-      "LastName": "WAN"
+      "LastName": "Wan"
     }
   ],
   "NrDays": 1,

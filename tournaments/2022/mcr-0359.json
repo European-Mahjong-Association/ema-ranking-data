@@ -7,6 +7,14 @@
   "Date": "2022-09-03",
   "ToDate": "2022-09-04",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "16000035"
+    },
+    {
+      "Ema": "16000007"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Timur",
@@ -221,8 +229,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "SVEN-HENDRIK",
-        "LastName": "GUTSCHE",
+        "FirstName": "Sven-Hendrik",
+        "LastName": "Gutsche",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -249,8 +257,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "THOMAS",
-        "LastName": "HAECHLER",
+        "FirstName": "Thomas",
+        "LastName": "Haechler",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -285,8 +293,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "ANDREW",
-        "LastName": "KLUCK",
+        "FirstName": "Andrew",
+        "LastName": "Kluck",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -393,8 +401,8 @@
     {
       "Placement": 46,
       "Player": {
-        "FirstName": "KIYAN",
-        "LastName": "SIDEK",
+        "FirstName": "Kiyan",
+        "LastName": "Sidek",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -405,8 +413,8 @@
     {
       "Placement": 47,
       "Player": {
-        "FirstName": "MARINA",
-        "LastName": "WACHSMUTH",
+        "FirstName": "Marina",
+        "LastName": "Wachsmuth",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -417,8 +425,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "ONNI",
-        "LastName": "METSO",
+        "FirstName": "Onni",
+        "LastName": "Metso",
         "RepresentingNationality": "ch"
       },
       "Result": {

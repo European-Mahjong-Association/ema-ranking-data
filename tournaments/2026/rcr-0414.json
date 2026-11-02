@@ -7,6 +7,11 @@
   "Date": "2026-05-09",
   "ToDate": "2026-05-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Meghann",
@@ -271,8 +276,8 @@
     {
       "Placement": 51,
       "Player": {
-        "FirstName": "CAMERON",
-        "LastName": "KOK",
+        "FirstName": "Cameron",
+        "LastName": "Kok",
         "RepresentingNationality": "hk"
       },
       "Result": -22800

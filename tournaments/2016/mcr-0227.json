@@ -7,10 +7,22 @@
   "Date": "2016-04-09",
   "ToDate": "2016-04-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "26000007"
+    },
+    {
+      "FirstName": "Alessia",
+      "LastName": "Cosmo"
+    },
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Aleksei",
-      "LastName": "SHPILMAN"
+      "LastName": "Shpilman"
     }
   ],
   "NrDays": 2,
@@ -29,8 +41,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "ALEKSEI",
-        "LastName": "SHPILMAN",
+        "FirstName": "Aleksei",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -105,8 +117,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "DORIS",
-        "LastName": "SALLMUTTER",
+        "FirstName": "Doris",
+        "LastName": "Sallmutter",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -133,8 +145,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "HEINZ",
-        "LastName": "KANDORFER",
+        "FirstName": "Heinz",
+        "LastName": "Kandorfer",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -161,8 +173,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "TONI",
-        "LastName": "ALDRIAN",
+        "FirstName": "Toni",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -245,8 +257,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -281,8 +293,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "FELIX",
-        "LastName": "DIVJAK",
+        "FirstName": "Felix",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -317,8 +329,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "TRINKL",
+        "FirstName": "Matthias",
+        "LastName": "Trinkl",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -393,8 +405,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "ALESSIA",
-        "LastName": "COSMO",
+        "FirstName": "Alessia",
+        "LastName": "Cosmo",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -429,8 +441,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "PIERO",
-        "LastName": "TARONI",
+        "FirstName": "Piero",
+        "LastName": "Taroni",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -465,8 +477,8 @@
     {
       "Placement": 52,
       "Player": {
-        "FirstName": "MATTEO",
-        "LastName": "TENDERINI",
+        "FirstName": "Matteo",
+        "LastName": "Tenderini",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -477,8 +489,8 @@
     {
       "Placement": 53,
       "Player": {
-        "FirstName": "ROMANA",
-        "LastName": "DIVJAK",
+        "FirstName": "Romana",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -489,8 +501,8 @@
     {
       "Placement": 54,
       "Player": {
-        "FirstName": "LORIS",
-        "LastName": "FERUGLIO",
+        "FirstName": "Loris",
+        "LastName": "Feruglio",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -525,8 +537,8 @@
     {
       "Placement": 58,
       "Player": {
-        "FirstName": "ELISA",
-        "LastName": "FERUGLIO",
+        "FirstName": "Elisa",
+        "LastName": "Feruglio",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -537,8 +549,8 @@
     {
       "Placement": 59,
       "Player": {
-        "FirstName": "MARIA",
-        "LastName": "ALDRIAN",
+        "FirstName": "Maria",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -549,8 +561,8 @@
     {
       "Placement": 60,
       "Player": {
-        "FirstName": "ALBERTO",
-        "LastName": "VENTURI",
+        "FirstName": "Alberto",
+        "LastName": "Venturi",
         "RepresentingNationality": "it"
       },
       "Result": {

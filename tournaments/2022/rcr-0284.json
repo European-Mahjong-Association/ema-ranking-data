@@ -7,6 +7,11 @@
   "Date": "2022-12-17",
   "ToDate": "2022-12-18",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "14990048"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Niklas",
@@ -46,8 +51,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "JUHANI",
-        "LastName": "HELIO",
+        "FirstName": "Juhani",
+        "LastName": "Helio",
         "RepresentingNationality": "fi"
       },
       "Result": 92500
@@ -60,8 +65,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "KUUTTI",
-        "LastName": "OUTA",
+        "FirstName": "Kuutti",
+        "LastName": "Outa",
         "RepresentingNationality": "fi"
       },
       "Result": 85800
@@ -69,8 +74,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "TIMO",
-        "LastName": "IKONEN",
+        "FirstName": "Timo",
+        "LastName": "Ikonen",
         "RepresentingNationality": "fi"
       },
       "Result": 78100
@@ -153,8 +158,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "VILLE",
-        "LastName": "PORKKA",
+        "FirstName": "Ville",
+        "LastName": "Porkka",
         "RepresentingNationality": "fi"
       },
       "Result": -18200
@@ -177,8 +182,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "JOAKIM",
-        "LastName": "ROSENBERG",
+        "FirstName": "Joakim",
+        "LastName": "Rosenberg",
         "RepresentingNationality": "fi"
       },
       "Result": -44500
@@ -201,8 +206,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "JULIUS",
-        "LastName": "JÄRVENSIVU",
+        "FirstName": "Julius",
+        "LastName": "Järvensivu",
         "RepresentingNationality": "fi"
       },
       "Result": -83800
@@ -210,8 +215,8 @@
     {
       "Placement": 34,
       "Player": {
-        "FirstName": "PAULI",
-        "LastName": "HEMMI",
+        "FirstName": "Pauli",
+        "LastName": "Hemmi",
         "RepresentingNationality": "fi"
       },
       "Result": -94300
@@ -229,8 +234,8 @@
     {
       "Placement": 37,
       "Player": {
-        "FirstName": "NIKOLAS",
-        "LastName": "KIILI",
+        "FirstName": "Nikolas",
+        "LastName": "Kiili",
         "RepresentingNationality": "fi"
       },
       "Result": -154100
@@ -238,8 +243,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "JIMI",
-        "LastName": "JÄRVELIN",
+        "FirstName": "Jimi",
+        "LastName": "Järvelin",
         "RepresentingNationality": "fi"
       },
       "Result": -159300
@@ -247,8 +252,8 @@
     {
       "Placement": 39,
       "Player": {
-        "FirstName": "JOONAS",
-        "LastName": "SUOKKO",
+        "FirstName": "Joonas",
+        "LastName": "Suokko",
         "RepresentingNationality": "fi"
       },
       "Result": -161900
@@ -256,8 +261,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "HAI",
-        "LastName": "HA",
+        "FirstName": "Hai",
+        "LastName": "Ha",
         "RepresentingNationality": "fi"
       },
       "Result": -183300

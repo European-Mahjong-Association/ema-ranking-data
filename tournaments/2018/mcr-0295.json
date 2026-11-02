@@ -7,6 +7,11 @@
   "Date": "2018-06-02",
   "ToDate": "2018-06-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990017"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Iván",
@@ -61,8 +66,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "DOMINGO",
-        "LastName": "GARCÍA GARCÍA",
+        "FirstName": "Domingo",
+        "LastName": "García García",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -89,8 +94,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "ESTHER",
-        "LastName": "GARCIA BENITO",
+        "FirstName": "Esther",
+        "LastName": "Garcia Benito",
         "RepresentingNationality": "es"
       },
       "Result": {

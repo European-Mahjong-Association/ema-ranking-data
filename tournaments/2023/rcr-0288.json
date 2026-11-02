@@ -7,10 +7,18 @@
   "Date": "2023-03-25",
   "ToDate": "2023-03-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000053"
+    },
+    {
+      "Ema": "01000125"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sveta",
-      "LastName": "YAREMENKO"
+      "LastName": "Yaremenko"
     }
   ],
   "NrDays": 2,
@@ -46,8 +54,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "ITARU",
-        "LastName": "SOGA",
+        "FirstName": "Itaru",
+        "LastName": "Soga",
         "RepresentingNationality": "pl"
       },
       "Result": 80800
@@ -115,8 +123,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "ZOUBEK",
+        "FirstName": "Florian",
+        "LastName": "Zoubek",
         "RepresentingNationality": "at"
       },
       "Result": -34400

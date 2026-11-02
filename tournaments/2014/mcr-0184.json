@@ -7,6 +7,11 @@
   "Date": "2014-10-26",
   "ToDate": "2014-10-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05100056"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Frank",
@@ -133,8 +138,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "WOLFGANG",
-        "LastName": "FRANKE",
+        "FirstName": "Wolfgang",
+        "LastName": "Franke",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -161,8 +166,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -189,8 +194,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "FRAUKE",
-        "LastName": "ROOS",
+        "FirstName": "Frauke",
+        "LastName": "Roos",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -201,8 +206,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": {
@@ -213,8 +218,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "HEIKO",
-        "LastName": "DOMANN",
+        "FirstName": "Heiko",
+        "LastName": "Domann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -257,8 +262,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "KAI OLIVIER",
-        "LastName": "GROTE",
+        "FirstName": "Kai Olivier",
+        "LastName": "Grote",
         "RepresentingNationality": "de"
       },
       "Result": {

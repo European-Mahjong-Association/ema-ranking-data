@@ -7,6 +7,11 @@
   "Date": "2025-08-02",
   "ToDate": "2025-08-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "11990016"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Niklas",
@@ -57,7 +62,7 @@
       "Placement": 8,
       "Player": {
         "FirstName": "Benny",
-        "LastName": "CHOOK",
+        "LastName": "Chook",
         "RepresentingNationality": "hk"
       },
       "Result": 97300
@@ -226,7 +231,7 @@
       "Placement": 41,
       "Player": {
         "FirstName": "Pin",
-        "LastName": "LIM",
+        "LastName": "Lim",
         "RepresentingNationality": "sg"
       },
       "Result": -8700
@@ -260,7 +265,7 @@
       "Placement": 47,
       "Player": {
         "FirstName": "Sebastian",
-        "LastName": "RABAU",
+        "LastName": "Rabau",
         "RepresentingNationality": "be"
       },
       "Result": -33900

@@ -7,6 +7,12 @@
   "Date": "2018-04-27",
   "ToDate": "2018-04-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Alexander",
+      "LastName": "Wankmüller"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Henrik",
@@ -51,8 +57,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "DEBRUN",
+        "FirstName": "Luc",
+        "LastName": "Debrun",
         "RepresentingNationality": "vide"
       },
       "Result": 43200
@@ -60,8 +66,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "TANJA",
-        "LastName": "WANKMÜLLER",
+        "FirstName": "Tanja",
+        "LastName": "Wankmüller",
         "RepresentingNationality": "at"
       },
       "Result": 36400
@@ -69,8 +75,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "MANUEL",
-        "LastName": "TOMISSER",
+        "FirstName": "Manuel",
+        "LastName": "Tomisser",
         "RepresentingNationality": "at"
       },
       "Result": 20000
@@ -78,8 +84,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "HADOLT",
+        "FirstName": "Matthias",
+        "LastName": "Hadolt",
         "RepresentingNationality": "at"
       },
       "Result": 3900
@@ -107,8 +113,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MARTIN",
-        "LastName": "MEISCHEL",
+        "FirstName": "Martin",
+        "LastName": "Meischel",
         "RepresentingNationality": "at"
       },
       "Result": -38800
@@ -136,8 +142,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "VERENA",
-        "LastName": "BERG",
+        "FirstName": "Verena",
+        "LastName": "Berg",
         "RepresentingNationality": "at"
       },
       "Result": -106300
@@ -150,8 +156,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "STEININGER",
+        "FirstName": "Michael",
+        "LastName": "Steininger",
         "RepresentingNationality": "at"
       },
       "Result": -120200
@@ -164,8 +170,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

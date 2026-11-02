@@ -7,6 +7,12 @@
   "Date": "2018-10-28",
   "ToDate": "2018-10-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Fred",
+      "LastName": "Bohlmann"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Chris",
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "SVEN-HENDRIK",
-        "LastName": "GUTSCHE",
+        "FirstName": "Sven-Hendrik",
+        "LastName": "Gutsche",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -97,8 +103,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "BERRY",
-        "LastName": "HEIJN",
+        "FirstName": "Berry",
+        "LastName": "Heijn",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -125,8 +131,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "JÜRGEN",
-        "LastName": "BRAHMST-SÖRENSEN",
+        "FirstName": "Jürgen",
+        "LastName": "Brahmst-Sörensen",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -169,8 +175,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "HEIKO",
-        "LastName": "DOMANN",
+        "FirstName": "Heiko",
+        "LastName": "Domann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -189,8 +195,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -201,8 +207,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "AXEL",
-        "LastName": "ESCHENBURG",
+        "FirstName": "Axel",
+        "LastName": "Eschenburg",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -269,8 +275,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "KRISTIEN",
-        "LastName": "DERMOUT",
+        "FirstName": "Kristien",
+        "LastName": "Dermout",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -281,8 +287,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -317,8 +323,8 @@
     {
       "Placement": 34,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

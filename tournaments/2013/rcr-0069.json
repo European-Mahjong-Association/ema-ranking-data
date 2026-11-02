@@ -7,6 +7,12 @@
   "Date": "2013-12-07",
   "ToDate": "2013-12-08",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Quentin",
+      "LastName": "Porcherot"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Martin",
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "YUKIO",
-        "LastName": "KORIYAMA",
+        "FirstName": "Yukio",
+        "LastName": "Koriyama",
         "RepresentingNationality": "fr"
       },
       "Result": 187600
@@ -35,8 +41,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "YANN",
-        "LastName": "SALMON",
+        "FirstName": "Yann",
+        "LastName": "Salmon",
         "RepresentingNationality": "fr"
       },
       "Result": 87700
@@ -44,8 +50,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": 86300
@@ -63,8 +69,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "JEAN-MARC",
-        "LastName": "DEDIEU",
+        "FirstName": "Jean-Marc",
+        "LastName": "Dedieu",
         "RepresentingNationality": "fr"
       },
       "Result": 44600
@@ -82,8 +88,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "VALÉRIAN",
-        "LastName": "THOMAS",
+        "FirstName": "Valérian",
+        "LastName": "Thomas",
         "RepresentingNationality": "fr"
       },
       "Result": 6800
@@ -96,8 +102,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "DO THU KHOA",
-        "LastName": "TRINH",
+        "FirstName": "Do Thu Khoa",
+        "LastName": "Trinh",
         "RepresentingNationality": "fr"
       },
       "Result": 3700
@@ -105,8 +111,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "JULIEN",
-        "LastName": "RATEAU",
+        "FirstName": "Julien",
+        "LastName": "Rateau",
         "RepresentingNationality": "fr"
       },
       "Result": -1100
@@ -114,8 +120,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "DONAGHY",
+        "FirstName": "Michael",
+        "LastName": "Donaghy",
         "RepresentingNationality": "gb"
       },
       "Result": -7100
@@ -128,8 +134,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "FABIEN",
-        "LastName": "ROBERT",
+        "FirstName": "Fabien",
+        "LastName": "Robert",
         "RepresentingNationality": "fr"
       },
       "Result": -14400
@@ -142,8 +148,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "SEAN",
-        "LastName": "SHORTEN",
+        "FirstName": "Sean",
+        "LastName": "Shorten",
         "RepresentingNationality": "fr"
       },
       "Result": -42100
@@ -156,8 +162,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "QUENTIN",
-        "LastName": "PORCHEROT",
+        "FirstName": "Quentin",
+        "LastName": "Porcherot",
         "RepresentingNationality": "fr"
       },
       "Result": -56800
@@ -170,8 +176,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -77900
@@ -179,8 +185,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "ANTOINE",
-        "LastName": "BOUVIER",
+        "FirstName": "Antoine",
+        "LastName": "Bouvier",
         "RepresentingNationality": "fr"
       },
       "Result": -88900
@@ -193,8 +199,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "SHINSAKU",
-        "LastName": "IKEDA",
+        "FirstName": "Shinsaku",
+        "LastName": "Ikeda",
         "RepresentingNationality": "fr"
       },
       "Result": -124300
@@ -207,8 +213,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "NADINE",
-        "LastName": "LANG",
+        "FirstName": "Nadine",
+        "LastName": "Lang",
         "RepresentingNationality": "fr"
       },
       "Result": -140500
@@ -216,8 +222,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "DISQUALIFIED",
+        "FirstName": "Player",
+        "LastName": "Disqualified",
         "RepresentingNationality": "fr"
       },
       "Result": 0

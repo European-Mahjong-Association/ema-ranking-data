@@ -7,6 +7,11 @@
   "Date": "2026-05-30",
   "ToDate": "2026-05-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990026"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Antonio",
@@ -141,8 +146,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "TOMMY",
-        "LastName": "CHIA",
+        "FirstName": "Tommy",
+        "LastName": "Chia",
         "RepresentingNationality": "sg"
       },
       "Result": {

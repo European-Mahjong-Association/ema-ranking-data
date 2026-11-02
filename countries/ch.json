@@ -1,16 +1,18 @@
 {
   "CountryCode": "ch",
   "Country": "Switzerland",
+  "Organisation": "Association Suisse de Mah-Jong ASM-SMV",
+  "Website": "http://www.swissmahjong.ch",
   "Players": [
     {
       "EmaNumber": "16000001",
-      "FirstName": "MEI HWA",
-      "LastName": "FELDER"
+      "FirstName": "Mei Hwa",
+      "LastName": "Felder"
     },
     {
       "EmaNumber": "16000002",
-      "FirstName": "BO",
-      "LastName": "LANG",
+      "FirstName": "Bo",
+      "LastName": "Lang",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -21,13 +23,13 @@
     },
     {
       "EmaNumber": "16000006",
-      "FirstName": "OLIVER",
-      "LastName": "PETEREIT"
+      "FirstName": "Oliver",
+      "LastName": "Petereit"
     },
     {
       "EmaNumber": "16000007",
-      "FirstName": "FRÉDÉRIC",
-      "LastName": "CHASSOT",
+      "FirstName": "Frédéric",
+      "LastName": "Chassot",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -38,73 +40,73 @@
     },
     {
       "EmaNumber": "16000008",
-      "FirstName": "ANNA",
-      "LastName": "CANOVA PUTINIER"
+      "FirstName": "Anna",
+      "LastName": "Canova Putinier"
     },
     {
       "EmaNumber": "16000009",
-      "FirstName": "NATHALIE",
-      "LastName": "JACQUART"
+      "FirstName": "Nathalie",
+      "LastName": "Jacquart"
     },
     {
       "EmaNumber": "16000011",
-      "FirstName": "GÉRARD",
-      "LastName": "HÊCHE"
+      "FirstName": "Gérard",
+      "LastName": "Hêche"
     },
     {
       "EmaNumber": "16000013",
-      "FirstName": "EVA",
-      "LastName": "LAINI"
+      "FirstName": "Eva",
+      "LastName": "Laini"
     },
     {
       "EmaNumber": "16000016",
-      "FirstName": "TANJA",
-      "LastName": "MAYR DELACRÉTAZ"
+      "FirstName": "Tanja",
+      "LastName": "Mayr Delacrétaz"
     },
     {
       "EmaNumber": "16000020",
-      "FirstName": "PATRICE",
-      "LastName": "DELAY"
+      "FirstName": "Patrice",
+      "LastName": "Delay"
     },
     {
       "EmaNumber": "16000021",
-      "FirstName": "MARC-ANTOINE",
-      "LastName": "HOFMANN"
+      "FirstName": "Marc-Antoine",
+      "LastName": "Hofmann"
     },
     {
       "EmaNumber": "16000026",
-      "FirstName": "ESTHER",
-      "LastName": "HERNANDEZ"
+      "FirstName": "Esther",
+      "LastName": "Hernandez"
     },
     {
       "EmaNumber": "16000029",
-      "FirstName": "DEVI G.",
-      "LastName": "STECK"
+      "FirstName": "Devi G.",
+      "LastName": "Steck"
     },
     {
       "EmaNumber": "16000030",
-      "FirstName": "MARCOS",
-      "LastName": "ALONSO BLANCO"
+      "FirstName": "Marcos",
+      "LastName": "Alonso Blanco"
     },
     {
       "EmaNumber": "16000031",
-      "FirstName": "JUN",
-      "LastName": "LEE"
+      "FirstName": "Jun",
+      "LastName": "Lee"
     },
     {
       "EmaNumber": "16000032",
-      "FirstName": "LINDOR",
-      "LastName": "SHALA"
+      "FirstName": "Lindor",
+      "LastName": "Shala"
     },
     {
       "EmaNumber": "16000034",
-      "FirstName": "THÉOPHILE",
-      "LastName": "LIBATO"
+      "FirstName": "Théophile",
+      "LastName": "Libato"
     },
     {
       "EmaNumber": "16000035",
-      "FirstName": "THIBAUT",
-      "LastName": "ARNOLD",
+      "FirstName": "Thibaut",
+      "LastName": "Arnold",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -120,28 +122,28 @@
     },
     {
       "EmaNumber": "16000039",
-      "FirstName": "DARRYL",
-      "LastName": "ANDERSON"
+      "FirstName": "Darryl",
+      "LastName": "Anderson"
     },
     {
       "EmaNumber": "16000040",
-      "FirstName": "KOHEI",
-      "LastName": "MIYAKE"
+      "FirstName": "Kohei",
+      "LastName": "Miyake"
     },
     {
       "EmaNumber": "16000041",
-      "FirstName": "XENIA",
-      "LastName": "DESPOT"
+      "FirstName": "Xenia",
+      "LastName": "Despot"
     },
     {
       "EmaNumber": "16000042",
-      "FirstName": "CÉDRIC",
-      "LastName": "BAUDIN"
+      "FirstName": "Cédric",
+      "LastName": "Baudin"
     },
     {
       "EmaNumber": "16000044",
-      "FirstName": "DUNCAN",
-      "LastName": "BOURQUARD",
+      "FirstName": "Duncan",
+      "LastName": "Bourquard",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -152,128 +154,128 @@
     },
     {
       "EmaNumber": "16000045",
-      "FirstName": "MARIE-CLAUDE",
-      "LastName": "ROLAND"
+      "FirstName": "Marie-Claude",
+      "LastName": "Roland"
     },
     {
       "EmaNumber": "16000046",
       "FirstName": "Siew Kee",
-      "LastName": "THOO"
+      "LastName": "Thoo"
     },
     {
       "EmaNumber": "16000047",
       "FirstName": "Micaela",
-      "LastName": "BARDY"
+      "LastName": "Bardy"
     },
     {
       "EmaNumber": "16000049",
-      "FirstName": "MURIEL",
-      "LastName": "ZIEGLER"
+      "FirstName": "Muriel",
+      "LastName": "Ziegler"
     },
     {
       "EmaNumber": "16000050",
-      "FirstName": "FLORIAN",
-      "LastName": "MOREL"
+      "FirstName": "Florian",
+      "LastName": "Morel"
     },
     {
       "EmaNumber": "16000051",
       "FirstName": "Aurélien",
-      "LastName": "JAQUIER"
+      "LastName": "Jaquier"
     },
     {
       "EmaNumber": "16000052",
-      "FirstName": "SIMON",
-      "LastName": "YUAN"
+      "FirstName": "Simon",
+      "LastName": "Yuan"
     },
     {
       "EmaNumber": "16000053",
-      "FirstName": "MINNIE",
-      "LastName": "LEUNG"
+      "FirstName": "Minnie",
+      "LastName": "Leung"
     },
     {
       "EmaNumber": "16000054",
-      "FirstName": "WEIPING",
-      "LastName": "TANG"
+      "FirstName": "Weiping",
+      "LastName": "Tang"
     },
     {
       "EmaNumber": "16000055",
       "FirstName": "Silvan",
-      "LastName": "KUNER"
+      "LastName": "Kuner"
     },
     {
       "EmaNumber": "16000056",
-      "FirstName": "JULE",
-      "LastName": "JANEKE"
+      "FirstName": "Jule",
+      "LastName": "Janeke"
     },
     {
       "EmaNumber": "16000057",
-      "FirstName": "RYAN",
-      "LastName": "DE MARIA"
+      "FirstName": "Ryan",
+      "LastName": "De Maria"
     },
     {
       "EmaNumber": "16000058",
-      "FirstName": "ANTHONY",
-      "LastName": "DUCRET"
+      "FirstName": "Anthony",
+      "LastName": "Ducret"
     },
     {
       "EmaNumber": "16000059",
-      "FirstName": "WEI",
-      "LastName": "SONG"
+      "FirstName": "Wei",
+      "LastName": "Song"
     },
     {
       "EmaNumber": "16000060",
-      "FirstName": "JIN NI",
-      "LastName": "MARET"
+      "FirstName": "Jin Ni",
+      "LastName": "Maret"
     },
     {
       "EmaNumber": "16000061",
-      "FirstName": "CAMILLE",
-      "LastName": "MENIS"
+      "FirstName": "Camille",
+      "LastName": "Menis"
     },
     {
       "EmaNumber": "16000062",
-      "FirstName": "NICOLAS",
-      "LastName": "VALLAT"
+      "FirstName": "Nicolas",
+      "LastName": "Vallat"
     },
     {
       "EmaNumber": "16000063",
-      "FirstName": "PHILIPP",
-      "LastName": "DASEN"
+      "FirstName": "Philipp",
+      "LastName": "Dasen"
     },
     {
       "EmaNumber": "16000064",
-      "FirstName": "HAOCEN",
-      "LastName": "WANG"
+      "FirstName": "Haocen",
+      "LastName": "Wang"
     },
     {
       "EmaNumber": "16000065",
-      "FirstName": "DEBBIE",
-      "LastName": "CHAN"
+      "FirstName": "Debbie",
+      "LastName": "Chan"
     },
     {
       "EmaNumber": "16000066",
-      "FirstName": "MARCO",
-      "LastName": "VIVA"
+      "FirstName": "Marco",
+      "LastName": "Viva"
     },
     {
       "EmaNumber": "16000067",
       "FirstName": "Jonathan",
-      "LastName": "UNGER"
+      "LastName": "Unger"
     },
     {
       "EmaNumber": "16000069",
-      "FirstName": "LARS",
-      "LastName": "DOMMISSE"
+      "FirstName": "Lars",
+      "LastName": "Dommisse"
     },
     {
       "EmaNumber": "16000070",
-      "FirstName": "JIANMEI",
-      "LastName": "TAO"
+      "FirstName": "Jianmei",
+      "LastName": "Tao"
     },
     {
       "EmaNumber": "16000071",
-      "FirstName": "KEVIN",
-      "LastName": "HÄUSLER"
+      "FirstName": "Kevin",
+      "LastName": "Häusler"
     }
   ]
 }

@@ -7,10 +7,22 @@
   "Date": "2025-11-08",
   "ToDate": "2025-11-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Julius",
+      "LastName": "Tonner"
+    },
+    {
+      "Ema": "05000050"
+    },
+    {
+      "Ema": "05000006"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Vasile",
-      "LastName": "GHERMAN"
+      "LastName": "Gherman"
     }
   ],
   "NrDays": 2,
@@ -236,7 +248,7 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "DANNY",
+        "FirstName": "Danny",
         "LastName": "S",
         "RepresentingNationality": "se"
       },
@@ -440,8 +452,8 @@
     {
       "Placement": 84,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

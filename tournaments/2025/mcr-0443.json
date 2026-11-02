@@ -7,6 +7,11 @@
   "Date": "2025-12-13",
   "ToDate": "2025-12-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05000041"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marjoleine",
@@ -157,8 +162,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "LIQIN",
-        "LastName": "XU",
+        "FirstName": "Liqin",
+        "LastName": "Xu",
         "RepresentingNationality": "cn"
       },
       "Result": {

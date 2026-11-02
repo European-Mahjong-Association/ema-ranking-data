@@ -7,6 +7,12 @@
   "Date": "2019-06-08",
   "ToDate": "2019-06-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Luc",
+      "LastName": "Humbert"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anton",
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -73,8 +79,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "NATALIA",
-        "LastName": "GOLIKOVA",
+        "FirstName": "Natalia",
+        "LastName": "Golikova",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -85,8 +91,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "VLADISLAV",
-        "LastName": "SAVELYEV",
+        "FirstName": "Vladislav",
+        "LastName": "Savelyev",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -177,8 +183,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "NATALYA",
-        "LastName": "SAVELYEVA",
+        "FirstName": "Natalya",
+        "LastName": "Savelyeva",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -245,8 +251,8 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "BRIGITTE",
-        "LastName": "WACHSMUTH",
+        "FirstName": "Brigitte",
+        "LastName": "Wachsmuth",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -281,8 +287,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "MARIE-HÉLÈNE",
-        "LastName": "GROUX",
+        "FirstName": "Marie-Hélène",
+        "LastName": "Groux",
         "RepresentingNationality": "ch"
       },
       "Result": {

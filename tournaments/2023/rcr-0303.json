@@ -7,10 +7,15 @@
   "Date": "2023-07-29",
   "ToDate": "2023-07-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000001"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Artur",
-      "LastName": "LIBICH"
+      "LastName": "Libich"
     }
   ],
   "NrDays": 2,
@@ -131,8 +136,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "PAWEŁ",
-        "LastName": "KUŹNIAR",
+        "FirstName": "Paweł",
+        "LastName": "Kuźniar",
         "RepresentingNationality": "pl"
       },
       "Result": -54600
@@ -145,8 +150,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "KUŹMA",
-        "LastName": "PAPAKUŁ",
+        "FirstName": "Kuźma",
+        "LastName": "Papakuł",
         "RepresentingNationality": "pl"
       },
       "Result": -80200
@@ -164,8 +169,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "MICHAŁ",
-        "LastName": "SZAŁAŃSKI",
+        "FirstName": "Michał",
+        "LastName": "Szałański",
         "RepresentingNationality": "pl"
       },
       "Result": -125900

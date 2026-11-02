@@ -7,6 +7,11 @@
   "Date": "2018-10-13",
   "ToDate": "2018-10-14",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "09990049"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Raúl",
@@ -86,8 +91,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "IVAN",
-        "LastName": "COLI",
+        "FirstName": "Ivan",
+        "LastName": "Coli",
         "RepresentingNationality": "it"
       },
       "Result": -15000
@@ -105,8 +110,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -43700
@@ -129,8 +134,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -38400

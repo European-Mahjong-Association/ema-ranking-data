@@ -7,6 +7,11 @@
   "Date": "2025-04-12",
   "ToDate": "2025-04-13",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "14990050"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Timur",
@@ -46,8 +51,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "KEVIN",
-        "LastName": "KAIDO KALLIKORM",
+        "FirstName": "Kevin",
+        "LastName": "Kaido Kallikorm",
         "RepresentingNationality": "ee"
       },
       "Result": 113600
@@ -140,7 +145,7 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "HUANG, HAOCHENG",
+        "FirstName": "Huang, Haocheng",
         "LastName": null,
         "RepresentingNationality": "cn"
       },

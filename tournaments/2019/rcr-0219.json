@@ -7,6 +7,11 @@
   "Date": "2019-02-02",
   "ToDate": "2019-02-02",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000049"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Petter",
@@ -51,8 +56,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "KIM",
-        "LastName": "IVERSEN",
+        "FirstName": "Kim",
+        "LastName": "Iversen",
         "RepresentingNationality": "dk"
       },
       "Result": 7900
@@ -75,7 +80,7 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "MIKKEL",
+        "FirstName": "Mikkel",
         "LastName": "ASKJæR-FRIIS",
         "RepresentingNationality": "dk"
       },
@@ -94,8 +99,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "BRIAN",
-        "LastName": "KROG",
+        "FirstName": "Brian",
+        "LastName": "Krog",
         "RepresentingNationality": "dk"
       },
       "Result": -65900

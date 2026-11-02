@@ -7,10 +7,18 @@
   "Date": "2024-03-30",
   "ToDate": "2024-03-31",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    },
+    {
+      "Ema": "04160112"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sophie",
-      "LastName": "DELAUCHE"
+      "LastName": "Delauche"
     }
   ],
   "NrDays": 2,
@@ -151,7 +159,7 @@
     {
       "Placement": 27,
       "Player": {
-        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "FirstName": "Victor Savard-Arseneault",
         "LastName": null,
         "RepresentingNationality": "ca"
       },
@@ -240,8 +248,8 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "QINGSHUANG",
-        "LastName": "LU",
+        "FirstName": "Qingshuang",
+        "LastName": "Lu",
         "RepresentingNationality": "de"
       },
       "Result": -93600

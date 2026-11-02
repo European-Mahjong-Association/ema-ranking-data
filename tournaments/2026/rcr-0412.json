@@ -7,10 +7,15 @@
   "Date": "2026-05-02",
   "ToDate": "2026-05-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sérgio",
-      "LastName": "MATOS LIMA"
+      "LastName": "Matos Lima"
     }
   ],
   "NrDays": 2,

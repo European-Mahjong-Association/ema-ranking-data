@@ -7,6 +7,12 @@
   "Date": "2016-10-29",
   "ToDate": "2016-10-29",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Nicole",
+      "LastName": "Haasbroek"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Gerda",
@@ -21,8 +27,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "SIMON",
-        "LastName": "NAARMANN",
+        "FirstName": "Simon",
+        "LastName": "Naarmann",
         "RepresentingNationality": "de"
       },
       "Result": 140700
@@ -45,8 +51,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": 60500
@@ -59,8 +65,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "NICOLE",
-        "LastName": "HAASBROEK",
+        "FirstName": "Nicole",
+        "LastName": "Haasbroek",
         "RepresentingNationality": "vide"
       },
       "Result": 38900
@@ -68,8 +74,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "BERTOLT",
-        "LastName": "HUYNH",
+        "FirstName": "Bertolt",
+        "LastName": "Huynh",
         "RepresentingNationality": "de"
       },
       "Result": 29300
@@ -82,8 +88,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "JANINE",
-        "LastName": "WIJK, VAN",
+        "FirstName": "Janine",
+        "LastName": "Wijk, van",
         "RepresentingNationality": "nl"
       },
       "Result": 18500
@@ -121,8 +127,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "DICKY",
-        "LastName": "REP",
+        "FirstName": "Dicky",
+        "LastName": "Rep",
         "RepresentingNationality": "nl"
       },
       "Result": -88000
@@ -140,8 +146,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "MARTIJN",
-        "LastName": "KLAAR",
+        "FirstName": "Martijn",
+        "LastName": "Klaar",
         "RepresentingNationality": "nl"
       },
       "Result": -97000

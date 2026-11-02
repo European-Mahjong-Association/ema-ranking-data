@@ -7,10 +7,16 @@
   "Date": "2022-09-24",
   "ToDate": "2022-09-25",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Astrid",
+      "LastName": "Dudebout"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Erwan de",
-      "LastName": "KERGOMMEAUX"
+      "LastName": "Kergommeaux"
     }
   ],
   "NrDays": 2,

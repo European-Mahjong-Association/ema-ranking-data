@@ -7,10 +7,18 @@
   "Date": "2025-09-27",
   "ToDate": "2025-09-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000241"
+    },
+    {
+      "Ema": "03000003"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Klaudia",
-      "LastName": "LENSU"
+      "LastName": "Lensu"
     }
   ],
   "NrDays": 2,
@@ -31,8 +39,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "DUSTIN",
-        "LastName": "FRIES",
+        "FirstName": "Dustin",
+        "LastName": "Fries",
         "RepresentingNationality": "us"
       },
       "Result": 107500
@@ -75,8 +83,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "GLENN",
-        "LastName": "MORTENSEN",
+        "FirstName": "Glenn",
+        "LastName": "Mortensen",
         "RepresentingNationality": "dk"
       },
       "Result": 56500
@@ -139,7 +147,7 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "DANNY",
+        "FirstName": "Danny",
         "LastName": "S",
         "RepresentingNationality": "se"
       },
@@ -248,7 +256,7 @@
     {
       "Placement": 44,
       "Player": {
-        "FirstName": "TED",
+        "FirstName": "Ted",
         "LastName": "Y",
         "RepresentingNationality": "se"
       },
@@ -287,8 +295,8 @@
     {
       "Placement": 51,
       "Player": {
-        "FirstName": "KASPER",
-        "LastName": "PEDERSEN",
+        "FirstName": "Kasper",
+        "LastName": "Pedersen",
         "RepresentingNationality": "dk"
       },
       "Result": -150800

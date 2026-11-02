@@ -7,6 +7,11 @@
   "Date": "2018-10-27",
   "ToDate": "2018-10-27",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010025"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jos",
@@ -86,8 +91,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "BERRY",
-        "LastName": "HEIJN",
+        "FirstName": "Berry",
+        "LastName": "Heijn",
         "RepresentingNationality": "nl"
       },
       "Result": 6600
@@ -110,8 +115,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": -35800
@@ -129,8 +134,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "SVEN-HENDRIK",
-        "LastName": "GUTSCHE",
+        "FirstName": "Sven-Hendrik",
+        "LastName": "Gutsche",
         "RepresentingNationality": "fr"
       },
       "Result": -44100
@@ -138,8 +143,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -55700
@@ -172,8 +177,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "AXEL",
-        "LastName": "ESCHENBURG",
+        "FirstName": "Axel",
+        "LastName": "Eschenburg",
         "RepresentingNationality": "de"
       },
       "Result": -140000

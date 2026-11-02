@@ -7,10 +7,19 @@
   "Date": "2026-08-08",
   "ToDate": "2026-08-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    },
+    {
+      "FirstName": "Sergio",
+      "LastName": "Matos Lima"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Klaudia",
-      "LastName": "LENSU"
+      "LastName": "Lensu"
     }
   ],
   "NrDays": 2,
@@ -261,8 +270,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "KEVIN",
-        "LastName": "TRAN",
+        "FirstName": "Kevin",
+        "LastName": "Tran",
         "RepresentingNationality": "gb"
       },
       "Result": -128500

@@ -7,6 +7,14 @@
   "Date": "2024-04-13",
   "ToDate": "2024-04-14",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000053"
+    },
+    {
+      "Ema": "01000125"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Cécile",
@@ -197,7 +205,7 @@
       "Placement": 36,
       "Player": {
         "FirstName": "Mustafa",
-        "LastName": "GÜL",
+        "LastName": "Gül",
         "RepresentingNationality": "de"
       },
       "Result": -170800

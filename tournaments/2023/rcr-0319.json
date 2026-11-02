@@ -7,6 +7,14 @@
   "Date": "2023-12-09",
   "ToDate": "2023-12-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000125"
+    },
+    {
+      "Ema": "04040057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sérgio",
@@ -256,8 +264,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -240000

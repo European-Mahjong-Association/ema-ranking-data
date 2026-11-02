@@ -7,6 +7,12 @@
   "Date": "2020-02-09",
   "ToDate": "2020-02-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Massimo",
+      "LastName": "Crivaro"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "marco",
@@ -36,8 +42,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "GIANLUCA",
-        "LastName": "DEBIDDA",
+        "FirstName": "Gianluca",
+        "LastName": "Debidda",
         "RepresentingNationality": "it"
       },
       "Result": 81900
@@ -45,8 +51,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "GIULIO",
-        "LastName": "CATAPANO",
+        "FirstName": "Giulio",
+        "LastName": "Catapano",
         "RepresentingNationality": "it"
       },
       "Result": 74500
@@ -54,8 +60,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": 54300
@@ -63,8 +69,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "LORENZO",
-        "LastName": "DELLA CASA",
+        "FirstName": "Lorenzo",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": 34600
@@ -82,8 +88,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "FRANCESCO",
-        "LastName": "MUNARON",
+        "FirstName": "Francesco",
+        "LastName": "Munaron",
         "RepresentingNationality": "it"
       },
       "Result": 15200
@@ -96,8 +102,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "DARIO",
-        "LastName": "AMENDOLITO",
+        "FirstName": "Dario",
+        "LastName": "Amendolito",
         "RepresentingNationality": "it"
       },
       "Result": -5600
@@ -115,8 +121,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MARIA LAURA",
-        "LastName": "MARCHI",
+        "FirstName": "Maria Laura",
+        "LastName": "Marchi",
         "RepresentingNationality": "it"
       },
       "Result": -41500
@@ -124,8 +130,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "ERIK",
-        "LastName": "CODRARO",
+        "FirstName": "Erik",
+        "LastName": "Codraro",
         "RepresentingNationality": "it"
       },
       "Result": -44600
@@ -138,8 +144,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "LETIZIA",
-        "LastName": "DELLA CASA",
+        "FirstName": "Letizia",
+        "LastName": "Della Casa",
         "RepresentingNationality": "it"
       },
       "Result": -52000
@@ -152,8 +158,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "STEFANO",
-        "LastName": "PREDIERI",
+        "FirstName": "Stefano",
+        "LastName": "Predieri",
         "RepresentingNationality": "it"
       },
       "Result": -55500
@@ -176,8 +182,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "ALICE",
-        "LastName": "GIOANNINI",
+        "FirstName": "Alice",
+        "LastName": "Gioannini",
         "RepresentingNationality": "it"
       },
       "Result": -96500

@@ -7,10 +7,18 @@
   "Date": "2026-03-21",
   "ToDate": "2026-03-22",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000018"
+    },
+    {
+      "Ema": "07000114"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Élise",
-      "LastName": "TAPONIER"
+      "LastName": "Taponier"
     }
   ],
   "NrDays": 2,
@@ -77,8 +85,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {

@@ -7,6 +7,12 @@
   "Date": "2017-04-09",
   "ToDate": "2017-04-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Uwe",
+      "LastName": "Pekau"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Olav",
@@ -45,8 +51,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "FRED",
-        "LastName": "BOHLMANN",
+        "FirstName": "Fred",
+        "LastName": "Bohlmann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -73,8 +79,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "HEIKO",
-        "LastName": "DOMANN",
+        "FirstName": "Heiko",
+        "LastName": "Domann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -85,8 +91,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "CHRISTA",
-        "LastName": "DZIONY",
+        "FirstName": "Christa",
+        "LastName": "Dziony",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -97,8 +103,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "YIXIN",
-        "LastName": "GONG",
+        "FirstName": "Yixin",
+        "LastName": "Gong",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -125,8 +131,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "BINO",
-        "LastName": "NOLTING",
+        "FirstName": "Bino",
+        "LastName": "Nolting",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -137,8 +143,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "JÜRGEN",
-        "LastName": "BRAHMST-SÖRENSEN",
+        "FirstName": "Jürgen",
+        "LastName": "Brahmst-Sörensen",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -165,8 +171,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "ROLLE",
+        "FirstName": "Florian",
+        "LastName": "Rolle",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -193,8 +199,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "GERHARD",
-        "LastName": "WOLF",
+        "FirstName": "Gerhard",
+        "LastName": "Wolf",
         "RepresentingNationality": "de"
       },
       "Result": {

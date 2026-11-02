@@ -1,11 +1,12 @@
 {
   "CountryCode": "ro",
   "Country": "Romania",
+  "Organisation": "Romania Organization",
   "Players": [
     {
       "EmaNumber": "25000001",
-      "FirstName": "RENE",
-      "LastName": "KHEZAM",
+      "FirstName": "Rene",
+      "LastName": "Khezam",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -16,8 +17,8 @@
     },
     {
       "EmaNumber": "25000002",
-      "FirstName": "MICHAEL",
-      "LastName": "VAN DER SLUIJS",
+      "FirstName": "Michael",
+      "LastName": "Van der Sluijs",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -28,38 +29,38 @@
     },
     {
       "EmaNumber": "25000003",
-      "FirstName": "MIHNEA",
-      "LastName": "PETRATU"
+      "FirstName": "Mihnea",
+      "LastName": "Petratu"
     },
     {
       "EmaNumber": "25000005",
-      "FirstName": "MIRELA LUCIA",
-      "LastName": "KHEZAM"
+      "FirstName": "Mirela Lucia",
+      "LastName": "Khezam"
     },
     {
       "EmaNumber": "25000006",
-      "FirstName": "ALECIO LIVIO",
-      "LastName": "POPA"
+      "FirstName": "Alecio Livio",
+      "LastName": "Popa"
     },
     {
       "EmaNumber": "25000007",
-      "FirstName": "MADALINA",
-      "LastName": "MOCANU"
+      "FirstName": "Madalina",
+      "LastName": "Mocanu"
     },
     {
       "EmaNumber": "25000008",
-      "FirstName": "CHRIS",
-      "LastName": "LUNTRARU"
+      "FirstName": "Chris",
+      "LastName": "Luntraru"
     },
     {
       "EmaNumber": "25000009",
-      "FirstName": "DAVID",
-      "LastName": "GADALEAN"
+      "FirstName": "David",
+      "LastName": "Gadalean"
     },
     {
       "EmaNumber": "25000010",
-      "FirstName": "IOAN MARIAN",
-      "LastName": "RABA"
+      "FirstName": "Ioan Marian",
+      "LastName": "Raba"
     }
   ]
 }

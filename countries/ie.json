@@ -1,16 +1,18 @@
 {
   "CountryCode": "ie",
   "Country": "Ireland",
+  "Organisation": "All-Ireland Mahjong",
+  "Website": "https://mahjong.ie/",
   "Players": [
     {
       "EmaNumber": "26000001",
-      "FirstName": "CONOR",
-      "LastName": "MULLIN"
+      "FirstName": "Conor",
+      "LastName": "Mullin"
     },
     {
       "EmaNumber": "26000002",
-      "FirstName": "ANDREW",
-      "LastName": "ZP SMITH",
+      "FirstName": "Andrew",
+      "LastName": "Zp Smith",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -21,8 +23,8 @@
     },
     {
       "EmaNumber": "26000003",
-      "FirstName": "SIMON",
-      "LastName": "PICARD",
+      "FirstName": "Simon",
+      "LastName": "Picard",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -33,23 +35,23 @@
     },
     {
       "EmaNumber": "26000004",
-      "FirstName": "MEGHANN",
-      "LastName": "MCKEAGUE"
+      "FirstName": "Meghann",
+      "LastName": "Mckeague"
     },
     {
       "EmaNumber": "26000005",
-      "FirstName": "SEIKO",
-      "LastName": "HAYASE"
+      "FirstName": "Seiko",
+      "LastName": "Hayase"
     },
     {
       "EmaNumber": "26000006",
       "FirstName": "Jerry",
-      "LastName": "WENG"
+      "LastName": "Weng"
     },
     {
       "EmaNumber": "26000007",
       "FirstName": "Martin",
-      "LastName": "SCHLEIMER",
+      "LastName": "Schleimer",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -61,127 +63,127 @@
     {
       "EmaNumber": "26000008",
       "FirstName": "Yucheng",
-      "LastName": "GAO"
+      "LastName": "Gao"
     },
     {
       "EmaNumber": "26000009",
       "FirstName": "Alexander",
-      "LastName": "STRADNIC"
+      "LastName": "Stradnic"
     },
     {
       "EmaNumber": "26000010",
       "FirstName": "Livey",
-      "LastName": "IRWIN"
+      "LastName": "Irwin"
     },
     {
       "EmaNumber": "26000011",
       "FirstName": "Alex",
-      "LastName": "WILDE"
+      "LastName": "Wilde"
     },
     {
       "EmaNumber": "26000012",
       "FirstName": "Shogo",
-      "LastName": "SAITO"
+      "LastName": "Saito"
     },
     {
       "EmaNumber": "26000013",
       "FirstName": "Tramy",
-      "LastName": "LE"
+      "LastName": "Le"
     },
     {
       "EmaNumber": "26000014",
       "FirstName": "Jonathan",
-      "LastName": "MATCHETT"
+      "LastName": "Matchett"
     },
     {
       "EmaNumber": "26000015",
       "FirstName": "Julia",
-      "LastName": "SOH"
+      "LastName": "Soh"
     },
     {
       "EmaNumber": "26000016",
-      "FirstName": "ZHIYU",
-      "LastName": "ZHENG"
+      "FirstName": "Zhiyu",
+      "LastName": "Zheng"
     },
     {
       "EmaNumber": "26000017",
-      "FirstName": "MAGHNUS",
-      "LastName": "HARTIGAN"
+      "FirstName": "Maghnus",
+      "LastName": "Hartigan"
     },
     {
       "EmaNumber": "26000018",
-      "FirstName": "DANIEL",
-      "LastName": "WATTS"
+      "FirstName": "Daniel",
+      "LastName": "Watts"
     },
     {
       "EmaNumber": "26000019",
-      "FirstName": "VIRGINIE",
-      "LastName": "PIERRE"
+      "FirstName": "Virginie",
+      "LastName": "Pierre"
     },
     {
       "EmaNumber": "26000020",
-      "FirstName": "WILLIAM",
-      "LastName": "O BRIEN"
+      "FirstName": "William",
+      "LastName": "O Brien"
     },
     {
       "EmaNumber": "26000021",
-      "FirstName": "KENTA",
-      "LastName": "UTSUNOMIYA"
+      "FirstName": "Kenta",
+      "LastName": "Utsunomiya"
     },
     {
       "EmaNumber": "26000022",
-      "FirstName": "SIOBHAN",
-      "LastName": "CHEN"
+      "FirstName": "Siobhan",
+      "LastName": "Chen"
     },
     {
       "EmaNumber": "26000023",
-      "FirstName": "JOAQUIN",
-      "LastName": "PADILLA RIVERO"
+      "FirstName": "Joaquin",
+      "LastName": "Padilla Rivero"
     },
     {
       "EmaNumber": "26000024",
-      "FirstName": "SUSAN",
-      "LastName": "HU"
+      "FirstName": "Susan",
+      "LastName": "Hu"
     },
     {
       "EmaNumber": "26000025",
-      "FirstName": "YUWEN",
-      "LastName": "PAN"
+      "FirstName": "Yuwen",
+      "LastName": "Pan"
     },
     {
       "EmaNumber": "26000026",
-      "FirstName": "ANGEL",
-      "LastName": "LEUNG"
+      "FirstName": "Angel",
+      "LastName": "Leung"
     },
     {
       "EmaNumber": "26000027",
-      "FirstName": "YIZHENG",
-      "LastName": "WANG"
+      "FirstName": "Yizheng",
+      "LastName": "Wang"
     },
     {
       "EmaNumber": "26000028",
-      "FirstName": "SHUHAO",
-      "LastName": "YUE"
+      "FirstName": "Shuhao",
+      "LastName": "Yue"
     },
     {
       "EmaNumber": "26000029",
-      "FirstName": "OTTO",
-      "LastName": "PETÄJÄ"
+      "FirstName": "Otto",
+      "LastName": "Petäjä"
     },
     {
       "EmaNumber": "26000030",
-      "FirstName": "HAFUZA",
-      "LastName": "KASABI"
+      "FirstName": "Hafuza",
+      "LastName": "Kasabi"
     },
     {
       "EmaNumber": "26000031",
-      "FirstName": "AMBER",
-      "LastName": "MUN"
+      "FirstName": "Amber",
+      "LastName": "Mun"
     },
     {
       "EmaNumber": "26000032",
-      "FirstName": "JIANG",
-      "LastName": "ZHU",
+      "FirstName": "Jiang",
+      "LastName": "Zhu",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -192,8 +194,8 @@
     },
     {
       "EmaNumber": "26000033",
-      "FirstName": "DANTE",
-      "LastName": "EBLE CANALE"
+      "FirstName": "Dante",
+      "LastName": "Eble Canale"
     }
   ]
 }

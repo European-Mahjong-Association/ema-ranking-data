@@ -7,6 +7,17 @@
   "Date": "2026-03-07",
   "ToDate": "2026-03-08",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000018"
+    },
+    {
+      "Ema": "07000164"
+    },
+    {
+      "Ema": "05000043"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Raúl",
@@ -181,8 +192,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "KUNTSOVA",
+        "FirstName": "Anna",
+        "LastName": "Kuntsova",
         "RepresentingNationality": "ru"
       },
       "Result": -14200
@@ -305,8 +316,8 @@
     {
       "Placement": 57,
       "Player": {
-        "FirstName": "CLAIRE",
-        "LastName": "BEAUGRAND",
+        "FirstName": "Claire",
+        "LastName": "Beaugrand",
         "RepresentingNationality": "fr"
       },
       "Result": -125100

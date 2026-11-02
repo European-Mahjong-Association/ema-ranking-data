@@ -7,6 +7,11 @@
   "Date": "2025-02-09",
   "ToDate": "2025-02-09",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "03000022"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Niklas",
@@ -136,8 +141,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "MIKITO",
-        "LastName": "KURUSAWA",
+        "FirstName": "Mikito",
+        "LastName": "Kurusawa",
         "RepresentingNationality": "jp"
       },
       "Result": -18400

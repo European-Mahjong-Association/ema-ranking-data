@@ -7,6 +7,11 @@
   "Date": "2016-12-10",
   "ToDate": "2016-12-11",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ad",
@@ -21,8 +26,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "DENIS",
-        "LastName": "LUGANNIKOV",
+        "FirstName": "Denis",
+        "LastName": "Lugannikov",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -49,8 +54,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "CHRIS",
-        "LastName": "JANSSEN",
+        "FirstName": "Chris",
+        "LastName": "Janssen",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -245,8 +250,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "CIUDAD GÓMEZ",
+        "FirstName": "David",
+        "LastName": "Ciudad Gómez",
         "RepresentingNationality": "es"
       },
       "Result": {
@@ -353,8 +358,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "BERRY",
-        "LastName": "HEIJN",
+        "FirstName": "Berry",
+        "LastName": "Heijn",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -429,8 +434,8 @@
     {
       "Placement": 50,
       "Player": {
-        "FirstName": "ARNAUD",
-        "LastName": "MORRENS",
+        "FirstName": "Arnaud",
+        "LastName": "Morrens",
         "RepresentingNationality": "be"
       },
       "Result": {
@@ -449,8 +454,8 @@
     {
       "Placement": 52,
       "Player": {
-        "FirstName": "JOSÉ MANUEL",
-        "LastName": "MORENO PESQUERA",
+        "FirstName": "José Manuel",
+        "LastName": "Moreno Pesquera",
         "RepresentingNationality": "es"
       },
       "Result": {

@@ -7,6 +7,12 @@
   "Date": "2015-10-03",
   "ToDate": "2015-10-04",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Luc",
+      "LastName": "Humbert"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Cyrille",
@@ -165,8 +171,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "LIONEL",
-        "LastName": "LEGAIE",
+        "FirstName": "Lionel",
+        "LastName": "Legaie",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -177,8 +183,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "ALESSIA",
-        "LastName": "COSMO",
+        "FirstName": "Alessia",
+        "LastName": "Cosmo",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -253,8 +259,8 @@
     {
       "Placement": 29,
       "Player": {
-        "FirstName": "ISMAËL",
-        "LastName": "PERRIN",
+        "FirstName": "Ismaël",
+        "LastName": "Perrin",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -273,8 +279,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "THOMAS",
-        "LastName": "BONJOUR",
+        "FirstName": "Thomas",
+        "LastName": "Bonjour",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -293,8 +299,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "FATIHA",
-        "LastName": "BENELKADI",
+        "FirstName": "Fatiha",
+        "LastName": "Benelkadi",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -353,8 +359,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "JOSE LUIS",
-        "LastName": "BARRADAS",
+        "FirstName": "Jose Luis",
+        "LastName": "Barradas",
         "RepresentingNationality": "mx"
       },
       "Result": {
@@ -373,8 +379,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "SANDRO",
-        "LastName": "ZANETTI",
+        "FirstName": "Sandro",
+        "LastName": "Zanetti",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -385,8 +391,8 @@
     {
       "Placement": 43,
       "Player": {
-        "FirstName": "LIONEL",
-        "LastName": "GRANDAO",
+        "FirstName": "Lionel",
+        "LastName": "Grandao",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -421,8 +427,8 @@
     {
       "Placement": 47,
       "Player": {
-        "FirstName": "RENATA",
-        "LastName": "BARRADAS",
+        "FirstName": "Renata",
+        "LastName": "Barradas",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -433,8 +439,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "MARIE-HÉLÈNE",
-        "LastName": "GROUX",
+        "FirstName": "Marie-Hélène",
+        "LastName": "Groux",
         "RepresentingNationality": "ch"
       },
       "Result": {

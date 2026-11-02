@@ -7,10 +7,15 @@
   "Date": "2018-09-29",
   "ToDate": "2018-09-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010025"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Luc",
-      "LastName": "HUMBERT"
+      "LastName": "Humbert"
     }
   ],
   "NrDays": 2,
@@ -93,8 +98,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MATTHEU",
-        "LastName": "OORSOUW, VAN",
+        "FirstName": "Mattheu",
+        "LastName": "Oorsouw, van",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -161,8 +166,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -413,8 +418,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "LIONEL",
-        "LastName": "LEGAIE",
+        "FirstName": "Lionel",
+        "LastName": "Legaie",
         "RepresentingNationality": "fr"
       },
       "Result": {

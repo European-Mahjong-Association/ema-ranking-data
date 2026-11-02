@@ -7,6 +7,12 @@
   "Date": "2019-06-29",
   "ToDate": "2019-06-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Astrid",
+      "LastName": "Dubedout"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Annie",
@@ -85,8 +91,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -161,8 +167,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "MARIE",
-        "LastName": "NORÉN",
+        "FirstName": "Marie",
+        "LastName": "Norén",
         "RepresentingNationality": "se"
       },
       "Result": {
@@ -213,8 +219,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "SAM",
-        "LastName": "WENELL",
+        "FirstName": "Sam",
+        "LastName": "Wenell",
         "RepresentingNationality": "se"
       },
       "Result": {

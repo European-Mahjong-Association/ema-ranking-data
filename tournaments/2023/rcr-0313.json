@@ -7,10 +7,15 @@
   "Date": "2023-11-04",
   "ToDate": "2023-11-05",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04310048"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Véronique",
-      "LastName": "BOISSON"
+      "LastName": "Boisson"
     }
   ],
   "NrDays": 2,
@@ -131,7 +136,7 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "VICTOR SAVARD-ARSENEAULT",
+        "FirstName": "Victor Savard-Arseneault",
         "LastName": null,
         "RepresentingNationality": "ca"
       },

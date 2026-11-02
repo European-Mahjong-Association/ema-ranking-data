@@ -7,6 +7,11 @@
   "Date": "2023-04-29",
   "ToDate": "2023-04-30",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "10990027"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Christopher",
@@ -31,8 +36,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "FABIO",
-        "LastName": "QUEIROS",
+        "FirstName": "Fabio",
+        "LastName": "Queiros",
         "RepresentingNationality": "pt"
       },
       "Result": 77400
@@ -90,8 +95,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "ALEXEY",
-        "LastName": "BELOVS",
+        "FirstName": "Alexey",
+        "LastName": "Belovs",
         "RepresentingNationality": "gb"
       },
       "Result": -36400

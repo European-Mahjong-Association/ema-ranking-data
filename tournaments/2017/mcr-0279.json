@@ -7,6 +7,12 @@
   "Date": "2017-10-29",
   "ToDate": "2017-10-29",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Fred",
+      "LastName": "Bohlmann"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Pieter",
@@ -85,8 +91,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "HEIKO",
-        "LastName": "DOMANN",
+        "FirstName": "Heiko",
+        "LastName": "Domann",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -121,8 +127,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "JOHN",
-        "LastName": "KUIJPERS",
+        "FirstName": "John",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": {
@@ -221,8 +227,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -265,8 +271,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "PLAYER 3",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 3",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -285,8 +291,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -297,8 +303,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -317,8 +323,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "ELS",
-        "LastName": "KUIJPERS",
+        "FirstName": "Els",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": {

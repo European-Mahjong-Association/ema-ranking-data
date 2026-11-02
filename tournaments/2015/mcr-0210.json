@@ -7,6 +7,11 @@
   "Date": "2015-07-25",
   "ToDate": "2015-07-26",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "26000007"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Gérard",
@@ -21,8 +26,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "ERNEST",
-        "LastName": "GLASER",
+        "FirstName": "Ernest",
+        "LastName": "Glaser",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -73,8 +78,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "HEINZ",
-        "LastName": "KANDORFER",
+        "FirstName": "Heinz",
+        "LastName": "Kandorfer",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -141,8 +146,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MARIA",
-        "LastName": "ALDRIAN",
+        "FirstName": "Maria",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -185,8 +190,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "ANTON",
-        "LastName": "ALDRIAN",
+        "FirstName": "Anton",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -197,8 +202,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "STEFAN",
-        "LastName": "TSCHINKEL",
+        "FirstName": "Stefan",
+        "LastName": "Tschinkel",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -217,8 +222,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -229,8 +234,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "TRINKL",
+        "FirstName": "Matthias",
+        "LastName": "Trinkl",
         "RepresentingNationality": "at"
       },
       "Result": {

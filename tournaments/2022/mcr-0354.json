@@ -7,6 +7,11 @@
   "Date": "2022-07-09",
   "ToDate": "2022-07-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04090060"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anton",
@@ -317,8 +322,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "LIONEL",
-        "LastName": "LEGAIE",
+        "FirstName": "Lionel",
+        "LastName": "Legaie",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -337,8 +342,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "MARIE-CHRISTINE",
-        "LastName": "LAMY",
+        "FirstName": "Marie-Christine",
+        "LastName": "Lamy",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -349,8 +354,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "HONGYANG",
-        "LastName": "QIN",
+        "FirstName": "Hongyang",
+        "LastName": "Qin",
         "RepresentingNationality": "de"
       },
       "Result": {
@@ -457,8 +462,8 @@
     {
       "Placement": 54,
       "Player": {
-        "FirstName": "CHRISTOPHE",
-        "LastName": "PELLETIER",
+        "FirstName": "Christophe",
+        "LastName": "Pelletier",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -645,8 +650,8 @@
     {
       "Placement": 77,
       "Player": {
-        "FirstName": "ANTOINE",
-        "LastName": "FERMÉ",
+        "FirstName": "Antoine",
+        "LastName": "Fermé",
         "RepresentingNationality": "fr"
       },
       "Result": {
@@ -673,8 +678,8 @@
     {
       "Placement": 80,
       "Player": {
-        "FirstName": "VALÉRIE",
-        "LastName": "ANGELA",
+        "FirstName": "Valérie",
+        "LastName": "Angela",
         "RepresentingNationality": "it"
       },
       "Result": {

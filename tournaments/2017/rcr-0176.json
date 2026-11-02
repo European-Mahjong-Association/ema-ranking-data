@@ -7,6 +7,14 @@
   "Date": "2017-12-02",
   "ToDate": "2017-12-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "05900002"
+    },
+    {
+      "Ema": "08010166"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jaap",
@@ -21,8 +29,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "AXEL",
-        "LastName": "ESCHENBURG",
+        "FirstName": "Axel",
+        "LastName": "Eschenburg",
         "RepresentingNationality": "de"
       },
       "Result": 192400
@@ -30,8 +38,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "JOHN",
-        "LastName": "KUIJPERS",
+        "FirstName": "John",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": 151300
@@ -39,8 +47,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "WALDEMAR",
-        "LastName": "LAUBE",
+        "FirstName": "Waldemar",
+        "LastName": "Laube",
         "RepresentingNationality": "de"
       },
       "Result": 105100
@@ -48,8 +56,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "NICOLE",
-        "LastName": "HAASBROEK",
+        "FirstName": "Nicole",
+        "LastName": "Haasbroek",
         "RepresentingNationality": "vide"
       },
       "Result": 104700
@@ -67,8 +75,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "ALEXANDER",
-        "LastName": "HERBST",
+        "FirstName": "Alexander",
+        "LastName": "Herbst",
         "RepresentingNationality": "nl"
       },
       "Result": 73100
@@ -81,8 +89,8 @@
     {
       "Placement": 9,
       "Player": {
-        "FirstName": "MARTIJN",
-        "LastName": "KLAAR",
+        "FirstName": "Martijn",
+        "LastName": "Klaar",
         "RepresentingNationality": "nl"
       },
       "Result": 63500
@@ -90,8 +98,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "ELS",
-        "LastName": "KUIJPERS",
+        "FirstName": "Els",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": 47000
@@ -104,8 +112,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "GEBAUER",
+        "FirstName": "Florian",
+        "LastName": "Gebauer",
         "RepresentingNationality": "de"
       },
       "Result": 29900
@@ -113,8 +121,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "DANIEL",
-        "LastName": "GAHLER",
+        "FirstName": "Daniel",
+        "LastName": "Gahler",
         "RepresentingNationality": "de"
       },
       "Result": 25500
@@ -122,8 +130,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "ARNE",
-        "LastName": "KRIS",
+        "FirstName": "Arne",
+        "LastName": "Kris",
         "RepresentingNationality": "nl"
       },
       "Result": 25100
@@ -131,8 +139,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": 9000
@@ -150,8 +158,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "JANNY",
-        "LastName": "VAN DER MEER",
+        "FirstName": "Janny",
+        "LastName": "Van der Meer",
         "RepresentingNationality": "nl"
       },
       "Result": -22100
@@ -174,8 +182,8 @@
     {
       "Placement": 22,
       "Player": {
-        "FirstName": "PHILIPP",
-        "LastName": "MARTIN",
+        "FirstName": "Philipp",
+        "LastName": "Martin",
         "RepresentingNationality": "de"
       },
       "Result": -40300
@@ -183,8 +191,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "DANIEL",
-        "LastName": "GEBAUER",
+        "FirstName": "Daniel",
+        "LastName": "Gebauer",
         "RepresentingNationality": "de"
       },
       "Result": -50500
@@ -232,8 +240,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -153000

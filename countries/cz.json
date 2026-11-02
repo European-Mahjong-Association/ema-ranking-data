@@ -1,16 +1,18 @@
 {
   "CountryCode": "cz",
   "Country": "Czech Republic",
+  "Organisation": "Czech Mahjong Association",
+  "Website": "http://yakuman.cz/",
   "Players": [
     {
       "EmaNumber": "22000001",
-      "FirstName": "VOJTĚCH",
-      "LastName": "TRMAL"
+      "FirstName": "Vojtěch",
+      "LastName": "Trmal"
     },
     {
       "EmaNumber": "22000003",
-      "FirstName": "MARTIN",
-      "LastName": "DIVIŠ",
+      "FirstName": "Martin",
+      "LastName": "Diviš",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -21,23 +23,23 @@
     },
     {
       "EmaNumber": "22000004",
-      "FirstName": "RADKA",
-      "LastName": "NAVRATILOVA"
+      "FirstName": "Radka",
+      "LastName": "Navratilova"
     },
     {
       "EmaNumber": "22000016",
-      "FirstName": "FILIP",
-      "LastName": "NAVRÁTIL"
+      "FirstName": "Filip",
+      "LastName": "Navrátil"
     },
     {
       "EmaNumber": "22000021",
-      "FirstName": "PETR",
-      "LastName": "MATONOHA"
+      "FirstName": "Petr",
+      "LastName": "Matonoha"
     },
     {
       "EmaNumber": "22000027",
-      "FirstName": "MARTIN",
-      "LastName": "RYDLAND"
+      "FirstName": "Martin",
+      "LastName": "Rydland"
     }
   ]
 }

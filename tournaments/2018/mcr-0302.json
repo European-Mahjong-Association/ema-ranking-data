@@ -7,6 +7,12 @@
   "Date": "2018-08-03",
   "ToDate": "2018-08-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Axel",
+      "LastName": "Eschenburg"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Joël",
@@ -29,8 +35,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -97,8 +103,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "TONY",
-        "LastName": "HALEY",
+        "FirstName": "Tony",
+        "LastName": "Haley",
         "RepresentingNationality": "gb"
       },
       "Result": {
@@ -149,8 +155,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "NORMA",
-        "LastName": "TODD",
+        "FirstName": "Norma",
+        "LastName": "Todd",
         "RepresentingNationality": "gb"
       },
       "Result": {
@@ -161,8 +167,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "JOHN",
-        "LastName": "TODD",
+        "FirstName": "John",
+        "LastName": "Todd",
         "RepresentingNationality": "gb"
       },
       "Result": {
@@ -173,8 +179,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "TRINKL",
+        "FirstName": "Matthias",
+        "LastName": "Trinkl",
         "RepresentingNationality": "at"
       },
       "Result": {

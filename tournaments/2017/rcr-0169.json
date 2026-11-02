@@ -7,6 +7,11 @@
   "Date": "2017-10-28",
   "ToDate": "2017-10-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010025"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "John",
@@ -51,8 +56,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "JOHN",
-        "LastName": "KUIJPERS",
+        "FirstName": "John",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": 42400
@@ -90,8 +95,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "DICKY",
-        "LastName": "REP",
+        "FirstName": "Dicky",
+        "LastName": "Rep",
         "RepresentingNationality": "nl"
       },
       "Result": 24600
@@ -144,8 +149,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "ELS",
-        "LastName": "KUIJPERS",
+        "FirstName": "Els",
+        "LastName": "Kuijpers",
         "RepresentingNationality": "nl"
       },
       "Result": -39500
@@ -153,8 +158,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "UWE",
-        "LastName": "PEKAU",
+        "FirstName": "Uwe",
+        "LastName": "Pekau",
         "RepresentingNationality": "de"
       },
       "Result": -44600
@@ -187,8 +192,8 @@
     {
       "Placement": 31,
       "Player": {
-        "FirstName": "FLORIAN",
-        "LastName": "ROLLE",
+        "FirstName": "Florian",
+        "LastName": "Rolle",
         "RepresentingNationality": "de"
       },
       "Result": -109400

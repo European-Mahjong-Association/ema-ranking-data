@@ -7,10 +7,26 @@
   "Date": "2013-12-14",
   "ToDate": "2013-12-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000011"
+    },
+    {
+      "FirstName": "Krzysztof",
+      "LastName": "Sasinowski"
+    },
+    {
+      "Ema": "19000001"
+    },
+    {
+      "FirstName": "Jakub",
+      "LastName": "Tomaszewski"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jesper",
-      "LastName": "NØHR"
+      "LastName": "Nøhr"
     }
   ],
   "NrDays": 2,
@@ -21,8 +37,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "HARRI",
-        "LastName": "PANTSAR",
+        "FirstName": "Harri",
+        "LastName": "Pantsar",
         "RepresentingNationality": "fi"
       },
       "Result": 202800
@@ -35,8 +51,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "MARCIN",
-        "LastName": "KOTOWSKI",
+        "FirstName": "Marcin",
+        "LastName": "Kotowski",
         "RepresentingNationality": "pl"
       },
       "Result": 140700
@@ -44,8 +60,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "MACIEJ",
-        "LastName": "KRAWCZAK",
+        "FirstName": "Maciej",
+        "LastName": "Krawczak",
         "RepresentingNationality": "pl"
       },
       "Result": 133900
@@ -53,8 +69,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "KRZYSZTOF",
-        "LastName": "SASINOWSKI",
+        "FirstName": "Krzysztof",
+        "LastName": "Sasinowski",
         "RepresentingNationality": "pl"
       },
       "Result": 121500
@@ -82,8 +98,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "PAWEŁ",
-        "LastName": "MARCZEWSKI",
+        "FirstName": "Paweł",
+        "LastName": "Marczewski",
         "RepresentingNationality": "pl"
       },
       "Result": 69100
@@ -101,8 +117,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "JAKUB",
-        "LastName": "TOMASZEWSKI",
+        "FirstName": "Jakub",
+        "LastName": "Tomaszewski",
         "RepresentingNationality": "pl"
       },
       "Result": 56900
@@ -110,8 +126,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "JAN",
-        "LastName": "SZEJKO",
+        "FirstName": "Jan",
+        "LastName": "Szejko",
         "RepresentingNationality": "pl"
       },
       "Result": 56200
@@ -119,8 +135,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MAŁGORZATA",
-        "LastName": "RUTKOWSKA",
+        "FirstName": "Małgorzata",
+        "LastName": "Rutkowska",
         "RepresentingNationality": "pl"
       },
       "Result": 53700
@@ -133,8 +149,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "SEBASTIAN",
-        "LastName": "MARKOWSKI",
+        "FirstName": "Sebastian",
+        "LastName": "Markowski",
         "RepresentingNationality": "pl"
       },
       "Result": 28500
@@ -142,8 +158,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "JANUSZ",
-        "LastName": "KUREK",
+        "FirstName": "Janusz",
+        "LastName": "Kurek",
         "RepresentingNationality": "pl"
       },
       "Result": 24000
@@ -151,8 +167,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "MACIEJ",
-        "LastName": "MARKIEWICZ",
+        "FirstName": "Maciej",
+        "LastName": "Markiewicz",
         "RepresentingNationality": "pl"
       },
       "Result": 13700
@@ -165,8 +181,8 @@
     {
       "Placement": 21,
       "Player": {
-        "FirstName": "TOMASZ",
-        "LastName": "SAWICKI",
+        "FirstName": "Tomasz",
+        "LastName": "Sawicki",
         "RepresentingNationality": "pl"
       },
       "Result": 12100
@@ -189,8 +205,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "MICHAŁ",
-        "LastName": "WOŹNY",
+        "FirstName": "Michał",
+        "LastName": "Woźny",
         "RepresentingNationality": "pl"
       },
       "Result": -15200
@@ -208,8 +224,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "EICHLER",
+        "FirstName": "Anna",
+        "LastName": "Eichler",
         "RepresentingNationality": "pl"
       },
       "Result": -60100
@@ -222,8 +238,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "ROMAN",
-        "LastName": "KOLENDA",
+        "FirstName": "Roman",
+        "LastName": "Kolenda",
         "RepresentingNationality": "pl"
       },
       "Result": -71100
@@ -241,8 +257,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "PAULINA",
-        "LastName": "URBANEK",
+        "FirstName": "Paulina",
+        "LastName": "Urbanek",
         "RepresentingNationality": "pl"
       },
       "Result": -87400
@@ -255,8 +271,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "KATARZYNA",
-        "LastName": "ŚWIETLIK",
+        "FirstName": "Katarzyna",
+        "LastName": "Świetlik",
         "RepresentingNationality": "pl"
       },
       "Result": -119800
@@ -264,8 +280,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "JACEK",
-        "LastName": "MENDYK",
+        "FirstName": "Jacek",
+        "LastName": "Mendyk",
         "RepresentingNationality": "pl"
       },
       "Result": -120300
@@ -278,8 +294,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "MICHAŁ",
-        "LastName": "KOTOWSKI",
+        "FirstName": "Michał",
+        "LastName": "Kotowski",
         "RepresentingNationality": "pl"
       },
       "Result": -143200
@@ -287,8 +303,8 @@
     {
       "Placement": 39,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "SAWICKI",
+        "FirstName": "Piotr",
+        "LastName": "Sawicki",
         "RepresentingNationality": "pl"
       },
       "Result": -255300
@@ -296,8 +312,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "MARTYNA",
-        "LastName": "BORYSIAK",
+        "FirstName": "Martyna",
+        "LastName": "Borysiak",
         "RepresentingNationality": "pl"
       },
       "Result": -257900

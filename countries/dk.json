@@ -1,11 +1,13 @@
 {
   "CountryCode": "dk",
   "Country": "Denmark",
+  "Organisation": "Mahjong Denmark",
+  "Website": "https://mahjong.dk/",
   "Players": [
     {
       "EmaNumber": "03000003",
-      "FirstName": "TINA",
-      "LastName": "CHRISTENSEN",
+      "FirstName": "Tina",
+      "LastName": "Christensen",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -21,8 +23,8 @@
     },
     {
       "EmaNumber": "03000005",
-      "FirstName": "JEPPE",
-      "LastName": "STIG NIELSEN",
+      "FirstName": "Jeppe",
+      "LastName": "Stig Nielsen",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -33,8 +35,8 @@
     },
     {
       "EmaNumber": "03000022",
-      "FirstName": "HENRIK",
-      "LastName": "LETH",
+      "FirstName": "Henrik",
+      "LastName": "Leth",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -50,8 +52,8 @@
     },
     {
       "EmaNumber": "03000049",
-      "FirstName": "FREDDY",
-      "LastName": "CHRISTIANSEN",
+      "FirstName": "Freddy",
+      "LastName": "Christiansen",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -62,8 +64,8 @@
     },
     {
       "EmaNumber": "03000051",
-      "FirstName": "MORTEN",
-      "LastName": "ANDERSEN",
+      "FirstName": "Morten",
+      "LastName": "Andersen",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -79,13 +81,13 @@
     },
     {
       "EmaNumber": "03000118",
-      "FirstName": "CAMILLA",
-      "LastName": "DALSGAARD"
+      "FirstName": "Camilla",
+      "LastName": "Dalsgaard"
     },
     {
       "EmaNumber": "03000126",
-      "FirstName": "LARS",
-      "LastName": "THERKELSEN",
+      "FirstName": "Lars",
+      "LastName": "Therkelsen",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -101,13 +103,13 @@
     },
     {
       "EmaNumber": "03000140",
-      "FirstName": "SHI HUA",
-      "LastName": "CHEN KOLD"
+      "FirstName": "Shi Hua",
+      "LastName": "Chen Kold"
     },
     {
       "EmaNumber": "03000148",
-      "FirstName": "FRANK",
-      "LastName": "ROSTVED-ANBERG",
+      "FirstName": "Frank",
+      "LastName": "Rostved-Anberg",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -123,23 +125,23 @@
     },
     {
       "EmaNumber": "03000149",
-      "FirstName": "ISABEL",
-      "LastName": "BAHIANO STEENHOLM"
+      "FirstName": "Isabel",
+      "LastName": "Bahiano Steenholm"
     },
     {
       "EmaNumber": "03000156",
-      "FirstName": "SHEILA",
-      "LastName": "HANSEN"
+      "FirstName": "Sheila",
+      "LastName": "Hansen"
     },
     {
       "EmaNumber": "03000169",
-      "FirstName": "EIVIND",
-      "LastName": "BENGTSSON"
+      "FirstName": "Eivind",
+      "LastName": "Bengtsson"
     },
     {
       "EmaNumber": "03000176",
-      "FirstName": "JESPER",
-      "LastName": "NØHR",
+      "FirstName": "Jesper",
+      "LastName": "Nøhr",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -155,13 +157,13 @@
     },
     {
       "EmaNumber": "03000180",
-      "FirstName": "MICHEL",
-      "LastName": "MANDIX"
+      "FirstName": "Michel",
+      "LastName": "Mandix"
     },
     {
       "EmaNumber": "03000192",
-      "FirstName": "SEBASTIAN",
-      "LastName": "LAVALLEE",
+      "FirstName": "Sebastian",
+      "LastName": "Lavallee",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -177,18 +179,18 @@
     },
     {
       "EmaNumber": "03000208",
-      "FirstName": "EIGO",
-      "LastName": "KAWATANI"
+      "FirstName": "Eigo",
+      "LastName": "Kawatani"
     },
     {
       "EmaNumber": "03000215",
-      "FirstName": "TING FANG",
-      "LastName": "OLSEN"
+      "FirstName": "Ting Fang",
+      "LastName": "Olsen"
     },
     {
       "EmaNumber": "03000228",
-      "FirstName": "SEBASTIAN",
-      "LastName": "VIKKELSØ ELLEHOLM",
+      "FirstName": "Sebastian",
+      "LastName": "Vikkelsø Elleholm",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -199,8 +201,8 @@
     },
     {
       "EmaNumber": "03000241",
-      "FirstName": "ESKILD",
-      "LastName": "MIDDELBOE",
+      "FirstName": "Eskild",
+      "LastName": "Middelboe",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -211,33 +213,33 @@
     },
     {
       "EmaNumber": "03000252",
-      "FirstName": "BAO",
-      "LastName": "ZHENG LIU"
+      "FirstName": "Bao",
+      "LastName": "Zheng Liu"
     },
     {
       "EmaNumber": "03000262",
       "FirstName": "Michael",
-      "LastName": "BERTH"
+      "LastName": "Berth"
     },
     {
       "EmaNumber": "03000269",
-      "FirstName": "FELIX",
-      "LastName": "HUBBELMEIJER"
+      "FirstName": "Felix",
+      "LastName": "Hubbelmeijer"
     },
     {
       "EmaNumber": "03000277",
-      "FirstName": "SHIGENG",
-      "LastName": "YAN"
+      "FirstName": "Shigeng",
+      "LastName": "Yan"
     },
     {
       "EmaNumber": "03000279",
-      "FirstName": "FREYA",
-      "LastName": "PEARCE"
+      "FirstName": "Freya",
+      "LastName": "Pearce"
     },
     {
       "EmaNumber": "03000287",
-      "FirstName": "ARIEL",
-      "LastName": "MELCHIOR"
+      "FirstName": "Ariel",
+      "LastName": "Melchior"
     }
   ]
 }

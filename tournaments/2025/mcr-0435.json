@@ -7,6 +7,12 @@
   "Date": "2025-09-27",
   "ToDate": "2025-09-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Axel",
+      "LastName": "Eschenburg"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Katarzyna",
@@ -301,8 +307,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

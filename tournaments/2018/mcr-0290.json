@@ -7,6 +7,14 @@
   "Date": "2018-03-24",
   "ToDate": "2018-03-25",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "26000007"
+    },
+    {
+      "Ema": "07000018"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Marco",
@@ -157,8 +165,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "FELIX",
-        "LastName": "DIVJAK",
+        "FirstName": "Felix",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -169,8 +177,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ERNEST",
-        "LastName": "GLASER",
+        "FirstName": "Ernest",
+        "LastName": "Glaser",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -245,8 +253,8 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "HEINZ",
-        "LastName": "KANDORFER",
+        "FirstName": "Heinz",
+        "LastName": "Kandorfer",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -289,8 +297,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "MARIA",
-        "LastName": "ALDRIAN",
+        "FirstName": "Maria",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -309,8 +317,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "TONI",
-        "LastName": "ALDRIAN",
+        "FirstName": "Toni",
+        "LastName": "Aldrian",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -337,8 +345,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "ROMANA",
-        "LastName": "DIVJAK",
+        "FirstName": "Romana",
+        "LastName": "Divjak",
         "RepresentingNationality": "at"
       },
       "Result": {

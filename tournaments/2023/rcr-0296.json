@@ -7,6 +7,11 @@
   "Date": "2023-05-27",
   "ToDate": "2023-05-28",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "25000001"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Jesper",
@@ -96,8 +101,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "BOGDAN",
-        "LastName": "BOLEAN",
+        "FirstName": "Bogdan",
+        "LastName": "Bolean",
         "RepresentingNationality": "ro"
       },
       "Result": 49200
@@ -195,8 +200,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000
@@ -204,8 +209,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "PLAYER 2",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player 2",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -270000

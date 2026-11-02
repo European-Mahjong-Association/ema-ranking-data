@@ -7,10 +7,22 @@
   "Date": "2024-09-28",
   "ToDate": "2024-09-29",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Peter",
+      "LastName": "Hamilton"
+    },
+    {
+      "Ema": "01000053"
+    },
+    {
+      "Ema": "05100166"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Krzysztof",
-      "LastName": "DABROWSKI"
+      "LastName": "Dabrowski"
     }
   ],
   "NrDays": 2,
@@ -176,8 +188,8 @@
     {
       "Placement": 32,
       "Player": {
-        "FirstName": "KUNYAN",
-        "LastName": "ZHAO",
+        "FirstName": "Kunyan",
+        "LastName": "Zhao",
         "RepresentingNationality": "at"
       },
       "Result": -5500

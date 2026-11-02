@@ -7,10 +7,15 @@
   "Date": "2026-05-30",
   "ToDate": "2026-05-31",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "02010033"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Thomas",
-      "LastName": "BOUTONNET"
+      "LastName": "Boutonnet"
     }
   ],
   "NrDays": 2,
@@ -205,8 +210,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "BERNARD",
-        "LastName": "ANG WEI MING",
+        "FirstName": "Bernard",
+        "LastName": "Ang Wei Ming",
         "RepresentingNationality": "sg"
       },
       "Result": {
@@ -305,8 +310,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

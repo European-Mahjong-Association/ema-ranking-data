@@ -1,111 +1,113 @@
 {
   "CountryCode": "hu",
   "Country": "Hungary",
+  "Organisation": "Magyar Mah-jong Szövetség",
+  "Website": "https://mahjong.hu/",
   "Players": [
     {
       "EmaNumber": "06010001",
-      "FirstName": "ANGÉLA",
-      "LastName": "LAKOS"
+      "FirstName": "Angéla",
+      "LastName": "Lakos"
     },
     {
       "EmaNumber": "06010003",
-      "FirstName": "ANDRÁS",
-      "LastName": "BODA"
+      "FirstName": "András",
+      "LastName": "Boda"
     },
     {
       "EmaNumber": "06010008",
-      "FirstName": "MAGDOLNA",
-      "LastName": "B NAGY"
+      "FirstName": "Magdolna",
+      "LastName": "B Nagy"
     },
     {
       "EmaNumber": "06010011",
-      "FirstName": "ILDIKÓ",
-      "LastName": "HARGITAI"
+      "FirstName": "Ildikó",
+      "LastName": "Hargitai"
     },
     {
       "EmaNumber": "06010021",
-      "FirstName": "SÁNDOR",
-      "LastName": "TAKÁCS"
+      "FirstName": "Sándor",
+      "LastName": "Takács"
     },
     {
       "EmaNumber": "06010025",
-      "FirstName": "ESZTER",
-      "LastName": "VÁRNAI"
+      "FirstName": "Eszter",
+      "LastName": "Várnai"
     },
     {
       "EmaNumber": "06010028",
-      "FirstName": "ZSOLT",
-      "LastName": "NYULASI JR"
+      "FirstName": "Zsolt",
+      "LastName": "Nyulasi Jr"
     },
     {
       "EmaNumber": "06010040",
-      "FirstName": "MIKLÓS",
-      "LastName": "IMRE"
+      "FirstName": "Miklós",
+      "LastName": "Imre"
     },
     {
       "EmaNumber": "06010041",
-      "FirstName": "TIMEA",
-      "LastName": "IMRÉNÉ KOVÁCS"
+      "FirstName": "Timea",
+      "LastName": "Imréné Kovács"
     },
     {
       "EmaNumber": "06020018",
-      "FirstName": "ÁGNES",
-      "LastName": "FERENCZI"
+      "FirstName": "Ágnes",
+      "LastName": "Ferenczi"
     },
     {
       "EmaNumber": "06020021",
-      "FirstName": "ILONA",
-      "LastName": "FÓRIZS"
+      "FirstName": "Ilona",
+      "LastName": "Fórizs"
     },
     {
       "EmaNumber": "06100002",
-      "FirstName": "LÁSZLÓ",
-      "LastName": "HORVÁTH"
+      "FirstName": "László",
+      "LastName": "Horváth"
     },
     {
       "EmaNumber": "06990001",
-      "FirstName": "ETI",
-      "LastName": "PALCZER-ASCHENBRENNER"
+      "FirstName": "Eti",
+      "LastName": "Palczer-Aschenbrenner"
     },
     {
       "EmaNumber": "06990005",
-      "FirstName": "VIKTOR",
-      "LastName": "KÖNYVES"
+      "FirstName": "Viktor",
+      "LastName": "Könyves"
     },
     {
       "EmaNumber": "06990014",
-      "FirstName": "ZOLTAN",
-      "LastName": "DINYESI"
+      "FirstName": "Zoltan",
+      "LastName": "Dinyesi"
     },
     {
       "EmaNumber": "06990025",
-      "FirstName": "FERENC",
-      "LastName": "VLADAR"
+      "FirstName": "Ferenc",
+      "LastName": "Vladar"
     },
     {
       "EmaNumber": "06990030",
-      "FirstName": "PIROSKA",
-      "LastName": "NAGYNÉ BELÁZ"
+      "FirstName": "Piroska",
+      "LastName": "Nagyné Beláz"
     },
     {
       "EmaNumber": "06990031",
-      "FirstName": "ESZTER",
-      "LastName": "HUSZAR"
+      "FirstName": "Eszter",
+      "LastName": "Huszar"
     },
     {
       "EmaNumber": "06990033",
-      "FirstName": "VIKTORIA",
-      "LastName": "CSEH"
+      "FirstName": "Viktoria",
+      "LastName": "Cseh"
     },
     {
       "EmaNumber": "06990034",
-      "FirstName": "ZSUZSANNA",
-      "LastName": "HUSZAR"
+      "FirstName": "Zsuzsanna",
+      "LastName": "Huszar"
     },
     {
       "EmaNumber": "06990035",
-      "FirstName": "TAMAS",
-      "LastName": "ERDOS",
+      "FirstName": "Tamas",
+      "LastName": "Erdos",
       "Events": [
         {
           "Type": "RefereeRCR",
@@ -116,48 +118,48 @@
     },
     {
       "EmaNumber": "06990036",
-      "FirstName": "AMBROZY",
-      "LastName": "TAMAS"
+      "FirstName": "Ambrozy",
+      "LastName": "Tamas"
     },
     {
       "EmaNumber": "06990037",
-      "FirstName": "OLGA",
-      "LastName": "BALOG"
+      "FirstName": "Olga",
+      "LastName": "Balog"
     },
     {
       "EmaNumber": "06990038",
-      "FirstName": "ERIKA",
-      "LastName": "TOVOLGYI"
+      "FirstName": "Erika",
+      "LastName": "Tovolgyi"
     },
     {
       "EmaNumber": "06990039",
-      "FirstName": "ZSUZSANNA",
-      "LastName": "SZEKELY"
+      "FirstName": "Zsuzsanna",
+      "LastName": "Szekely"
     },
     {
       "EmaNumber": "06990040",
-      "FirstName": "EVA",
-      "LastName": "TAMASKOVICS"
+      "FirstName": "Eva",
+      "LastName": "Tamaskovics"
     },
     {
       "EmaNumber": "06990041",
-      "FirstName": "ESZTER",
-      "LastName": "LESKÓ"
+      "FirstName": "Eszter",
+      "LastName": "Leskó"
     },
     {
       "EmaNumber": "06990042",
-      "FirstName": "HENRICK ANDRAS",
-      "LastName": "ZSOHAR"
+      "FirstName": "Henrick Andras",
+      "LastName": "Zsohar"
     },
     {
       "EmaNumber": "06990043",
-      "FirstName": "PLETLI",
-      "LastName": "BALAZS"
+      "FirstName": "Pletli",
+      "LastName": "Balazs"
     },
     {
       "EmaNumber": "06990044",
-      "FirstName": "CSABA",
-      "LastName": "SZOKE",
+      "FirstName": "Csaba",
+      "LastName": "Szoke",
       "Events": [
         {
           "Type": "RefereeMCR",
@@ -168,43 +170,43 @@
     },
     {
       "EmaNumber": "06990045",
-      "FirstName": "BALOG",
-      "LastName": "OLGA SOPHIE"
+      "FirstName": "Balog",
+      "LastName": "Olga Sophie"
     },
     {
       "EmaNumber": "06990046",
-      "FirstName": "GELLÉRT",
-      "LastName": "RÁCZKÖVI"
+      "FirstName": "Gellért",
+      "LastName": "Ráczkövi"
     },
     {
       "EmaNumber": "06990048",
-      "FirstName": "BLANKA",
-      "LastName": "SZENTKATOLNAI"
+      "FirstName": "Blanka",
+      "LastName": "Szentkatolnai"
     },
     {
       "EmaNumber": "06990049",
-      "FirstName": "PETER",
-      "LastName": "RACZ BENCE"
+      "FirstName": "Peter",
+      "LastName": "Racz Bence"
     },
     {
       "EmaNumber": "06990050",
-      "FirstName": "BETTI",
-      "LastName": "SARKOZI"
+      "FirstName": "Betti",
+      "LastName": "Sarkozi"
     },
     {
       "EmaNumber": "06990051",
-      "FirstName": "GABOR",
-      "LastName": "NAGY"
+      "FirstName": "Gabor",
+      "LastName": "Nagy"
     },
     {
       "EmaNumber": "06990052",
-      "FirstName": "ANNA",
-      "LastName": "RACZ"
+      "FirstName": "Anna",
+      "LastName": "Racz"
     },
     {
       "EmaNumber": "06990053",
-      "FirstName": "IVANYI",
-      "LastName": "SZABOLCS"
+      "FirstName": "Ivanyi",
+      "LastName": "Szabolcs"
     }
   ]
 }

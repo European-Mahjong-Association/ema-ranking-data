@@ -7,6 +7,11 @@
   "Date": "2016-07-09",
   "ToDate": "2016-07-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000016"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Joël",
@@ -21,7 +26,7 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "YING TIAN",
+        "FirstName": "Ying Tian",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -41,7 +46,7 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "LIHUA CAO",
+        "FirstName": "Lihua Cao",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -53,8 +58,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "ALEKSEI",
-        "LastName": "SHPILMAN",
+        "FirstName": "Aleksei",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -73,8 +78,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -85,8 +90,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "ALESSIA",
-        "LastName": "COSMO",
+        "FirstName": "Alessia",
+        "LastName": "Cosmo",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -113,7 +118,7 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "GUIYING WANG",
+        "FirstName": "Guiying Wang",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -125,8 +130,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -145,7 +150,7 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "XIAOYUN MA",
+        "FirstName": "Xiaoyun Ma",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -181,8 +186,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "DORIS",
-        "LastName": "SALLMUTTER",
+        "FirstName": "Doris",
+        "LastName": "Sallmutter",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -233,7 +238,7 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "ZHEYONG QIN",
+        "FirstName": "Zheyong Qin",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -277,7 +282,7 @@
     {
       "Placement": 28,
       "Player": {
-        "FirstName": "GUIFANG XU",
+        "FirstName": "Guifang Xu",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -361,8 +366,8 @@
     {
       "Placement": 38,
       "Player": {
-        "FirstName": "PÁL",
-        "LastName": "HALÁSZ",
+        "FirstName": "Pál",
+        "LastName": "Halász",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -373,8 +378,8 @@
     {
       "Placement": 39,
       "Player": {
-        "FirstName": "ZOLTÁN",
-        "LastName": "JÁGER",
+        "FirstName": "Zoltán",
+        "LastName": "Jáger",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -385,8 +390,8 @@
     {
       "Placement": 40,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "TRINKL",
+        "FirstName": "Matthias",
+        "LastName": "Trinkl",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -405,8 +410,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "HEINZ",
-        "LastName": "KANDORFER",
+        "FirstName": "Heinz",
+        "LastName": "Kandorfer",
         "RepresentingNationality": "at"
       },
       "Result": {
@@ -473,8 +478,8 @@
     {
       "Placement": 50,
       "Player": {
-        "FirstName": "MÁRTA RÓZSA",
-        "LastName": "BERI",
+        "FirstName": "Márta Rózsa",
+        "LastName": "Beri",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -509,7 +514,7 @@
     {
       "Placement": 54,
       "Player": {
-        "FirstName": "LIANRONG WANG",
+        "FirstName": "Lianrong Wang",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -529,7 +534,7 @@
     {
       "Placement": 56,
       "Player": {
-        "FirstName": "FANG YANG",
+        "FirstName": "Fang Yang",
         "LastName": null,
         "RepresentingNationality": "cn"
       },
@@ -549,8 +554,8 @@
     {
       "Placement": 58,
       "Player": {
-        "FirstName": "KÁROLY",
-        "LastName": "SPRECHER",
+        "FirstName": "Károly",
+        "LastName": "Sprecher",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -561,8 +566,8 @@
     {
       "Placement": 59,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "ELEK",
+        "FirstName": "David",
+        "LastName": "Elek",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -573,8 +578,8 @@
     {
       "Placement": 60,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {

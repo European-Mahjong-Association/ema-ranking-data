@@ -7,6 +7,15 @@
   "Date": "2017-10-14",
   "ToDate": "2017-10-15",
   "DateDescription": null,
+  "Referee": [
+    {
+      "FirstName": "Aleksei",
+      "LastName": "Shpilman"
+    },
+    {
+      "Ema": "07000114"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Paola",
@@ -21,8 +30,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "ALEKSEI",
-        "LastName": "SHPILMAN",
+        "FirstName": "Aleksei",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": 191000
@@ -40,8 +49,8 @@
     {
       "Placement": 4,
       "Player": {
-        "FirstName": "IVAN",
-        "LastName": "COLI",
+        "FirstName": "Ivan",
+        "LastName": "Coli",
         "RepresentingNationality": "it"
       },
       "Result": 63300
@@ -74,8 +83,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MASSIMO",
-        "LastName": "CRIVARO",
+        "FirstName": "Massimo",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": 34900
@@ -93,8 +102,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "RYO",
-        "LastName": "FUKAURA",
+        "FirstName": "Ryo",
+        "LastName": "Fukaura",
         "RepresentingNationality": "gb"
       },
       "Result": 14200
@@ -127,8 +136,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": -14900
@@ -166,8 +175,8 @@
     {
       "Placement": 26,
       "Player": {
-        "FirstName": "LUCA",
-        "LastName": "CRIVARO",
+        "FirstName": "Luca",
+        "LastName": "Crivaro",
         "RepresentingNationality": "it"
       },
       "Result": -67700
@@ -190,8 +199,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "FILIPPO",
-        "LastName": "MENICUCCI",
+        "FirstName": "Filippo",
+        "LastName": "Menicucci",
         "RepresentingNationality": "it"
       },
       "Result": -101800

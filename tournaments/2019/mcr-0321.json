@@ -7,6 +7,18 @@
   "Date": "2019-03-23",
   "ToDate": "2019-03-24",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04090080"
+    },
+    {
+      "Ema": "08010039"
+    },
+    {
+      "FirstName": "Aleksei",
+      "LastName": "Shpilman"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Anna",
@@ -29,8 +41,8 @@
     {
       "Placement": 2,
       "Player": {
-        "FirstName": "ELENA",
-        "LastName": "USHAKOVA",
+        "FirstName": "Elena",
+        "LastName": "Ushakova",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -41,8 +53,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "ALEKSEI",
-        "LastName": "SHPILMAN",
+        "FirstName": "Aleksei",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -413,8 +425,8 @@
     {
       "Placement": 49,
       "Player": {
-        "FirstName": "VLADIMIR",
-        "LastName": "STEPANOV",
+        "FirstName": "Vladimir",
+        "LastName": "Stepanov",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -449,8 +461,8 @@
     {
       "Placement": 53,
       "Player": {
-        "FirstName": "MARCO",
-        "LastName": "CIVAROLI",
+        "FirstName": "Marco",
+        "LastName": "Civaroli",
         "RepresentingNationality": "it"
       },
       "Result": {
@@ -509,8 +521,8 @@
     {
       "Placement": 60,
       "Player": {
-        "FirstName": "ANNA",
-        "LastName": "SHPILMAN",
+        "FirstName": "Anna",
+        "LastName": "Shpilman",
         "RepresentingNationality": "ru"
       },
       "Result": {
@@ -585,8 +597,8 @@
     {
       "Placement": 69,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -629,8 +641,8 @@
     {
       "Placement": 74,
       "Player": {
-        "FirstName": "BRIGITTE",
-        "LastName": "WACHSMUTH",
+        "FirstName": "Brigitte",
+        "LastName": "Wachsmuth",
         "RepresentingNationality": "ch"
       },
       "Result": {
@@ -649,8 +661,8 @@
     {
       "Placement": 76,
       "Player": {
-        "FirstName": "LAURA",
-        "LastName": "MAMONE",
+        "FirstName": "Laura",
+        "LastName": "Mamone",
         "RepresentingNationality": "it"
       },
       "Result": {

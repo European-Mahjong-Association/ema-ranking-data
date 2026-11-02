@@ -7,6 +7,11 @@
   "Date": "2023-12-03",
   "ToDate": "2023-12-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04030051"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Christine",
@@ -381,8 +386,8 @@
     {
       "Placement": 46,
       "Player": {
-        "FirstName": "LINA",
-        "LastName": "PRUGNIERES",
+        "FirstName": "Lina",
+        "LastName": "Prugnieres",
         "RepresentingNationality": "fr"
       },
       "Result": {

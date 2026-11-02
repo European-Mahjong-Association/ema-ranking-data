@@ -7,6 +7,11 @@
   "Date": "2019-04-19",
   "ToDate": "2019-04-21",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04040057"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Cédric",
@@ -56,8 +61,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "LUC",
-        "LastName": "HUMBERT",
+        "FirstName": "Luc",
+        "LastName": "Humbert",
         "RepresentingNationality": "ch"
       },
       "Result": -6000
@@ -85,8 +90,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "SHU-WEN",
-        "LastName": "KUO",
+        "FirstName": "Shu-Wen",
+        "LastName": "Kuo",
         "RepresentingNationality": "es"
       },
       "Result": -88300

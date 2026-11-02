@@ -141,8 +141,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "DAVID",
-        "LastName": "BOGDANOV",
+        "FirstName": "David",
+        "LastName": "Bogdanov",
         "RepresentingNationality": "dk"
       },
       "Result": 2700
@@ -225,8 +225,8 @@
     {
       "Placement": 41,
       "Player": {
-        "FirstName": "CLAIRE",
-        "LastName": "BEAUGRAND",
+        "FirstName": "Claire",
+        "LastName": "Beaugrand",
         "RepresentingNationality": "fr"
       },
       "Result": -29000
@@ -299,8 +299,8 @@
     {
       "Placement": 55,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": -150000

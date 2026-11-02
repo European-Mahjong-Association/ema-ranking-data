@@ -7,6 +7,14 @@
   "Date": "2015-05-09",
   "ToDate": "2015-05-10",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000016"
+    },
+    {
+      "Ema": "01000009"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Norbert",
@@ -37,8 +45,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "PÁL",
-        "LastName": "HALÁSZ",
+        "FirstName": "Pál",
+        "LastName": "Halász",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -65,8 +73,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "FERENC",
-        "LastName": "FRÜHVALD",
+        "FirstName": "Ferenc",
+        "LastName": "Frühvald",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -109,8 +117,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "PLAYER",
-        "LastName": "SUBSTITUT",
+        "FirstName": "Player",
+        "LastName": "Substitut",
         "RepresentingNationality": "vide"
       },
       "Result": {
@@ -121,8 +129,8 @@
     {
       "Placement": 12,
       "Player": {
-        "FirstName": "ZSOLT",
-        "LastName": "NYULASI",
+        "FirstName": "Zsolt",
+        "LastName": "Nyulasi",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -149,8 +157,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "ZOLTÁN",
-        "LastName": "JÁGER",
+        "FirstName": "Zoltán",
+        "LastName": "Jáger",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -161,8 +169,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "JÁNOSNÉ",
-        "LastName": "MÁTRAI",
+        "FirstName": "Jánosné",
+        "LastName": "Mátrai",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -173,8 +181,8 @@
     {
       "Placement": 17,
       "Player": {
-        "FirstName": "KLÁRA",
-        "LastName": "TAKÁCSNÉ LOWINGER",
+        "FirstName": "Klára",
+        "LastName": "Takácsné Lowinger",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -193,8 +201,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "MÁRTA RÓZSA",
-        "LastName": "BERI",
+        "FirstName": "Márta Rózsa",
+        "LastName": "Beri",
         "RepresentingNationality": "hu"
       },
       "Result": {
@@ -205,8 +213,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "KÁROLY",
-        "LastName": "SPRECHER",
+        "FirstName": "Károly",
+        "LastName": "Sprecher",
         "RepresentingNationality": "hu"
       },
       "Result": {

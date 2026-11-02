@@ -7,6 +7,14 @@
   "Date": "2016-11-19",
   "ToDate": "2016-11-20",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "19000011"
+    },
+    {
+      "Ema": "19000001"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Ian",
@@ -21,8 +29,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "OLIWIA",
-        "LastName": "WOLSKA",
+        "FirstName": "Oliwia",
+        "LastName": "Wolska",
         "RepresentingNationality": "pl"
       },
       "Result": 124800
@@ -55,8 +63,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "TONY",
-        "LastName": "HALEY",
+        "FirstName": "Tony",
+        "LastName": "Haley",
         "RepresentingNationality": "gb"
       },
       "Result": 65200
@@ -64,8 +72,8 @@
     {
       "Placement": 8,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "MĄDRECKI",
+        "FirstName": "Piotr",
+        "LastName": "Mądrecki",
         "RepresentingNationality": "pl"
       },
       "Result": 39700
@@ -83,8 +91,8 @@
     {
       "Placement": 11,
       "Player": {
-        "FirstName": "MAŁGORZATA",
-        "LastName": "RUTKOWSKA",
+        "FirstName": "Małgorzata",
+        "LastName": "Rutkowska",
         "RepresentingNationality": "pl"
       },
       "Result": 45900
@@ -97,8 +105,8 @@
     {
       "Placement": 13,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "POWAŁOWSKI",
+        "FirstName": "Piotr",
+        "LastName": "Powałowski",
         "RepresentingNationality": "pl"
       },
       "Result": 40300
@@ -106,8 +114,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "KRZYSZTOF",
-        "LastName": "SASINOWSKI",
+        "FirstName": "Krzysztof",
+        "LastName": "Sasinowski",
         "RepresentingNationality": "pl"
       },
       "Result": 38400
@@ -115,8 +123,8 @@
     {
       "Placement": 15,
       "Player": {
-        "FirstName": "MAREK",
-        "LastName": "WAKULUK",
+        "FirstName": "Marek",
+        "LastName": "Wakuluk",
         "RepresentingNationality": "pl"
       },
       "Result": 28800
@@ -124,8 +132,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "PIOTR",
-        "LastName": "OBRĘBSKI",
+        "FirstName": "Piotr",
+        "LastName": "Obrębski",
         "RepresentingNationality": "pl"
       },
       "Result": 13600
@@ -138,8 +146,8 @@
     {
       "Placement": 18,
       "Player": {
-        "FirstName": "NATALIA",
-        "LastName": "BUŁA",
+        "FirstName": "Natalia",
+        "LastName": "Buła",
         "RepresentingNationality": "pl"
       },
       "Result": 24800
@@ -147,8 +155,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ROGER",
-        "LastName": "WASZKIEWICZ",
+        "FirstName": "Roger",
+        "LastName": "Waszkiewicz",
         "RepresentingNationality": "pl"
       },
       "Result": -300
@@ -181,8 +189,8 @@
     {
       "Placement": 25,
       "Player": {
-        "FirstName": "MICHAEL",
-        "LastName": "DONAGHY",
+        "FirstName": "Michael",
+        "LastName": "Donaghy",
         "RepresentingNationality": "gb"
       },
       "Result": -50000
@@ -210,8 +218,8 @@
     {
       "Placement": 30,
       "Player": {
-        "FirstName": "DMYTRO",
-        "LastName": "LIENKO",
+        "FirstName": "Dmytro",
+        "LastName": "Lienko",
         "RepresentingNationality": "pl"
       },
       "Result": -93700
@@ -229,8 +237,8 @@
     {
       "Placement": 33,
       "Player": {
-        "FirstName": "MARTYNA",
-        "LastName": "OBRĘBSKA",
+        "FirstName": "Martyna",
+        "LastName": "Obrębska",
         "RepresentingNationality": "pl"
       },
       "Result": -88000
@@ -238,8 +246,8 @@
     {
       "Placement": 34,
       "Player": {
-        "FirstName": "MARCIN",
-        "LastName": "KUBACKI",
+        "FirstName": "Marcin",
+        "LastName": "Kubacki",
         "RepresentingNationality": "pl"
       },
       "Result": -108400
@@ -247,8 +255,8 @@
     {
       "Placement": 35,
       "Player": {
-        "FirstName": "ŁUKASZ",
-        "LastName": "CICHOŃ",
+        "FirstName": "Łukasz",
+        "LastName": "Cichoń",
         "RepresentingNationality": "pl"
       },
       "Result": -111100
@@ -256,8 +264,8 @@
     {
       "Placement": 36,
       "Player": {
-        "FirstName": "ŁUKASZ",
-        "LastName": "DĄBROWSKI",
+        "FirstName": "Łukasz",
+        "LastName": "Dąbrowski",
         "RepresentingNationality": "pl"
       },
       "Result": -138200

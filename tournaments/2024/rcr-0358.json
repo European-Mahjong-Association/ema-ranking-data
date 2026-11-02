@@ -7,10 +7,21 @@
   "Date": "2024-11-16",
   "ToDate": "2024-11-17",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "01000125"
+    },
+    {
+      "Ema": "01000127"
+    },
+    {
+      "Ema": "01000053"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Robert",
-      "LastName": "MUNDEL"
+      "LastName": "Mundel"
     }
   ],
   "NrDays": 2,
@@ -111,8 +122,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "ZIGA",
-        "LastName": "ZIBELNIK",
+        "FirstName": "Ziga",
+        "LastName": "Zibelnik",
         "RepresentingNationality": "si"
       },
       "Result": -162700

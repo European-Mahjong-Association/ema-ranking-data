@@ -7,6 +7,14 @@
   "Date": "2020-01-18",
   "ToDate": "2020-01-18",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "08010166"
+    },
+    {
+      "Ema": "08010173"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Sabine",
@@ -86,8 +94,8 @@
     {
       "Placement": 14,
       "Player": {
-        "FirstName": "YUHAO",
-        "LastName": "ZHOU",
+        "FirstName": "Yuhao",
+        "LastName": "Zhou",
         "RepresentingNationality": "be"
       },
       "Result": 34200
@@ -115,8 +123,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "NICO",
-        "LastName": "COEVOETS",
+        "FirstName": "Nico",
+        "LastName": "Coevoets",
         "RepresentingNationality": "nl"
       },
       "Result": 18700
@@ -139,8 +147,8 @@
     {
       "Placement": 23,
       "Player": {
-        "FirstName": "ANGELIQUE",
-        "LastName": "DELFSMA",
+        "FirstName": "Angelique",
+        "LastName": "Delfsma",
         "RepresentingNationality": "nl"
       },
       "Result": 8900
@@ -148,8 +156,8 @@
     {
       "Placement": 24,
       "Player": {
-        "FirstName": "NAM",
-        "LastName": "TO THANH",
+        "FirstName": "Nam",
+        "LastName": "To Thanh",
         "RepresentingNationality": "be"
       },
       "Result": 7300
@@ -242,8 +250,8 @@
     {
       "Placement": 42,
       "Player": {
-        "FirstName": "HARRY",
-        "LastName": "KAL",
+        "FirstName": "Harry",
+        "LastName": "Kal",
         "RepresentingNationality": "nl"
       },
       "Result": -40200
@@ -251,8 +259,8 @@
     {
       "Placement": 43,
       "Player": {
-        "FirstName": "ALFREDO",
-        "LastName": "PANIURA FLORES",
+        "FirstName": "Alfredo",
+        "LastName": "Paniura Flores",
         "RepresentingNationality": "be"
       },
       "Result": -42300
@@ -280,8 +288,8 @@
     {
       "Placement": 48,
       "Player": {
-        "FirstName": "MAXIME",
-        "LastName": "CHICOIS",
+        "FirstName": "Maxime",
+        "LastName": "Chicois",
         "RepresentingNationality": "be"
       },
       "Result": -68500

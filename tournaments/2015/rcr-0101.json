@@ -7,6 +7,11 @@
   "Date": "2015-05-02",
   "ToDate": "2015-05-03",
   "DateDescription": null,
+  "Referee": [
+    {
+      "Ema": "04280050"
+    }
+  ],
   "Observer": [
     {
       "FirstName": "Daina",
@@ -21,8 +26,8 @@
     {
       "Placement": 1,
       "Player": {
-        "FirstName": "FELIX",
-        "LastName": "RATH",
+        "FirstName": "Felix",
+        "LastName": "Rath",
         "RepresentingNationality": "de"
       },
       "Result": 320900
@@ -35,8 +40,8 @@
     {
       "Placement": 3,
       "Player": {
-        "FirstName": "DAINA",
-        "LastName": "CHIBA",
+        "FirstName": "Daina",
+        "LastName": "Chiba",
         "RepresentingNationality": "gb"
       },
       "Result": 163400
@@ -49,8 +54,8 @@
     {
       "Placement": 5,
       "Player": {
-        "FirstName": "STEFANIE",
-        "LastName": "KAMMER",
+        "FirstName": "Stefanie",
+        "LastName": "Kammer",
         "RepresentingNationality": "de"
       },
       "Result": 59700
@@ -58,8 +63,8 @@
     {
       "Placement": 6,
       "Player": {
-        "FirstName": "MARIAN",
-        "LastName": "PEERDEMAN",
+        "FirstName": "Marian",
+        "LastName": "Peerdeman",
         "RepresentingNationality": "nl"
       },
       "Result": 38700
@@ -67,8 +72,8 @@
     {
       "Placement": 7,
       "Player": {
-        "FirstName": "MATTHIAS",
-        "LastName": "KÖHLER",
+        "FirstName": "Matthias",
+        "LastName": "Köhler",
         "RepresentingNationality": "de"
       },
       "Result": 18100
@@ -86,8 +91,8 @@
     {
       "Placement": 10,
       "Player": {
-        "FirstName": "MAXIM",
-        "LastName": "JOURENKO",
+        "FirstName": "Maxim",
+        "LastName": "Jourenko",
         "RepresentingNationality": "de"
       },
       "Result": -15300
@@ -120,8 +125,8 @@
     {
       "Placement": 16,
       "Player": {
-        "FirstName": "REBECCA",
-        "LastName": "WAGNER",
+        "FirstName": "Rebecca",
+        "LastName": "Wagner",
         "RepresentingNationality": "de"
       },
       "Result": -101500
@@ -139,8 +144,8 @@
     {
       "Placement": 19,
       "Player": {
-        "FirstName": "PASCAL",
-        "LastName": "DANIEL",
+        "FirstName": "Pascal",
+        "LastName": "Daniel",
         "RepresentingNationality": "de"
       },
       "Result": -168500
@@ -148,8 +153,8 @@
     {
       "Placement": 20,
       "Player": {
-        "FirstName": "WALDEMAR",
-        "LastName": "LAUBE",
+        "FirstName": "Waldemar",
+        "LastName": "Laube",
         "RepresentingNationality": "de"
       },
       "Result": -183400

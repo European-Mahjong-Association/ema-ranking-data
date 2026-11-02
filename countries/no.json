@@ -1,21 +1,22 @@
 {
   "CountryCode": "no",
   "Country": "Norway",
+  "Organisation": "Riichi Organization Norway",
   "Players": [
     {
       "EmaNumber": "23000005",
-      "FirstName": "KONSTANTIN",
-      "LastName": "PAKSHAEV"
+      "FirstName": "Konstantin",
+      "LastName": "Pakshaev"
     },
     {
       "EmaNumber": "23000006",
-      "FirstName": "JO MAGNUS",
-      "LastName": "FROSTAD"
+      "FirstName": "Jo Magnus",
+      "LastName": "Frostad"
     },
     {
       "EmaNumber": "23000020",
-      "FirstName": "TOM KRISTIAN",
-      "LastName": "MOEN"
+      "FirstName": "Tom Kristian",
+      "LastName": "Moen"
     }
   ]
 }
